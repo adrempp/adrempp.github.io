@@ -1,2 +1,50 @@
-data/today.json
-{ "events": [] }
+{
+  "date": "2026-01-10",
+  "items": [
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "On this day in 1935, Amelia Earhart, one of the world's most celebrated aviators, made the first successful solo flight from Hawaii to California, a distance of about 2,400 miles (3,860 km)"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Ariel Sharon, a former general and prime minister of Israel, died at the age of 85. Sharon had been in a coma for 8 years after suffering a stroke in 2006."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "New Zealand mountain climber and explorer Sir Edmund Hillary—who, with the Tibetan mountaineer Tenzing Norgay, was the first to summit Mount Everest—died at age 88. How much do you know about Mount Everest? Super Stock/Alamy"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "The U.S. Federal Communications Commission approved the merger of America Online and Time Warner, and AOL Time Warner (later shortened to Time Warner) stock began trading the next morning. The joint company suffered large financial losses, and the two entities split in 2009"
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "U.S. Surgeon General Luther L. Terry announced that cigarette smoking is linked to lung cancer"
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "Japanese politician Suzuki Zenkō, who served as prime minister (1980–82), was born in Yamada, Iwate prefecture, Japan"
+    },
+    {
+      "type": "Event",
+      "year": "1878",
+      "text": "Milk was delivered for the first time in glass bottles in New York City"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "Alabama seceded from the Union, the fourth state to do so in the run-up to the American Civil War"
+    },
+    {
+      "type": "Event",
+      "year": "1755/57",
+      "text": "Alexander Hamilton, the first secretary of the U.S. Treasury, was born in the British West Indies"
+    }
+  ]
+}
