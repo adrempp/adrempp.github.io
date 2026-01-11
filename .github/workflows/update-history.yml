@@ -1,0 +1,102 @@
+name: Update This Day in History (Pacific Midnight)
+
+on:
+  schedule:
+    - cron: "1 7 * * *"   # 12:01am PDT
+    - cron: "1 8 * * *"   # 12:01am PST
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Ensure folders
+        run: mkdir -p data
+
+      - name: Guard - only update once per Pacific day
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          tz = ZoneInfo("America/Los_Angeles")
+          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+
+          meta_path = "data/meta.json"
+          last = None
+          if os.path.exists(meta_path):
+            try:
+              last = json.load(open(meta_path, "r", encoding="utf-8")).get("date")
+            except Exception:
+              last = None
+
+          if last == today_pt:
+            print(f"Already updated for {today_pt}")
+            raise SystemExit(0)
+          PY
+
+      - name: Fetch DayInHistory data
+        run: |
+          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/events_raw.json
+          curl -sL "https://api.dayinhistory.dev/v1/today/births/" > data/births_raw.json
+          curl -sL "https://api.dayinhistory.dev/v1/today/deaths/" > data/deaths_raw.json
+
+      - name: Normalize data
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          def load(p):
+            try:
+              return json.load(open(p, "r", encoding="utf-8"))
+            except Exception:
+              return {}
+
+          def extract(raw, t):
+            out = []
+            for r in raw.get("results", [])[:20]:
+              y = str(r.get("year", "")).strip()
+              txt = (r.get("description") or r.get("title") or "").strip()
+              if y and txt:
+                out.append({"type": t, "year": y, "text": txt})
+            return out
+
+          items = []
+          items += extract(load("data/events_raw.json"), "Event")
+          items += extract(load("data/births_raw.json"), "Birth")
+          items += extract(load("data/deaths_raw.json"), "Death")
+
+          tz = ZoneInfo("America/Los_Angeles")
+          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+
+          if not items:
+            raise SystemExit("No items extracted")
+
+          json.dump(
+            {"date": today_pt, "items": items},
+            open("data/today.json", "w", encoding="utf-8"),
+            ensure_ascii=False,
+            indent=2
+          )
+
+          json.dump(
+            {"date": today_pt},
+            open("data/meta.json", "w", encoding="utf-8"),
+            ensure_ascii=False,
+            indent=2
+          )
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/today.json data/meta.json
+          git commit -m "Daily update (Pacific): This Day in History" || exit 0
+          git push
