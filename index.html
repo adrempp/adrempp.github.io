@@ -104,70 +104,77 @@
   </div>
 
   <script>
-    // IMPORTANT: Free tier is rate-limited (10 requests/hour). So we fetch ONCE and rotate locally.
-    // Endpoint format is paginated: { count, next, previous, results:[ {year,title,description,...} ] }
-    // Docs: /v1/today/events/?page=0  :contentReference[oaicite:1]{index=1}
-
-    const API_URL = "https://api.dayinhistory.dev/v1/today/events/?page=0";
-
-    const dateText = document.getElementById("dateText");
-    const yearEl = document.getElementById("year");
-    const descEl = document.getElementById("desc");
-    const counterEl = document.getElementById("counter");
-
-    // Show local date nicely
-    const now = new Date();
-    dateText.textContent = now.toLocaleDateString(undefined, { weekday: "long", year: "numeric", month: "long", day: "numeric" });
-
-    let events = [];
-    let idx = 0;
-
-    function cleanText(s) {
-      return (s || "").replace(/\s+/g, " ").trim();
+  /*
+    FIXED VERSION
+    DayInHistory.dev returns:
+    {
+      "date": "January 10",
+      "events": [
+        { "year": "49 BC", "text": "Julius Caesar crosses the Rubicon." },
+        ...
+      ]
     }
+  */
 
-    function render(i) {
-      if (!events.length) return;
-      const e = events[i];
-      yearEl.textContent = cleanText(e.year) || "—";
-      const text = cleanText(e.title) ? `${cleanText(e.title)} — ${cleanText(e.description)}` : cleanText(e.description);
-      descEl.textContent = text || "—";
-      counterEl.textContent = `Event ${i + 1} of ${events.length}`;
-    }
+  const API_URL = "https://api.dayinhistory.dev/v1/today/";
 
-    async function load() {
-      try {
-        const res = await fetch(API_URL, { cache: "no-store" });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
+  const dateText = document.getElementById("dateText");
+  const yearEl = document.getElementById("year");
+  const descEl = document.getElementById("desc");
+  const counterEl = document.getElementById("counter");
 
-        // Data is paginated; we use the first page results for signage readability.
-        events = (data.results || []).filter(x => x && (x.description || x.title || x.year));
+  const now = new Date();
+  dateText.textContent = now.toLocaleDateString(undefined, {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric"
+  });
 
-        // If you want more variety, you *can* fetch additional pages, but be mindful of rate limits.
-        // (Keeping it simple and safe for free tier.)
+  let events = [];
+  let idx = 0;
 
-        if (!events.length) throw new Error("No events returned");
+  function render() {
+    if (!events.length) return;
+    const e = events[idx];
+    yearEl.textContent = e.year || "—";
+    descEl.textContent = e.text || "—";
+    counterEl.textContent = `Event ${idx + 1} of ${events.length}`;
+  }
 
-        // Start with a random event each load to keep it fresh
-        idx = Math.floor(Math.random() * events.length);
-        render(idx);
+  async function load() {
+    try {
+      const res = await fetch(API_URL);
+      if (!res.ok) throw new Error("API error");
 
-        // Rotate every 10 seconds (no additional API calls)
-        setInterval(() => {
-          idx = (idx + 1) % events.length;
-          render(idx);
-        }, 10000);
+      const data = await res.json();
 
-      } catch (err) {
-        yearEl.textContent = "Oops";
-        descEl.innerHTML = `<span class="error">Couldn’t load today’s events.</span> Check that scripts are allowed in USeeIt and the API is reachable.`;
-        counterEl.textContent = "Event 0 of 0";
-        console.error(err);
+      if (!data.events || !data.events.length) {
+        throw new Error("No events returned");
       }
-    }
 
-    load();
-  </script>
+      events = data.events.slice(0, 10); // keep signage readable
+      idx = Math.floor(Math.random() * events.length);
+
+      render();
+
+      // Rotate every 10 seconds (NO extra API calls)
+      setInterval(() => {
+        idx = (idx + 1) % events.length;
+        render();
+      }, 10000);
+
+    } catch (err) {
+      yearEl.textContent = "Oops";
+      descEl.textContent =
+        "Couldn’t load today’s events. Check that scripts are allowed and the API is reachable.";
+      counterEl.textContent = "Event 0 of 0";
+      console.error(err);
+    }
+  }
+
+  load();
+</script>
+
 </body>
 </html>
