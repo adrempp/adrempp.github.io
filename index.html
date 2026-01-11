@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>This Day in History</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0b1c2d;
+      color: #ffffff;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+    .event {
+      font-size: 28px;
+      margin-bottom: 18px;
+    }
+    .year {
+      font-weight: bold;
+      color: #f9c74f;
+    }
+  </style>
+</head>
+<body>
+  <h1>📅 This Day in History</h1>
+  <div id="events"></div>
+
+  <script>
+    fetch('https://api.dayinhistory.dev/v1/today/events/')
+      .then(res => res.json())
+      .then(data => {
+        const events = data.events.slice(0, 5);
+        const container = document.getElementById('events');
+        events.forEach(e => {
+          const div = document.createElement('div');
+          div.className = 'event';
+          div.innerHTML = `<span class="year">${e.year}</span> — ${e.text}`;
+          container.appendChild(div);
+        });
+      });
+  </script>
+</body>
+</html>
