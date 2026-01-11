@@ -121,14 +121,16 @@
   let idx = 0;
 
   function render() {
+    if (!items.length) return;
     const it = items[idx];
-    yearEl.textContent = `${it.year} • ${it.type}`;
-    descEl.textContent = it.text;
+    yearEl.textContent = `${it.year || "—"} • ${it.type || ""}`;
+    descEl.textContent = it.text || "—";
     counterEl.textContent = `Item ${idx + 1} of ${items.length}`;
   }
 
   async function load() {
     try {
+      // absolute path so it always resolves correctly
       const res = await fetch("/data/today.json", { cache: "no-store" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
@@ -137,7 +139,7 @@
       // IMPORTANT: your workflow writes "items"
       items = (data.items || []).slice(0, 30);
 
-      if (!items.length) throw new Error("No items in today.json");
+      if (!items.length) throw new Error("No items found in today.json");
 
       idx = Math.floor(Math.random() * items.length);
       render();
@@ -150,7 +152,7 @@
     } catch (err) {
       yearEl.textContent = "Oops";
       descEl.textContent =
-        "Couldn’t load saved events. Please refresh (Ctrl+F5).";
+        "Couldn’t load saved items. Hard refresh after updating index.html.";
       counterEl.textContent = "Item 0 of 0";
       console.error("LOAD ERROR:", err);
     }
@@ -158,8 +160,6 @@
 
   load();
 </script>
-
-
 
 </body>
 </html>
