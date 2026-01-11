@@ -104,20 +104,6 @@
   </div>
 
   <script>
-  /*
-    FIXED VERSION
-    DayInHistory.dev returns:
-    {
-      "date": "January 10",
-      "events": [
-        { "year": "49 BC", "text": "Julius Caesar crosses the Rubicon." },
-        ...
-      ]
-    }
-  */
-
-  const API_URL = "https://api.dayinhistory.dev/v1/today/";
-
   const dateText = document.getElementById("dateText");
   const yearEl = document.getElementById("year");
   const descEl = document.getElementById("desc");
@@ -144,21 +130,15 @@
 
   async function load() {
     try {
-      const res = await fetch(API_URL);
-      if (!res.ok) throw new Error("API error");
-
+      const res = await fetch("./data/today.json", { cache: "no-store" });
       const data = await res.json();
+      events = (data.events || []).slice(0, 10);
 
-      if (!data.events || !data.events.length) {
-        throw new Error("No events returned");
-      }
+      if (!events.length) throw new Error("No events available yet");
 
-      events = data.events.slice(0, 10); // keep signage readable
       idx = Math.floor(Math.random() * events.length);
-
       render();
 
-      // Rotate every 10 seconds (NO extra API calls)
       setInterval(() => {
         idx = (idx + 1) % events.length;
         render();
@@ -166,8 +146,7 @@
 
     } catch (err) {
       yearEl.textContent = "Oops";
-      descEl.textContent =
-        "Couldn’t load today’s events. Check that scripts are allowed and the API is reachable.";
+      descEl.textContent = "Couldn’t load saved events yet. Try running the GitHub Action once.";
       counterEl.textContent = "Event 0 of 0";
       console.error(err);
     }
@@ -175,6 +154,7 @@
 
   load();
 </script>
+
 
 </body>
 </html>
