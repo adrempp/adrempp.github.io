@@ -117,43 +117,48 @@
     day: "numeric"
   });
 
-  let events = [];
+  let items = [];
   let idx = 0;
 
   function render() {
-    if (!events.length) return;
-    const e = events[idx];
-    yearEl.textContent = e.year || "—";
-    descEl.textContent = e.text || "—";
-    counterEl.textContent = `Event ${idx + 1} of ${events.length}`;
+    const it = items[idx];
+    yearEl.textContent = `${it.year} • ${it.type}`;
+    descEl.textContent = it.text;
+    counterEl.textContent = `Item ${idx + 1} of ${items.length}`;
   }
 
   async function load() {
     try {
-      const res = await fetch("./data/today.json", { cache: "no-store" });
+      const res = await fetch("/data/today.json", { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
       const data = await res.json();
-      events = (data.events || []).slice(0, 10);
 
-      if (!events.length) throw new Error("No events available yet");
+      // IMPORTANT: your workflow writes "items"
+      items = (data.items || []).slice(0, 30);
 
-      idx = Math.floor(Math.random() * events.length);
+      if (!items.length) throw new Error("No items in today.json");
+
+      idx = Math.floor(Math.random() * items.length);
       render();
 
       setInterval(() => {
-        idx = (idx + 1) % events.length;
+        idx = (idx + 1) % items.length;
         render();
       }, 10000);
 
     } catch (err) {
       yearEl.textContent = "Oops";
-      descEl.textContent = "Couldn’t load saved events yet. Try running the GitHub Action once.";
-      counterEl.textContent = "Event 0 of 0";
-      console.error(err);
+      descEl.textContent =
+        "Couldn’t load saved events. Please refresh (Ctrl+F5).";
+      counterEl.textContent = "Item 0 of 0";
+      console.error("LOAD ERROR:", err);
     }
   }
 
   load();
 </script>
+
 
 
 </body>
