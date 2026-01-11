@@ -1,0 +1,48 @@
+name: Update This Day in History
+
+on:
+  schedule:
+    - cron: "5 8 * * *"   # runs daily at 08:05 UTC (adjust if you want)
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch today's events from DayInHistory
+        run: |
+          mkdir -p data
+          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/today_raw.json
+
+      - name: Normalize to a simple format (events[])
+        run: |
+          python - <<'PY'
+          import json, sys
+          raw = json.load(open("data/today_raw.json", "r", encoding="utf-8"))
+
+          # The API may return a paginated shape {count,next,previous,results:[...]}
+          # We'll convert to: { "events": [ { "year": "...", "text": "..." }, ... ] }
+          results = raw.get("results", [])
+          events = []
+          for r in results[:20]:
+            year = str(r.get("year", "")).strip()
+            # prefer description; fall back to title
+            text = (r.get("description") or r.get("title") or "").strip()
+            if year and text:
+              events.append({"year": year, "text": text})
+
+          out = {"events": events}
+          json.dump(out, open("data/today.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+          print(f"Wrote {len(events)} events to data/today.json")
+          PY
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/today.json
+          git commit -m "Daily update: This Day in History" || exit 0
+          git push
