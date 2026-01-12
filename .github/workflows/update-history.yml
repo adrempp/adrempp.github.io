@@ -44,106 +44,45 @@ jobs:
           print(f"Proceeding with update for {today_pt}")
           PY
 
-            - name: Compute Pacific month/day and URLs
+      - name: Fetch DayInHistory data (today endpoints)
+        run: |
+          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/events_raw.json
+          curl -sL "https://api.dayinhistory.dev/v1/today/births/" > data/births_raw.json
+          curl -sL "https://api.dayinhistory.dev/v1/today/deaths/" > data/deaths_raw.json
+
+      - name: Normalize data
         run: |
           python - <<'PY'
-          import os
+          import json
           from datetime import datetime
           from zoneinfo import ZoneInfo
-
-          tz = ZoneInfo("America/Los_Angeles")
-          d = datetime.now(tz)
-
-          # IMPORTANT: lowercase month for API paths
-          month = d.strftime("%B").lower()     # january, february, ...
-          day = str(int(d.strftime("%d")))     # 1..31, no leading zero
-          today_pt = d.strftime("%Y-%m-%d")
-
-          events_url = f"https://api.dayinhistory.dev/v1/events/{month}/{day}/?page=0"
-          births_url = f"https://api.dayinhistory.dev/v1/births/{month}/{day}/?page=0"
-          deaths_url = f"https://api.dayinhistory.dev/v1/deaths/{month}/{day}/?page=0"
-
-          print("Pacific date:", today_pt)
-          print("Month/day:", month, day)
-          print("events:", events_url)
-          print("births:", births_url)
-          print("deaths:", deaths_url)
-
-          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as f:
-            f.write(f"TODAY_PT={today_pt}\n")
-            f.write(f"EVENTS_URL={events_url}\n")
-            f.write(f"BIRTHS_URL={births_url}\n")
-            f.write(f"DEATHS_URL={deaths_url}\n")
-          PY
-
-      - name: Fetch DayInHistory JSON (with retries + status)
-        run: |
-          set -e
-
-          fetch_one () {
-            name="$1"
-            url="$2"
-            out="data/${name}_raw.json"
-
-            echo "Fetching $name: $url"
-            # -f fail on HTTP errors, -S show errors, -L follow redirects
-            # retry helps with transient hiccups
-            http_code=$(curl -fSL --retry 5 --retry-delay 2 --connect-timeout 15 --max-time 45 \
-              -w "%{http_code}" -o "$out" "$url" || true)
-
-            echo "HTTP $http_code -> $out"
-            echo "First 200 chars:"
-            head -c 200 "$out" || true
-            echo ""
-            echo "-----"
-
-            # If curl failed entirely, http_code may be empty.
-            if [ -z "$http_code" ] || [ "$http_code" -lt 200 ] || [ "$http_code" -ge 300 ]; then
-              echo "ERROR: $name fetch failed (HTTP=$http_code)"
-              exit 1
-            fi
-          }
-
-          fetch_one "events" "$EVENTS_URL"
-          fetch_one "births" "$BIRTHS_URL"
-          fetch_one "deaths" "$DEATHS_URL"
-
-      - name: Normalize data (preserve correct type labels)
-        run: |
-          python - <<'PY'
-          import json, os
 
           def load(p):
             try:
               return json.load(open(p, "r", encoding="utf-8"))
-            except Exception as e:
-              raise SystemExit(f"Could not parse JSON in {p}: {e}")
+            except Exception:
+              return {}
 
-          def extract(raw, t):
+          def extract(raw):
             out = []
-            # Expected: {count,next,previous,results:[...]}
-            results = raw.get("results", [])
-            if not isinstance(results, list):
-              return out
-            for r in results[:25]:
+            for r in raw.get("results", [])[:25]:
               y = str(r.get("year", "")).strip()
               txt = (r.get("description") or r.get("title") or "").strip()
               if y and txt:
-                out.append({"type": t, "year": y, "text": txt})
+                out.append({
+                  "type": "Event",
+                  "year": y,
+                  "text": txt
+                })
             return out
 
-          events_raw = load("data/events_raw.json")
-          births_raw = load("data/births_raw.json")
-          deaths_raw = load("data/deaths_raw.json")
-
           items = []
-          items += extract(events_raw, "Event")
-          items += extract(births_raw, "Birth")
-          items += extract(deaths_raw, "Death")
+          items += extract(load("data/events_raw.json"))
+          items += extract(load("data/births_raw.json"))
+          items += extract(load("data/deaths_raw.json"))
 
-          today_pt = os.environ.get("TODAY_PT")
-          if not today_pt:
-            raise SystemExit("TODAY_PT env var missing")
+          tz = ZoneInfo("America/Los_Angeles")
+          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
 
           if not items:
             raise SystemExit("No items extracted")
@@ -161,8 +100,6 @@ jobs:
             ensure_ascii=False,
             indent=2
           )
-
-          print(f"Wrote {len(items)} items for {today_pt}")
           PY
 
       - name: Commit changes
