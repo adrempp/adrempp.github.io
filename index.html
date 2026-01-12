@@ -148,12 +148,10 @@
       background: rgba(255,255,255,0.08);
       border: 1px solid rgba(255,255,255,0.10);
     }
-   
   </style>
 </head>
 
 <body>
- 
   <div class="wrap">
     <div class="brandbar"></div>
 
@@ -182,13 +180,16 @@
     const counterEl  = document.getElementById("counter");
     const typeBadge  = document.getElementById("typeBadge");
 
-    const now = new Date();
-    dateText.textContent = now.toLocaleDateString(undefined, {
-      weekday: "long",
-      year: "numeric",
-      month: "long",
-      day: "numeric"
-    });
+    function setHeaderDate() {
+      const now = new Date();
+      dateText.textContent = now.toLocaleDateString(undefined, {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+      });
+    }
+    setHeaderDate();
 
     let items = [];
     let idx = 0;
@@ -216,6 +217,7 @@
 
     async function load() {
       try {
+        // no-store ensures the browser doesn't keep yesterday's JSON
         const res = await fetch("/data/today.json", { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
@@ -227,6 +229,7 @@
         idx = Math.floor(Math.random() * items.length);
         render();
 
+        // Rotate every 10 seconds
         setInterval(() => {
           idx = (idx + 1) % items.length;
           render();
@@ -241,6 +244,21 @@
     }
 
     load();
+
+    // ✅ Daily auto-reload at 12:02 AM (device local time)
+    (function scheduleMidnightReload(){
+      const now = new Date();
+      const next = new Date(now);
+      next.setHours(0, 2, 0, 0); // 12:02 AM today
+
+      // If already past 12:02 AM, schedule for tomorrow
+      if (now >= next) next.setDate(next.getDate() + 1);
+
+      const ms = next - now;
+      console.log("Scheduled page reload in (ms):", ms);
+
+      setTimeout(() => location.reload(true), ms);
+    })();
   </script>
 </body>
 </html>
