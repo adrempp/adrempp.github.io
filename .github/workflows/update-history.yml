@@ -49,7 +49,8 @@ jobs:
           curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/events_raw.json
           curl -sL "https://api.dayinhistory.dev/v1/today/births/" > data/births_raw.json
           curl -sL "https://api.dayinhistory.dev/v1/today/deaths/" > data/deaths_raw.json
-
+      
+      # New Normalize section
       - name: Normalize data (correct type labels)
         run: |
           python - <<'PY'
@@ -63,19 +64,56 @@ jobs:
             except Exception:
               return {}
 
-          def extract(raw, t):
+          def clean(s):
+            return (s or "").strip()
+
+          def extract_events(raw):
             out = []
             for r in raw.get("results", [])[:25]:
-              y = str(r.get("year", "")).strip()
-              txt = (r.get("description") or r.get("title") or "").strip()
+              y = clean(str(r.get("year", "")))
+              txt = clean(r.get("description") or r.get("title"))
               if y and txt:
-                out.append({"type": t, "year": y, "text": txt})
+                out.append({"type": "Event", "year": y, "text": txt})
             return out
 
+          def extract_births(raw):
+            out = []
+            for r in raw.get("results", [])[:25]:
+              y = clean(str(r.get("birth_year", "")))
+              name = clean(r.get("name"))
+              desc = clean(r.get("description"))
+              bio  = clean(r.get("bio"))
+              # Keep it short for signage: Name — description
+              txt = " — ".join([p for p in [name, desc] if p])
+              if not txt:
+                txt = bio
+              if y and txt:
+                out.append({"type": "Birth", "year": y, "text": txt})
+            return out
+
+          def extract_deaths(raw):
+            out = []
+            for r in raw.get("results", [])[:25]:
+              # Many "death" records still include birth_year; use death_year if present, else fallback
+              y = clean(str(r.get("death_year", "") or r.get("year", "") or r.get("birth_year", "")))
+              name = clean(r.get("name"))
+              desc = clean(r.get("description"))
+              bio  = clean(r.get("bio"))
+              txt = " — ".join([p for p in [name, desc] if p])
+              if not txt:
+                txt = bio
+              if y and txt:
+                out.append({"type": "Death", "year": y, "text": txt})
+            return out
+
+          events = load("data/events_raw.json")
+          births = load("data/births_raw.json")
+          deaths = load("data/deaths_raw.json")
+
           items = []
-          items += extract(load("data/events_raw.json"), "Event")
-          items += extract(load("data/births_raw.json"), "Birth")
-          items += extract(load("data/deaths_raw.json"), "Death")
+          items += extract_events(events)
+          items += extract_births(births)
+          items += extract_deaths(deaths)
 
           tz = ZoneInfo("America/Los_Angeles")
           today_pt = datetime.now(tz).strftime("%Y-%m-%d")
@@ -96,7 +134,56 @@ jobs:
             ensure_ascii=False,
             indent=2
           )
+
+          print(f"Wrote {len(items)} items for {today_pt} (events/births/deaths)")
           PY
+#- name: Normalize data (correct type labels)
+#        run: |
+#          python - <<'PY'
+#          import json
+#          from datetime import datetime
+#          from zoneinfo import ZoneInfo
+#
+#          def load(p):
+#            try:
+#              return json.load(open(p, "r", encoding="utf-8"))
+#            except Exception:
+#              return {}
+#
+#          def extract(raw, t):
+#            out = []
+#            for r in raw.get("results", [])[:25]:
+#              y = str(r.get("year", "")).strip()
+#              txt = (r.get("description") or r.get("title") or "").strip()
+#              if y and txt:
+#                out.append({"type": t, "year": y, "text": txt})
+#            return out
+#
+#          items = []
+#          items += extract(load("data/events_raw.json"), "Event")
+#          items += extract(load("data/births_raw.json"), "Birth")
+#          items += extract(load("data/deaths_raw.json"), "Death")
+#
+#          tz = ZoneInfo("America/Los_Angeles")
+#          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+#
+#          if not items:
+#            raise SystemExit("No items extracted")
+#
+#          json.dump(
+#            {"date": today_pt, "items": items},
+#            open("data/today.json", "w", encoding="utf-8"),
+#            ensure_ascii=False,
+#            indent=2
+#         )
+#
+#          json.dump(
+#            {"date": today_pt},
+#            open("data/meta.json", "w", encoding="utf-8"),
+#            ensure_ascii=False,
+#            indent=2
+#          )
+#          PY
 
       - name: Commit changes
         run: |
