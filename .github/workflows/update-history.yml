@@ -102,6 +102,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/today.json data/meta.json
+          //git add data/today.json data/meta.json
+          git add data/*.json
           git commit -m "Daily update (Pacific): This Day in History" || exit 0
           git push
