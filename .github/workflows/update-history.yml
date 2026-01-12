@@ -112,7 +112,7 @@ jobs:
 
           items = []
           items += extract_events(events)
-          # items += extract_births(births)
+          items += extract_births(births)
           # items += extract_deaths(deaths)
 
           tz = ZoneInfo("America/Los_Angeles")
