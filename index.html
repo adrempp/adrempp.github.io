@@ -218,7 +218,7 @@
     async function load() {
       try {
         // no-store ensures the browser doesn't keep yesterday's JSON
-        const res = await fetch("/data/today.json", { cache: "no-store" });
+        const res = await fetch(`/data/today.json?v=${Date.now()}`, { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
         const data = await res.json();
