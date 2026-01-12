@@ -236,9 +236,15 @@
         }, 15000);
 
       } catch (err) {
-        yearEl.textContent = "Oops";
-        descEl.textContent = "Couldn’t load today’s history.";
-        counterEl.textContent = "Item 0 of 0";
+        //yearEl.textContent = "Oops";
+        //descEl.textContent = "Couldn’t load today’s history.";
+        //counterEl.textContent = "Item 0 of 0";
+        yearEl.textContent = "Today in History";
+        descEl.textContent =
+  "Fresh historical highlights are loading.\nPlease check back shortly.";
+        counterEl.textContent = "";
+        typeBadge.className = "badge event";
+        typeBadge.textContent = "⏳ Updating";
         console.error(err);
       }
     }
