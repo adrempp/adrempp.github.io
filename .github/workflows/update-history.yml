@@ -44,7 +44,7 @@ jobs:
           print(f"Proceeding with update for {today_pt}")
           PY
 
-      - name: Fetch DayInHistory data for Pacific date (events/births/deaths)
+      - name: Compute Pacific month/day and URLs
         run: |
           python - <<'PY'
           import os
@@ -54,67 +54,99 @@ jobs:
           tz = ZoneInfo("America/Los_Angeles")
           d = datetime.now(tz)
 
-          # Month/day for date-specific endpoints
           month = d.strftime("%B").lower()     # january, february, ...
           day = str(int(d.strftime("%d")))     # 1..31, no leading zero
+          today_pt = d.strftime("%Y-%m-%d")
 
-          # Use date-specific endpoints to avoid /today caching and to keep Birth/Death cleanly typed
-          urls = {
-            "events": f"https://api.dayinhistory.dev/v1/events/{month}/{day}/?page=0",
-            "births": f"https://api.dayinhistory.dev/v1/births/{month}/{day}/?page=0",
-            "deaths": f"https://api.dayinhistory.dev/v1/deaths/{month}/{day}/?page=0",
-          }
+          events_url = f"https://api.dayinhistory.dev/v1/events/{month}/{day}/?page=0"
+          births_url = f"https://api.dayinhistory.dev/v1/births/{month}/{day}/?page=0"
+          deaths_url = f"https://api.dayinhistory.dev/v1/deaths/{month}/{day}/?page=0"
 
-          print("Pacific date:", d.strftime("%Y-%m-%d"))
-          print("Fetching month/day:", month, day)
-          for k, u in urls.items():
-            print(k, u)
+          print("Pacific date:", today_pt)
+          print("Month/day:", month, day)
+          print("events:", events_url)
+          print("births:", births_url)
+          print("deaths:", deaths_url)
 
-          # Export to environment for curl
           with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as f:
-            for k, u in urls.items():
-              f.write(f"{k.upper()}_URL={u}\n")
+            f.write(f"TODAY_PT={today_pt}\n")
+            f.write(f"EVENTS_URL={events_url}\n")
+            f.write(f"BIRTHS_URL={births_url}\n")
+            f.write(f"DEATHS_URL={deaths_url}\n")
           PY
 
-          curl -sL "$EVENTS_URL" > data/events_raw.json
-          curl -sL "$BIRTHS_URL" > data/births_raw.json
-          curl -sL "$DEATHS_URL" > data/deaths_raw.json
+      - name: Fetch DayInHistory JSON (with retries + status)
+        run: |
+          set -e
+
+          fetch_one () {
+            name="$1"
+            url="$2"
+            out="data/${name}_raw.json"
+
+            echo "Fetching $name: $url"
+            # -f fail on HTTP errors, -S show errors, -L follow redirects
+            # retry helps with transient hiccups
+            http_code=$(curl -fSL --retry 5 --retry-delay 2 --connect-timeout 15 --max-time 45 \
+              -w "%{http_code}" -o "$out" "$url" || true)
+
+            echo "HTTP $http_code -> $out"
+            echo "First 200 chars:"
+            head -c 200 "$out" || true
+            echo ""
+            echo "-----"
+
+            # If curl failed entirely, http_code may be empty.
+            if [ -z "$http_code" ] || [ "$http_code" -lt 200 ] || [ "$http_code" -ge 300 ]; then
+              echo "ERROR: $name fetch failed (HTTP=$http_code)"
+              exit 1
+            fi
+          }
+
+          fetch_one "events" "$EVENTS_URL"
+          fetch_one "births" "$BIRTHS_URL"
+          fetch_one "deaths" "$DEATHS_URL"
 
       - name: Normalize data (preserve correct type labels)
         run: |
           python - <<'PY'
           import json, os
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
 
           def load(p):
             try:
               return json.load(open(p, "r", encoding="utf-8"))
-            except Exception:
-              return {}
+            except Exception as e:
+              raise SystemExit(f"Could not parse JSON in {p}: {e}")
 
           def extract(raw, t):
             out = []
-            # Date-specific endpoints return paginated {count,next,previous,results:[...]}
-            for r in raw.get("results", [])[:25]:
+            # Expected: {count,next,previous,results:[...]}
+            results = raw.get("results", [])
+            if not isinstance(results, list):
+              return out
+            for r in results[:25]:
               y = str(r.get("year", "")).strip()
               txt = (r.get("description") or r.get("title") or "").strip()
               if y and txt:
                 out.append({"type": t, "year": y, "text": txt})
             return out
 
-          items = []
-          items += extract(load("data/events_raw.json"), "Event")
-          items += extract(load("data/births_raw.json"), "Birth")
-          items += extract(load("data/deaths_raw.json"), "Death")
+          events_raw = load("data/events_raw.json")
+          births_raw = load("data/births_raw.json")
+          deaths_raw = load("data/deaths_raw.json")
 
-          tz = ZoneInfo("America/Los_Angeles")
-          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+          items = []
+          items += extract(events_raw, "Event")
+          items += extract(births_raw, "Birth")
+          items += extract(deaths_raw, "Death")
+
+          today_pt = os.environ.get("TODAY_PT")
+          if not today_pt:
+            raise SystemExit("TODAY_PT env var missing")
 
           if not items:
             raise SystemExit("No items extracted")
 
-          # Write today's combined data
           json.dump(
             {"date": today_pt, "items": items},
             open("data/today.json", "w", encoding="utf-8"),
@@ -122,7 +154,6 @@ jobs:
             indent=2
           )
 
-          # Meta for guard
           json.dump(
             {"date": today_pt},
             open("data/meta.json", "w", encoding="utf-8"),
