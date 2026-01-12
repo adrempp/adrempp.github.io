@@ -222,8 +222,22 @@
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
         const data = await res.json();
-        items = (data.items || []).slice(0, 30);
-
+        //remove following line
+        // items = (data.items || []).slice(0, 30);
+        // Replace with below for Shuffle of Event, Birth, Death
+        // Copy all items
+        items = (data.items || []).slice();
+        
+        // Shuffle items (Fisher–Yates)
+        for (let i = items.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [items[i], items[j]] = [items[j], items[i]];
+        }
+        
+        // Limit to first 30 after shuffle
+        items = items.slice(0, 30);
+        // End of additional lines
+        
         if (!items.length) throw new Error("No items found");
 
         idx = Math.floor(Math.random() * items.length);
