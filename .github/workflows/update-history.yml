@@ -112,8 +112,8 @@ jobs:
 
           items = []
           items += extract_events(events)
-          items += extract_births(births)
-          items += extract_deaths(deaths)
+          # items += extract_births(births)
+          # items += extract_deaths(deaths)
 
           tz = ZoneInfo("America/Los_Angeles")
           today_pt = datetime.now(tz).strftime("%Y-%m-%d")
