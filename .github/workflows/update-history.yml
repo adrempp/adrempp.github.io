@@ -44,52 +44,18 @@ jobs:
           print(f"Proceeding with update for {today_pt}")
           PY
 
-      - name: Compute Pacific month/day and fetch JSON (date endpoints)
+      - name: Fetch DayInHistory data (today endpoints)
+        run: |
+          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/events_raw.json
+          curl -sL "https://api.dayinhistory.dev/v1/today/births/" > data/births_raw.json
+          curl -sL "https://api.dayinhistory.dev/v1/today/deaths/" > data/deaths_raw.json
+
+      - name: Normalize data (correct type labels)
         run: |
           python - <<'PY'
           import json
           from datetime import datetime
           from zoneinfo import ZoneInfo
-          from urllib.request import Request, urlopen
-
-          tz = ZoneInfo("America/Los_Angeles")
-          d = datetime.now(tz)
-
-          today_pt = d.strftime("%Y-%m-%d")
-          month = d.strftime("%B").lower()     # IMPORTANT: lowercase month for API path
-          day = str(int(d.strftime("%d")))     # 1..31 no leading zero
-
-          urls = {
-            "events": f"https://api.dayinhistory.dev/v1/events/{month}/{day}/?page=0",
-            "births": f"https://api.dayinhistory.dev/v1/births/{month}/{day}/?page=0",
-            "deaths": f"https://api.dayinhistory.dev/v1/deaths/{month}/{day}/?page=0",
-          }
-
-          print("Pacific date:", today_pt)
-          print("Month/day:", month, day)
-          for k, u in urls.items():
-            print(k, u)
-
-          def fetch(url: str) -> str:
-            req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urlopen(req, timeout=30) as r:
-              return r.read().decode("utf-8")
-
-          # Save raw JSON
-          for key, url in urls.items():
-            content = fetch(url)
-            with open(f"data/{key}_raw.json", "w", encoding="utf-8") as f:
-              f.write(content)
-
-          # Also write today's date for later steps
-          with open("data/_today_pt.txt", "w", encoding="utf-8") as f:
-            f.write(today_pt)
-          PY
-
-      - name: Normalize data (Event/Birth/Death labels)
-        run: |
-          python - <<'PY'
-          import json, os
 
           def load(p):
             try:
@@ -106,12 +72,13 @@ jobs:
                 out.append({"type": t, "year": y, "text": txt})
             return out
 
-          today_pt = open("data/_today_pt.txt", "r", encoding="utf-8").read().strip()
-
           items = []
           items += extract(load("data/events_raw.json"), "Event")
           items += extract(load("data/births_raw.json"), "Birth")
           items += extract(load("data/deaths_raw.json"), "Death")
+
+          tz = ZoneInfo("America/Los_Angeles")
+          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
 
           if not items:
             raise SystemExit("No items extracted")
@@ -129,8 +96,6 @@ jobs:
             ensure_ascii=False,
             indent=2
           )
-
-          print(f"Wrote {len(items)} items for {today_pt}")
           PY
 
       - name: Commit changes
