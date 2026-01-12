@@ -269,7 +269,7 @@
     (function scheduleMidnightReload(){
       const now = new Date();
       const next = new Date(now);
-      next.setHours(0, 2, 0, 0); // 12:02 AM today
+      next.setHours(0, 10, 0, 0); // 12:10 AM today
 
       // If already past 12:02 AM, schedule for tomorrow
       if (now >= next) next.setDate(next.getDate() + 1);
