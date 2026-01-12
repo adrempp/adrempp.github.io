@@ -40,15 +40,47 @@ jobs:
           if last == today_pt:
             print(f"Already updated for {today_pt}")
             raise SystemExit(0)
+
+          print(f"Proceeding with update for {today_pt}")
           PY
 
-      - name: Fetch DayInHistory data
+      - name: Fetch DayInHistory data for Pacific date (events/births/deaths)
         run: |
-          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/events_raw.json
-          curl -sL "https://api.dayinhistory.dev/v1/today/births/" > data/births_raw.json
-          curl -sL "https://api.dayinhistory.dev/v1/today/deaths/" > data/deaths_raw.json
+          python - <<'PY'
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
 
-      - name: Normalize data
+          tz = ZoneInfo("America/Los_Angeles")
+          d = datetime.now(tz)
+
+          # Month/day for date-specific endpoints
+          month = d.strftime("%B").lower()     # january, february, ...
+          day = str(int(d.strftime("%d")))     # 1..31, no leading zero
+
+          # Use date-specific endpoints to avoid /today caching and to keep Birth/Death cleanly typed
+          urls = {
+            "events": f"https://api.dayinhistory.dev/v1/events/{month}/{day}/?page=0",
+            "births": f"https://api.dayinhistory.dev/v1/births/{month}/{day}/?page=0",
+            "deaths": f"https://api.dayinhistory.dev/v1/deaths/{month}/{day}/?page=0",
+          }
+
+          print("Pacific date:", d.strftime("%Y-%m-%d"))
+          print("Fetching month/day:", month, day)
+          for k, u in urls.items():
+            print(k, u)
+
+          # Export to environment for curl
+          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as f:
+            for k, u in urls.items():
+              f.write(f"{k.upper()}_URL={u}\n")
+          PY
+
+          curl -sL "$EVENTS_URL" > data/events_raw.json
+          curl -sL "$BIRTHS_URL" > data/births_raw.json
+          curl -sL "$DEATHS_URL" > data/deaths_raw.json
+
+      - name: Normalize data (preserve correct type labels)
         run: |
           python - <<'PY'
           import json, os
@@ -63,7 +95,8 @@ jobs:
 
           def extract(raw, t):
             out = []
-            for r in raw.get("results", [])[:20]:
+            # Date-specific endpoints return paginated {count,next,previous,results:[...]}
+            for r in raw.get("results", [])[:25]:
               y = str(r.get("year", "")).strip()
               txt = (r.get("description") or r.get("title") or "").strip()
               if y and txt:
@@ -81,6 +114,7 @@ jobs:
           if not items:
             raise SystemExit("No items extracted")
 
+          # Write today's combined data
           json.dump(
             {"date": today_pt, "items": items},
             open("data/today.json", "w", encoding="utf-8"),
@@ -88,12 +122,15 @@ jobs:
             indent=2
           )
 
+          # Meta for guard
           json.dump(
             {"date": today_pt},
             open("data/meta.json", "w", encoding="utf-8"),
             ensure_ascii=False,
             indent=2
           )
+
+          print(f"Wrote {len(items)} items for {today_pt}")
           PY
 
       - name: Commit changes
