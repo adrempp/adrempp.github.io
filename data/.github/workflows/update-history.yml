@@ -1,9 +1,13 @@
-name: Update This Day in History
+name: Update This Day in History (Pacific Midnight)
 
 on:
   schedule:
-    - cron: "5 8 * * *"   # runs daily at 08:05 UTC (adjust if you want)
+    - cron: "1 7 * * *"   # 12:01am PDT
+    - cron: "1 8 * * *"   # 12:01am PST
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
@@ -12,37 +16,125 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch today's events from DayInHistory
-        run: |
-          mkdir -p data
-          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/today_raw.json
+      - name: Ensure folders
+        run: mkdir -p data
 
-      - name: Normalize to a simple format (events[])
+      - name: Guard - only update once per Pacific day
         run: |
           python - <<'PY'
-          import json, sys
-          raw = json.load(open("data/today_raw.json", "r", encoding="utf-8"))
+          import json, os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
 
-          # The API may return a paginated shape {count,next,previous,results:[...]}
-          # We'll convert to: { "events": [ { "year": "...", "text": "..." }, ... ] }
-          results = raw.get("results", [])
-          events = []
-          for r in results[:20]:
-            year = str(r.get("year", "")).strip()
-            # prefer description; fall back to title
-            text = (r.get("description") or r.get("title") or "").strip()
-            if year and text:
-              events.append({"year": year, "text": text})
+          tz = ZoneInfo("America/Los_Angeles")
+          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
 
-          out = {"events": events}
-          json.dump(out, open("data/today.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-          print(f"Wrote {len(events)} events to data/today.json")
+          meta_path = "data/meta.json"
+          last = None
+          if os.path.exists(meta_path):
+            try:
+              last = json.load(open(meta_path, "r", encoding="utf-8")).get("date")
+            except Exception:
+              last = None
+
+          if last == today_pt:
+            print(f"Already updated for {today_pt}")
+            raise SystemExit(0)
+
+          print(f"Proceeding with update for {today_pt}")
           PY
 
-      - name: Commit changes (if any)
+      - name: Fetch DayInHistory data for Pacific date (events/births/deaths)
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          from urllib.request import Request, urlopen
+
+          tz = ZoneInfo("America/Los_Angeles")
+          d = datetime.now(tz)
+
+          month = d.strftime("%B").lower()     # january, february, ...
+          day = str(int(d.strftime("%d")))     # 1..31 (no leading zero)
+
+          urls = {
+            "events": f"https://api.dayinhistory.dev/v1/events/{month}/{day}/?page=0",
+            "births": f"https://api.dayinhistory.dev/v1/births/{month}/{day}/?page=0",
+            "deaths": f"https://api.dayinhistory.dev/v1/deaths/{month}/{day}/?page=0",
+          }
+
+          print("Pacific date:", d.strftime("%Y-%m-%d"))
+          print("Fetching month/day:", month, day)
+          for k, u in urls.items():
+            print(k, u)
+
+          def fetch(url):
+            req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urlopen(req, timeout=30) as r:
+              return r.read().decode("utf-8")
+
+          for key, url in urls.items():
+            content = fetch(url)
+            with open(f"data/{key}_raw.json", "w", encoding="utf-8") as f:
+              f.write(content)
+          PY
+
+      - name: Normalize data (preserve correct type labels)
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          def load(p):
+            try:
+              return json.load(open(p, "r", encoding="utf-8"))
+            except Exception:
+              return {}
+
+          def extract(raw, t):
+            out = []
+            # Date endpoints return {count,next,previous,results:[...]}
+            for r in raw.get("results", [])[:25]:
+              y = str(r.get("year", "")).strip()
+              txt = (r.get("description") or r.get("title") or "").strip()
+              if y and txt:
+                out.append({"type": t, "year": y, "text": txt})
+            return out
+
+          items = []
+          items += extract(load("data/events_raw.json"), "Event")
+          items += extract(load("data/births_raw.json"), "Birth")
+          items += extract(load("data/deaths_raw.json"), "Death")
+
+          tz = ZoneInfo("America/Los_Angeles")
+          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+
+          if not items:
+            raise SystemExit("No items extracted")
+
+          json.dump(
+            {"date": today_pt, "items": items},
+            open("data/today.json", "w", encoding="utf-8"),
+            ensure_ascii=False,
+            indent=2
+          )
+
+          json.dump(
+            {"date": today_pt},
+            open("data/meta.json", "w", encoding="utf-8"),
+            ensure_ascii=False,
+            indent=2
+          )
+
+          print(f"Wrote {len(items)} items for {today_pt}")
+          PY
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/today.json
-          git commit -m "Daily update: This Day in History" || exit 0
+          git add data/today.json data/meta.json
+          git commit -m "Daily update (Pacific): This Day in History" || exit 0
           git push
