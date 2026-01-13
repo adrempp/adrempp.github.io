@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>This Day in History</title>
+
+  <style>
+    :root{
+      /* Rainbow Markets palette */
+      --bg1: #0b1020;
+      --bg2: #111b3a;
+      --text: #ffffff;
+      --muted: rgba(255,255,255,0.78);
+
+      --r-red:    #ff3b30;
+      --r-orange: #ff9500;
+      --r-yellow: #ffd60a;
+      --r-green:  #34c759;
+      --r-blue:   #007aff;
+      --r-purple: #af52de;
+
+      --card: rgba(255,255,255,0.07);
+      --cardBorder: rgba(255,255,255,0.14);
+      --shadow: rgba(0,0,0,0.35);
+    }
+
+    html, body { height: 100%; }
+
+    body{
+      margin: 0;
+      min-height: 100%;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(1200px 600px at 20% 0%, rgba(175,82,222,0.18), transparent 60%),
+        radial-gradient(1000px 500px at 85% 20%, rgba(0,122,255,0.18), transparent 60%),
+        radial-gradient(900px 500px at 30% 90%, rgba(52,199,89,0.14), transparent 60%),
+        linear-gradient(160deg, var(--bg1), var(--bg2));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .wrap{
+      width: 92vw;
+      max-width: 1500px;
+      padding: 3.5vw;
+    }
+
+    .brandbar{
+      height: 10px;
+      border-radius: 999px;
+      background: linear-gradient(90deg,
+        var(--r-red),
+        var(--r-orange),
+        var(--r-yellow),
+        var(--r-green),
+        var(--r-blue),
+        var(--r-purple)
+      );
+      box-shadow: 0 10px 22px var(--shadow);
+      margin-bottom: 22px;
+    }
+
+    .header{
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 18px;
+      gap: 20px;
+    }
+
+    .title{
+      font-size: clamp(36px, 4vw, 64px);
+      font-weight: 800;
+      letter-spacing: 0.2px;
+    }
+
+    .date{
+      font-size: clamp(18px, 2vw, 28px);
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .card{
+      background: var(--card);
+      border: 1px solid var(--cardBorder);
+      border-radius: 26px;
+      padding: 30px 34px;
+      box-shadow: 0 18px 44px var(--shadow);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      min-height: 280px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .badge{
+      display: inline-flex;
+      align-items: center;
+      padding: 8px 16px;
+      border-radius: 999px;
+      font-weight: 800;
+      font-size: clamp(14px, 1.2vw, 18px);
+      border: 1px solid rgba(255,255,255,0.18);
+      background: rgba(255,255,255,0.08);
+      width: fit-content;
+      margin-bottom: 14px;
+    }
+
+    .badge.event  { box-shadow: 0 0 0 2px rgba(0,122,255,0.25) inset; }
+    .badge.birth  { box-shadow: 0 0 0 2px rgba(52,199,89,0.25) inset; }
+    .badge.death  { box-shadow: 0 0 0 2px rgba(255,149,0,0.25) inset; }
+
+    .year{
+      color: var(--r-yellow);
+      font-weight: 900;
+      font-size: clamp(34px, 4vw, 72px);
+      line-height: 1;
+      margin-bottom: 12px;
+    }
+
+    .text{
+      font-size: clamp(22px, 2.35vw, 42px);
+      line-height: 1.2;
+      letter-spacing: 0.1px;
+    }
+
+    .kicker{
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: clamp(16px, 1.6vw, 22px);
+    }
+
+    .footer{
+      margin-top: 16px;
+      display: flex;
+      justify-content: space-between;
+      color: var(--muted);
+      font-size: clamp(14px, 1.3vw, 20px);
+    }
+
+    .pill{
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.10);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="brandbar"></div>
+
+    <div class="header">
+      <div class="title">📅 This Day in History</div>
+      <div class="date" id="dateText"></div>
+    </div>
+
+    <div class="card">
+      <div class="badge event" id="typeBadge">📌 Event</div>
+      <div class="year" id="year">…</div>
+      <div class="text" id="desc">Loading today’s history…</div>
+      <div class="kicker">Rainbow Markets • Grab a snack. Learn a fact.</div>
+    </div>
+
+    <div class="footer">
+      <div class="pill" id="counter">Item 0 of 0</div>
+      <div class="pill">Source: DayInHistory.dev</div>
+    </div>
+  </div>
+
+  <script>
+    const dateText   = document.getElementById("dateText");
+    const yearEl     = document.getElementById("year");
+    const descEl     = document.getElementById("desc");
+    const counterEl  = document.getElementById("counter");
+    const typeBadge  = document.getElementById("typeBadge");
+
+    function setHeaderDate() {
+      const now = new Date();
+      dateText.textContent = now.toLocaleDateString(undefined, {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+      });
+    }
+    setHeaderDate();
+
+    let items = [];
+    let idx = 0;
+
+    function render() {
+      if (!items.length) return;
+      const it = items[idx];
+
+      yearEl.textContent = it.year || "—";
+      descEl.textContent = it.text || "—";
+      counterEl.textContent = `Item ${idx + 1} of ${items.length}`;
+
+      const t = (it.type || "Event").toLowerCase();
+      if (t.includes("birth")) {
+        typeBadge.className = "badge birth";
+        typeBadge.textContent = "🎂 Birth";
+      } else if (t.includes("death")) {
+        typeBadge.className = "badge death";
+        typeBadge.textContent = "🕯️ Death";
+      } else {
+        typeBadge.className = "badge event";
+        typeBadge.textContent = "📌 Event";
+      }
+    }
+
+    async function load() {
+      try {
+        // no-store ensures the browser doesn't keep yesterday's JSON
+        const res = await fetch(`/data/today.json?v=${Date.now()}`, { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+        const data = await res.json();
+        //remove following line
+        // items = (data.items || []).slice(0, 30);
+        // Replace with below for Shuffle of Event, Birth, Death
+        // Copy all items
+        items = (data.items || []).slice();
+        
+        // Shuffle items (Fisher–Yates)
+        for (let i = items.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [items[i], items[j]] = [items[j], items[i]];
+        }
+        
+        // Limit to first 30 after shuffle
+        items = items.slice(0, 30);
+        // End of additional lines
+        
+        if (!items.length) throw new Error("No items found");
+
+        idx = Math.floor(Math.random() * items.length);
+        render();
+
+        // Rotate every 15 seconds
+        setInterval(() => {
+          idx = (idx + 1) % items.length;
+          render();
+        }, 15000);
+
+      } catch (err) {
+        //yearEl.textContent = "Oops";
+        //descEl.textContent = "Couldn’t load today’s history.";
+        //counterEl.textContent = "Item 0 of 0";
+        yearEl.textContent = "Today in History";
+        descEl.textContent =
+  "Fresh historical highlights are loading.\nPlease check back shortly.";
+        counterEl.textContent = "";
+        typeBadge.className = "badge event";
+        typeBadge.textContent = "⏳ Updating";
+        console.error(err);
+      }
+    }
+
+    load();
+   // ✅ Daily auto-reloads at 12:10 AM and 12:30 AM (device local time)
+(function scheduleDailyReloads() {
+
+  function scheduleAt(hour, minute) {
+    const now = new Date();
+    const next = new Date(now);
+    next.setHours(hour, minute, 0, 0);
+
+    // If we've already passed this time today, schedule for tomorrow
+    if (now >= next) {
+      next.setDate(next.getDate() + 1);
+    }
+
+    const ms = next - now;
+    console.log(`Scheduled page reload at ${hour}:${String(minute).padStart(2,"0")} in (ms):`, ms);
+
+    setTimeout(() => location.reload(true), ms);
+  }
+
+  // Primary reload after workflow is expected to finish
+  scheduleAt(0, 10);  // 12:10 AM
+
+  // Backup reload in case API / Pages were slow
+  scheduleAt(0, 30);  // 12:30 AM
+
+})();
+  </script>
+</body>
+</html>
