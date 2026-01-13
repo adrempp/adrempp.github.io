@@ -2,8 +2,13 @@ name: Update This Day in History (Pacific Midnight)
 
 on:
   schedule:
-    - cron: "1 7 * * *"   # 12:01am PDT
-    - cron: "1 8 * * *"   # 12:01am PST
+  # Run later to allow upstream /today endpoints to roll over
+    - cron: "10 7 * * *"   # 12:10am PDT
+    - cron: "10 8 * * *"   # 12:10am PST
+  
+  # Retry run (in case API is still on yesterday at 12:10)
+    - cron: "25 7 * * *"   # 12:25am PDT
+    - cron: "25 8 * * *"   # 12:25am PST
   workflow_dispatch:
 
 permissions:
@@ -18,31 +23,32 @@ jobs:
 
       - name: Ensure folders
         run: mkdir -p data
-
-      - name: Guard - only update once per Pacific day
-        run: |
-          python - <<'PY'
-          import json, os
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
-
-          tz = ZoneInfo("America/Los_Angeles")
-          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
-
-          meta_path = "data/meta.json"
-          last = None
-          if os.path.exists(meta_path):
-            try:
-              last = json.load(open(meta_path, "r", encoding="utf-8")).get("date")
-            except Exception:
-              last = None
-
-          if last == today_pt:
-            print(f"Already updated for {today_pt}")
-            raise SystemExit(0)
-
-          print(f"Proceeding with update for {today_pt}")
-          PY
+  
+  # Remarked out after adding the first and retry run
+     # - name: Guard - only update once per Pacific day
+     #   run: |
+     #     python - <<'PY'
+     #     import json, os
+     #     from datetime import datetime
+     #     from zoneinfo import ZoneInfo
+    #
+     #     tz = ZoneInfo("America/Los_Angeles")
+     #     today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+  #
+     #     meta_path = "data/meta.json"
+     #     last = None
+     #     if os.path.exists(meta_path):
+     #       try:
+     #         last = json.load(open(meta_path, "r", encoding="utf-8")).get("date")
+     #       except Exception:
+     #         last = None
+  #
+     #     if last == today_pt:
+     #       print(f"Already updated for {today_pt}")
+     #       raise SystemExit(0)
+  #
+     #    print(f"Proceeding with update for {today_pt}")
+     #     PY
 
       - name: Fetch DayInHistory data for Pacific date (events/births/deaths)
         run: |
