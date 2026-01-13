@@ -243,7 +243,7 @@
         idx = Math.floor(Math.random() * items.length);
         render();
 
-        // Rotate every 10 seconds
+        // Rotate every 15 seconds
         setInterval(() => {
           idx = (idx + 1) % items.length;
           render();
@@ -264,21 +264,32 @@
     }
 
     load();
+   // ✅ Daily auto-reloads at 12:10 AM and 12:30 AM (device local time)
+(function scheduleDailyReloads() {
 
-    // ✅ Daily auto-reload at 12:02 AM (device local time)
-    (function scheduleMidnightReload(){
-      const now = new Date();
-      const next = new Date(now);
-      next.setHours(0, 10, 0, 0); // 12:10 AM today
+  function scheduleAt(hour, minute) {
+    const now = new Date();
+    const next = new Date(now);
+    next.setHours(hour, minute, 0, 0);
 
-      // If already past 12:02 AM, schedule for tomorrow
-      if (now >= next) next.setDate(next.getDate() + 1);
+    // If we've already passed this time today, schedule for tomorrow
+    if (now >= next) {
+      next.setDate(next.getDate() + 1);
+    }
 
-      const ms = next - now;
-      console.log("Scheduled page reload in (ms):", ms);
+    const ms = next - now;
+    console.log(`Scheduled page reload at ${hour}:${String(minute).padStart(2,"0")} in (ms):`, ms);
 
-      setTimeout(() => location.reload(true), ms);
-    })();
+    setTimeout(() => location.reload(true), ms);
+  }
+
+  // Primary reload after workflow is expected to finish
+  scheduleAt(0, 10);  // 12:10 AM
+
+  // Backup reload in case API / Pages were slow
+  scheduleAt(0, 30);  // 12:30 AM
+
+})();
   </script>
 </body>
 </html>
