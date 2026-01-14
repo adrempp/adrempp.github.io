@@ -38,20 +38,29 @@ jobs:
           dd = now.strftime("%d")
           today_pt = now.strftime("%Y-%m-%d")
 
+          # TIP: Replace contact info with something real (email or GitHub profile URL).
+          ua = "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)"
           headers = {
-          "User-Agent": "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)",
-          "Api-User-Agent": "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)",
-          "Accept": "application/json"
+            "User-Agent": ua,
+            "Api-User-Agent": ua,
+            "Accept": "application/json"
           }
 
           def fetch(kind: str):
-            url = f"https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/{kind}/{mm}/{dd}"
-            req = Request(url, headers=headers)
+            # Use Wikipedia REST endpoint (less strict than api.wikimedia.org)
+            url = f"https://en.wikipedia.org/api/rest_v1/feed/onthisday/{kind}/{mm}/{dd}"
+
+            req = Request(url)
+            for k, v in headers.items():
+              req.add_header(k, v)
+
             with urlopen(req, timeout=30) as r:
               raw = r.read().decode("utf-8")
+
             # Save raw for troubleshooting
             with open(f"data/{kind}_raw.json", "w", encoding="utf-8") as f:
               f.write(raw)
+
             return json.loads(raw)
 
           # Fetch all 3 kinds
@@ -75,7 +84,7 @@ jobs:
           pool_deaths = extract("deaths", "Death", 80)
 
           if not (pool_events or pool_births or pool_deaths):
-            raise SystemExit("No items extracted from Wikimedia On this day feed")
+            raise SystemExit("No items extracted from Wikipedia On this day feed")
 
           # Weighted rotation target (60/30/10)
           weights = [("Event", 0.60), ("Birth", 0.30), ("Death", 0.10)]
