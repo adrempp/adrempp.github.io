@@ -179,7 +179,7 @@
     const dateText   = document.getElementById("dateText");
     const yearEl     = document.getElementById("year");
     const descEl     = document.getElementById("desc");
-    const counterEl  = document.getElementById("counter");
+    // const counterEl  = document.getElementById("counter");
     const typeBadge  = document.getElementById("typeBadge");
     const sourcePill = document.getElementById("sourcePill");
     const kickerText = document.getElementById("kickerText");
@@ -237,7 +237,7 @@
       yearEl.textContent = it.year || "—";
       descEl.textContent = it.text || "—";
       applyBadge(it.type);
-      counterEl.textContent = `Rotation ${rot}`;
+      // counterEl.textContent = `Rotation ${rot}`;
     }
 
     function nextFrom(poolName) {
@@ -283,7 +283,7 @@
 
         // Source label (optional field from YAML)
         if (data.source) sourcePill.textContent = `Source: ${data.source}`;
-        else sourcePill.textContent = "Source: Wikipedia (On This Day)";
+        else sourcePill.textContent = "Source: Wikipedia";
 
         items = (data.items || []).slice();
         if (!items.length) throw new Error("No items found");
@@ -317,10 +317,10 @@
       } catch (err) {
         yearEl.textContent = "Today in History";
         descEl.textContent = "Fresh historical highlights are loading.\nPlease check back shortly.";
-        counterEl.textContent = "";
+        // counterEl.textContent = "";
         typeBadge.className = "badge event";
         typeBadge.textContent = "⏳ Updating";
-        sourcePill.textContent = "Source: Wikipedia (On This Day)";
+        sourcePill.textContent = "Source: Wikipedia";
         console.error(err);
       }
     }
