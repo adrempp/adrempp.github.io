@@ -204,7 +204,7 @@ jobs:
           # Write outputs
           with open("data/today.json", "w", encoding="utf-8") as f:
             json.dump(
-              {"date": today_pt, "items": items, "source": "Wikipedia (On This Day) • US filtered"},
+              {"date": today_pt, "items": items, "source": "Wikipedia"},
               f,
               ensure_ascii=False,
               indent=2
@@ -212,7 +212,7 @@ jobs:
 
           with open("data/meta.json", "w", encoding="utf-8") as f:
             json.dump(
-              {"date": today_pt, "source": "Wikipedia (On This Day) • US filtered"},
+              {"date": today_pt, "source": "Wikipedia"},
               f,
               ensure_ascii=False,
               indent=2
