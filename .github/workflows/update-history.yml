@@ -1,4 +1,4 @@
-name: Update This Day in History (Wikipedia, Pacific)
+name: Update This Day in History (Wikipedia, Pacific • US Only)
 
 on:
   schedule:
@@ -24,10 +24,10 @@ jobs:
       - name: Ensure folders
         run: mkdir -p data
 
-      - name: Fetch Wikipedia "On this day" (events/births/deaths) for Pacific date
+      - name: Fetch Wikipedia "On this day" (US events + American births/deaths) for Pacific date
         run: |
           python - <<'PY'
-          import json, math, random
+          import json, math, random, re
           from datetime import datetime
           from zoneinfo import ZoneInfo
           from urllib.request import Request, urlopen
@@ -38,7 +38,7 @@ jobs:
           dd = now.strftime("%d")
           today_pt = now.strftime("%Y-%m-%d")
 
-          # TIP: Replace contact info with something real (email or GitHub profile URL).
+          # Replace contact info with something real (email or GitHub profile URL).
           ua = "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)"
           headers = {
             "User-Agent": ua,
@@ -47,9 +47,8 @@ jobs:
           }
 
           def fetch(kind: str):
-            # Use Wikipedia REST endpoint (less strict than api.wikimedia.org)
+            # Wikipedia REST endpoint (generally less strict than api.wikimedia.org)
             url = f"https://en.wikipedia.org/api/rest_v1/feed/onthisday/{kind}/{mm}/{dd}"
-
             req = Request(url)
             for k, v in headers.items():
               req.add_header(k, v)
@@ -63,36 +62,112 @@ jobs:
 
             return json.loads(raw)
 
-          # Fetch all 3 kinds
           events_data = fetch("events")
           births_data = fetch("births")
           deaths_data = fetch("deaths")
 
-          def extract(kind: str, label: str, max_take: int):
+          # --- US relevance / American-only filters ---
+
+          US_STATES = [
+            "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware",
+            "Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa","Kansas","Kentucky",
+            "Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi",
+            "Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico",
+            "New York","North Carolina","North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania",
+            "Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont",
+            "Virginia","Washington","West Virginia","Wisconsin","Wyoming"
+          ]
+
+          # Common US abbreviations that tend to appear in text.
+          # Note: we avoid ambiguous two-letter tokens like "IN" or "OR".
+          US_ABBREV = [
+            "U.S.", "U.S", "US", "USA", "United States", "American", "Americans",
+            "D.C.", "Washington, D.C.", "Washington DC", "U.S. state"
+          ]
+
+          # Big US places / institutions / terms
+          US_TERMS = [
+            "White House","U.S. Congress","Congress","Supreme Court","U.S. Supreme Court",
+            "FBI","CIA","NASA","Pentagon","Department of Defense","DoD",
+            "Declaration of Independence","Constitution","Bill of Rights",
+            "Civil War","Revolutionary War","American Revolution",
+            "Confederate","Union Army","Emancipation Proclamation",
+            "New Deal","Great Depression","Martin Luther King","MLK",
+            "United States Navy","U.S. Navy","United States Army","U.S. Army",
+            "United States Air Force","U.S. Air Force","United States Marine Corps","U.S. Marines",
+            "United States Coast Guard","U.S. Coast Guard",
+            "Territory of the United States","U.S. territory"
+          ]
+
+          # US sports keywords to KEEP sports facts in the US-only Events filter
+          SPORTS_TERMS = [
+            "NFL","NBA","MLB","NHL","NCAA","Super Bowl","World Series","Stanley Cup",
+            "NBA Finals","AFC","NFC","American football","baseball","basketball","hockey",
+            "Major League Baseball","National Football League","National Basketball Association",
+            "National Hockey League","College football","College basketball",
+            "U.S. Open","US Open","PGA","Masters Tournament","Indy 500","Daytona 500",
+            "WWE","UFC"
+          ]
+
+          # Precompile a single regex for performance and consistent matching
+          def make_pattern(words):
+            # word-boundary-ish match; allows punctuation
+            escaped = [re.escape(w) for w in words]
+            return re.compile(r"(" + "|".join(escaped) + r")", re.IGNORECASE)
+
+          pat_us = make_pattern(US_ABBREV + US_TERMS + US_STATES + SPORTS_TERMS)
+
+          # American-only for births/deaths: strongly prefer "American" / "United States" phrasing
+          pat_american_strict = make_pattern(["American", "United States", "U.S.", "U.S", "US", "USA"])
+
+          # Backup for bios that mention US places but not "American"
+          pat_us_places = make_pattern(US_STATES + ["Washington, D.C.", "D.C.", "United States"])
+
+          def is_us_event(text: str) -> bool:
+            if not text:
+              return False
+            return bool(pat_us.search(text))
+
+          def is_american_person(text: str) -> bool:
+            if not text:
+              return False
+            # Strict first (best signal)
+            if pat_american_strict.search(text):
+              return True
+            # Backup: US place mentions
+            return bool(pat_us_places.search(text))
+
+          def extract_filtered(kind: str, label: str, max_take: int):
             data = {"events": events_data, "births": births_data, "deaths": deaths_data}[kind]
             out = []
             for e in (data.get(kind) or [])[:max_take]:
               year = e.get("year")
               text = (e.get("text") or "").strip()
-              if year and text:
-                out.append({"type": label, "year": str(year), "text": text})
+              if not (year and text):
+                continue
+
+              if kind == "events":
+                if not is_us_event(text):
+                  continue
+              else:  # births/deaths
+                if not is_american_person(text):
+                  continue
+
+              out.append({"type": label, "year": str(year), "text": text})
             return out
 
-          # Build source pools (take enough so rotation doesn't run out)
-          pool_events = extract("events", "Event", 80)
-          pool_births = extract("births", "Birth", 80)
-          pool_deaths = extract("deaths", "Death", 80)
+          # Pull larger pools to survive filtering
+          pool_events = extract_filtered("events", "Event", 200)
+          pool_births = extract_filtered("births", "Birth", 200)
+          pool_deaths = extract_filtered("deaths", "Death", 200)
 
           if not (pool_events or pool_births or pool_deaths):
-            raise SystemExit("No items extracted from Wikipedia On this day feed")
+            raise SystemExit("No US/American items extracted after filtering. Try loosening filters.")
 
-          # Weighted rotation target (60/30/10)
-          weights = [("Event", 0.60), ("Birth", 0.30), ("Death", 0.10)]
+          # --- Weighted mix: 70/20/10 with TOTAL=60 ---
+          weights = [("Event", 0.70), ("Birth", 0.20), ("Death", 0.10)]
+          TOTAL = 60
 
-          # Total items you want in the final rotation list
-          TOTAL = 40
-
-          # Compute desired counts
           desired = {t: int(math.floor(TOTAL * w)) for t, w in weights}
           # Fix rounding so total == TOTAL
           while sum(desired.values()) < TOTAL:
@@ -101,21 +176,19 @@ jobs:
               if sum(desired.values()) == TOTAL:
                 break
 
-          # Shuffle each pool for variety
           random.shuffle(pool_events)
           random.shuffle(pool_births)
           random.shuffle(pool_deaths)
 
           pools = {"Event": pool_events, "Birth": pool_births, "Death": pool_deaths}
 
-          # Pull desired amounts
           items = []
           for t, _w in weights:
             take = min(desired[t], len(pools[t]))
             items.extend(pools[t][:take])
             pools[t] = pools[t][take:]
 
-          # Backfill any missing slots from remaining pools in priority order
+          # Backfill remaining slots from any pools (prefer Events first to maintain theme)
           if len(items) < TOTAL:
             for t in ["Event", "Birth", "Death"]:
               needed = TOTAL - len(items)
@@ -125,18 +198,30 @@ jobs:
               items.extend(pools[t][:take])
               pools[t] = pools[t][take:]
 
-          # Final shuffle so it's "rotated" rather than grouped by type
+          # Final shuffle so display feels "rotated"
           random.shuffle(items)
 
           # Write outputs
           with open("data/today.json", "w", encoding="utf-8") as f:
-            json.dump({"date": today_pt, "items": items}, f, ensure_ascii=False, indent=2)
+            json.dump(
+              {"date": today_pt, "items": items, "source": "Wikipedia (On This Day) • US filtered"},
+              f,
+              ensure_ascii=False,
+              indent=2
+            )
 
           with open("data/meta.json", "w", encoding="utf-8") as f:
-            json.dump({"date": today_pt}, f, ensure_ascii=False, indent=2)
+            json.dump(
+              {"date": today_pt, "source": "Wikipedia (On This Day) • US filtered"},
+              f,
+              ensure_ascii=False,
+              indent=2
+            )
 
-          print(f"Wrote {len(items)} mixed items for {today_pt} (MM/DD={mm}/{dd})")
+          print(f"Wrote {len(items)} US/American items for {today_pt} (MM/DD={mm}/{dd})")
           print("Desired mix:", desired)
+          print("Pool sizes (after filtering):",
+                {"events": len(pool_events), "births": len(pool_births), "deaths": len(pool_deaths)})
           PY
 
       - name: Commit changes
@@ -144,5 +229,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json
-          git commit -m "Daily update (Wikipedia): This Day in History" || exit 0
+          git commit -m "Daily update (Wikipedia): This Day in History (US filtered)" || exit 0
           git push
