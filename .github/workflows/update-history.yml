@@ -165,7 +165,7 @@ jobs:
             raise SystemExit("No US/American items extracted after filtering. Try loosening filters.")
 
           # --- Weighted mix: 85/10/5 with TOTAL=60 ---
-          weights = [("Event", 0.85), ("Birth", 0.10), ("Death", 0..05)]
+          weights = [("Event", 0.85), ("Birth", 0.10), ("Death", 0.05)]
           TOTAL = 60
 
           desired = {t: int(math.floor(TOTAL * w)) for t, w in weights}
