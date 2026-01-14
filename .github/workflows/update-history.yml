@@ -39,7 +39,9 @@ jobs:
           today_pt = now.strftime("%Y-%m-%d")
 
           headers = {
-            "Api-User-Agent": "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io)"
+          "User-Agent": "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)",
+          "Api-User-Agent": "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)",
+          "Accept": "application/json"
           }
 
           def fetch(kind: str):
