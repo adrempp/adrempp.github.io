@@ -164,8 +164,8 @@ jobs:
           if not (pool_events or pool_births or pool_deaths):
             raise SystemExit("No US/American items extracted after filtering. Try loosening filters.")
 
-          # --- Weighted mix: 70/20/10 with TOTAL=60 ---
-          weights = [("Event", 0.70), ("Birth", 0.20), ("Death", 0.10)]
+          # --- Weighted mix: 85/10/5 with TOTAL=60 ---
+          weights = [("Event", 0.85), ("Birth", 0.10), ("Death", 0..05)]
           TOTAL = 60
 
           desired = {t: int(math.floor(TOTAL * w)) for t, w in weights}
