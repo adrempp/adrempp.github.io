@@ -1,0 +1,148 @@
+name: Update This Day in History (Wikipedia, Pacific)
+
+on:
+  schedule:
+    # 12:10am Pacific (PDT/PST)
+    - cron: "10 7 * * *"
+    - cron: "10 8 * * *"
+
+    # 12:30am Pacific (PDT/PST) backup run
+    - cron: "30 7 * * *"
+    - cron: "30 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Ensure folders
+        run: mkdir -p data
+
+      - name: Fetch Wikipedia "On this day" (events/births/deaths) for Pacific date
+        run: |
+          python - <<'PY'
+          import json, math, random
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          from urllib.request import Request, urlopen
+
+          tz = ZoneInfo("America/Los_Angeles")
+          now = datetime.now(tz)
+          mm = now.strftime("%m")
+          dd = now.strftime("%d")
+          today_pt = now.strftime("%Y-%m-%d")
+
+          # TIP: Replace contact info with something real (email or GitHub profile URL).
+          ua = "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io; contact: you@example.com)"
+          headers = {
+            "User-Agent": ua,
+            "Api-User-Agent": ua,
+            "Accept": "application/json"
+          }
+
+          def fetch(kind: str):
+            # Use Wikipedia REST endpoint (less strict than api.wikimedia.org)
+            url = f"https://en.wikipedia.org/api/rest_v1/feed/onthisday/{kind}/{mm}/{dd}"
+
+            req = Request(url)
+            for k, v in headers.items():
+              req.add_header(k, v)
+
+            with urlopen(req, timeout=30) as r:
+              raw = r.read().decode("utf-8")
+
+            # Save raw for troubleshooting
+            with open(f"data/{kind}_raw.json", "w", encoding="utf-8") as f:
+              f.write(raw)
+
+            return json.loads(raw)
+
+          # Fetch all 3 kinds
+          events_data = fetch("events")
+          births_data = fetch("births")
+          deaths_data = fetch("deaths")
+
+          def extract(kind: str, label: str, max_take: int):
+            data = {"events": events_data, "births": births_data, "deaths": deaths_data}[kind]
+            out = []
+            for e in (data.get(kind) or [])[:max_take]:
+              year = e.get("year")
+              text = (e.get("text") or "").strip()
+              if year and text:
+                out.append({"type": label, "year": str(year), "text": text})
+            return out
+
+          # Build source pools (take enough so rotation doesn't run out)
+          pool_events = extract("events", "Event", 80)
+          pool_births = extract("births", "Birth", 80)
+          pool_deaths = extract("deaths", "Death", 80)
+
+          if not (pool_events or pool_births or pool_deaths):
+            raise SystemExit("No items extracted from Wikipedia On this day feed")
+
+          # Weighted rotation target (60/30/10)
+          weights = [("Event", 0.60), ("Birth", 0.30), ("Death", 0.10)]
+
+          # Total items you want in the final rotation list
+          TOTAL = 40
+
+          # Compute desired counts
+          desired = {t: int(math.floor(TOTAL * w)) for t, w in weights}
+          # Fix rounding so total == TOTAL
+          while sum(desired.values()) < TOTAL:
+            for t, _w in weights:
+              desired[t] += 1
+              if sum(desired.values()) == TOTAL:
+                break
+
+          # Shuffle each pool for variety
+          random.shuffle(pool_events)
+          random.shuffle(pool_births)
+          random.shuffle(pool_deaths)
+
+          pools = {"Event": pool_events, "Birth": pool_births, "Death": pool_deaths}
+
+          # Pull desired amounts
+          items = []
+          for t, _w in weights:
+            take = min(desired[t], len(pools[t]))
+            items.extend(pools[t][:take])
+            pools[t] = pools[t][take:]
+
+          # Backfill any missing slots from remaining pools in priority order
+          if len(items) < TOTAL:
+            for t in ["Event", "Birth", "Death"]:
+              needed = TOTAL - len(items)
+              if needed <= 0:
+                break
+              take = min(needed, len(pools[t]))
+              items.extend(pools[t][:take])
+              pools[t] = pools[t][take:]
+
+          # Final shuffle so it's "rotated" rather than grouped by type
+          random.shuffle(items)
+
+          # Write outputs
+          with open("data/today.json", "w", encoding="utf-8") as f:
+            json.dump({"date": today_pt, "items": items}, f, ensure_ascii=False, indent=2)
+
+          with open("data/meta.json", "w", encoding="utf-8") as f:
+            json.dump({"date": today_pt}, f, ensure_ascii=False, indent=2)
+
+          print(f"Wrote {len(items)} mixed items for {today_pt} (MM/DD={mm}/{dd})")
+          print("Desired mix:", desired)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git commit -m "Daily update (Wikipedia): This Day in History" || exit 0
+          git push
