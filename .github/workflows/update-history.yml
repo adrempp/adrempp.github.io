@@ -1,14 +1,14 @@
-name: Update This Day in History (Pacific Midnight)
+name: Update This Day in History (Wikipedia, Pacific)
 
 on:
   schedule:
-  # Run later to allow upstream /today endpoints to roll over
-    - cron: "5 7 * * *"   # 12:05am PDT
-    - cron: "5 8 * * *"   # 12:05am PST
+    # 12:10am Pacific (PDT/PST)
+    - cron: "10 7 * * *"
+    - cron: "10 8 * * *"
 
-# Retry run (in case API is still on yesterday at 12:15)
-    - cron: "25 7 * * *"   # 12:25am PDT
-    - cron: "25 8 * * *"   # 12:25am PST    
+    # 12:30am Pacific (PDT/PST) backup run
+    - cron: "30 7 * * *"
+    - cron: "30 8 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,177 +24,114 @@ jobs:
       - name: Ensure folders
         run: mkdir -p data
 
-      - name: Guard - only update once per Pacific day
+      - name: Fetch Wikipedia "On this day" (events/births/deaths) for Pacific date
         run: |
           python - <<'PY'
-          import json, os
+          import json, math, random
           from datetime import datetime
           from zoneinfo import ZoneInfo
+          from urllib.request import Request, urlopen
 
           tz = ZoneInfo("America/Los_Angeles")
-          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+          now = datetime.now(tz)
+          mm = now.strftime("%m")
+          dd = now.strftime("%d")
+          today_pt = now.strftime("%Y-%m-%d")
 
-          meta_path = "data/meta.json"
-          last = None
-          if os.path.exists(meta_path):
-            try:
-              last = json.load(open(meta_path, "r", encoding="utf-8")).get("date")
-            except Exception:
-              last = None
+          headers = {
+            "Api-User-Agent": "RainbowMarketsSignage/1.0 (https://github.com/adrempp/adrempp.github.io)"
+          }
 
-          if last == today_pt:
-            print(f"Already updated for {today_pt}")
-            raise SystemExit(0)
+          def fetch(kind: str):
+            url = f"https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/{kind}/{mm}/{dd}"
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=30) as r:
+              raw = r.read().decode("utf-8")
+            # Save raw for troubleshooting
+            with open(f"data/{kind}_raw.json", "w", encoding="utf-8") as f:
+              f.write(raw)
+            return json.loads(raw)
 
-          print(f"Proceeding with update for {today_pt}")
-          PY
+          # Fetch all 3 kinds
+          events_data = fetch("events")
+          births_data = fetch("births")
+          deaths_data = fetch("deaths")
 
-      - name: Fetch DayInHistory data (today endpoints)
-        run: |
-          curl -sL "https://api.dayinhistory.dev/v1/today/events/" > data/events_raw.json
-          curl -sL "https://api.dayinhistory.dev/v1/today/births/" > data/births_raw.json
-          curl -sL "https://api.dayinhistory.dev/v1/today/deaths/" > data/deaths_raw.json
-      
-      # New Normalize section
-      - name: Normalize data (correct type labels)
-        run: |
-          python - <<'PY'
-          import json
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
-
-          def load(p):
-            try:
-              return json.load(open(p, "r", encoding="utf-8"))
-            except Exception:
-              return {}
-
-          def clean(s):
-            return (s or "").strip()
-
-          def extract_events(raw):
+          def extract(kind: str, label: str, max_take: int):
+            data = {"events": events_data, "births": births_data, "deaths": deaths_data}[kind]
             out = []
-            for r in raw.get("results", [])[:25]:
-              y = clean(str(r.get("year", "")))
-              txt = clean(r.get("description") or r.get("title"))
-              if y and txt:
-                out.append({"type": "Event", "year": y, "text": txt})
+            for e in (data.get(kind) or [])[:max_take]:
+              year = e.get("year")
+              text = (e.get("text") or "").strip()
+              if year and text:
+                out.append({"type": label, "year": str(year), "text": text})
             return out
 
-          def extract_births(raw):
-            out = []
-            for r in raw.get("results", [])[:25]:
-              y = clean(str(r.get("birth_year", "")))
-              name = clean(r.get("name"))
-              desc = clean(r.get("description"))
-              bio  = clean(r.get("bio"))
-              # Keep it short for signage: Name — description
-              txt = " — ".join([p for p in [name, desc] if p])
-              if not txt:
-                txt = bio
-              if y and txt:
-                out.append({"type": "Birth", "year": y, "text": txt})
-            return out
+          # Build source pools (take enough so rotation doesn't run out)
+          pool_events = extract("events", "Event", 80)
+          pool_births = extract("births", "Birth", 80)
+          pool_deaths = extract("deaths", "Death", 80)
 
-          def extract_deaths(raw):
-            out = []
-            for r in raw.get("results", [])[:25]:
-              # Many "death" records still include birth_year; use death_year if present, else fallback
-              y = clean(str(r.get("death_year", "") or r.get("year", "") or r.get("birth_year", "")))
-              name = clean(r.get("name"))
-              desc = clean(r.get("description"))
-              bio  = clean(r.get("bio"))
-              txt = " — ".join([p for p in [name, desc] if p])
-              if not txt:
-                txt = bio
-              if y and txt:
-                out.append({"type": "Death", "year": y, "text": txt})
-            return out
+          if not (pool_events or pool_births or pool_deaths):
+            raise SystemExit("No items extracted from Wikimedia On this day feed")
 
-          events = load("data/events_raw.json")
-          births = load("data/births_raw.json")
-          deaths = load("data/deaths_raw.json")
+          # Weighted rotation target (60/30/10)
+          weights = [("Event", 0.60), ("Birth", 0.30), ("Death", 0.10)]
 
+          # Total items you want in the final rotation list
+          TOTAL = 40
+
+          # Compute desired counts
+          desired = {t: int(math.floor(TOTAL * w)) for t, w in weights}
+          # Fix rounding so total == TOTAL
+          while sum(desired.values()) < TOTAL:
+            for t, _w in weights:
+              desired[t] += 1
+              if sum(desired.values()) == TOTAL:
+                break
+
+          # Shuffle each pool for variety
+          random.shuffle(pool_events)
+          random.shuffle(pool_births)
+          random.shuffle(pool_deaths)
+
+          pools = {"Event": pool_events, "Birth": pool_births, "Death": pool_deaths}
+
+          # Pull desired amounts
           items = []
-          items += extract_events(events)
-          # items += extract_births(births)
-          # items += extract_deaths(deaths)
+          for t, _w in weights:
+            take = min(desired[t], len(pools[t]))
+            items.extend(pools[t][:take])
+            pools[t] = pools[t][take:]
 
-          tz = ZoneInfo("America/Los_Angeles")
-          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
+          # Backfill any missing slots from remaining pools in priority order
+          if len(items) < TOTAL:
+            for t in ["Event", "Birth", "Death"]:
+              needed = TOTAL - len(items)
+              if needed <= 0:
+                break
+              take = min(needed, len(pools[t]))
+              items.extend(pools[t][:take])
+              pools[t] = pools[t][take:]
 
-          if not items:
-            raise SystemExit("No items extracted")
+          # Final shuffle so it's "rotated" rather than grouped by type
+          random.shuffle(items)
 
-          json.dump(
-            {"date": today_pt, "items": items},
-            open("data/today.json", "w", encoding="utf-8"),
-            ensure_ascii=False,
-            indent=2
-          )
+          # Write outputs
+          with open("data/today.json", "w", encoding="utf-8") as f:
+            json.dump({"date": today_pt, "items": items}, f, ensure_ascii=False, indent=2)
 
-          json.dump(
-            {"date": today_pt},
-            open("data/meta.json", "w", encoding="utf-8"),
-            ensure_ascii=False,
-            indent=2
-          )
+          with open("data/meta.json", "w", encoding="utf-8") as f:
+            json.dump({"date": today_pt}, f, ensure_ascii=False, indent=2)
 
-          print(f"Wrote {len(items)} items for {today_pt} (events/births/deaths)")
+          print(f"Wrote {len(items)} mixed items for {today_pt} (MM/DD={mm}/{dd})")
+          print("Desired mix:", desired)
           PY
-#- name: Normalize data (correct type labels)
-#        run: |
-#          python - <<'PY'
-#          import json
-#          from datetime import datetime
-#          from zoneinfo import ZoneInfo
-#
-#          def load(p):
-#            try:
-#              return json.load(open(p, "r", encoding="utf-8"))
-#            except Exception:
-#              return {}
-#
-#          def extract(raw, t):
-#            out = []
-#            for r in raw.get("results", [])[:25]:
-#              y = str(r.get("year", "")).strip()
-#              txt = (r.get("description") or r.get("title") or "").strip()
-#              if y and txt:
-#                out.append({"type": t, "year": y, "text": txt})
-#            return out
-#
-#          items = []
-#          items += extract(load("data/events_raw.json"), "Event")
-#          items += extract(load("data/births_raw.json"), "Birth")
-#          items += extract(load("data/deaths_raw.json"), "Death")
-#
-#          tz = ZoneInfo("America/Los_Angeles")
-#          today_pt = datetime.now(tz).strftime("%Y-%m-%d")
-#
-#          if not items:
-#            raise SystemExit("No items extracted")
-#
-#          json.dump(
-#            {"date": today_pt, "items": items},
-#            open("data/today.json", "w", encoding="utf-8"),
-#            ensure_ascii=False,
-#            indent=2
-#         )
-#
-#          json.dump(
-#            {"date": today_pt},
-#            open("data/meta.json", "w", encoding="utf-8"),
-#            ensure_ascii=False,
-#            indent=2
-#          )
-#          PY
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # git add data/today.json data/meta.json
           git add data/*.json
-          git commit -m "Daily update (Pacific): This Day in History" || exit 0
+          git commit -m "Daily update (Wikipedia): This Day in History" || exit 0
           git push
