@@ -126,6 +126,7 @@
       font-size: clamp(22px, 2.35vw, 42px);
       line-height: 1.2;
       letter-spacing: 0.1px;
+      white-space: pre-line; /* keeps \n formatting in error message */
     }
 
     .kicker{
@@ -164,13 +165,13 @@
       <div class="badge event" id="typeBadge">📌 Event</div>
       <div class="year" id="year">…</div>
       <div class="text" id="desc">Loading today’s history…</div>
-      <div class="kicker">Rainbow Markets • Grab a snack. Learn a fact.</div>
+      <div class="kicker" id="kickerText">Rainbow Markets • Grab a snack. Learn a fact.</div>
     </div>
 
     <div class="footer">
-      <div class="pill" id="counter">Item 0 of 0</div>
-      <div class="pill">Source: Wikipedia</div>
-      </div>
+      <div class="pill" id="counter">Rotation 0</div>
+      <div class="pill" id="sourcePill">Source: Wikipedia (On This Day) • US filtered</div>
+    </div>
   </div>
 
   <script>
@@ -179,6 +180,8 @@
     const descEl     = document.getElementById("desc");
     const counterEl  = document.getElementById("counter");
     const typeBadge  = document.getElementById("typeBadge");
+    const sourcePill = document.getElementById("sourcePill");
+    const kickerText = document.getElementById("kickerText");
 
     function setHeaderDate() {
       const now = new Date();
@@ -191,18 +194,32 @@
     }
     setHeaderDate();
 
+    // --- Rotation controls ---
+    // Birth/Death appear only every N rotations (events fill the rest).
+    const SPECIAL_EVERY_N = 12;   // change to 10, 15, 20, etc.
+    const DEATH_PROB = 0.33;      // on special rotations: chance it's Death (else Birth)
+    const ROTATE_MS = 15000;
+
+    // Daily refresh (device local time)
+    const RELOADS = [{h:0,m:10},{h:0,m:30}];
+
     let items = [];
-    let idx = 0;
+    let events = [];
+    let births = [];
+    let deaths = [];
 
-    function render() {
-      if (!items.length) return;
-      const it = items[idx];
+    let rot = 0;
+    let evIdx = 0, bIdx = 0, dIdx = 0;
 
-      yearEl.textContent = it.year || "—";
-      descEl.textContent = it.text || "—";
-      counterEl.textContent = `Item ${idx + 1} of ${items.length}`;
+    function shuffle(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+    }
 
-      const t = (it.type || "Event").toLowerCase();
+    function applyBadge(typeStr) {
+      const t = (typeStr || "Event").toLowerCase();
       if (t.includes("birth")) {
         typeBadge.className = "badge birth";
         typeBadge.textContent = "🎂 Birth";
@@ -215,81 +232,113 @@
       }
     }
 
+    function renderItem(it) {
+      yearEl.textContent = it.year || "—";
+      descEl.textContent = it.text || "—";
+      applyBadge(it.type);
+      counterEl.textContent = `Rotation ${rot}`;
+    }
+
+    function nextFrom(poolName) {
+      if (poolName === "death" && deaths.length) {
+        const it = deaths[dIdx % deaths.length];
+        dIdx++;
+        return it;
+      }
+      if (poolName === "birth" && births.length) {
+        const it = births[bIdx % births.length];
+        bIdx++;
+        return it;
+      }
+      if (events.length) {
+        const it = events[evIdx % events.length];
+        evIdx++;
+        return it;
+      }
+      return items[0];
+    }
+
+    function pickNextItem() {
+      rot++;
+
+      // Every N rotations show Birth/Death; otherwise show Event.
+      if (SPECIAL_EVERY_N > 0 && rot % SPECIAL_EVERY_N === 0) {
+        const wantDeath = Math.random() < DEATH_PROB;
+
+        if (wantDeath && deaths.length) return nextFrom("death");
+        if (births.length) return nextFrom("birth");
+        if (deaths.length) return nextFrom("death");
+      }
+
+      return nextFrom("event");
+    }
+
     async function load() {
       try {
-        // no-store ensures the browser doesn't keep yesterday's JSON
         const res = await fetch(`/data/today.json?v=${Date.now()}`, { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
         const data = await res.json();
-        //remove following line
-        // items = (data.items || []).slice(0, 30);
-        // Replace with below for Shuffle of Event, Birth, Death
-        // Copy all items
+
+        // Source label (optional field from YAML)
+        if (data.source) sourcePill.textContent = `Source: ${data.source}`;
+        else sourcePill.textContent = "Source: Wikipedia (On This Day)";
+
         items = (data.items || []).slice();
-        
-        // Shuffle items (Fisher–Yates)
-        for (let i = items.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [items[i], items[j]] = [items[j], items[i]];
-        }
-        
-        // Limit to first 30 after shuffle
-        //items = items.slice(0, 30);
-        // End of additional lines
-        
         if (!items.length) throw new Error("No items found");
 
-        idx = Math.floor(Math.random() * items.length);
-        render();
+        // Split pools by type
+        const tOf = (i) => (i.type || "").toLowerCase();
+        events = items.filter(i => tOf(i).includes("event"));
+        births = items.filter(i => tOf(i).includes("birth"));
+        deaths = items.filter(i => tOf(i).includes("death"));
 
-        // Rotate every 15 seconds
+        // Shuffle each pool for variety
+        shuffle(events);
+        shuffle(births);
+        shuffle(deaths);
+
+        // Randomize start points
+        rot = 1;
+        evIdx = Math.floor(Math.random() * (events.length || 1));
+        bIdx  = Math.floor(Math.random() * (births.length || 1));
+        dIdx  = Math.floor(Math.random() * (deaths.length || 1));
+
+        // Start with an Event if possible
+        const first = events.length ? nextFrom("event") : items[Math.floor(Math.random() * items.length)];
+        renderItem(first);
+
         setInterval(() => {
-          idx = (idx + 1) % items.length;
-          render();
-        }, 15000);
+          const it = pickNextItem();
+          renderItem(it);
+        }, ROTATE_MS);
 
       } catch (err) {
-        //yearEl.textContent = "Oops";
-        //descEl.textContent = "Couldn’t load today’s history.";
-        //counterEl.textContent = "Item 0 of 0";
         yearEl.textContent = "Today in History";
-        descEl.textContent =
-  "Fresh historical highlights are loading.\nPlease check back shortly.";
+        descEl.textContent = "Fresh historical highlights are loading.\nPlease check back shortly.";
         counterEl.textContent = "";
         typeBadge.className = "badge event";
         typeBadge.textContent = "⏳ Updating";
+        sourcePill.textContent = "Source: Wikipedia (On This Day)";
         console.error(err);
       }
     }
 
     load();
-   // ✅ Daily auto-reloads at 12:10 AM and 12:30 AM (device local time)
-(function scheduleDailyReloads() {
 
-  function scheduleAt(hour, minute) {
-    const now = new Date();
-    const next = new Date(now);
-    next.setHours(hour, minute, 0, 0);
-
-    // If we've already passed this time today, schedule for tomorrow
-    if (now >= next) {
-      next.setDate(next.getDate() + 1);
-    }
-
-    const ms = next - now;
-    console.log(`Scheduled page reload at ${hour}:${String(minute).padStart(2,"0")} in (ms):`, ms);
-
-    setTimeout(() => location.reload(true), ms);
-  }
-
-  // Primary reload after workflow is expected to finish
-  scheduleAt(0, 10);  // 12:10 AM
-
-  // Backup reload in case API / Pages were slow
-  scheduleAt(0, 30);  // 12:30 AM
-
-})();
+    // ✅ Daily auto-reloads at set times (device local time)
+    (function scheduleDailyReloads() {
+      function scheduleAt(hour, minute) {
+        const now = new Date();
+        const next = new Date(now);
+        next.setHours(hour, minute, 0, 0);
+        if (now >= next) next.setDate(next.getDate() + 1);
+        const ms = next - now;
+        console.log(`Scheduled page reload at ${hour}:${String(minute).padStart(2,"0")} in (ms):`, ms);
+        setTimeout(() => location.reload(true), ms);
+      }
+      RELOADS.forEach(t => scheduleAt(t.h, t.m));
+    })();
   </script>
 </body>
 </html>
