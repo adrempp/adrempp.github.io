@@ -3,18 +3,38 @@
   "items": [
     {
       "type": "Event",
-      "year": "2020",
-      "text": "The Thai Ministry of Public Health confirms the first case of COVID-19 outside China."
+      "year": "1935",
+      "text": "A plebiscite in Saarland shows that 90.3% of those voting wish to no more being a \"region occupied and governed by the United Kingdom and France\"."
     },
     {
       "type": "Event",
-      "year": "1950",
-      "text": "Finland forms diplomatic relations with the People's Republic of China."
+      "year": "1797",
+      "text": "French Revolutionary Wars: A naval battle between a French ship of the line and two British frigates off the coast of Brittany ends with the French vessel running aground, resulting in over 900 deaths."
     },
     {
       "type": "Death",
-      "year": "1916",
-      "text": "Victoriano Huerta, Mexican military officer and president, 1913–1914 (born 1850)"
+      "year": "1924",
+      "text": "Georg Hermann Quincke, German physicist and academic (born 1834)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Marc Staal, Canadian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Mailis Reps, Estonian academic and politician, 31st Estonian Minister of Education and Research"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Mark Bosnich, Australian footballer and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "A Short 360 aircraft chartered by the Sirte Oil Company crashes off the coast of Brega, Libya, killing 21."
     },
     {
       "type": "Event",
@@ -23,13 +43,23 @@
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Rob Kiernan, English-Irish footballer"
+      "year": "1974",
+      "text": "Sergei Brylin, Russian ice hockey player and coach"
     },
     {
       "type": "Event",
-      "year": "1958",
-      "text": "The Moroccan Army of Liberation ambushes a Spanish patrol in the Battle of Edchera."
+      "year": "1908",
+      "text": "The Rhoads Opera House fire in Boyertown, Pennsylvania kills 171 people."
+    },
+    {
+      "type": "Event",
+      "year": "1435",
+      "text": "Sicut Dudum, forbidding the enslavement by the Spanish of the Guanche natives in Canary Islands who had converted, or were converting to, Christianity, is promulgated by Pope Eugene IV."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Robert C. Weaver becomes the first African American Cabinet member when he is appointed United States Secretary of Housing and Urban Development."
     },
     {
       "type": "Birth",
@@ -38,33 +68,13 @@
     },
     {
       "type": "Event",
-      "year": "1898",
-      "text": "Émile Zola's J'accuse…! exposes the Dreyfus affair."
+      "year": "1915",
+      "text": "The 6.7 Mw  Avezzano earthquake shakes the Province of L'Aquila in Italy with a maximum Mercalli intensity of XI (Extreme), killing between 29,978 and 32,610."
     },
     {
-      "type": "Event",
-      "year": "1797",
-      "text": "French Revolutionary Wars: A naval battle between a French ship of the line and two British frigates off the coast of Brittany ends with the French vessel running aground, resulting in over 900 deaths."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Ivan Provorov, Russian ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "James Posey, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Joannie Rochette, Canadian figure skater"
-    },
-    {
-      "type": "Event",
-      "year": "1822",
-      "text": "The design of the Greek flag is adopted by the First National Assembly at Epidaurus."
+      "type": "Death",
+      "year": "1957",
+      "text": "A. E. Coppard English poet and short story writer (born 1878)"
     },
     {
       "type": "Birth",
@@ -73,78 +83,83 @@
     },
     {
       "type": "Event",
-      "year": "1842",
-      "text": "Dr. William Brydon, an assistant surgeon in the British East India Company Army during the First Anglo-Afghan War, becomes famous for being the sole survivor of an army of 4,500 men and 12,000 camp followers when he reaches the safety of a garrison in Jalalabad, Afghanistan."
+      "year": "1893",
+      "text": "U.S. Marines land in Honolulu, Hawaii from the USS Boston to prevent the queen from abrogating the Bayonet Constitution."
     },
     {
       "type": "Event",
-      "year": "1993",
-      "text": "Operation Southern Watch: U.S.A.F., U.S.N., R.A.F. and French Air Force jets attack AAA and SAM sites in Southern Iraq."
+      "year": "1888",
+      "text": "The National Geographic Society is founded in Washington, D.C."
     },
     {
-      "type": "Event",
-      "year": "1978",
-      "text": "United States Food and Drug Administration requires all blood donations to be labeled \"paid\" or \"volunteer\" donors."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: First use of an aircraft ejection seat by a German test pilot in a Heinkel He 280 jet fighter."
+      "type": "Death",
+      "year": "2007",
+      "text": "Danny Oakes, American race car driver (born 1911)"
     },
     {
       "type": "Birth",
       "year": "1983",
-      "text": "Ronny Turiaf, French basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Shonda Rhimes, American actress, director, producer, and screenwriter"
+      "text": "Sebastian Kneißl, German footballer"
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "Soviet Union troops attack Lithuanian independence supporters in Vilnius, killing 14 people and wounding around 1,000 others."
+      "year": "1849",
+      "text": "Second Anglo-Sikh War: Battle of Chillianwala: British forces retreat from the Sikhs."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Nikolai Khabibulin, Russian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "An article appears in Pravda accusing some of the most prestigious and prominent doctors, mostly Jews, in the Soviet Union of taking part in a vast plot to poison members of the top Soviet political and military leadership."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "An earthquake hits El Salvador, killing more than 800."
+    },
+    {
+      "type": "Event",
+      "year": "1893",
+      "text": "The Independent Labour Party of the United Kingdom holds its first meeting."
+    },
+    {
+      "type": "Event",
+      "year": "1547",
+      "text": "Henry Howard, Earl of Surrey, is sentenced to death for treason, on the grounds of having quartered his arms to make them similar to those of the King, Henry VIII of England."
     },
     {
       "type": "Death",
       "year": "2012",
-      "text": "Rauf Denktaş, Turkish-Cypriot lawyer and politician, 1st President of Northern Cyprus (born 1924)"
+      "text": "Miljan Miljanić, Serbian footballer and manager (born 1930)"
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Doug Martin, American football player (died 2025)"
+      "year": "1982",
+      "text": "Guillermo Coria, Argentinian tennis player"
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "The Black Friday bushfires burn 20,000 square kilometres (7,700 sq mi) of land in Australia, claiming the lives of 71 people."
+      "year": "1982",
+      "text": "Shortly after takeoff, Air Florida Flight 90, a Boeing 737 jet, crashes into Washington, D.C.'s 14th Street Bridge and falls into the Potomac River, killing 78 including four motorists."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Coup d'état in Togo results in the assassination of president Sylvanus Olympio."
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Finland forms diplomatic relations with the People's Republic of China."
     },
     {
       "type": "Birth",
-      "year": "1995",
-      "text": "Natalia Dyer, American actress"
-    },
-    {
-      "type": "Death",
-      "year": "1923",
-      "text": "Alexandre Ribot, French academic and politician, Prime Minister of France (born 1842)"
-    },
-    {
-      "type": "Event",
-      "year": "1833",
-      "text": "United States President Andrew Jackson writes to Vice President elect Martin Van Buren expressing his opposition to South Carolina's defiance of federal authority in the Nullification Crisis."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Liam Hemsworth, Australian actor"
-    },
-    {
-      "type": "Event",
-      "year": "1840",
-      "text": "The steamship Lexington burns and sinks four miles off the coast of Long Island with the loss of 139 lives."
+      "year": "1982",
+      "text": "Kamran Akmal, Pakistani cricketer"
     },
     {
       "type": "Event",
@@ -153,48 +168,33 @@
     },
     {
       "type": "Event",
-      "year": "1990",
-      "text": "Douglas Wilder becomes the first elected African American governor as he takes office as Governor of Virginia in Richmond, Virginia."
+      "year": "1985",
+      "text": "A passenger train plunges into a ravine in Ethiopia, killing 428 in the worst railroad disaster in Africa."
     },
     {
       "type": "Event",
-      "year": "1893",
-      "text": "U.S. Marines land in Honolulu, Hawaii from the USS Boston to prevent the queen from abrogating the Bayonet Constitution."
-    },
-    {
-      "type": "Event",
-      "year": "1815",
-      "text": "War of 1812: British troops capture Fort Peter in St. Marys, Georgia, the only battle of the war to take place in the state."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Prime Minister Kofi Abrefa Busia and President Edward Akufo-Addo of Ghana are ousted in a bloodless military coup by Colonel Ignatius Kutu Acheampong."
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Rhoads Opera House fire in Boyertown, Pennsylvania kills 171 people."
+      "year": "2003",
+      "text": "208996 Achlys was discovered by Chad Trujillo and Michael E. Brown at Palomar Observatory."
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Ross McCall, Scottish actor"
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Teddy Pendergrass, American singer-songwriter (born 1950)"
+      "year": "1973",
+      "text": "Gigi Galli, Italian race driver"
     },
     {
       "type": "Event",
-      "year": "1793",
-      "text": "Nicolas Jean Hugon de Bassville, representative of Revolutionary France, is lynched by a mob in Rome."
+      "year": "1951",
+      "text": "First Indochina War: The Battle of Vĩnh Yên begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Nils-Eric Johansson, Swedish footballer"
     },
     {
       "type": "Event",
-      "year": "1985",
-      "text": "A passenger train plunges into a ravine in Ethiopia, killing 428 in the worst railroad disaster in Africa."
+      "year": "1993",
+      "text": "Operation Southern Watch: U.S.A.F., U.S.N., R.A.F. and French Air Force jets attack AAA and SAM sites in Southern Iraq."
     },
     {
       "type": "Event",
