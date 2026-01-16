@@ -2,79 +2,14 @@
   "date": "2026-01-15",
   "items": [
     {
-      "type": "Event",
-      "year": "1759",
-      "text": "The British Museum opens to the public."
+      "type": "Birth",
+      "year": "1921",
+      "text": "Cliff Barker, American basketball player (died 1998)"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Lou Jones, American sprinter (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Bernard Hopkins, American boxer and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Grace VanderWaal, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Sidney Franklin, American actor and tap dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The first Super Bowl is played in Los Angeles. The Green Bay Packers defeat the Kansas City Chiefs 35–10."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Marc Trestman, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Alpha Kappa Alpha sorority becomes the first Greek-letter organization founded and established by African American college women."
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "Spanish Civil War: Nationalists and Republicans both withdraw after suffering heavy losses, ending the Second Battle of the Corunna Road."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Ronnie Van Zant, American singer-songwriter (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "US Airways Flight 1549 ditches safely in the Hudson River after the plane collides with birds less than two minutes after take-off. This becomes known as \"The Miracle on the Hudson\" as all 155 people on board were rescued."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "The first building to be completely covered in glass, built for the Owens-Illinois Glass Company, is completed in Toledo, Ohio."
-    },
-    {
-      "type": "Event",
-      "year": "1582",
-      "text": "Truce of Yam-Zapolsky: Russia cedes Livonia to the Polish–Lithuanian Commonwealth."
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "James Naismith publishes the rules of basketball."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Pentagon is dedicated in Arlington County, Virginia."
+      "year": "1913",
+      "text": "Lloyd Bridges, American actor (died 1998)"
     },
     {
       "type": "Event",
@@ -83,183 +18,8 @@
     },
     {
       "type": "Event",
-      "year": "1962",
-      "text": "Netherlands New Guinea Conflict: Indonesian Navy fast patrol boat RI Macan Tutul commanded by Commodore Yos Sudarso sunk in Arafura Sea by the Dutch Navy."
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific."
-    },
-    {
-      "type": "Event",
-      "year": "1815",
-      "text": "War of 1812: American frigate USS President, commanded by Commodore Stephen Decatur, is captured by a squadron of four British frigates."
-    },
-    {
-      "type": "Birth",
-      "year": "1878",
-      "text": "Johanna Müller-Hermann, Austrian composer (died 1941)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "George Ambrum, Australian rugby league player (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: Fort Fisher in North Carolina falls to the Union, thus cutting off the last major seaport of the Confederacy."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Matt Duffy, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Nigerian Civil War: Biafran rebels surrender following an unsuccessful 32-month fight for independence from Nigeria."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "British multinational construction and facilities management services company Carillion goes into liquidation – officially, \"the largest ever trading liquidation in the UK\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Michele Granger, American softball player"
-    },
-    {
-      "type": "Event",
-      "year": "1782",
-      "text": "Superintendent of Finance Robert Morris addresses the U.S. Congress to recommend establishment of a national mint and decimal coinage."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Martin Luther King Jr., American minister and activist, Nobel Prize laureate (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Lorenz Böhler, Austrian physician and author (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Earl Hooker, American guitarist (died 1970)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Elizabeth II, in her capacity as Queen of Australia, signs letters patent allowing Australia to become the first Commonwealth realm to institute its own Victoria Cross in its honours system."
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Paul A. Dever, American lieutenant and politician, 58th Governor of Massachusetts (died 1958)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Edward Teller, Hungarian-American physicist and academic (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Mike Marshall, American baseball player (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1872",
-      "text": "Arsen Kotsoyev, Russian author and translator (died 1944)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Vietnam War: Citing progress in peace negotiations, President Richard Nixon announces the suspension of offensive action in North Vietnam."
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Nigel Benson, English author and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Triston Casas, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "John Dobson, Chinese-American astronomer and author (born 1915)"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets."
-    },
-    {
-      "type": "Birth",
-      "year": "1869",
-      "text": "Ruby Laffoon, American lawyer and politician, 43rd Governor of Kentucky (died 1941)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Darya Klishina, Russian long jumper"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "David Ige, American politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Ben Shapiro, American author and commentator"
-    },
-    {
-      "type": "Event",
-      "year": "1818",
-      "text": "A paper by David Brewster is read to the Royal Society, belatedly announcing his discovery of what we now call the biaxial class of doubly-refracting crystals. On the same day, Augustin-Jean Fresnel signs a \"supplement\" (submitted four days later) on reflection of polarized light."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Mitch Garver, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: New Connecticut (present-day Vermont) declares its independence."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "Great Molasses Flood: A wave of molasses released from an exploding storage tank sweeps through Boston, Massachusetts, killing 21 and injuring 150."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "The Derveni papyrus, Europe's oldest surviving manuscript dating to 340 BC, is found in northern Greece."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Maria Schell, Austrian-Swiss actress (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1875",
-      "text": "Thomas Burke, American sprinter, coach, and journalist (died 1929)"
+      "year": "1582",
+      "text": "Truce of Yam-Zapolsky: Russia cedes Livonia to the Polish–Lithuanian Commonwealth."
     },
     {
       "type": "Event",
@@ -268,28 +28,138 @@
     },
     {
       "type": "Birth",
-      "year": "1909",
-      "text": "Gene Krupa, American drummer, composer, and actor (died 1973)"
+      "year": "1885",
+      "text": "Lorenz Böhler, Austrian physician and author (died 1973)"
     },
     {
-      "type": "Death",
-      "year": "1973",
-      "text": "Coleman Francis, American actor, director, and producer (born 1919)"
+      "type": "Event",
+      "year": "1949",
+      "text": "Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Nigerian Civil War: Biafran rebels surrender following an unsuccessful 32-month fight for independence from Nigeria."
     },
     {
       "type": "Birth",
+      "year": "1983",
+      "text": "Jermaine Pennant, English footballer"
+    },
+    {
+      "type": "Event",
       "year": "1937",
-      "text": "Margaret O'Brien, American actress and singer"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Ray Nagel, American football player and coach (born 1927)"
+      "text": "Spanish Civil War: Nationalists and Republicans both withdraw after suffering heavy losses, ending the Second Battle of the Corunna Road."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Ruth Slenczynska, American pianist and composer"
+      "year": "1990",
+      "text": "Sidney Franklin, American actor and tap dancer"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Joanne Linville, American actress (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Luis Alvarado, Puerto Rican-American baseball player (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Ernie DiGregorio, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Doug Gottlieb, American basketball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1878",
+      "text": "Johanna Müller-Hermann, Austrian composer (died 1941)"
+    },
+    {
+      "type": "Event",
+      "year": "1818",
+      "text": "A paper by David Brewster is read to the Royal Society, belatedly announcing his discovery of what we now call the biaxial class of doubly-refracting crystals. On the same day, Augustin-Jean Fresnel signs a \"supplement\" (submitted four days later) on reflection of polarized light."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Vince Foster, American lawyer and political figure (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "US Airways Flight 1549 ditches safely in the Hudson River after the plane collides with birds less than two minutes after take-off. This becomes known as \"The Miracle on the Hudson\" as all 155 people on board were rescued."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "The Derveni papyrus, Europe's oldest surviving manuscript dating to 340 BC, is found in northern Greece."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Ken Judge, Australian footballer and coach (died 2016)"
+    },
+    {
+      "type": "Death",
+      "year": "1783",
+      "text": "Lord Stirling, American Revolutionary War Major General (born 1726)"
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "Pierre S. du Pont, American businessman and philanthropist (died 1954)"
+    },
+    {
+      "type": "Death",
+      "year": "1905",
+      "text": "George Thorn, Australian politician, sixth Premier of Queensland (born 1838)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "The first building to be completely covered in glass, built for the Owens-Illinois Glass Company, is completed in Toledo, Ohio."
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "The Alpha Kappa Alpha sorority becomes the first Greek-letter organization founded and established by African American college women."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Earl Hooker, American guitarist (died 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "British multinational construction and facilities management services company Carillion goes into liquidation – officially, \"the largest ever trading liquidation in the UK\"."
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "James Naismith publishes the rules of basketball."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Pitbull, American rapper and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "2004",
+      "text": "Grace VanderWaal, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Andrea Martin, American-Canadian actress, singer, and screenwriter"
     },
     {
       "type": "Birth",
@@ -297,9 +167,139 @@
       "text": "Marius Trésor, French footballer and coach"
     },
     {
+      "type": "Event",
+      "year": "1782",
+      "text": "Superintendent of Finance Robert Morris addresses the U.S. Congress to recommend establishment of a national mint and decimal coinage."
+    },
+    {
       "type": "Birth",
-      "year": "1942",
-      "text": "Frank Joseph Polozola, American academic and judge (died 2013)"
+      "year": "1969",
+      "text": "Delino DeShields, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Vietnam War: Citing progress in peace negotiations, President Richard Nixon announces the suspension of offensive action in North Vietnam."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Netherlands New Guinea Conflict: Indonesian Navy fast patrol boat RI Macan Tutul commanded by Commodore Yos Sudarso sunk in Arafura Sea by the Dutch Navy."
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Donald Sloan, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Shane McMahon, American wrestler and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: Fort Fisher in North Carolina falls to the Union, thus cutting off the last major seaport of the Confederacy."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Stuart E. Eizenstat, American lawyer and diplomat, United States Ambassador to the European Union"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Pentagon is dedicated in Arlington County, Virginia."
+    },
+    {
+      "type": "Event",
+      "year": "1815",
+      "text": "War of 1812: American frigate USS President, commanded by Commodore Stephen Decatur, is captured by a squadron of four British frigates."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Elizabeth II, in her capacity as Queen of Australia, signs letters patent allowing Australia to become the first Commonwealth realm to institute its own Victoria Cross in its honours system."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "The first Super Bowl is played in Los Angeles. The Green Bay Packers defeat the Kansas City Chiefs 35–10."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Ronnie Van Zant, American singer-songwriter (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Maria Schell, Austrian-Swiss actress (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Great Molasses Flood: A wave of molasses released from an exploding storage tank sweeps through Boston, Massachusetts, killing 21 and injuring 150."
+    },
+    {
+      "type": "Event",
+      "year": "1777",
+      "text": "American Revolutionary War: New Connecticut (present-day Vermont) declares its independence."
+    },
+    {
+      "type": "Birth",
+      "year": "1875",
+      "text": "Thomas Burke, American sprinter, coach, and journalist (died 1929)"
+    },
+    {
+      "type": "Event",
+      "year": "1759",
+      "text": "The British Museum opens to the public."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Nigel Benson, English author and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Ruth Slenczynska, American pianist and composer"
+    },
+    {
+      "type": "Death",
+      "year": "1996",
+      "text": "Les Baxter, American pianist and composer (born 1922)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Kelly Kelly, American wrestler and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Steve Gromek, American baseball player (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Bernard Hopkins, American boxer and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Deebo Samuel, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific."
     }
   ],
   "source": "Wikipedia"
