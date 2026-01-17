@@ -2,29 +2,109 @@
   "date": "2026-01-16",
   "items": [
     {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jack McDowell, American baseball player"
+      "type": "Event",
+      "year": "1942",
+      "text": "The Holocaust: Nazi Germany begins deporting Jews from the Łódź Ghetto to Chełmno extermination camp."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "The United States Senate accepts the Anglo-German treaty of 1899 in which the United Kingdom renounces its claims to the Samoan islands."
+    },
+    {
+      "type": "Event",
+      "year": "1883",
+      "text": "The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The Marxist Left in Slovakia and the Transcarpathian Ukraine holds its founding congress in Ľubochňa."
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Susan Sontag, American novelist, essayist, and critic (died 2004)"
+      "year": "1983",
+      "text": "Andriy Rusol, Ukrainian footballer"
     },
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Ethel Merman, American actress and singer (died 1984)"
+      "year": "1917",
+      "text": "Carl Karcher, American businessman, founded Carl's Jr. (died 2008)"
     },
     {
       "type": "Birth",
-      "year": "1898",
-      "text": "Irving Rapper, American film director and producer (died 1999)"
+      "year": "1949",
+      "text": "Anne F. Beiler, American businesswoman, founded Auntie Anne's"
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Jill Tarter, American astronomer and biologist"
+      "year": "1934",
+      "text": "Marilyn Horne, American soprano and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Tre'Davious White, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism."
+    },
+    {
+      "type": "Death",
+      "year": "1936",
+      "text": "Albert Fish, American serial killer, rapist and cannibal (born 1870)"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Frank Zamboni, American businessman and inventor (died 1988)"
+    },
+    {
+      "type": "Death",
+      "year": "1901",
+      "text": "Hiram Rhodes Revels, American soldier, minister, and politician (born 1822)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Norman Podhoretz, American journalist and author (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Mark Trumbo, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Jerome Horwitz, American chemist and academic (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "War in Afghanistan: The UN Security Council unanimously establishes an arms embargo and the freezing of assets of Osama bin Laden, al-Qaeda, and the remaining members of the Taliban."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Lin-Manuel Miranda, American actor, playwright, and composer"
+    },
+    {
+      "type": "Event",
+      "year": "-27",
+      "text": "Gaius Julius Caesar Octavianus is granted the title Augustus by the Roman Senate, marking the beginning of the Roman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Jeff Foster, American basketball player"
     },
     {
       "type": "Event",
@@ -33,23 +113,183 @@
     },
     {
       "type": "Birth",
+      "year": "1968",
+      "text": "David Chokachi, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "Westward expansion of the United States: John C. Frémont is appointed Governor of the new California Territory."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Marc Jackson, American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1362",
+      "text": "Saint Marcellus's flood kills at least 25,000 people on the shores of the North Sea."
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolutionary War: Battle of Cape St. Vincent."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Roger Wagner, French-American conductor and educator (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Andris Šķēle, Latvian businessman and politician, fourth Prime Minister of Latvia"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Debbie Allen, American actress, dancer, and choreographer"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Austral Líneas Aéreas Flight 205 crashes into the Atlantic Ocean near Astor Piazzolla International Airport in Mar del Plata, Argentina, killing 51."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Jonathan Allen, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Don MacLean, American basketball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "Jüri Jaakson, Estonian businessman and politician, State Elder of Estonia (died 1942)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later."
+    },
+    {
+      "type": "Event",
+      "year": "1786",
+      "text": "Virginia enacts the Statute for Religious Freedom authored by Thomas Jefferson."
+    },
+    {
+      "type": "Event",
+      "year": "1349",
+      "text": "Basel Massacre: Dozens to hundreds of Jews were burned to death by Christians after being accused of causing the Black Death."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Joe Flacco, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "John Carpenter, American director, producer, screenwriter, and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Jayde Herrick, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Czech student Jan Palach commits suicide by self-immolation in Prague, Czechoslovakia, in protest against the Soviets' crushing of the Prague Spring the year before."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Elliott Reid, American actor and screenwriter (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Renée Felice Smith, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Robert L. Park, American physicist and academic (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "Indian mathematician Srinivasa Ramanujan writes his first letter to G. H. Hardy at Cambridge, stating without proof various formulae involving integrals, infinite series, and continued fractions, beginning a long correspondence between the two as well as widespread recognition of Ramanujan's results."
+    },
+    {
+      "type": "Birth",
       "year": "1956",
       "text": "Greedy Smith, Australian singer-songwriter and keyboardist (died 2019)"
     },
     {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Laura Schlessinger, American physiologist, talk show host, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1888",
+      "text": "Osip Brik, Russian avant garde writer and literary critic (died 1945)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Clem Jones, Australian surveyor and politician, eighth Lord Mayor of Brisbane (died 2007)"
+    },
+    {
       "type": "Event",
-      "year": "2011",
-      "text": "Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism."
+      "year": "1992",
+      "text": "El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives."
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "Mary Ann McMorrow, American lawyer and judge (died 2013)"
+      "year": "1983",
+      "text": "Emanuel Pogatetz, Austrian footballer"
     },
     {
       "type": "Birth",
-      "year": "1919",
-      "text": "Jerome Horwitz, American chemist and academic (died 2012)"
+      "year": "1972",
+      "text": "Yuri Alekseevich Drozdov, Russian footballer and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1716",
+      "text": "King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain."
+    },
+    {
+      "type": "Event",
+      "year": "1878",
+      "text": "Russo-Turkish War (1877–78): Battle of Philippopolis: Captain Aleksandr Burago with a squadron of Russian Imperial army dragoons liberates Plovdiv from Ottoman rule."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Anatoli Boukreev, Russian mountaineer and explorer (died 1997)"
+    },
+    {
+      "type": "Death",
+      "year": "2019",
+      "text": "Lorna Doom, American musician (born 1958)"
+    },
+    {
+      "type": "Event",
+      "year": "1120",
+      "text": "Crusades: The Council of Nablus is held, establishing the earliest surviving written laws of the Crusader Kingdom of Jerusalem."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Dennis Kelly, American football player"
     },
     {
       "type": "Event",
@@ -60,246 +300,6 @@
       "type": "Event",
       "year": "2020",
       "text": "The United States Senate ratifies the United States–Mexico–Canada Agreement as a replacement for NAFTA."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Joe Flacco, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Anatoli Boukreev, Russian mountaineer and explorer (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1120",
-      "text": "Crusades: The Council of Nablus is held, establishing the earliest surviving written laws of the Crusader Kingdom of Jerusalem."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Mikaela Turik, Australian-Canadian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Jim Stafford, American singer-songwriter and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Marina Vaizey, American journalist and critic"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Holocaust: Nazi Germany begins deporting Jews from the Łódź Ghetto to Chełmno extermination camp."
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The Marxist Left in Slovakia and the Transcarpathian Ukraine holds its founding congress in Ľubochňa."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Ang Christou, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Jonathan Allen, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Frank Zamboni, American businessman and inventor (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Allen Swift, American actor, writer, playwright, and magician (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Clement Greenberg, American art critic (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Leslie H. Martinson, American director, producer, and screenwriter (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Dian Fossey, American zoologist and anthropologist (died 1985)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Glen P. Robinson, American businessman, founded Scientific Atlanta (born 1923)"
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolutionary War: Battle of Cape St. Vincent."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Lin-Manuel Miranda, American actor, playwright, and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Jeff Foster, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1883",
-      "text": "The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Maxine Jones, American R&B singer–songwriter and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1362",
-      "text": "Saint Marcellus's flood kills at least 25,000 people on the shores of the North Sea."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "War in Afghanistan: The UN Security Council unanimously establishes an arms embargo and the freezing of assets of Osama bin Laden, al-Qaeda, and the remaining members of the Taliban."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Paul Rofe, Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Francesco Scavullo, American photographer (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Westward expansion of the United States: John C. Frémont is appointed Governor of the new California Territory."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later."
-    },
-    {
-      "type": "Death",
-      "year": "2019",
-      "text": "Chris Wilson, Australian musician (born 1956)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Jerry M. Linenger, American captain, physician, and astronaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Laura Schlessinger, American physiologist, talk show host, and author"
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "The United States Senate accepts the Anglo-German treaty of 1899 in which the United Kingdom renounces its claims to the Samoan islands."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Renée Felice Smith, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Anne F. Beiler, American businesswoman, founded Auntie Anne's"
-    },
-    {
-      "type": "Event",
-      "year": "1349",
-      "text": "Basel Massacre: Dozens to hundreds of Jews were burned to death by Christians after being accused of causing the Black Death."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives."
-    },
-    {
-      "type": "Event",
-      "year": "1716",
-      "text": "King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Czech student Jan Palach commits suicide by self-immolation in Prague, Czechoslovakia, in protest against the Soviets' crushing of the Prague Spring the year before."
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Robert R. Wilson, American physicist and academic (born 1914)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Austral Líneas Aéreas Flight 205 crashes into the Atlantic Ocean near Astor Piazzolla International Airport in Mar del Plata, Argentina, killing 51."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "William Kennedy, American novelist and journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Albert Pujols, Dominican-American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Daisy Kennedy, Australian-English violinist (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "Indian mathematician Srinivasa Ramanujan writes his first letter to G. H. Hardy at Cambridge, stating without proof various formulae involving integrals, infinite series, and continued fractions, beginning a long correspondence between the two as well as widespread recognition of Ramanujan's results."
-    },
-    {
-      "type": "Event",
-      "year": "-27",
-      "text": "Gaius Julius Caesar Octavianus is granted the title Augustus by the Roman Senate, marking the beginning of the Roman Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1878",
-      "text": "Russo-Turkish War (1877–78): Battle of Philippopolis: Captain Aleksandr Burago with a squadron of Russian Imperial army dragoons liberates Plovdiv from Ottoman rule."
-    },
-    {
-      "type": "Event",
-      "year": "1786",
-      "text": "Virginia enacts the Statute for Religious Freedom authored by Thomas Jefferson."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "James Robinson Risner, American general and pilot (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate."
     }
   ],
   "source": "Wikipedia"
