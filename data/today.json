@@ -2,14 +2,94 @@
   "date": "2026-01-17",
   "items": [
     {
+      "type": "Death",
+      "year": "1997",
+      "text": "Clyde Tombaugh, American astronomer and academic, discovered Pluto (born 1906)"
+    },
+    {
       "type": "Birth",
-      "year": "1911",
-      "text": "John S. McCain Jr., American admiral (died 1981)"
+      "year": "1984",
+      "text": "Dexter Lumis, American wrestler"
     },
     {
       "type": "Event",
-      "year": "1781",
-      "text": "American Revolutionary War: Battle of Cowpens: Continental troops under Brigadier General Daniel Morgan defeat British forces under Lieutenant Colonel Banastre Tarleton at the battle in South Carolina."
+      "year": "1649",
+      "text": "The Second Ormonde Peace creates an alliance between the Irish Royalists and Confederates during the War of the Three Kingdoms. The coalition was then decisively defeated during the Cromwellian conquest of Ireland."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Harlan Mathews, American lawyer and politician (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "Franco-Thai War: Vichy French forces inflict a decisive defeat over the Royal Thai Navy."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Liz Ellis, Australian netball player and sportscaster"
+    },
+    {
+      "type": "Death",
+      "year": "2016",
+      "text": "Sudhindra Thirtha, Indian religious leader (born 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Chris Bowen, Australian politician, 37th Treasurer of Australia"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Anacleto Angelini, Italian-Chilean businessman (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Lucy Boynton, American-English actress"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Swedish diplomat Raoul Wallenberg is taken into Soviet custody while in Hungary; he is never publicly seen again."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Peter Frelinghuysen Jr., American lieutenant and politician (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Maury Povich, American talk show host and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Aron Gurwitsch, Lithuanian-American philosopher and author (died 1973)"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Black Panther Party members Bunchy Carter and John Huggins are killed during a meeting in Campbell Hall on the campus of UCLA."
+    },
+    {
+      "type": "Event",
+      "year": "1893",
+      "text": "Lorrin A. Thurston, along with the Citizens' Committee of Public Safety, led the Overthrow of the Kingdom of Hawaii and the government of Queen Liliʻuokalani."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Douglas Wilder, American sergeant and politician, 66th Governor of Virginia"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths."
     },
     {
       "type": "Event",
@@ -17,29 +97,34 @@
       "text": "A group of Modoc warriors defeats the United States Army in the First Battle of the Stronghold, part of the Modoc War."
     },
     {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Thomas Anthony Dooley III, American physician and humanitarian (died 1961)"
+    },
+    {
       "type": "Event",
-      "year": "1915",
-      "text": "Russia defeats Ottoman Turkey in the Battle of Sarikamish during the Caucasus Campaign of World War I."
+      "year": "1899",
+      "text": "The United States takes possession of Wake Island in the Pacific Ocean."
+    },
+    {
+      "type": "Event",
+      "year": "1362",
+      "text": "Saint Marcellus' flood kills at least 25,000 people on the shores of the North Sea."
+    },
+    {
+      "type": "Event",
+      "year": "1562",
+      "text": "France grants religious toleration to the Huguenots in the Edict of Saint-Germain."
     },
     {
       "type": "Birth",
-      "year": "1978",
-      "text": "Lisa Llorens, Australian Paralympian"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Former Congolese Prime Minister Patrice Lumumba is murdered together with former Minister of Youth and Sports of the Republic of the Congo Maurice Mpolo and former Senator from Kasai Province Joseph Okito in circumstances suggesting the support and complicity of the governments of Belgium and the United States."
+      "year": "2002",
+      "text": "Samuel, American singer based in South Korea."
     },
     {
       "type": "Birth",
       "year": "1931",
-      "text": "Don Zimmer, American baseball player, coach, and manager (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Ayo Dosunmu, American basketball player"
+      "text": "James Earl Jones, American actor (died 2024)"
     },
     {
       "type": "Event",
@@ -49,102 +134,17 @@
     {
       "type": "Birth",
       "year": "1962",
-      "text": "Sebastian Junger, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Muhammad Ali, American boxer and activist (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Alfred Wainwright, British fellwalker, guidebook author and illustrator (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Joshua Malina, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Rick Kelly, Australian race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Luis López Nieves, Puerto Rican-American author and academic"
+      "text": "Jim Carrey, Canadian-American actor, comedian, and producer"
     },
     {
       "type": "Event",
-      "year": "2017",
-      "text": "The search for Malaysia Airlines Flight 370 is announced to be suspended."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Finnish Civil War: The first serious battles take place between the Red Guards and the White Guard."
+      "year": "1961",
+      "text": "Former Congolese Prime Minister Patrice Lumumba is murdered together with former Minister of Youth and Sports of the Republic of the Congo Maurice Mpolo and former Senator from Kasai Province Joseph Okito in circumstances suggesting the support and complicity of the governments of Belgium and the United States."
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Willa Fitzgerald, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Mark Steketee, Australian cricketer"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Black Panther Party members Bunchy Carter and John Huggins are killed during a meeting in Campbell Hall on the campus of UCLA."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Swedish diplomat Raoul Wallenberg is taken into Soviet custody while in Hungary; he is never publicly seen again."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The SS-Totenkopfverbände begin the evacuation of the Auschwitz concentration camp as the Red Army closes in."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Isa Briones, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "John Schuster, Samoan-New Zealand rugby player"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Alise Post, American BMX rider"
-    },
-    {
-      "type": "Event",
-      "year": "1648",
-      "text": "England's Long Parliament passes the \"Vote of No Addresses\", breaking off negotiations with King Charles I and thereby setting the scene for the second phase of the English Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Stanislav Galiev, Russian ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "John Crawford, American singer-songwriter and guitarist"
+      "year": "1914",
+      "text": "William Stafford, American poet and author (died 1993)"
     },
     {
       "type": "Event",
@@ -153,28 +153,13 @@
     },
     {
       "type": "Event",
-      "year": "1977",
-      "text": "Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Freddy Rodriguez, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Newton N. Minow, American lawyer and politician (died 2023)"
-    },
-    {
-      "type": "Event",
       "year": "1903",
       "text": "El Yunque National Forest in Puerto Rico becomes part of the United States National Forest System as the Luquillo Forest Reserve."
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation."
+      "year": "1977",
+      "text": "Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah."
     },
     {
       "type": "Event",
@@ -183,113 +168,28 @@
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Genndy Tartakovsky, Russian-American animator, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Dwyane Wade, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Don Kirshner, American songwriter and producer (born 1934)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Jewel Plummer Cobb, American biologist, cancer researcher, and academic (died 2017)"
-    },
-    {
-      "type": "Death",
-      "year": "1896",
-      "text": "Augusta Hall, Baroness Llanover, Welsh writer and patron of the arts (born 1802)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "William Stafford, American poet and author (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Dexter Lumis, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Vidal Sassoon, English-American hairdresser and businessman (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1362",
-      "text": "Saint Marcellus' flood kills at least 25,000 people on the shores of the North Sea."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The United States pays Denmark $25 million for the Virgin Islands."
-    },
-    {
-      "type": "Event",
-      "year": "1562",
-      "text": "France grants religious toleration to the Huguenots in the Edict of Saint-Germain."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Ruth Ann Minner, American businesswoman and politician, 72nd Governor of Delaware (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1893",
-      "text": "Lorrin A. Thurston, along with the Citizens' Committee of Public Safety, led the Overthrow of the Kingdom of Hawaii and the government of Queen Liliʻuokalani."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "Franco-Thai War: Vichy French forces inflict a decisive defeat over the Royal Thai Navy."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Earl Clark, American basketball player"
-    },
-    {
-      "type": "Birth",
       "year": "1899",
-      "text": "Al Capone, American mob boss (died 1947)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "James Earl Jones, American actor (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Paul Royle, Australian lieutenant and pilot (died 2015)"
+      "text": "Robert Maynard Hutchins, American philosopher and academic (died 1977)"
     },
     {
       "type": "Event",
-      "year": "1649",
-      "text": "The Second Ormonde Peace creates an alliance between the Irish Royalists and Confederates during the War of the Three Kingdoms. The coalition was then decisively defeated during the Cromwellian conquest of Ireland."
-    },
-    {
-      "type": "Event",
-      "year": "1899",
-      "text": "The United States takes possession of Wake Island in the Pacific Ocean."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Jeff Berlin, American bass player and educator"
+      "year": "1989",
+      "text": "Patrick Purdy opens fire at an elementary school in Stockton, California, killing five and wounding 31 others."
     },
     {
       "type": "Event",
       "year": "1920",
       "text": "Alcohol Prohibition begins in the United States as the Volstead Act goes into effect."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Carlos Johnson, American singer and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Anne Cutler, Australian psychologist and academic (died 2022)"
     },
     {
       "type": "Death",
@@ -298,8 +198,108 @@
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Liz Ellis, Australian netball player and sportscaster"
+      "year": "1934",
+      "text": "Donald Cammell, Scottish-American director and screenwriter (died 1996)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Finnish Civil War: The first serious battles take place between the Red Guards and the White Guard."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Will Genia, Australian rugby player"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "Russia defeats Ottoman Turkey in the Battle of Sarikamish during the Caucasus Campaign of World War I."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The United States pays Denmark $25 million for the Virgin Islands."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Genndy Tartakovsky, Russian-American animator, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The SS-Totenkopfverbände begin the evacuation of the Auschwitz concentration camp as the Red Army closes in."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Peggy Gilbert, American saxophonist and bandleader (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Jake Paul, American boxer, actor, rapper, and social media personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "John Bellairs, American author and academic (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1648",
+      "text": "England's Long Parliament passes the \"Vote of No Addresses\", breaking off negotiations with King Charles I and thereby setting the scene for the second phase of the English Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "The search for Malaysia Airlines Flight 370 is announced to be suspended."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Indya Moore, American actor and model"
+    },
+    {
+      "type": "Event",
+      "year": "1781",
+      "text": "American Revolutionary War: Battle of Cowpens: Continental troops under Brigadier General Daniel Morgan defeat British forces under Lieutenant Colonel Banastre Tarleton at the battle in South Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Denis O'Hare, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Steve Harvey, American actor, comedian, television personality and game show host"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Busher Jackson, Canadian ice hockey player (died 1966)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Sebastian Junger, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Willa Fitzgerald, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Jeremy Roenick, American ice hockey player and actor"
     }
   ],
   "source": "Wikipedia"
