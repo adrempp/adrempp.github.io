@@ -3,113 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "2003",
-      "text": "A bushfire kills four people and destroys more than 500 homes in Canberra, Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Gustave Gingras, Canadian-English physician and educator (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Ikusaburo Yamazaki, Japanese actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Mark Briscoe, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Douglas Wreden, a.k.a. DougDoug, American streamer"
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Roberta Peters, American coloratura soprano (born 1930)"
-    },
-    {
-      "type": "Event",
       "year": "1977",
-      "text": "Australia's worst rail disaster occurs at Granville, Sydney, killing 83."
-    },
-    {
-      "type": "Event",
-      "year": "1701",
-      "text": "Frederick I crowns himself King in Prussia in Königsberg."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "A bus catches fire on the Samara–Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Carl Morton, American baseball player (died 1983)"
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "James Cook is the first known European to discover the Hawaiian Islands, which he names the \"Sandwich Islands\"."
-    },
-    {
-      "type": "Event",
-      "year": "1562",
-      "text": "Pope Pius IV reopens the Council of Trent for its third and final session."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Virgil Hill, American boxer"
-    },
-    {
-      "type": "Event",
-      "year": "350",
-      "text": "General Magnentius is proclaimed emperor by Roman aristocrats discontent with the rule of emperor Constans."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Becca Tobin, American actress, singer, and dancer"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Max Fried, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Kristy Lee Cook, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1886",
-      "text": "Modern field hockey is born with the formation of The Hockey Association in England."
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "Wesley College is established in Melbourne, Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Kevin Costner, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Alison Arngrim, Canadian-American actress"
+      "text": "Scientists at the Centers for Disease Control and Prevention announce they have identified a previously unknown bacterium as the cause of the mysterious Legionnaires' disease."
     },
     {
       "type": "Event",
@@ -118,8 +13,53 @@
     },
     {
       "type": "Event",
-      "year": "1788",
-      "text": "The first elements of the First Fleet carrying 736 convicts from Great Britain to Australia arrive at Botany Bay."
+      "year": "2025",
+      "text": "The popular social media app, TikTok, is banned in the United States, after the passing of PAFACA."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Martin O'Malley, American soldier, lawyer, and politician, 61st Governor of Maryland"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Australia's worst rail disaster occurs at Granville, Sydney, killing 83."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Wang Yung-ching, Taiwanese-American businessman (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Phil Smith and Phil Mayfield parachute off a Houston skyscraper, becoming the first two people to BASE jump from objects in all four categories: buildings, antennae, spans (bridges), and earth (cliffs)."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Robert Anton Wilson, American psychologist, author, poet, and playwright (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Michael Behe, American biochemist, author, and academic"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Max Fried, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "Eugene B. Ely lands on the deck of the USS Pennsylvania anchored in San Francisco Bay, the first time an aircraft landed on a ship."
     },
     {
       "type": "Event",
@@ -128,8 +68,8 @@
     },
     {
       "type": "Event",
-      "year": "1974",
-      "text": "A Disengagement of Forces agreement is signed between the Israeli and Egyptian governments, ending conflict on the Egyptian front of the Yom Kippur War."
+      "year": "1886",
+      "text": "Modern field hockey is born with the formation of The Hockey Association in England."
     },
     {
       "type": "Birth",
@@ -137,24 +77,64 @@
       "text": "David Ruffin, American singer (died 1991)"
     },
     {
+      "type": "Event",
+      "year": "1967",
+      "text": "Albert DeSalvo, the \"Boston Strangler\", is convicted of numerous crimes and is sentenced to life imprisonment."
+    },
+    {
+      "type": "Event",
+      "year": "1562",
+      "text": "Pope Pius IV reopens the Council of Trent for its third and final session."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Julius Peppers, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Derek Richardson, American actor"
+    },
+    {
       "type": "Birth",
       "year": "1973",
-      "text": "Benjamin Jealous, American civic leader and activist"
+      "text": "Luke Goodwin, Australian rugby league player and coach"
     },
     {
-      "type": "Death",
-      "year": "1253",
-      "text": "King Henry I of Cyprus (born 1217)"
+      "type": "Event",
+      "year": "1788",
+      "text": "The first elements of the First Fleet carrying 736 convicts from Great Britain to Australia arrive at Botany Bay."
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "A Disengagement of Forces agreement is signed between the Israeli and Egyptian governments, ending conflict on the Egyptian front of the Yom Kippur War."
+    },
+    {
+      "type": "Event",
+      "year": "350",
+      "text": "General Magnentius is proclaimed emperor by Roman aristocrats discontent with the rule of emperor Constans."
+    },
+    {
+      "type": "Event",
+      "year": "1701",
+      "text": "Frederick I crowns himself King in Prussia in Königsberg."
     },
     {
       "type": "Birth",
       "year": "1973",
-      "text": "Joe Kehoskie, American baseball executive"
+      "text": "Anthony Koutoufides, Australian footballer"
     },
     {
       "type": "Birth",
-      "year": "1911",
-      "text": "Danny Kaye, American actor, singer, and dancer (died 1987)"
+      "year": "1995",
+      "text": "Leonard Fournette, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "Wesley College is established in Melbourne, Australia."
     },
     {
       "type": "Event",
@@ -162,34 +142,9 @@
       "text": "King Henry VII of England marries Elizabeth of York, daughter of Edward IV, uniting the House of Lancaster and the House of York."
     },
     {
-      "type": "Event",
-      "year": "1911",
-      "text": "Eugene B. Ely lands on the deck of the USS Pennsylvania anchored in San Francisco Bay, the first time an aircraft landed on a ship."
-    },
-    {
       "type": "Birth",
-      "year": "1972",
-      "text": "Mike Lieberthal, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Zeeko Zaki, Egyptian-American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "Willie O'Ree, the first Black Canadian National Hockey League player, makes his NHL debut with the Boston Bruins."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Bryce Alford, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "R. Stevie Moore, American singer-songwriter and guitarist"
+      "year": "1961",
+      "text": "Jeff Yagher, American actor and sculptor"
     },
     {
       "type": "Birth",
@@ -198,33 +153,93 @@
     },
     {
       "type": "Birth",
+      "year": "1913",
+      "text": "Carroll Cloar, American artist (died 1993)"
+    },
+    {
+      "type": "Death",
+      "year": "2000",
+      "text": "Margarete Schütte-Lihotzky, Austrian architect (born 1897)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Curt Flood, American baseball player and sportscaster (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Eugene Lee Yang, Korean-American actor, filmmaker, and activist"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "The Sierra Leone Civil War is declared over."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Charlie Wilson, American businessman and politician (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Bobby Goldsboro, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "A bus catches fire on the Samara–Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Benji Schwimmer, American dancer and choreographer"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "DJ Quik, American rapper and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1778",
+      "text": "James Cook is the first known European to discover the Hawaiian Islands, which he names the \"Sandwich Islands\"."
+    },
+    {
+      "type": "Event",
+      "year": "1871",
+      "text": "Wilhelm I of Germany is proclaimed Kaiser Wilhelm in the Hall of Mirrors of the Palace of Versailles (France) towards the end of the Franco-Prussian War. Wilhelm already had the title of German Emperor since the constitution of 1 January 1871, but he had hesitated to accept the title."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Carl Morton, American baseball player (died 1983)"
+    },
+    {
+      "type": "Death",
+      "year": "2022",
+      "text": "Yvette Mimieux, American actress (born 1942)"
+    },
+    {
+      "type": "Birth",
       "year": "1976",
       "text": "Damien Leith, Irish-Australian singer-songwriter and guitarist"
     },
     {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Alexander Gomelsky, Soviet and Russian professional basketball coach (died 2005)"
+      "type": "Event",
+      "year": "1960",
+      "text": "Capital Airlines Flight 20 crashes into a farm in Charles City County, Virginia, killing all 50 aboard, the third fatal Capital Airlines crash in as many years."
     },
     {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Raymond Briggs, English author and illustrator (died 2022)"
+      "type": "Death",
+      "year": "2010",
+      "text": "Kate McGarrigle, Canadian musician and singer-songwriter (born 1946)"
     },
     {
       "type": "Event",
-      "year": "1977",
-      "text": "Scientists at the Centers for Disease Control and Prevention announce they have identified a previously unknown bacterium as the cause of the mysterious Legionnaires' disease."
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "Phil Smith and Phil Mayfield parachute off a Houston skyscraper, becoming the first two people to BASE jump from objects in all four categories: buildings, antennae, spans (bridges), and earth (cliffs)."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art."
+      "year": "2005",
+      "text": "The Airbus A380, the world's largest commercial jet, is unveiled at a ceremony in Toulouse, France"
     },
     {
       "type": "Event",
@@ -234,72 +249,57 @@
     {
       "type": "Birth",
       "year": "1978",
-      "text": "Thor Hushovd, Norwegian cyclist"
+      "text": "Brian Falkenborg, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Nicholas Oresko, American sergeant, Medal of Honor recipient (died 2013)"
+      "year": "1979",
+      "text": "Brian Gionta, American ice hockey player"
     },
     {
       "type": "Birth",
-      "year": "1995",
-      "text": "Leonard Fournette, American football player"
+      "year": "1954",
+      "text": "Ted DiBiase, American wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "A bushfire kills four people and destroys more than 500 homes in Canberra, Australia."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "Willie O'Ree, the first Black Canadian National Hockey League player, makes his NHL debut with the Boston Bruins."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "John V. Evans, American soldier and politician, 27th Governor of Idaho (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "The Airbus A380, the world's largest commercial jet, is unveiled at a ceremony in Toulouse, France"
+      "year": "1952",
+      "text": "R. Stevie Moore, American singer-songwriter and guitarist"
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Sean Keenan, Australian actor"
+      "year": "1945",
+      "text": "Rocco Forte, English businessman and philanthropist"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Marya Roxx, Estonian-American singer-songwriter"
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Kate McGarrigle, Canadian musician and singer-songwriter (born 1946)"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "The Sierra Leone Civil War is declared over."
-    },
-    {
-      "type": "Event",
-      "year": "1871",
-      "text": "Wilhelm I of Germany is proclaimed Kaiser Wilhelm in the Hall of Mirrors of the Palace of Versailles (France) towards the end of the Franco-Prussian War. Wilhelm already had the title of German Emperor since the constitution of 1 January 1871, but he had hesitated to accept the title."
+      "year": "1984",
+      "text": "Kristy Lee Cook, American singer-songwriter"
     },
     {
       "type": "Birth",
-      "year": "1999",
-      "text": "Gary Trent Jr., American basketball player"
+      "year": "1972",
+      "text": "Mike Lieberthal, American baseball player"
     },
     {
-      "type": "Event",
-      "year": "2025",
-      "text": "The popular social media app, TikTok, is banned in the United States, after the passing of PAFACA."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Albert DeSalvo, the \"Boston Strangler\", is convicted of numerous crimes and is sentenced to life imprisonment."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Capital Airlines Flight 20 crashes into a farm in Charles City County, Virginia, killing all 50 aboard, the third fatal Capital Airlines crash in as many years."
+      "type": "Birth",
+      "year": "1930",
+      "text": "Esther Coopersmith, American diplomat, UNESCO goodwill ambassador (died 2024)"
     }
   ],
   "source": "Wikipedia"
