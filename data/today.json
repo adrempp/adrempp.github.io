@@ -2,19 +2,54 @@
   "date": "2026-01-19",
   "items": [
     {
-      "type": "Event",
-      "year": "1853",
-      "text": "Giuseppe Verdi's opera Il trovatore receives its premiere performance in Rome."
+      "type": "Birth",
+      "year": "1952",
+      "text": "Nadiuska, German television actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Danese Cooper, American computer scientist and programmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Nancy Lynch, American computer scientist and academic"
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "Gulf War: Iraq fires a second Scud missile into Israel, causing 15 injuries."
+      "year": "1960",
+      "text": "Japan and the United States sign the US–Japan Mutual Security Treaty"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Guy Madison, American actor (died 1996)"
     },
     {
       "type": "Event",
-      "year": "1937",
-      "text": "Howard Hughes sets a new air record by flying from Los Angeles to New York City in seven hours, 28 minutes, 25 seconds."
+      "year": "1862",
+      "text": "American Civil War: Battle of Mill Springs: The Confederacy suffers its first significant defeat in the conflict."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Bob McFadden, American singer, impressionist, and voice-over actor (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "The barge North Cape oil spill occurs as an engine fire forces the tugboat Scandia ashore on Moonstone Beach in South Kingstown, Rhode Island."
+    },
+    {
+      "type": "Death",
+      "year": "2004",
+      "text": "Harry E. Claiborne, American lawyer and judge (born 1917)"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Georgia joins South Carolina, Florida, Mississippi, and Alabama in declaring secession from the United States."
     },
     {
       "type": "Event",
@@ -23,38 +58,48 @@
     },
     {
       "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Battle of Mill Springs: The Confederacy suffers its first significant defeat in the conflict."
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Almost 72 percent of all television sets in the United States are tuned into I Love Lucy to watch Lucy give birth."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Edwidge Danticat, Haitian-American novelist and short story writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Marvelous Nakamba, Zimbabwean footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Georgia joins South Carolina, Florida, Mississippi, and Alabama in declaring secession from the United States."
+      "year": "1871",
+      "text": "Franco-Prussian War: In the Siege of Paris, Prussia wins the Battle of St. Quentin. Meanwhile, the French attempt to break the siege in the Battle of Buzenval will end unsuccessfully the following day."
     },
     {
       "type": "Death",
-      "year": "1862",
-      "text": "Felix Zollicoffer, American newspaperman, politician, and Confederate general (born 1812)"
+      "year": "2006",
+      "text": "Anthony Franciosa, American actor (born 1928)"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Luke Macfarlane, Canadian-American actor and singer"
+      "year": "1912",
+      "text": "Leonid Kantorovich, Russian mathematician and economist, Nobel Prize laureate (died 1986)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Iran hostage crisis: United States and Iranian officials sign an agreement to release 52 American hostages after 14 months of captivity."
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Fritz Weaver, American actor (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Shelley Fabares, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Phil Everly, American singer-songwriter and guitarist (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Shaunette Renée Wilson, Guyanese-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1853",
+      "text": "Giuseppe Verdi's opera Il trovatore receives its premiere performance in Rome."
     },
     {
       "type": "Event",
@@ -62,9 +107,44 @@
       "text": "San Agustin Church in Manila is officially completed; it is the oldest church still standing in the Philippines."
     },
     {
+      "type": "Death",
+      "year": "2017",
+      "text": "Miguel Ferrer, American actor (born 1955)"
+    },
+    {
       "type": "Birth",
-      "year": "1962",
-      "text": "Chris Sabo, American baseball player and coach"
+      "year": "1985",
+      "text": "Benny Feilhaber, American soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Frank Caliendo, American comedian, actor, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Susan Solomon, American atmospheric chemist"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The United States Senate votes against joining the League of Nations."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Carman, American singer-songwriter, actor, and television host (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Logan Lerman, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Johnny O'Keefe, Australian singer-songwriter (died 1978)"
     },
     {
       "type": "Birth",
@@ -72,54 +152,24 @@
       "text": "Jean Stapleton, American actress and singer (died 2013)"
     },
     {
-      "type": "Event",
-      "year": "1920",
-      "text": "The American Civil Liberties Union (ACLU) is founded."
+      "type": "Birth",
+      "year": "1953",
+      "text": "Desi Arnaz Jr., American actor and singer"
     },
     {
       "type": "Event",
-      "year": "1988",
-      "text": "Trans-Colorado Airlines Flight 2286 crashes in Bayfield, Colorado, killing nine."
+      "year": "1915",
+      "text": "Georges Claude patents the neon discharge tube for use in advertising."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Gulf War: Iraq fires a second Scud missile into Israel, causing 15 injuries."
     },
     {
       "type": "Birth",
       "year": "1969",
       "text": "Junior Seau, American football player (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Katey Sagal, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "The barge North Cape oil spill occurs as an engine fire forces the tugboat Scandia ashore on Moonstone Beach in South Kingstown, Rhode Island."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Trey Lorenz, American singer-songwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Moussa Sow, Senegalese footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Dan Reeves, American football player and coach (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "William Ragsdale, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Exodus of Kashmiri Pandits from the Kashmir Valley in Indian-administered Kashmir due to an insurgency."
     },
     {
       "type": "Birth",
@@ -133,23 +183,18 @@
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "Iran hostage crisis: United States and Iranian officials sign an agreement to release 52 American hostages after 14 months of captivity."
+      "year": "1988",
+      "text": "Trans-Colorado Airlines Flight 2286 crashes in Bayfield, Colorado, killing nine."
     },
     {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Jeff Van Gundy, American basketball player and coach"
+      "type": "Event",
+      "year": "1829",
+      "text": "Johann Wolfgang von Goethe's Faust: The First Part of the Tragedy receives its premiere performance."
     },
     {
-      "type": "Death",
-      "year": "1963",
-      "text": "Clement Smoot, American golfer (born 1884)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Carman, American singer-songwriter, actor, and television host (died 2021)"
+      "type": "Event",
+      "year": "1937",
+      "text": "Howard Hughes sets a new air record by flying from Los Angeles to New York City in seven hours, 28 minutes, 25 seconds."
     },
     {
       "type": "Event",
@@ -157,64 +202,34 @@
       "text": "Silvertown explosion: A blast at a munitions factory in London kills 73 and injures over 400. The resulting fire causes over £2,000,000 worth of damage."
     },
     {
-      "type": "Event",
-      "year": "1960",
-      "text": "Japan and the United States sign the US–Japan Mutual Security Treaty"
-    },
-    {
       "type": "Birth",
-      "year": "1947",
-      "text": "Paula Deen, American chef and author"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Amatu'l-Bahá Rúhíyyih Khánum, a Baháʼí Faith Hand of the Cause of God and wife of Shoghi Effendi (born 1910)"
+      "year": "1954",
+      "text": "Katey Sagal, American actress and singer"
     },
     {
       "type": "Event",
-      "year": "1871",
-      "text": "Franco-Prussian War: In the Siege of Paris, Prussia wins the Battle of St. Quentin. Meanwhile, the French attempt to break the siege in the Battle of Buzenval will end unsuccessfully the following day."
+      "year": "1990",
+      "text": "Exodus of Kashmiri Pandits from the Kashmir Valley in Indian-administered Kashmir due to an insurgency."
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Natalie Cook, Australian volleyball player"
+      "year": "1957",
+      "text": "Ottis Anderson, American football player and sportscaster"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "JaVale McGee, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Hong Kong-based file-sharing website Megaupload is shut down by the FBI."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Robert MacNeil, Canadian-American journalist and author (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "John H. Johnson, American publisher, founded the Johnson Publishing Company (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "Georges Claude patents the neon discharge tube for use in advertising."
+      "year": "1936",
+      "text": "Fred J. Lincoln, American actor, director, producer, and screenwriter (died 2013)"
     },
     {
       "type": "Birth",
       "year": "1944",
-      "text": "Shelley Fabares, American actress and singer"
+      "text": "Dan Reeves, American football player and coach (died 2022)"
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Thom Mayne, American architect and academic, designed the San Francisco Federal Building and Phare Tower"
+      "year": "1962",
+      "text": "Jeff Van Gundy, American basketball player and coach"
     },
     {
       "type": "Birth",
@@ -223,63 +238,13 @@
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Guy Madison, American actor (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Thomas Kinkade, American painter (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The United States Senate votes against joining the League of Nations."
+      "year": "1940",
+      "text": "Denise Narcisse-Mair, Canadian musician (died 2010)"
     },
     {
       "type": "Event",
       "year": "1639",
       "text": "Hämeenlinna (Swedish: Tavastehus) is granted privileges after it separated from the Vanaja parish as its own city in Tavastia."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Mac Miller, American rapper (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1829",
-      "text": "Johann Wolfgang von Goethe's Faust: The First Part of the Tragedy receives its premiere performance."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Shawn Wayans, American actor, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Drew Powell, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Yevgeny Sadovyi, Russian swimmer and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Nadiuska, German television actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Rex Ingamells, Australian author and poet (died 1955)"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Jonathan Taylor, American football player"
     },
     {
       "type": "Event",
@@ -288,18 +253,53 @@
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Fritz Weaver, American actor (died 2016)"
+      "year": "1982",
+      "text": "Shane Tronc, Australian rugby league player"
     },
     {
       "type": "Event",
-      "year": "2025",
-      "text": "Bytedance and sister companies are banned from the United States for \"security concerns\"."
+      "year": "1920",
+      "text": "The American Civil Liberties Union (ACLU) is founded."
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Erin Sanders, American actress"
     },
     {
       "type": "Event",
       "year": "379",
       "text": "Emperor Gratian elevates Flavius Theodosius at Sirmium to Augustus, and gives him authority over all the eastern provinces of the Roman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Almost 72 percent of all television sets in the United States are tuned into I Love Lucy to watch Lucy give birth."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "The Hong Kong-based file-sharing website Megaupload is shut down by the FBI."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "William Ragsdale, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Drew Powell, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Paula Deen, American chef and author"
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "Bytedance and sister companies are banned from the United States for \"security concerns\"."
     }
   ],
   "source": "Wikipedia"
