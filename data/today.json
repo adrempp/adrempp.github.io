@@ -2,39 +2,14 @@
   "date": "2026-01-20",
   "items": [
     {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months."
+      "type": "Birth",
+      "year": "1940",
+      "text": "Carol Heiss, American figure skater and actress"
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "DeVante Parker, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "David Lynch, American director, producer, and screenwriter (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Skeet Ulrich, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Cat Janice, American singer-songwriter (died 2024)"
-    },
-    {
-      "type": "Death",
-      "year": "1947",
-      "text": "Andrew Volstead, American member of the United States House of Representatives (born 1860)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "DeForest Kelley, American actor (died 1999)"
+      "year": "1891",
+      "text": "Mischa Elman, Ukrainian-American violinist (died 1967)"
     },
     {
       "type": "Event",
@@ -43,78 +18,18 @@
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Linda Moulton Howe, American journalist and producer"
+      "year": "1964",
+      "text": "Ozzie Guillén, Venezuelan-American baseball player and manager"
     },
     {
       "type": "Event",
-      "year": "2001",
-      "text": "President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo."
+      "year": "2018",
+      "text": "Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region."
     },
     {
       "type": "Birth",
-      "year": "1732",
-      "text": "Richard Henry Lee, American lawyer and politician, President of the Continental Congress (died 1794)"
-    },
-    {
-      "type": "Event",
-      "year": "250",
-      "text": "Pope Fabian is martyred during the Decian persecution."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Slim Whitman, American country and western singer-songwriter and musician (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1894",
-      "text": "Harold Gray, American cartoonist, created Little Orphan Annie (died 1968)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start."
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "The third and main part of First Fleet arrives at Botany Bay, beginning the British colonization of Australia. Arthur Phillip decides that Port Jackson is a more suitable location for a colony."
-    },
-    {
-      "type": "Birth",
-      "year": "1573",
-      "text": "Simon Marius, German astronomer and academic (died 1624)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Joe Biden is inaugurated as the 46th President of the United States of America. At the time of his inauguration, he became the oldest person ever inaugurated. Kamala Harris became the first female and first non-white Vice President of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Antonio de Almeida, French conductor and musicologist (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Sid Wilson, American musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Allan Haines Loughead, American engineer and businessman, founded the Alco Hydro-Aeroplane Company (died 1969)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Rainn Wilson, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Reno Wilson, American actor"
+      "year": "2003",
+      "text": "J. J. McCarthy, American football player"
     },
     {
       "type": "Event",
@@ -122,54 +37,19 @@
       "text": "In the United States, the National Negro Network is established with 40 charter member radio stations."
     },
     {
-      "type": "Event",
-      "year": "1991",
-      "text": "Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south."
-    },
-    {
       "type": "Death",
-      "year": "1810",
-      "text": "Benjamin Chew, American lawyer and judge (born 1721)"
-    },
-    {
-      "type": "Birth",
       "year": "1965",
-      "text": "Greg K., American musician and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Dwight D. Eisenhower is inaugurated as the 34th President of the United States of America, becoming the first president to begin his presidency on January 20 since the 20th Amendment changed the dates of presidential terms."
-    },
-    {
-      "type": "Birth",
-      "year": "1741",
-      "text": "Carl Linnaeus the Younger, Swedish botanist and author (died 1783)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Donald Trump is inaugurated as the 45th President of the United States of America."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Ira Newble, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "David Tudor, American pianist and composer (died 1996)"
+      "text": "Alan Freed, American radio host (born 1922)"
     },
     {
       "type": "Event",
       "year": "1986",
-      "text": "Leabua Jonathan, Prime Minister of Lesotho, is ousted from power in a coup d'état led by General Justin Lekhanya."
+      "text": "In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time."
     },
     {
       "type": "Birth",
-      "year": "1883",
-      "text": "Forrest Wilson, American journalist and author (died 1942)"
+      "year": "1781",
+      "text": "Joseph Hormayr, Baron zu Hortenburg, Austrian-German historian and politician (died 1848)"
     },
     {
       "type": "Birth",
@@ -178,13 +58,23 @@
     },
     {
       "type": "Birth",
-      "year": "1883",
-      "text": "Enoch L. Johnson, American mob boss (died 1968)"
+      "year": "1987",
+      "text": "Evan Peters, American actor"
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Don Mankiewicz, American author and screenwriter (died 2015)"
+      "year": "1935",
+      "text": "Dorothy Provine, American actress, singer, and dancer (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "George Burns, American actor, comedian, and producer (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Mark Ryden, American painter and illustrator"
     },
     {
       "type": "Event",
@@ -193,8 +83,48 @@
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "Ghulam Ishaq Khan, Pakistani businessman and politician, 7th President of Pakistan (died 2006)"
+      "year": "1937",
+      "text": "Bailey Howell, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Walter Piston, American composer, theorist, and academic (died 1976)"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Leabua Jonathan, Prime Minister of Lesotho, is ousted from power in a coup d'état led by General Justin Lekhanya."
+    },
+    {
+      "type": "Birth",
+      "year": "1741",
+      "text": "Carl Linnaeus the Younger, Swedish botanist and author (died 1783)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Ira Newble, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months."
+    },
+    {
+      "type": "Death",
+      "year": "1973",
+      "text": "Lorenz Böhler, Austrian physician and surgeon (born 1885)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Questlove, American musician, record producer, and filmmaker"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "David Lynch, American director, producer, and screenwriter (died 2025)"
     },
     {
       "type": "Birth",
@@ -202,44 +132,44 @@
       "text": "David Eckstein, American baseball player"
     },
     {
-      "type": "Event",
-      "year": "1887",
-      "text": "The United States Senate allows the Navy to lease Pearl Harbor as a naval base."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "John F. Kennedy is inaugurated as the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Roman Catholic."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region."
-    },
-    {
-      "type": "Death",
-      "year": "2022",
-      "text": "Meat Loaf, American singer and actor (born 1947)"
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jason Richardson, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1995",
-      "text": "Joey Badass, American rapper and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1649",
-      "text": "The High Court of Justice for the trial of Charles I begins its proceedings."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board."
+      "year": "1910",
+      "text": "Joy Adamson, Austria-Kenyan painter and conservationist (died 1980)"
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "McKeeva Bush, Caymanian politician, Premier of the Cayman Islands"
+      "year": "1819",
+      "text": "Göran Fredrik Göransson, Swedish merchant, ironmaster and industrialist (died 1900)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Dwight D. Eisenhower is inaugurated as the 34th President of the United States of America, becoming the first president to begin his presidency on January 20 since the 20th Amendment changed the dates of presidential terms."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Paula Wessely, Austrian actress and producer (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "John Naber, American swimmer"
     },
     {
       "type": "Event",
@@ -248,38 +178,28 @@
     },
     {
       "type": "Event",
-      "year": "1265",
-      "text": "The first English parliament to include not only Lords but also representatives of the major towns holds its first meeting in the Palace of Westminster, now commonly known as the \"Houses of Parliament\"."
+      "year": "2021",
+      "text": "Joe Biden is inaugurated as the 46th President of the United States of America. At the time of his inauguration, he became the oldest person ever inaugurated. Kamala Harris became the first female and first non-white Vice President of the United States."
     },
     {
       "type": "Birth",
-      "year": "1902",
-      "text": "Leon Ames, American actor (died 1993)"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages."
+      "year": "1968",
+      "text": "Nick Anderson, American basketball player and sportscaster"
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Mark Ryden, American painter and illustrator"
+      "year": "1964",
+      "text": "Ron Harper, American basketball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Kevin Parker, Australian singer, songwriter, musician, and producer"
+      "year": "1856",
+      "text": "Harriot Stanton Blatch, American suffragist and organizer (died 1940)"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Lorenzo Lamas, American actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1785",
-      "text": "Invading Siamese forces attempt to exploit the political chaos in Vietnam, but are ambushed and annihilated at the Mekong river by the Tây Sơn in the Battle of Rạch Gầm-Xoài Mút."
+      "year": "1950",
+      "text": "Mahamane Ousmane, Nigerien politician, President of Niger"
     },
     {
       "type": "Event",
@@ -288,8 +208,53 @@
     },
     {
       "type": "Event",
-      "year": "1921",
-      "text": "The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty."
+      "year": "1992",
+      "text": "Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Ruth St. Denis, American dancer and educator (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1573",
+      "text": "Simon Marius, German astronomer and academic (died 1624)"
+    },
+    {
+      "type": "Event",
+      "year": "1265",
+      "text": "The first English parliament to include not only Lords but also representatives of the major towns holds its first meeting in the Palace of Westminster, now commonly known as the \"Houses of Parliament\"."
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "The third and main part of First Fleet arrives at Botany Bay, beginning the British colonization of Australia. Arthur Phillip decides that Port Jackson is a more suitable location for a colony."
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages."
+    },
+    {
+      "type": "Event",
+      "year": "1887",
+      "text": "The United States Senate allows the Navy to lease Pearl Harbor as a naval base."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "David Lee, American physicist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Death",
+      "year": "1908",
+      "text": "John Ordronaux, American surgeon and academic (born 1830)"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Donald Trump is inaugurated as the 45th President of the United States of America."
     },
     {
       "type": "Event",
@@ -298,8 +263,43 @@
     },
     {
       "type": "Event",
-      "year": "1986",
-      "text": "In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time."
+      "year": "1921",
+      "text": "The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "John F. Kennedy is inaugurated as the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Roman Catholic."
+    },
+    {
+      "type": "Event",
+      "year": "1785",
+      "text": "Invading Siamese forces attempt to exploit the political chaos in Vietnam, but are ambushed and annihilated at the Mekong river by the Tây Sơn in the Battle of Rạch Gầm-Xoài Mút."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south."
+    },
+    {
+      "type": "Event",
+      "year": "1649",
+      "text": "The High Court of Justice for the trial of Charles I begins its proceedings."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Linda Moulton Howe, American journalist and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1855",
+      "text": "Ernest Chausson, French composer (died 1899)"
+    },
+    {
+      "type": "Event",
+      "year": "250",
+      "text": "Pope Fabian is martyred during the Decian persecution."
     }
   ],
   "source": "Wikipedia"
