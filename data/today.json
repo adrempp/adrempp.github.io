@@ -2,14 +2,24 @@
   "date": "2026-01-20",
   "items": [
     {
+      "type": "Event",
+      "year": "1649",
+      "text": "The High Court of Justice for the trial of Charles I begins its proceedings."
+    },
+    {
+      "type": "Death",
+      "year": "2003",
+      "text": "Nedra Volz, American actress (born 1908)"
+    },
+    {
       "type": "Birth",
-      "year": "1965",
-      "text": "Greg K., American musician and songwriter"
+      "year": "1896",
+      "text": "George Burns, American actor, comedian, and producer (died 1996)"
     },
     {
       "type": "Event",
-      "year": "2009",
-      "text": "A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start."
+      "year": "1991",
+      "text": "Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south."
     },
     {
       "type": "Event",
@@ -18,188 +28,13 @@
     },
     {
       "type": "Event",
-      "year": "1887",
-      "text": "The United States Senate allows the Navy to lease Pearl Harbor as a naval base."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Paul Coverdell, American captain and politician (died 2000)"
-    },
-    {
-      "type": "Death",
-      "year": "1944",
-      "text": "James McKeen Cattell, American psychologist and academic (born 1860)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Ozzie Guillén, Venezuelan-American baseball player and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1785",
-      "text": "Invading Siamese forces attempt to exploit the political chaos in Vietnam, but are ambushed and annihilated at the Mekong river by the Tây Sơn in the Battle of Rạch Gầm-Xoài Mút."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Richard Morecroft, English-Australian journalist and television host"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Rob Bourdon, American musician and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "In the United States, the National Negro Network is established with 40 charter member radio stations."
-    },
-    {
-      "type": "Birth",
-      "year": "1741",
-      "text": "Carl Linnaeus the Younger, Swedish botanist and author (died 1783)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Karl Anderson, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Dorothy Provine, American actress, singer, and dancer (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jason Richardson, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "2018",
-      "text": "Naomi Parker Fraley, American naval machiner, considered the model for the \"We Can Do It!\" posters of World War II (born 1921)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Lorenzo Lamas, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Skeet Ulrich, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Donald Trump is inaugurated as the 45th President of the United States of America."
-    },
-    {
-      "type": "Birth",
-      "year": "1732",
-      "text": "Richard Henry Lee, American lawyer and politician, President of the Continental Congress (died 1794)"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "John F. Kennedy is inaugurated as the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Roman Catholic."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Mark Ryden, American painter and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "The third and main part of First Fleet arrives at Botany Bay, beginning the British colonization of Australia. Arthur Phillip decides that Port Jackson is a more suitable location for a colony."
-    },
-    {
-      "type": "Event",
       "year": "1937",
       "text": "Franklin D. Roosevelt and John Nance Garner are sworn in for their second terms as U.S. President and U.S. Vice President; it is the first time a Presidential Inauguration takes place on January 20 since the 20th Amendment changed the dates of presidential terms."
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Stacey Dash, American actress and television journalist"
-    },
-    {
-      "type": "Event",
-      "year": "250",
-      "text": "Pope Fabian is martyred during the Decian persecution."
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "Donald Trump is inaugurated as the 47th President of the United States of America. He is currently the oldest person ever inaugurated."
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Enoch L. Johnson, American mob boss (died 1968)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Hampus Lindholm, Swedish ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty."
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Lead Belly, American folk/blues musician and songwriter (died 1949)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "David Tudor, American pianist and composer (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time."
-    },
-    {
-      "type": "Birth",
-      "year": "1882",
-      "text": "Johnny Torrio, Italian-American mob boss (died 1957)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Cat Janice, American singer-songwriter (died 2024)"
+      "year": "1939",
+      "text": "Paul Coverdell, American captain and politician (died 2000)"
     },
     {
       "type": "Event",
@@ -208,38 +43,23 @@
     },
     {
       "type": "Birth",
-      "year": "1799",
-      "text": "Anson Jones, American physician and politician, 5th President of the Republic of Texas (died 1858)"
-    },
-    {
-      "type": "Death",
-      "year": "2025",
-      "text": "Cecile Richards, American activist and former Planned Parenthood president (born 1957)"
+      "year": "1937",
+      "text": "Bailey Howell, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Ira Newble, American basketball player"
+      "year": "1834",
+      "text": "George D. Robinson, American lawyer and politician, 34th Governor of Massachusetts (died 1896)"
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages."
-    },
-    {
-      "type": "Event",
-      "year": "1649",
-      "text": "The High Court of Justice for the trial of Charles I begins its proceedings."
+      "year": "2001",
+      "text": "President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo."
     },
     {
       "type": "Birth",
-      "year": "1894",
-      "text": "Harold Gray, American cartoonist, created Little Orphan Annie (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Questlove, American musician, record producer, and filmmaker"
+      "year": "1970",
+      "text": "Skeet Ulrich, American actor"
     },
     {
       "type": "Event",
@@ -248,38 +68,8 @@
     },
     {
       "type": "Event",
-      "year": "2018",
-      "text": "Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region."
-    },
-    {
-      "type": "Birth",
-      "year": "1819",
-      "text": "Göran Fredrik Göransson, Swedish merchant, ironmaster and industrialist (died 1900)"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: At the Wannsee Conference held in the Berlin suburb of Wannsee, senior Nazi German officials discuss the implementation of the \"Final Solution to the Jewish question\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Ray Anthony, American trumpeter and bandleader"
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Forrest Wilson, American journalist and author (died 1942)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "McKeeva Bush, Caymanian politician, Premier of the Cayman Islands"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Joe Biden is inaugurated as the 46th President of the United States of America. At the time of his inauguration, he became the oldest person ever inaugurated. Kamala Harris became the first female and first non-white Vice President of the United States."
+      "year": "2009",
+      "text": "Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States."
     },
     {
       "type": "Birth",
@@ -288,8 +78,123 @@
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "Ghulam Ishaq Khan, Pakistani businessman and politician, 7th President of Pakistan (died 2006)"
+      "year": "1923",
+      "text": "Slim Whitman, American country and western singer-songwriter and musician (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "David Lynch, American director, producer, and screenwriter (died 2025)"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "John F. Kennedy is inaugurated as the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Roman Catholic."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Sid Wilson, American musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Philippe Cousteau, Jr., American-French oceanographer and journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Nick Anderson, American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region."
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Harold Gray, American cartoonist, created Little Orphan Annie (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Mark Ryden, American painter and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Donald Trump is inaugurated as the 45th President of the United States of America."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Evan Peters, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Bill Maher, American comedian, political commentator, media critic, television host, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Nancy Kress, American author and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Pat Parker, American poet (died 1989)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "John Naber, American swimmer"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Etta James, American singer-songwriter (born 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months."
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "Donald Trump is inaugurated as the 47th President of the United States of America. He is currently the oldest person ever inaugurated."
+    },
+    {
+      "type": "Birth",
+      "year": "1889",
+      "text": "Allan Haines Loughead, American engineer and businessman, founded the Alco Hydro-Aeroplane Company (died 1969)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: At the Wannsee Conference held in the Berlin suburb of Wannsee, senior Nazi German officials discuss the implementation of the \"Final Solution to the Jewish question\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "David Eckstein, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "250",
+      "text": "Pope Fabian is martyred during the Decian persecution."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Joe Biden is inaugurated as the 46th President of the United States of America. At the time of his inauguration, he became the oldest person ever inaugurated. Kamala Harris became the first female and first non-white Vice President of the United States."
     },
     {
       "type": "Event",
@@ -298,8 +203,103 @@
     },
     {
       "type": "Birth",
+      "year": "1922",
+      "text": "Ray Anthony, American trumpeter and bandleader"
+    },
+    {
+      "type": "Event",
+      "year": "1785",
+      "text": "Invading Siamese forces attempt to exploit the political chaos in Vietnam, but are ambushed and annihilated at the Mekong river by the Tây Sơn in the Battle of Rạch Gầm-Xoài Mút."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Hampus Lindholm, Swedish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Nevin Scrimshaw, American scientist (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "McKeeva Bush, Caymanian politician, Premier of the Cayman Islands"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "In the United States, the National Negro Network is established with 40 charter member radio stations."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board."
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "The third and main part of First Fleet arrives at Botany Bay, beginning the British colonization of Australia. Arthur Phillip decides that Port Jackson is a more suitable location for a colony."
+    },
+    {
+      "type": "Birth",
       "year": "1959",
       "text": "Tami Hoag, American author"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time."
+    },
+    {
+      "type": "Death",
+      "year": "1954",
+      "text": "Warren Bardsley, Australian cricketer (born 1882)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Buzz Aldrin, American colonel, pilot, and astronaut"
+    },
+    {
+      "type": "Event",
+      "year": "1887",
+      "text": "The United States Senate allows the Navy to lease Pearl Harbor as a naval base."
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Ciara Hanna, American actress and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1883",
+      "text": "Forrest Wilson, American journalist and author (died 1942)"
+    },
+    {
+      "type": "Birth",
+      "year": "1799",
+      "text": "Anson Jones, American physician and politician, 5th President of the Republic of Texas (died 1858)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Richard Morecroft, English-Australian journalist and television host"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty."
+    },
+    {
+      "type": "Birth",
+      "year": "1781",
+      "text": "Joseph Hormayr, Baron zu Hortenburg, Austrian-German historian and politician (died 1848)"
     }
   ],
   "source": "Wikipedia"
