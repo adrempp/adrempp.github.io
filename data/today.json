@@ -3,118 +3,18 @@
   "items": [
     {
       "type": "Event",
-      "year": "1899",
-      "text": "The Malolos Constitution is inaugurated, establishing the First Philippine Republic. Emilio Aguinaldo is sworn in as its first president."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "The China–United States trade war begins when President Donald Trump places tariffs on Chinese solar panels and washing machines."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Frances Bay, Canadian-American actress (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "A very weak signal from Pioneer 10 is detected for the last time, but no usable data can be extracted."
-    },
-    {
-      "type": "Event",
       "year": "2018",
       "text": "A double car bombing in Benghazi, Libya, kills at least 33 people and wounds \"dozens\" of others. The victims include both military personnel and civilians, according to local officials."
     },
     {
-      "type": "Event",
-      "year": "1963",
-      "text": "The Guinea-Bissau War of Independence officially begins when PAIGC guerrilla fighters attack the Portuguese Army stationed in Tite."
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Nell Carter, American actress and singer (born 1948)"
+      "type": "Birth",
+      "year": "1853",
+      "text": "John Marks Moore, American politician (died 1902)"
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Horace Ashenfelter, American runner (died 2018)"
-    },
-    {
-      "type": "Death",
-      "year": "1992",
-      "text": "Freddie Bartholomew, American actor (born 1924)"
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "Georgetown College, the first Catholic university in the United States, is founded in Georgetown, Maryland (now a part of Washington, D.C.) when Bishop John Carroll, Rev. Robert Molyneux, and Rev. John Ashton purchase land for the proposed academy for the education of youth."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Fred Williams, Australian painter (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Chita Rivera, American actress, singer, and dancer (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Brandon Duckworth, American baseball player and scout"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "The bathyscaphe USS Trieste breaks a depth record by descending to 10,911 metres (35,797 ft) in the Pacific Ocean."
-    },
-    {
-      "type": "Event",
-      "year": "393",
-      "text": "Roman emperor Theodosius I proclaims his eight-year-old son Honorius co-emperor."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Boris Berezovsky, Russian-English businessman and mathematician (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Boris Pokrovsky, Russian director and manager (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Milton Keynes (England) is founded as a new town by Order in Council, with a planning brief to become a city of 250,000 people. Its initial designated area enclosed three existing towns and twenty-one villages. The area to be developed was largely farmland, with evidence of continuous settlement dating back to the Bronze Age."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Frank Lautenberg, American soldier, businessman, and politician (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "The 24th Amendment to the United States Constitution, prohibiting the use of poll taxes in national elections, is ratified."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Jock R. Anderson, Australian economist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "RMS Republic, a passenger ship of the White Star Line, becomes the first ship to use the CQD distress signal after colliding with another ship, the SS Florida, off the Massachusetts coastline, an event that kills six people. The Republic sinks the next day."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Rebekah Elmaloglou, Australian actress"
+      "year": "1898",
+      "text": "Randolph Scott, American actor (died 1987)"
     },
     {
       "type": "Event",
@@ -123,23 +23,68 @@
     },
     {
       "type": "Event",
+      "year": "1941",
+      "text": "Charles Lindbergh testifies before the U.S. Congress and recommends that the United States negotiate a neutrality pact with Adolf Hitler."
+    },
+    {
+      "type": "Event",
+      "year": "971",
+      "text": "Using crossbows, Song dynasty troops soundly defeat a war elephant corps of the Southern Han at Shao."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The bathyscaphe USS Trieste breaks a depth record by descending to 10,911 metres (35,797 ft) in the Pacific Ocean."
+    },
+    {
+      "type": "Event",
+      "year": "1899",
+      "text": "The Malolos Constitution is inaugurated, establishing the First Philippine Republic. Emilio Aguinaldo is sworn in as its first president."
+    },
+    {
+      "type": "Event",
       "year": "1942",
       "text": "World War II: The Battle of Rabaul commences Japan's invasion of Australia's Territory of New Guinea."
     },
     {
-      "type": "Event",
-      "year": "2001",
-      "text": "Five people attempt to set themselves on fire in Beijing's Tiananmen Square, an act that many people later claim is staged by the Chinese Communist Party to frame Falun Gong and thus escalate their persecution."
+      "type": "Birth",
+      "year": "1991",
+      "text": "Steve Birnbaum, American soccer player"
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Joe Dowell, American singer (died 2016)"
+      "year": "1925",
+      "text": "Marty Paich, American pianist, composer, producer, and conductor (died 1995)"
     },
     {
       "type": "Event",
-      "year": "1870",
-      "text": "In Montana, U.S. cavalrymen kill 173 Native Americans, mostly women and children, in what becomes known as the Marias Massacre."
+      "year": "1964",
+      "text": "The 24th Amendment to the United States Constitution, prohibiting the use of poll taxes in national elections, is ratified."
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "Georgetown College, the first Catholic university in the United States, is founded in Georgetown, Maryland (now a part of Washington, D.C.) when Bishop John Carroll, Rev. Robert Molyneux, and Rev. John Ashton purchase land for the proposed academy for the education of youth."
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "The Knesset resolves that Jerusalem is the capital of Israel."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Walter M. Miller, Jr., American soldier and author (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Boris Pokrovsky, Russian director and manager (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Filaret Denysenko, Ukrainian religious leader, Patriarch of the Ukrainian Orthodox Church – Kyiv Patriarchate"
     },
     {
       "type": "Event",
@@ -148,8 +93,123 @@
     },
     {
       "type": "Event",
+      "year": "1656",
+      "text": "Blaise Pascal publishes the first of his Lettres provinciales."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "The China–United States trade war begins when President Donald Trump places tariffs on Chinese solar panels and washing machines."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "In Montana, U.S. cavalrymen kill 173 Native Americans, mostly women and children, in what becomes known as the Marias Massacre."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "David Douglas Duncan, American photographer and journalist (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Laurie Mayne, Australian cricketer"
+    },
+    {
+      "type": "Event",
       "year": "1229",
       "text": "The episcopal seat is moved from Nousiainen to Koroinen (located near the current centre of Turku) by the permission of Pope Gregory IX. The date is starting to be considered as the founding of Turku."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "U.S. journalist Daniel Pearl is kidnapped in Karachi, Pakistan and subsequently murdered."
+    },
+    {
+      "type": "Event",
+      "year": "393",
+      "text": "Roman emperor Theodosius I proclaims his eight-year-old son Honorius co-emperor."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Andrei Kanchelskis, Ukrainian-Russian footballer and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Gertrude B. Elion, American biochemist and pharmacologist, Nobel Prize laureate (died 1999)"
+    },
+    {
+      "type": "Death",
+      "year": "1931",
+      "text": "Anna Pavlova, Russian-English ballerina (born 1881)"
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "RMS Republic, a passenger ship of the White Star Line, becomes the first ship to use the CQD distress signal after colliding with another ship, the SS Florida, off the Massachusetts coastline, an event that kills six people. The Republic sinks the next day."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Tom Lewis, Australian politician, 33rd Premier of New South Wales (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Sergey Litvinov, Russian hammer thrower (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Bill Hayden, Australian politician, 21st Governor General of Australia (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The First Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Velykomykhailivka."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Louie Clemente, American drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Keita Bates-Diop, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "Elizabeth Blackwell is awarded her M.D. by the Geneva Medical College of Geneva, New York, becoming the United States' first female doctor."
+    },
+    {
+      "type": "Death",
+      "year": "1976",
+      "text": "Paul Robeson, American actor, singer, and activist (born 1898)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "XXXTentacion, American rapper (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Özhan Canaydın, Turkish basketball player and businessman (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Peter Mackenzie, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "A very weak signal from Pioneer 10 is detected for the last time, but no usable data can be extracted."
     },
     {
       "type": "Event",
@@ -158,68 +218,13 @@
     },
     {
       "type": "Event",
-      "year": "1950",
-      "text": "The Knesset resolves that Jerusalem is the capital of Israel."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "World Airways Flight 30 overshoots the runway at Logan International Airport in Boston, Massachusetts, and crashes into Boston Harbor. Two people are missing and presumed dead."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Tom Carper, American captain and politician, 71st Governor of Delaware"
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "Elizabeth Blackwell is awarded her M.D. by the Geneva Medical College of Geneva, New York, becoming the United States' first female doctor."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Larri Thomas, American actress and dancer (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "Charles Lindbergh testifies before the U.S. Congress and recommends that the United States negotiate a neutrality pact with Adolf Hitler."
-    },
-    {
-      "type": "Event",
       "year": "1968",
       "text": "USS Pueblo (AGER-2) is attacked and seized by the Korean People's Navy."
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "The First Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Velykomykhailivka."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "A 7.9 Mw  earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities."
-    },
-    {
-      "type": "Birth",
-      "year": "1838",
-      "text": "Marianne Cope, German-American nun and saint (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Gary Burton, American musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Laurie Mayne, Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Leon Golub, American painter and academic (died 2004)"
+      "year": "1967",
+      "text": "Milton Keynes (England) is founded as a new town by Order in Council, with a planning brief to become a city of 250,000 people. Its initial designated area enclosed three existing towns and twenty-one villages. The area to be developed was largely farmland, with evidence of continuous settlement dating back to the Bronze Age."
     },
     {
       "type": "Birth",
@@ -228,43 +233,23 @@
     },
     {
       "type": "Event",
-      "year": "2002",
-      "text": "U.S. journalist Daniel Pearl is kidnapped in Karachi, Pakistan and subsequently murdered."
+      "year": "1963",
+      "text": "The Guinea-Bissau War of Independence officially begins when PAIGC guerrilla fighters attack the Portuguese Army stationed in Tite."
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Gil Gerard, American actor (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Jerry Kramer, American football player and sportscaster"
+      "year": "1962",
+      "text": "Boris McGiver, American actor"
     },
     {
       "type": "Event",
-      "year": "1656",
-      "text": "Blaise Pascal publishes the first of his Lettres provinciales."
+      "year": "1982",
+      "text": "World Airways Flight 30 overshoots the runway at Logan International Airport in Boston, Massachusetts, and crashes into Boston Harbor. Two people are missing and presumed dead."
     },
     {
       "type": "Event",
-      "year": "971",
-      "text": "Using crossbows, Song dynasty troops soundly defeat a war elephant corps of the Southern Han at Shao."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Peter Mackenzie, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Larry Hughes, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Yevgeny Lukyanenko, Russian pole vaulter"
+      "year": "2018",
+      "text": "A 7.9 Mw  earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities."
     },
     {
       "type": "Event",
@@ -272,24 +257,29 @@
       "text": "American inventor Walter Frederick Morrison sells the rights to his flying disc to the Wham-O toy company, which later renames it the \"Frisbee\"."
     },
     {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Cécile Ousset, French pianist"
+      "type": "Death",
+      "year": "1978",
+      "text": "Terry Kath, American guitarist and songwriter (born 1946)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "Five people attempt to set themselves on fire in Beijing's Tiananmen Square, an act that many people later claim is staged by the Chinese Communist Party to frame Falun Gong and thus escalate their persecution."
     },
     {
       "type": "Birth",
-      "year": "1889",
-      "text": "Claribel Kendall, American mathematician (died 1965)"
+      "year": "1924",
+      "text": "Frank Lautenberg, American soldier, businessman, and politician (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Greg Ritchie, Australian cricketer"
+      "year": "1953",
+      "text": "Antonio Villaraigosa, American politician, 41st Mayor of Los Angeles"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Trevor Hohns, Australian cricketer"
+      "year": "1943",
+      "text": "Gil Gerard, American actor (died 2025)"
     },
     {
       "type": "Event",
@@ -297,9 +287,19 @@
       "text": "Madeleine Albright becomes the first woman to serve as United States Secretary of State."
     },
     {
-      "type": "Death",
-      "year": "2021",
-      "text": "Larry King, American journalist and talk show host (born 1933)"
+      "type": "Birth",
+      "year": "1979",
+      "text": "Maria Stepanova, Russian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Robin Zander, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Chita Rivera, American actress, singer, and dancer (died 2024)"
     }
   ],
   "source": "Wikipedia"
