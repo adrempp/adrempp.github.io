@@ -3,28 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Evgeny Drattsev, Russian swimmer"
-    },
-    {
-      "type": "Death",
-      "year": "1970",
-      "text": "Caresse Crosby, American fashion designer and publisher, co-founded the Black Sun Press (born 1891)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Bart Gordon, American lawyer"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Scott Kazmir, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "California Gold Rush: James W. Marshall finds gold at Sutter's Mill near Sacramento."
+      "year": "1924",
+      "text": "Brian Bevan, Australian rugby league player (died 1991)"
     },
     {
       "type": "Event",
@@ -33,23 +13,48 @@
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Mary Lou Retton, American gymnast"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The 20th Amendment to the United States Constitution is ratified, changing the beginning and end of terms for all elected federal offices."
-    },
-    {
-      "type": "Death",
-      "year": "1986",
-      "text": "L. Ron Hubbard, American religious leader and author, founded the Church of Scientology (born 1911)"
+      "year": "1917",
+      "text": "Ernest Borgnine, American actor (died 2012)"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Nadezhda Ilyina, Russian athlete and mother of Russian tennis player Nadia Petrova (died 2013)"
+      "year": "1955",
+      "text": "Jim Montgomery, American swimmer"
+    },
+    {
+      "type": "Death",
+      "year": "1989",
+      "text": "Ted Bundy, American serial killer (born 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Brian Cushing, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Kristen Schaal, American actress, voice artist, comedian and writer"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Nik Wallenda, American acrobat"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Matthew Lillard, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Ruth Asawa, American sculptor (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Pernell Roberts, American actor (born 1928)"
     },
     {
       "type": "Event",
@@ -57,14 +62,14 @@
       "text": "The Gregorian calendar is introduced in Russia by decree of the Council of People's Commissars effective February 14 (New Style)."
     },
     {
-      "type": "Event",
-      "year": "1961",
-      "text": "Goldsboro B-52 crash: A bomber carrying two H-bombs breaks up in mid-air over North Carolina. The uranium core of one weapon remains lost."
+      "type": "Birth",
+      "year": "1984",
+      "text": "Scott Kazmir, American baseball player"
     },
     {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Matthew Lillard, American actor"
+      "type": "Event",
+      "year": "2024",
+      "text": "An Ilyushin Il-76 crashes in Russia's Korochansky District, killing all 74 people on board."
     },
     {
       "type": "Event",
@@ -73,208 +78,8 @@
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Mark Eaton, American basketball player and sportscaster (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: The Allies bombard Bangkok, leading Thailand, then under Japanese control, to declare war against the United States and United Kingdom."
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "In Brushaber v. Union Pacific Railroad Co., the Supreme Court of the United States declares the federal income tax constitutional."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Julie Dreyfus, French actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Paula Hawkins, American politician (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Tatyana Ali, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Apple Computer places the Macintosh personal computer on sale in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Doug Kershaw, American fiddle player and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1536",
-      "text": "King Henry VIII of England suffers an accident while jousting, leading to a brain injury that historians say may have influenced his later erratic behaviour and possible impotence."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "The Voyager 2 space probe makes its closest approach to Uranus."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa."
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Notorious serial killer Ted Bundy, with over 30 known victims, is executed in the electric chair at the Florida State Prison."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Maria Tallchief, American ballerina and actress (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "41",
-      "text": "Claudius is proclaimed Roman emperor by the Praetorian Guard after they assassinate the previous emperor, his nephew Caligula."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "David Gerrold, American science fiction screenwriter and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Yakov Smirnoff, Ukrainian-American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Felitciano Zschusschen, Curaçao footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Wilfred Jackson, American animator and composer (died 1988)"
-    },
-    {
-      "type": "Event",
-      "year": "1758",
-      "text": "During the Seven Years' War the leading burghers of Königsberg submit to Elizabeth of Russia, thus forming Russian Prussia (until 1763)."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Nastassja Kinski, German-American actress and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Kia Vaughn, American-Czech basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Beth Hart, American singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Jim Montgomery, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Michael Des Barres, the 26th Marquis Des Barres, English musician, actor, and DJ"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Frederick Ashworth, American admiral (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Tristan Wirfs, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Antony Garrett Lisi, American theoretical physicist"
-    },
-    {
-      "type": "Birth",
       "year": "1965",
       "text": "Carlos Saldanha, Brazilian-American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Aaron Neville, American singer"
-    },
-    {
-      "type": "Event",
-      "year": "1438",
-      "text": "The Council of Basel suspends Pope Eugene IV."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Vito Acconci, American designer (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Ade Edmondson, English comedian and musician"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts."
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Jean Daetwyler, Swiss composer and musician (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "An Ilyushin Il-76 crashes in Russia's Korochansky District, killing all 74 people on board."
-    },
-    {
-      "type": "Death",
-      "year": "1595",
-      "text": "Ferdinand II, Archduke of Austria (born 1529)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Trey Gilder, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Daveed Diggs, American actor, rapper and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Vladislav Ivanov, Russian footballer"
     },
     {
       "type": "Birth",
@@ -283,18 +88,213 @@
     },
     {
       "type": "Birth",
+      "year": "1919",
+      "text": "Leon Kirchner, American composer and educator (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Phil LaMarr, American actor and comedian"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Otto Carius, German lieutenant and pharmacist (born 1922)"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "In Brushaber v. Union Pacific Railroad Co., the Supreme Court of the United States declares the federal income tax constitutional."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Antony Garrett Lisi, American theoretical physicist"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Michio Kaku, American physicist and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Sean McVay, American football coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Ed Helms, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Notorious serial killer Ted Bundy, with over 30 known victims, is executed in the electric chair at the Florida State Prison."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The 20th Amendment to the United States Constitution is ratified, changing the beginning and end of terms for all elected federal offices."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Goldsboro B-52 crash: A bomber carrying two H-bombs breaks up in mid-air over North Carolina. The uranium core of one weapon remains lost."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Evgeny Drattsev, Russian swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "41",
+      "text": "Claudius is proclaimed Roman emperor by the Praetorian Guard after they assassinate the previous emperor, his nephew Caligula."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "DaJuan Summers, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Jo Gartner, Austrian race car driver (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Tristan Wirfs, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1758",
+      "text": "During the Seven Years' War the leading burghers of Königsberg submit to Elizabeth of Russia, thus forming Russian Prussia (until 1763)."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Ray Stehr, Australian rugby league player and coach (died 1983)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: The Allies bombard Bangkok, leading Thailand, then under Japanese control, to declare war against the United States and United Kingdom."
+    },
+    {
+      "type": "Birth",
       "year": "1918",
-      "text": "Gottfried von Einem, Austrian pianist and composer (died 1996)"
+      "text": "Oral Roberts, American evangelist, founded Oral Roberts University and Oral Roberts Evangelistic Association (died 2009)"
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Brian Bevan, Australian rugby league player (died 1991)"
+      "year": "1910",
+      "text": "Doris Haddock, American political activist (died 2010)"
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Ernest Borgnine, American actor (died 2012)"
+      "year": "1951",
+      "text": "Yakov Smirnoff, Ukrainian-American comedian and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Agus Martowardojo, governor of Bank Indonesia"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The Voyager 2 space probe makes its closest approach to Uranus."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Melissa Tkautz, Australian actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Scott Speed, American race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "1438",
+      "text": "The Council of Basel suspends Pope Eugene IV."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Whit Merrifield, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Trey Gilder, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "Apple Computer places the Macintosh personal computer on sale in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Jean Daetwyler, Swiss composer and musician (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Luke Egan, Australian surfer"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Michael Des Barres, the 26th Marquis Des Barres, English musician, actor, and DJ"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Maria Tallchief, American ballerina and actress (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1536",
+      "text": "King Henry VIII of England suffers an accident while jousting, leading to a brain injury that historians say may have influenced his later erratic behaviour and possible impotence."
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "California Gold Rush: James W. Marshall finds gold at Sutter's Mill near Sacramento."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Lynda Weinman, American businesswoman and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Gus Mortson, Canadian ice hockey player and coach (died 2015)"
     },
     {
       "type": "Event",
