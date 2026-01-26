@@ -3,278 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Apostolos Giannou, Greek-Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "The spacecraft Clementine by BMDO and NASA is launched."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Michael Trevino, American actor"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Richard McBrien, American priest, theologian, and academic (born 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1704",
-      "text": "The Apalachee massacre: A combined British and Muscogee force from the Province of Carolina destroys the main fortified mission of Ayubale, breaking Spain's hold on Spanish Florida."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Billy Bailey becomes the last person to be hanged in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Dick McGuire, American basketball player and coach (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Florence Mills, American singer, dancer, and actress (died 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1819",
-      "text": "University of Virginia chartered by Commonwealth of Virginia, with Thomas Jefferson one of its founders."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "Thomas Goldsmith Jr. files a patent for a \"Cathode Ray Tube Amusement Device\", the first ever electronic game."
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "The Wedding March by Felix Mendelssohn is played at the marriage of Queen Victoria's daughter, Victoria, and Friedrich of Prussia, and becomes a popular wedding processional."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Thailand declares war on the United States and United Kingdom."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "The Norwegian rocket incident: Russia almost launches a nuclear attack after it mistakes Black Brant XII, a Norwegian research rocket, for a US Trident missile."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Eduard Shevardnadze, Georgian general and politician, 2nd President of Georgia (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "During a historic visit to Cuba, Pope John Paul II demands political reforms and the release of political prisoners while condemning US attempts to isolate the country."
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "Richard Strauss's opera Elektra receives its debut performance at the Dresden State Opera."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Jenifer Lewis, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Sally Starr, American actress and television host (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "In Washington, D.C., US President John F. Kennedy delivers the first live presidential television news conference."
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "William Strickland, American conductor and organist (died 1991)"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Jacques Maisonrouge, French businessman (born 1924)"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Blue Ribbon Sports, which would later become Nike, is founded by University of Oregon track and field athletes."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The United Mine Workers rejoins the American Federation of Labor."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "An Ariane 5 rocket is launched carrying SES-14, Al Yah 3, and NASA's Global-scale Observations of the Limb and Disk, but the satellites end up in the wrong orbit."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Ukrainian People's Republic declares independence from Soviet Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Elizabeth Allen, American actress and singer (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Sleepy John Estes, American singer-songwriter and guitarist (died 1977)"
-    },
-    {
-      "type": "Birth",
-      "year": "1858",
-      "text": "Mikimoto Kōkichi, Japanese businessman (died 1954)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Steve Prefontaine, American runner (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Husein Mehmedov, Bulgarian-Turkish wrestler and coach (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "41",
-      "text": "After a night of negotiation, Claudius is accepted as Roman emperor by the Senate."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Walt Disney Productions released the animated feature One Hundred and One Dalmatians, based on Dodie Smith's 1956 children's novel The Hundred and One Dalmatians."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Etta James, American singer (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Milt Stegall, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Jay Briscoe, American wrestler (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1348",
-      "text": "A strong earthquake strikes the South Alpine region of Friuli in modern Italy, causing considerable damage to buildings as far away as Rome."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Don Maynard, American football player (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Pope John Paul II starts his first official papal visits outside Italy to The Bahamas, Dominican Republic, and Mexico."
-    },
-    {
-      "type": "Death",
-      "year": "1958",
-      "text": "Robert R. Young, American businessman and financier (born 1897)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Benny Golson, American saxophonist and composer (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Avianca Flight 052 crashes in Cove Neck, New York, killing 73."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Alayna Burns, Australian track cyclist"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Five people are shot outside the CIA Headquarters in Langley, Virginia. Two are killed and three wounded."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Brent Celek, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "The British Parliament passes the Constitutional Act of 1791 and splits the old Province of Quebec into Upper Canada and Lower Canada."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Peter Tatchell, Australian-English journalist and activist"
-    },
-    {
-      "type": "Event",
-      "year": "1585",
-      "text": "Walter Raleigh is knighted, shortly after renaming North America region \"Virginia\", in honor of Elizabeth I, Queen of England, sometimes referred to as the \"Virgin Queen\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1783",
-      "text": "William Colgate, English-American businessman and philanthropist, founded Colgate-Palmolive (died 1857)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Mark Schlereth, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1813",
-      "text": "J. Marion Sims, American gynecologist and physician (died 1883)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Ariana DeBose, American actress, singer, and dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Finnish Defence Forces (The White Guards) are established as the official army of independent Finland, and Baron C. G. E. Mannerheim is appointed its Commander-in-Chief."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "The National Association of Broadcasters in the United States reacts to the \"payola\" scandal by threatening fines for any disc jockeys who accept money for playing particular records."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Dean Jones, American actor and singer (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Hartley Sawyer, American actor"
+      "year": "1459",
+      "text": "Paul Hofhaimer, Austrian organist and composer (died 1537)"
     },
     {
       "type": "Event",
@@ -283,8 +13,183 @@
     },
     {
       "type": "Event",
-      "year": "2015",
-      "text": "A clash in Mamasapano, Maguindanao in the Philippines kills 44 members of Special Action Force (SAF), at least 18 from the Moro Islamic Liberation Front and five from the Bangsamoro Islamic Freedom Fighters."
+      "year": "1819",
+      "text": "University of Virginia chartered by Commonwealth of Virginia, with Thomas Jefferson one of its founders."
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Pope John Paul II starts his first official papal visits outside Italy to The Bahamas, Dominican Republic, and Mexico."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Avianca Flight 052 crashes in Cove Neck, New York, killing 73."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "An Ariane 5 rocket is launched carrying SES-14, Al Yah 3, and NASA's Global-scale Observations of the Limb and Disk, but the satellites end up in the wrong orbit."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "In Washington, D.C., US President John F. Kennedy delivers the first live presidential television news conference."
+    },
+    {
+      "type": "Birth",
+      "year": "1783",
+      "text": "William Colgate, English-American businessman and philanthropist, founded Colgate-Palmolive (died 1857)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Noah Hanifin, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "Richard Strauss's opera Elektra receives its debut performance at the Dresden State Opera."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "The spacecraft Clementine by BMDO and NASA is launched."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Lou Groza, American football player and coach (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Michael Trevino, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Finnish Defence Forces (The White Guards) are established as the official army of independent Finland, and Baron C. G. E. Mannerheim is appointed its Commander-in-Chief."
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "Billy Bailey becomes the last person to be hanged in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Thailand declares war on the United States and United Kingdom."
+    },
+    {
+      "type": "Death",
+      "year": "1990",
+      "text": "Ava Gardner, American actress (born 1922)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Leiji Matsumoto, Japanese author, illustrator, and animator (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "During a historic visit to Cuba, Pope John Paul II demands political reforms and the release of political prisoners while condemning US attempts to isolate the country."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Blue Ribbon Sports, which would later become Nike, is founded by University of Oregon track and field athletes."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The National Association of Broadcasters in the United States reacts to the \"payola\" scandal by threatening fines for any disc jockeys who accept money for playing particular records."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Invasion of Iraq: A group of people leave London, England, for Baghdad, Iraq, to serve as human shields, intending to prevent the U.S.-led coalition troops from bombing certain locations."
+    },
+    {
+      "type": "Birth",
+      "year": "1822",
+      "text": "Charles Reed Bishop, American businessman, philanthropist, and politician, founded the Bishop Museum (died 1915)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Ukrainian People's Republic declares independence from Soviet Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Byron Beck, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Patrick Willis, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Husein Mehmedov, Bulgarian-Turkish wrestler and coach (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1882",
+      "text": "Virginia Woolf, English novelist, essayist, short story writer, and critic (died 1941)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Shotaro Ishinomori, Japanese author and illustrator (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Michelle McCool, American wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Shirley Ardell Mason, American psychiatric patient (died 1998)"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "The Norwegian rocket incident: Russia almost launches a nuclear attack after it mistakes Black Brant XII, a Norwegian research rocket, for a US Trident missile."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Sally Starr, American actress and television host (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "1914",
+      "text": "Frank Avery Hutchins, American librarian and educator (born 1851)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Apostolos Giannou, Greek-Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1858",
+      "text": "The Wedding March by Felix Mendelssohn is played at the marriage of Queen Victoria's daughter, Victoria, and Friedrich of Prussia, and becomes a popular wedding processional."
+    },
+    {
+      "type": "Event",
+      "year": "1348",
+      "text": "A strong earthquake strikes the South Alpine region of Friuli in modern Italy, causing considerable damage to buildings as far away as Rome."
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "The British Parliament passes the Constitutional Act of 1791 and splits the old Province of Quebec into Upper Canada and Lower Canada."
     },
     {
       "type": "Event",
@@ -292,14 +197,109 @@
       "text": "Alexander Graham Bell inaugurates U.S. transcontinental telephone service, speaking from New York to Thomas Watson in San Francisco."
     },
     {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Geoff Johns, American author, screenwriter, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "A clash in Mamasapano, Maguindanao in the Philippines kills 44 members of Special Action Force (SAF), at least 18 from the Moro Islamic Liberation Front and five from the Bangsamoro Islamic Freedom Fighters."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Andrew Harris, American politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Chris Chelios, American ice hockey player and manager"
+    },
+    {
       "type": "Event",
       "year": "1949",
       "text": "The first Emmy Awards are presented in the United States; the venue is the Hollywood Athletic Club."
     },
     {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Alicia Keys, American singer-songwriter, pianist, and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Samuel T. Cohen, American physicist and academic (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Sleepy John Estes, American singer-songwriter and guitarist (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Stephen Pate, Australian cyclist"
+    },
+    {
       "type": "Event",
-      "year": "2003",
-      "text": "Invasion of Iraq: A group of people leave London, England, for Baghdad, Iraq, to serve as human shields, intending to prevent the U.S.-led coalition troops from bombing certain locations."
+      "year": "1947",
+      "text": "Thomas Goldsmith Jr. files a patent for a \"Cathode Ray Tube Amusement Device\", the first ever electronic game."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Five people are shot outside the CIA Headquarters in Langley, Virginia. Two are killed and three wounded."
+    },
+    {
+      "type": "Event",
+      "year": "1585",
+      "text": "Walter Raleigh is knighted, shortly after renaming North America region \"Virginia\", in honor of Elizabeth I, Queen of England, sometimes referred to as the \"Virgin Queen\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Peter Tatchell, Australian-English journalist and activist"
+    },
+    {
+      "type": "Death",
+      "year": "1881",
+      "text": "Konstantin Thon, Russian architect, designed the Grand Kremlin Palace and Cathedral of Christ the Saviour (born 1794)"
+    },
+    {
+      "type": "Event",
+      "year": "41",
+      "text": "After a night of negotiation, Claudius is accepted as Roman emperor by the Senate."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Tobe Hooper, American director, producer, and screenwriter (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Walt Disney Productions released the animated feature One Hundred and One Dalmatians, based on Dodie Smith's 1956 children's novel The Hundred and One Dalmatians."
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "The United Mine Workers rejoins the American Federation of Labor."
+    },
+    {
+      "type": "Birth",
+      "year": "1824",
+      "text": "Michael Madhusudan Dutt, Indian poet and playwright (died 1873)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Maria Kirilenko, Russian tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "1704",
+      "text": "The Apalachee massacre: A combined British and Muscogee force from the Province of Carolina destroys the main fortified mission of Ayubale, breaking Spain's hold on Spanish Florida."
     }
   ],
   "source": "Wikipedia"
