@@ -3,183 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1904",
-      "text": "James J. Gibson, American psychologist and academic (died 1979)"
-    },
-    {
-      "type": "Event",
-      "year": "1820",
-      "text": "A Russian expedition led by Fabian Gottlieb von Bellingshausen and Mikhail Petrovich Lazarev discovers the Antarctic continent, approaching the Antarctic coast."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Fred Taylor, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "Nuclear testing at the Nevada Test Site begins with Operation Ranger."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Tim Beckham, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Through cooperation between the U.S. and Canadian governments, six American diplomats secretly escape hostilities in Iran in the culmination of the Canadian Caper."
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "Six days after his death Lenin's body is carried into a specially erected mausoleum."
-    },
-    {
-      "type": "Birth",
-      "year": "1869",
-      "text": "Will Marion Cook, American violinist and composer (died 1944)"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Hyman G. Rickover, American admiral (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Bryant Young, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Alan Cumming, Scottish-American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1759",
-      "text": "Spanish forces clash with indigenous Huilliches of southern Chile in the battle of Río Bueno."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Reynaldo Rey, American actor and screenwriter (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Gavin Floyd, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Anton Shunin, Russian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "The 2009 Honduran constitutional crisis ends when Porfirio Lobo Sosa becomes the new President of Honduras."
-    },
-    {
-      "type": "Death",
-      "year": "1956",
-      "text": "Erich Kleiber, Austrian conductor and director (born 1890)"
-    },
-    {
-      "type": "Event",
-      "year": "1695",
-      "text": "Mustafa II becomes the Ottoman sultan and Caliph of Islam in Istanbul on the death of Ahmed II. Mustafa rules until his abdication in 1703."
-    },
-    {
-      "type": "Birth",
-      "year": "1821",
-      "text": "John Chivington, American colonel and pastor (died 1892)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "John Roberts, American lawyer and judge, 17th Chief Justice of the United States"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolutionary War: Henry Knox's \"noble train of artillery\" arrives in Cambridge, Massachusetts."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Cold War: The Soviet Union, the United States, and the United Kingdom sign the Outer Space Treaty in Washington, D.C., banning deployment of nuclear weapons in space, and limiting the usage of the Moon and other celestial bodies to peaceful purposes."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Bradley Clyde, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1701",
-      "text": "Johann Nikolaus von Hontheim, German historian and theologian (died 1790)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The Paris Peace Accords officially ends the Vietnam War. Colonel William Nolde is killed in action becoming the conflict's last recorded American combat casualty."
-    },
-    {
-      "type": "Event",
-      "year": "417",
-      "text": "Pope Innocent I declares Pelagius and his follower Caelestius excommunicated unless they return to orthodoxy."
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "John Eccles, Australian-Swiss neurophysiologist and academic, Nobel Prize laureate (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "A naming ceremony for the chemical element tennessine takes place in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1343",
-      "text": "Pope Clement VI issues the papal bull Unigenitus, laying out the scriptural justification for indulgences, identifying only the Pope and episcopate as capable of accessing the treasury of merit, and establishing a jubilee year every half century."
-    },
-    {
-      "type": "Event",
-      "year": "1785",
-      "text": "The University of Georgia is founded, the first state-chartered public university in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1874",
-      "text": "Modest Mussorgsky's opera Boris Godunov premieres in Mariinsky Theatre in St.Petersburg."
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Keith Olbermann, American journalist and author"
+      "year": "1885",
+      "text": "Jerome Kern, American composer and songwriter (died 1945)"
     },
     {
       "type": "Event",
@@ -188,18 +13,13 @@
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Tracy Lawrence, American country singer"
+      "year": "1966",
+      "text": "Tamlyn Tomita, Japanese-American actress and singer"
     },
     {
-      "type": "Event",
-      "year": "1918",
-      "text": "Beginning of the Finnish Civil War."
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "Boshin War: The Battle of Toba–Fushimi begins, between forces of the Tokugawa shogunate and pro-Imperial factions; it will end in defeat for the shogunate, and is a pivotal point in the Meiji Restoration."
+      "type": "Birth",
+      "year": "1996",
+      "text": "Braeden Lemasters, American actor, musician, and singer"
     },
     {
       "type": "Birth",
@@ -208,48 +28,8 @@
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Narciso Rodriguez, American fashion designer"
-    },
-    {
-      "type": "Birth",
-      "year": "1795",
-      "text": "Eli Whitney Blake, American engineer, invented the Mortise lock (died 1886)"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Germany first observes the International Holocaust Remembrance Day."
-    },
-    {
-      "type": "Death",
-      "year": "1970",
-      "text": "Marietta Blau, Austrian physicist and academic (born 1894)"
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. aureus bacterium, resulting in the deaths of twelve children in the Australian town of Bundaberg."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Julia Cumberlege, Baroness Cumberlege, English businesswoman and politician"
-    },
-    {
-      "type": "Death",
-      "year": "1629",
-      "text": "Hieronymus Praetorius, German organist and composer (born 1560)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Gillian Gilbert, English musician, songwriter, and singer"
+      "year": "1972",
+      "text": "Bryant Young, American football player and coach"
     },
     {
       "type": "Event",
@@ -258,8 +38,93 @@
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Boris Shakhlin, Russian-Ukrainian gymnast (died 2008)"
+      "year": "1990",
+      "text": "Tim Beckham, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "A naming ceremony for the chemical element tennessine takes place in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "417",
+      "text": "Pope Innocent I declares Pelagius and his follower Caelestius excommunicated unless they return to orthodoxy."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Cold War: The Soviet Union, the United States, and the United Kingdom sign the Outer Space Treaty in Washington, D.C., banning deployment of nuclear weapons in space, and limiting the usage of the Moon and other celestial bodies to peaceful purposes."
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "Boshin War: The Battle of Toba–Fushimi begins, between forces of the Tokugawa shogunate and pro-Imperial factions; it will end in defeat for the shogunate, and is a pivotal point in the Meiji Restoration."
+    },
+    {
+      "type": "Birth",
+      "year": "1821",
+      "text": "John Chivington, American colonel and pastor (died 1892)"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Steve Demeter, American baseball player, coach, and manager (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Mimi Rogers, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The Paris Peace Accords officially ends the Vietnam War. Colonel William Nolde is killed in action becoming the conflict's last recorded American combat casualty."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Susanna Thompson, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Mohamed Al-Fayed, Egyptian-Swiss businessman (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1814",
+      "text": "Eugène Viollet-le-Duc, French architect, designed the Lausanne Cathedral (died 1879)"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Skitch Henderson, American pianist, composer, and conductor (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Samuel C. C. Ting, American physicist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "1343",
+      "text": "Pope Clement VI issues the papal bull Unigenitus, laying out the scriptural justification for indulgences, identifying only the Pope and episcopate as capable of accessing the treasury of merit, and establishing a jubilee year every half century."
+    },
+    {
+      "type": "Event",
+      "year": "1820",
+      "text": "A Russian expedition led by Fabian Gottlieb von Bellingshausen and Mikhail Petrovich Lazarev discovers the Antarctic continent, approaching the Antarctic coast."
     },
     {
       "type": "Event",
@@ -268,18 +133,73 @@
     },
     {
       "type": "Birth",
+      "year": "1795",
+      "text": "Eli Whitney Blake, American engineer, invented the Mortise lock (died 1886)"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "Six days after his death Lenin's body is carried into a specially erected mausoleum."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "William Seawell, American general (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Peter Laird, American author and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Elmore James, American singer-songwriter and guitarist (died 1963)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Bradley Clyde, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Valyantsin Byalkevich, Belarusian footballer and manager (died 2014)"
+    },
+    {
+      "type": "Death",
+      "year": "1880",
+      "text": "Edward Middleton Barry, English architect and academic, co-designed the Halifax Town Hall and the Royal Opera House (born 1830)"
+    },
+    {
+      "type": "Death",
       "year": "1951",
-      "text": "Seth Justman, American keyboard player and songwriter"
+      "text": "Carl Gustaf Emil Mannerheim, Finnish field marshal and politician, 6th President of Finland (born 1867)"
     },
     {
       "type": "Birth",
-      "year": "1814",
-      "text": "Eugène Viollet-le-Duc, French architect, designed the Lausanne Cathedral (died 1879)"
+      "year": "1926",
+      "text": "Fritz Spiegl, Austrian flute player and journalist (died 2003)"
     },
     {
-      "type": "Birth",
-      "year": "1832",
-      "text": "Carl Friedrich Schmidt, Estonian-Russian geologist and botanist (died 1908)"
+      "type": "Event",
+      "year": "2010",
+      "text": "The 2009 Honduran constitutional crisis ends when Porfirio Lobo Sosa becomes the new President of Honduras."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Through cooperation between the U.S. and Canadian governments, six American diplomats secretly escape hostilities in Iran in the culmination of the Canadian Caper."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Beginning of the Finnish Civil War."
     },
     {
       "type": "Event",
@@ -287,9 +207,49 @@
       "text": "The first selections for the National Recording Registry are announced by the Library of Congress."
     },
     {
+      "type": "Death",
+      "year": "2018",
+      "text": "Mort Walker, American cartoonist (born 1923)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Hyman G. Rickover, American admiral (died 1986)"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through."
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: Henry Knox's \"noble train of artillery\" arrives in Cambridge, Massachusetts."
+    },
+    {
       "type": "Birth",
       "year": "1959",
-      "text": "Cris Collinsworth, American football player and sportscaster"
+      "text": "Keith Olbermann, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "1785",
+      "text": "The University of Georgia is founded, the first state-chartered public university in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "Nuclear testing at the Nevada Test Site begins with Operation Ranger."
+    },
+    {
+      "type": "Event",
+      "year": "1759",
+      "text": "Spanish forces clash with indigenous Huilliches of southern Chile in the battle of Río Bueno."
     },
     {
       "type": "Event",
@@ -298,8 +258,48 @@
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Jerry Buss, American chemist and businessman (died 2013)"
+      "year": "1972",
+      "text": "Josh Randall, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1603",
+      "text": "Sir Harbottle Grimston, 2nd Baronet, English lawyer and politician, Speaker of the House of Commons (died 1685)"
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. aureus bacterium, resulting in the deaths of twelve children in the Australian town of Bundaberg."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Donna Reed, American actress (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1808",
+      "text": "David Strauss, German theologian and author (died 1874)"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "Germany first observes the International Holocaust Remembrance Day."
+    },
+    {
+      "type": "Event",
+      "year": "1874",
+      "text": "Modest Mussorgsky's opera Boris Godunov premieres in Mariinsky Theatre in St.Petersburg."
+    },
+    {
+      "type": "Event",
+      "year": "1695",
+      "text": "Mustafa II becomes the Ottoman sultan and Caliph of Islam in Istanbul on the death of Ahmed II. Mustafa rules until his abdication in 1703."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Bridget Fonda, American actress"
     }
   ],
   "source": "Wikipedia"
