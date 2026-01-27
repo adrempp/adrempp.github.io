@@ -3,38 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Eddie Van Halen, Dutch-American guitarist, songwriter, and producer (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Vince Carter, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1880",
-      "text": "Douglas MacArthur, American general, Medal of Honor recipient (died 1964)"
-    },
-    {
-      "type": "Birth",
       "year": "1958",
-      "text": "Ellen DeGeneres, American comedian, actress, and talk show host"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Cleven \"Goodie\" Goudeau, American art director and cartoonist (born 1932)"
+      "text": "Anita Baker, American singer-songwriter"
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "MarShon Brooks, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Justin Gimelstob, American tennis player and coach"
+      "year": "1986",
+      "text": "Mustapha Yatabaré, French-Malian footballer"
     },
     {
       "type": "Event",
@@ -43,8 +18,8 @@
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Kevin McCarthy, American politician, 55th Speaker of the United States House of Representatives"
+      "year": "1983",
+      "text": "Eric Werner, American ice hockey player"
     },
     {
       "type": "Event",
@@ -52,39 +27,44 @@
       "text": "Reconstruction Era: Virginia is readmitted to the Union."
     },
     {
-      "type": "Birth",
-      "year": "1891",
-      "text": "Frank Costello, Italian-American mob boss (died 1973)"
+      "type": "Event",
+      "year": "1856",
+      "text": "First Battle of Seattle: Marines from the USS Decatur drive off Native American attackers after all-day battle with settlers."
     },
     {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Darya Astakhova, Russian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Ancel Keys, American physiologist and nutritionist (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Philip José Farmer, American author (died 2009)"
+      "type": "Death",
+      "year": "1990",
+      "text": "Lewis Mumford, American sociologist and historian (born 1895)"
     },
     {
       "type": "Event",
-      "year": "1942",
-      "text": "World War II: The first United States forces arrive in Europe, landing in Northern Ireland."
+      "year": "1863",
+      "text": "American Civil War: General Ambrose Burnside is relieved of command of the Army of the Potomac after the disastrous Fredericksburg campaign. He is replaced by Joseph Hooker."
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Kirk Franklin, American singer-songwriter and producer"
+      "year": "1994",
+      "text": "Montrezl Harrell, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Gerald Green, American basketball player"
+      "year": "1863",
+      "text": "Charles Wade, Australian politician, 17th Premier of New South Wales (died 1922)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Ryan Hoffman, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Dan Bailey, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Marc Mitscher, American admiral and pilot (died 1947)"
     },
     {
       "type": "Event",
@@ -93,123 +73,18 @@
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Susan Friedlander, American mathematician"
-    },
-    {
-      "type": "Event",
-      "year": "1930",
-      "text": "The Indian National Congress declares 26 January as Independence Day or as the day for Poorna Swaraj (\"Complete Independence\") which occurred 17 years later."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Jules Feiffer, American cartoonist, playwright, screenwriter, and educator (died 2025)"
-    },
-    {
-      "type": "Death",
-      "year": "2004",
-      "text": "Fred Haas, American golfer (born 1916)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "A Sikorsky S-76B flying from John Wayne Airport to Camarillo Airport crashes in Calabasas, 30 miles west of Los Angeles, killing all nine people on board, including five-time NBA champion Kobe Bryant and his daughter Gianna Bryant."
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Viktor Schreckengost, American sculptor and designer (born 1906)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Sara Rue, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Annette Strauss, American philanthropist and politician, Mayor of Dallas (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Günther Reindorff, Russian-Estonian graphic designer and illustrator (died 1974)"
-    },
-    {
-      "type": "Birth",
       "year": "1949",
       "text": "Jonathan Carroll, American author"
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Tim May, Australian cricketer"
+      "year": "1990",
+      "text": "Brandon Bolden, American football player"
     },
     {
-      "type": "Event",
-      "year": "1950",
-      "text": "The Constitution of India comes into force, forming a republic. Rajendra Prasad is sworn in as the first President of India. Observed as Republic Day in India."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The 41-acre (17 ha) Chain Island is listed for sale by the California State Lands Commission, with a minimum bid of $5,226."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Bob Nieman, American baseball player and scout (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "José Azcona del Hoyo, Honduran businessman and politician, President of Honduras (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Lewinsky scandal: On American television, U.S. President Bill Clinton denies having had \"sexual relations\" with former White House intern Monica Lewinsky."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Guo Jian, Chinese-Australian painter, sculptor, and photographer"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Joseph Bacon Fraser Jr., American architect and businessman, co-founded the Sea Pines Company (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Donald Sarason, American mathematician (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Spanish Civil War: Catalonia Offensive: Troops loyal to nationalist General Francisco Franco and aided by Italy take Barcelona."
-    },
-    {
-      "type": "Event",
-      "year": "1531",
-      "text": "The 6.4–7.1 Mw Lisbon earthquake kills about thirty thousand people."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Paul Johansson, American-Canadian actor"
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "First Battle of Seattle: Marines from the USS Decatur drive off Native American attackers after all-day battle with settlers."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "The three Beaumont children disappear from a beach in Glenelg, South Australia, resulting in one of the country's largest-ever police investigations."
+      "type": "Death",
+      "year": "1886",
+      "text": "David Rice Atchison, American general and politician (born 1807)"
     },
     {
       "type": "Event",
@@ -218,28 +93,53 @@
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Henry Jaglom, English-American director and screenwriter (died 2025)"
+      "year": "1953",
+      "text": "Anders Fogh Rasmussen, Danish politician and diplomat, 39th Prime Minister of Denmark"
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "Jimmy Van Heusen, American pianist and composer (died 1990)"
+      "year": "1991",
+      "text": "Manti Te'o, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "Barbara Hale, American actress (born 1922)"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "The Constitution of India comes into force, forming a republic. Rajendra Prasad is sworn in as the first President of India. Observed as Republic Day in India."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Charles Lane, American actor and singer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Anahid Ajemian, American violinist (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Lewinsky scandal: On American television, U.S. President Bill Clinton denies having had \"sexual relations\" with former White House intern Monica Lewinsky."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Vince Carter, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1930",
+      "text": "The Indian National Congress declares 26 January as Independence Day or as the day for Poorna Swaraj (\"Complete Independence\") which occurred 17 years later."
     },
     {
       "type": "Event",
       "year": "1915",
       "text": "The Rocky Mountain National Park is established by an act of the U.S. Congress."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Anita Baker, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: General Ambrose Burnside is relieved of command of the Army of the Potomac after the disastrous Fredericksburg campaign. He is replaced by Joseph Hooker."
     },
     {
       "type": "Event",
@@ -248,23 +148,28 @@
     },
     {
       "type": "Event",
-      "year": "2015",
-      "text": "Syrian civil war: The People's Protection Units (YPG) recaptures the city of Kobanî from the Islamic State of Iraq and the Levant (ISIL), marking a turning point in the Siege of Kobanî."
+      "year": "1531",
+      "text": "The 6.4–7.1 Mw Lisbon earthquake kills about thirty thousand people."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Henry Jaglom, English-American director and screenwriter (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Eddie Van Halen, Dutch-American guitarist, songwriter, and producer (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Kazushige Nagashima, Japanese baseball player and sportscaster"
     },
     {
       "type": "Event",
-      "year": "1986",
-      "text": "The Ugandan government of Tito Okello is overthrown by the National Resistance Army, led by Yoweri Museveni."
-    },
-    {
-      "type": "Event",
-      "year": "1837",
-      "text": "Michigan is admitted as the 26th U.S. state."
-    },
-    {
-      "type": "Event",
-      "year": "1564",
-      "text": "The Council of Trent establishes an official distinction between Roman Catholicism and Protestantism."
+      "year": "1966",
+      "text": "The three Beaumont children disappear from a beach in Glenelg, South Australia, resulting in one of the country's largest-ever police investigations."
     },
     {
       "type": "Event",
@@ -273,23 +178,38 @@
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Jörg Haider, Austrian lawyer and politician, Governor of Carinthia (died 2008)"
+      "year": "1924",
+      "text": "Annette Strauss, American philanthropist and politician, Mayor of Dallas (died 1998)"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Adam Crozier, Scottish businessman"
+      "year": "1954",
+      "text": "Kim Hughes, Australian cricketer"
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Governor of Massachusetts John Albion Andrew receives permission from the Secretary of War to raise a militia organization for men of African descent."
+      "year": "2020",
+      "text": "A Sikorsky S-76B flying from John Wayne Airport to Camarillo Airport crashes in Calabasas, 30 miles west of Los Angeles, killing all nine people on board, including five-time NBA champion Kobe Bryant and his daughter Gianna Bryant."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The Ugandan government of Tito Okello is overthrown by the National Resistance Army, led by Yoweri Museveni."
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Angela Davis, American activist, academic, and author"
+      "year": "1935",
+      "text": "Henry Jordan, American football player (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Robert Halperin, American yachtsman (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Justin Gimelstob, American tennis player and coach"
     },
     {
       "type": "Event",
@@ -297,9 +217,89 @@
       "text": "American Civil War: The state of Louisiana secedes from the Union."
     },
     {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Roger Landry, Canadian businessman and publisher (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "Wilder Penfield, American-Canadian neurosurgeon and academic (died 1976)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "Syrian civil war: The People's Protection Units (YPG) recaptures the city of Kobanî from the Islamic State of Iraq and the Levant (ISIL), marking a turning point in the Siege of Kobanî."
+    },
+    {
       "type": "Event",
       "year": "1788",
       "text": "The British First Fleet, led by Arthur Phillip, sails into Port Jackson (Sydney Harbour) to establish Sydney, the first permanent European settlement on Australia. Commemorated as Australia Day."
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "Michigan is admitted as the 26th U.S. state."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Rex Connor, Australian politician (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Gerald Green, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Joseph Bacon Fraser Jr., American architect and businessman, co-founded the Sea Pines Company (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Mayu Shinjo, Japanese author and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Richard Portnow, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: The first United States forces arrive in Europe, landing in Northern Ireland."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Mercedes Moné, American wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Spanish Civil War: Catalonia Offensive: Troops loyal to nationalist General Francisco Franco and aided by Italy take Barcelona."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Governor of Massachusetts John Albion Andrew receives permission from the Secretary of War to raise a militia organization for men of African descent."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "The 41-acre (17 ha) Chain Island is listed for sale by the California State Lands Commission, with a minimum bid of $5,226."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Ellen DeGeneres, American comedian, actress, and talk show host"
+    },
+    {
+      "type": "Event",
+      "year": "1564",
+      "text": "The Council of Trent establishes an official distinction between Roman Catholicism and Protestantism."
     }
   ],
   "source": "Wikipedia"
