@@ -2,264 +2,14 @@
   "date": "2026-02-03",
   "items": [
     {
-      "type": "Birth",
-      "year": "1862",
-      "text": "James Clark McReynolds, American lawyer and judge (died 1946)"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "New York Police Officer Frank Serpico is shot during a drug bust in Brooklyn and survives to later testify against police corruption."
-    },
-    {
-      "type": "Birth",
-      "year": "1736",
-      "text": "Johann Georg Albrechtsberger, Austrian composer and theorist (died 1809)"
-    },
-    {
-      "type": "Birth",
-      "year": "1824",
-      "text": "Ranald MacDonald, American explorer and educator (died 1894)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Grant Goldman, Australian radio and television host (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Astronaut Eileen Collins becomes the first woman to pilot the Space Shuttle as mission STS-63 gets underway from Kennedy Space Center in Florida."
-    },
-    {
-      "type": "Event",
-      "year": "1690",
-      "text": "The colony of Massachusetts issues the first paper money in the Americas."
-    },
-    {
-      "type": "Birth",
-      "year": "1811",
-      "text": "Horace Greeley, American journalist and politician (died 1872)"
-    },
-    {
-      "type": "Birth",
-      "year": "1842",
-      "text": "Sidney Lanier, American composer and poet (died 1881)"
-    },
-    {
-      "type": "Death",
-      "year": "1955",
-      "text": "Vasily Blokhin, Russian general (born 1895)"
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "Giuseppe Moretti, Italian sculptor, designed the Vulcan statue (died 1935)"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: During the Gilbert and Marshall Islands campaign, U.S. Army and Marine forces seize Kwajalein Atoll from the defending Japanese garrison."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "The United States Air Force begins Operation Looking Glass, and over the next 30 years, a \"Doomsday Plane\" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Andrei Kostitsyn, Belarusian ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "World War I: The American entry into World War I begins when diplomatic relations with Germany are severed due to its unrestricted submarine warfare."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded."
-    },
-    {
-      "type": "Event",
-      "year": "1716",
-      "text": "The 1716 Algiers earthquake sequence began with an Mw  7.0 mainshock that caused severe damage and killed 20,000 in Algeria."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Pretty Boy Floyd, American gangster (died 1934)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Tim Heidecker, American actor, comedian, and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Georg Trakl, Austrian pharmacist and poet (died 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Michael Cimino, American director, producer, and screenwriter (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1807",
-      "text": "Joseph E. Johnston, American general and politician (died 1891)"
-    },
-    {
-      "type": "Birth",
-      "year": "1843",
-      "text": "William Cornelius Van Horne, American-Canadian businessman (died 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Beau Biden, American soldier, lawyer, and politician, 44th Attorney General of Delaware (died 2015)"
-    },
-    {
       "type": "Event",
       "year": "1913",
       "text": "The Sixteenth Amendment to the United States Constitution is ratified, authorizing the Federal government to impose and collect an income tax."
     },
     {
       "type": "Event",
-      "year": "1998",
-      "text": "Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy."
-    },
-    {
-      "type": "Birth",
-      "year": "1747",
-      "text": "Samuel Osgood, American soldier and politician, 1st United States Postmaster General (died 1813)"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Doctor John Buster and a research team at Harbor-UCLA Medical Center in the United States announce history's first embryo transfer, from one woman to another resulting in a live birth."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Matthew Moy, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "Spain–United States relations are first established."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. \"The Big Bopper\" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Sixty-five people are killed when American Airlines Flight 320 crashes into the East River on approach to LaGuardia Airport in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Melanie, American singer-songwriter (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Space Shuttle program: STS-60 is launched, carrying Sergei Krikalev, the first Russian cosmonaut to fly aboard the Shuttle."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Joey Bishop, American actor and producer (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Jacques Soustelle, French anthropologist and politician (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "1706",
-      "text": "During the Battle of Fraustadt Swedish forces defeat a superior Saxon-Polish-Russian force by deploying a double envelopment."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Isla Fisher, Omani-Australian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1821",
-      "text": "Elizabeth Blackwell, American physician and educator (died 1910)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Tyler Huntley, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1867",
-      "text": "Charles Henry Turner, American biologist, educator and zoologist (died 1923)"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "After a stroke two weeks previously, South African President P. W. Botha resigns as leader of the National Party, but stays on as president for six more months."
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Zurab Zhvania, Georgian biologist and politician, 4th Prime Minister of Georgia (born 1963)"
-    },
-    {
-      "type": "Event",
       "year": "1781",
       "text": "American Revolutionary War: British forces seize the Dutch-owned Caribbean island Sint Eustatius."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Mabel Mercer, English-American singer (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "The Territory of Illinois is created by the 10th United States Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Space Shuttle program: STS-41-B is launched using Space Shuttle Challenger."
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Gertrude Stein, American novelist, poet, playwright, (died 1946)"
-    },
-    {
-      "type": "Death",
-      "year": "929",
-      "text": "Guy, margrave of Tuscany"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The United States and the Philippine Commonwealth begin a month-long battle to retake Manila from Japan."
     },
     {
       "type": "Event",
@@ -268,13 +18,28 @@
     },
     {
       "type": "Event",
-      "year": "1870",
-      "text": "The Fifteenth Amendment to the United States Constitution is ratified, guaranteeing voting rights to male citizens regardless of race."
+      "year": "1509",
+      "text": "The Portuguese navy defeats a joint fleet of the Ottoman Empire, the Republic of Venice, the Sultan of Gujarat, the Mamlûk Burji Sultanate of Egypt, the Zamorin of Calicut, and the Republic of Ragusa at the Battle of Diu in Diu, India."
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Dick McGuire, American basketball player and coach (born 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1811",
+      "text": "Horace Greeley, American journalist and politician (died 1872)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Eugenijus Riabovas, Lithuanian footballer and manager"
     },
     {
       "type": "Event",
-      "year": "1509",
-      "text": "The Portuguese navy defeats a joint fleet of the Ottoman Empire, the Republic of Venice, the Sultan of Gujarat, the Mamlûk Burji Sultanate of Egypt, the Zamorin of Calicut, and the Republic of Ragusa at the Battle of Diu in Diu, India."
+      "year": "1994",
+      "text": "Space Shuttle program: STS-60 is launched, carrying Sergei Krikalev, the first Russian cosmonaut to fly aboard the Shuttle."
     },
     {
       "type": "Birth",
@@ -283,13 +48,138 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Henry Heimlich, American physician and author (died 2016)"
+      "year": "1982",
+      "text": "Bridget Regan, American actress"
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Ernst Mayr, German-American biologist and ornithologist (born 1904)"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded."
+    },
+    {
+      "type": "Event",
+      "year": "1706",
+      "text": "During the Battle of Fraustadt Swedish forces defeat a superior Saxon-Polish-Russian force by deploying a double envelopment."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Lol Tolhurst, English musician and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "Gertrude Stein, American novelist, poet, playwright, (died 1946)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Twin Peaks Tunnel in San Francisco, California begins service as the longest streetcar tunnel in the world at 11,920 feet (3,630 meters) long."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "After a stroke two weeks previously, South African President P. W. Botha resigns as leader of the National Party, but stays on as president for six more months."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Ayanna Pressley, American politician"
     },
     {
       "type": "Event",
       "year": "1639",
       "text": "The House of Assembly of Barbados meets for the first time."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Sixty-five people are killed when American Airlines Flight 320 crashes into the East River on approach to LaGuardia Airport in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1862",
+      "text": "James Clark McReynolds, American lawyer and judge (died 1946)"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Thomas Calabro, American actor"
+    },
+    {
+      "type": "Death",
+      "year": "2020",
+      "text": "George Steiner, French-American philosopher, author, and critic (born 1929)"
+    },
+    {
+      "type": "Event",
+      "year": "1716",
+      "text": "The 1716 Algiers earthquake sequence began with an Mw  7.0 mainshock that caused severe damage and killed 20,000 in Algeria."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Maura Tierney, American actress and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1721",
+      "text": "Friedrich Wilhelm von Seydlitz, Prussian general (died 1773)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Helen Stephens, American runner, baseball player, and manager (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Jacques Soustelle, French anthropologist and politician (died 1990)"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "The United States Air Force begins Operation Looking Glass, and over the next 30 years, a \"Doomsday Plane\" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Johnny \"Guitar\" Watson, American blues, soul, and funk singer-songwriter and guitarist (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Joey Bishop, American actor and producer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Georg Trakl, Austrian pharmacist and poet (died 1914)"
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Greg Mankiw, American economist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1690",
+      "text": "The colony of Massachusetts issues the first paper money in the Americas."
     },
     {
       "type": "Birth",
@@ -298,8 +188,118 @@
     },
     {
       "type": "Event",
-      "year": "1918",
-      "text": "The Twin Peaks Tunnel in San Francisco, California begins service as the longest streetcar tunnel in the world at 11,920 feet (3,630 meters) long."
+      "year": "1809",
+      "text": "The Territory of Illinois is created by the 10th United States Congress."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "Spain–United States relations are first established."
+    },
+    {
+      "type": "Birth",
+      "year": "1843",
+      "text": "William Cornelius Van Horne, American-Canadian businessman (died 1915)"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "Doctor John Buster and a research team at Harbor-UCLA Medical Center in the United States announce history's first embryo transfer, from one woman to another resulting in a live birth."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. \"The Big Bopper\" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The United States and the Philippine Commonwealth begin a month-long battle to retake Manila from Japan."
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Astronaut Eileen Collins becomes the first woman to pilot the Space Shuttle as mission STS-63 gets underway from Kennedy Space Center in Florida."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "World War I: The American entry into World War I begins when diplomatic relations with Germany are severed due to its unrestricted submarine warfare."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "James White, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Eric Lander, American mathematician, geneticist, and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "Space Shuttle program: STS-41-B is launched using Space Shuttle Challenger."
+    },
+    {
+      "type": "Birth",
+      "year": "1821",
+      "text": "Elizabeth Blackwell, American physician and educator (died 1910)"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Mabel Mercer, English-American singer (died 1984)"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: During the Gilbert and Marshall Islands campaign, U.S. Army and Marine forces seize Kwajalein Atoll from the defending Japanese garrison."
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "New York Police Officer Frank Serpico is shot during a drug bust in Brooklyn and survives to later testify against police corruption."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Fran Tarkenton, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Bob Simpson, Australian cricketer and coach (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Michele Greene, American actress, singer, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Dave Davies, English musician"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "The Fifteenth Amendment to the United States Constitution is ratified, guaranteeing voting rights to male citizens regardless of race."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Emile Griffith, American boxer and trainer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Melanie, American singer-songwriter (died 2024)"
     }
   ],
   "source": "Wikipedia"
