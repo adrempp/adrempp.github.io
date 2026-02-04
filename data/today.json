@@ -2,189 +2,14 @@
   "date": "2026-02-04",
   "items": [
     {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Neil Johnston, American basketball player (died 1978)"
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "The Codex Sinaiticus is discovered in Egypt."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city."
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Alice Cooper, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Rolf Landauer, German-American physicist and academic (died 1999)"
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Ilya Kormiltsev, Russian-English poet and translator (born 1959)"
-    },
-    {
-      "type": "Event",
-      "year": "1797",
-      "text": "The Riobamba earthquake strikes Ecuador, causing up to 40,000 casualties."
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "M62 coach bombing: The Provisional Irish Republican Army (IRA) explodes a bomb on a bus carrying off-duty British Armed Forces personnel in Yorkshire, England. Nine soldiers and three civilians are killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Byron Nelson, American golfer and sportscaster (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin."
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "The first Mormon pioneers make their exodus from Nauvoo, Illinois, westward towards Salt Lake Valley."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Charlie Barnett, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Ken Thompson, American computer scientist and programmer, co-developed the B programming language"
-    },
-    {
-      "type": "Birth",
-      "year": "1646",
-      "text": "Hans Erasmus Aßmann, German poet and politician (died 1699)"
-    },
-    {
-      "type": "Death",
-      "year": "1990",
-      "text": "Whipper Billy Watson, Canadian-American wrestler and trainer (born 1915)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Jim Loscutoff, American basketball player and coach (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1899",
-      "text": "The Philippine–American War begins when four Filipino soldiers enter the \"American Zone\" in Manila, igniting the Battle of Manila."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Clint Black, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Hannibal Buress, American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Clyde Tombaugh, American astronomer and academic, discovered Pluto (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Claude Nobs, Swiss businessman, founded the Montreux Jazz Festival (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Cam'ron, American rapper and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "William Talman, American actor and screenwriter (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Ola Skjåk Bræk, Norwegian banker and politician, Norwegian Minister of Industry (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "Varia Kipiani, Georgian scientist"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "John Schuck, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1869",
-      "text": "Bill Haywood, American labor organizer (died 1928)"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "The United Service Organization (USO) is created to entertain American troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Russell Cooper, Australian politician, 33rd Premier of Queensland"
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Charles Lindbergh, American pilot and explorer (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "1169",
-      "text": "A strong earthquake strikes the Ionian coast of Sicily, causing tens of thousands of injuries and deaths, especially in Catania."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Arthur E. Chase, American businessman and politician (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Erich Leinsdorf, Austrian-American conductor (died 1993)"
-    },
-    {
       "type": "Event",
       "year": "211",
       "text": "Following the death of the Roman Emperor Septimius Severus at Eboracum (modern York, England) while preparing to lead a campaign against the Caledonians, the empire is left in the control of his two quarrelling sons, Caracalla and Geta, whom he had instructed to make peace."
     },
     {
-      "type": "Death",
-      "year": "2016",
-      "text": "Edgar Mitchell, American captain, pilot, and astronaut (born 1930)"
+      "type": "Event",
+      "year": "1899",
+      "text": "The Philippine–American War begins when four Filipino soldiers enter the \"American Zone\" in Manila, igniting the Battle of Manila."
     },
     {
       "type": "Event",
@@ -193,28 +18,18 @@
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Thomas Silverstein, American criminal and prisoner (died 2019)"
+      "year": "1873",
+      "text": "Étienne Desmarteau, Canadian shot putter and discus thrower (died 1905)"
     },
     {
       "type": "Birth",
-      "year": "1899",
-      "text": "Virginia M. Alexander, American physician and founder of the Aspiranto Health Home (died 1949)"
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "George Washington is unanimously elected as the first President of the United States by the U.S. Electoral College."
-    },
-    {
-      "type": "Event",
-      "year": "1454",
-      "text": "Thirteen Years' War: The Secret Council of the Prussian Confederation sends a formal act of disobedience to the Grand Master of the Teutonic Knights, sparking the Thirteen Years' War."
+      "year": "1923",
+      "text": "Conrad Bain, Canadian-American actor (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1831",
-      "text": "Oliver Ames, American financier and politician, 35th Governor of Massachusetts (died 1895)"
+      "year": "1944",
+      "text": "Florence LaRue, American singer and actress"
     },
     {
       "type": "Birth",
@@ -223,48 +38,38 @@
     },
     {
       "type": "Birth",
-      "year": "2003",
-      "text": "Kyla Kenedy, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Carly Patterson, American gymnast and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1801",
-      "text": "John Marshall is sworn in as Chief Justice of the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1825",
-      "text": "The Ohio Legislature authorizes the construction of the Ohio and Erie Canal and the Miami and Erie Canal."
-    },
-    {
-      "type": "Birth",
       "year": "1938",
       "text": "Frank J. Dodd, American businessman and politician, president of the New Jersey Senate (died 2010)"
     },
     {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Oscar De La Hoya, American boxer"
-    },
-    {
-      "type": "Birth",
-      "year": "1873",
-      "text": "Étienne Desmarteau, Canadian shot putter and discus thrower (died 1905)"
-    },
-    {
-      "type": "Birth",
-      "year": "1868",
-      "text": "Constance Markievicz, Irish revolutionary and first woman elected to the UK House of Commons (died 1927)"
+      "type": "Event",
+      "year": "2020",
+      "text": "The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days."
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia."
+      "year": "1859",
+      "text": "The Codex Sinaiticus is discovered in Egypt."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Bhimsen Joshi, Indian vocalist of the Hindustani classical music tradition (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "The United Service Organization (USO) is created to entertain American troops."
+    },
+    {
+      "type": "Event",
+      "year": "1797",
+      "text": "The Riobamba earthquake strikes Ecuador, causing up to 40,000 casualties."
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Karen Carpenter, American singer (born 1950)"
     },
     {
       "type": "Event",
@@ -272,14 +77,29 @@
       "text": "The Chilean Navy under the command of Lord Cochrane completes the two-day long Capture of Valdivia with just 300 men and two ships."
     },
     {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Maximilian Wöber, Austrian footballer"
+      "type": "Event",
+      "year": "2003",
+      "text": "The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia."
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Michael Beck, American actor"
+      "year": "1903",
+      "text": "Alexander Imich, Polish-American chemist, parapsychologist, and academic (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Dan Quayle, American sergeant, lawyer, and politician, 44th Vice President of the United States"
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "The first Mormon pioneers make their exodus from Nauvoo, Illinois, westward towards Salt Lake Valley."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city."
     },
     {
       "type": "Birth",
@@ -288,8 +108,108 @@
     },
     {
       "type": "Birth",
+      "year": "1930",
+      "text": "Arthur E. Chase, American businessman and politician (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "John Marshall is sworn in as Chief Justice of the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "M62 coach bombing: The Provisional Irish Republican Army (IRA) explodes a bomb on a bus carrying off-duty British Armed Forces personnel in Yorkshire, England. Nine soldiers and three civilians are killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Charles Lindbergh, American pilot and explorer (died 1974)"
+    },
+    {
+      "type": "Event",
+      "year": "1454",
+      "text": "Thirteen Years' War: The Secret Council of the Prussian Confederation sends a formal act of disobedience to the Grand Master of the Teutonic Knights, sparking the Thirteen Years' War."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Rolf Landauer, German-American physicist and academic (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Erich Leinsdorf, Austrian-American conductor (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Charlie Barnett, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Maximilian Wöber, Austrian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "2003",
+      "text": "Kyla Kenedy, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "MJ Lenderman, American singer-songwriter and multi-instrumentalist"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "George Washington is unanimously elected as the first President of the United States by the U.S. Electoral College."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Sergei Grinkov, Russian figure skater (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Rosa Parks, American civil rights activist (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Jerome Brown, American football player (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Ola Skjåk Bræk, Norwegian banker and politician, Norwegian Minister of Industry (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California."
+    },
+    {
+      "type": "Birth",
       "year": "1981",
       "text": "Jason Kapono, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Ken Thompson, American computer scientist and programmer, co-developed the B programming language"
+    },
+    {
+      "type": "Death",
+      "year": "2007",
+      "text": "Ilya Kormiltsev, Russian-English poet and translator (born 1959)"
+    },
+    {
+      "type": "Birth",
+      "year": "1883",
+      "text": "Reinhold Rudenberg, German-American inventor and a pioneer of electron microscopy (died 1961)"
     },
     {
       "type": "Event",
@@ -298,8 +218,88 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Janet Waldo, American actress and voice artist (died 2016)"
+      "year": "1925",
+      "text": "Stanley Karnow, American journalist and historian (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1831",
+      "text": "Oliver Ames, American financier and politician, 35th Governor of Massachusetts (died 1895)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Russell Hoban, American author and illustrator (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Oscar De La Hoya, American boxer"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin."
+    },
+    {
+      "type": "Event",
+      "year": "1169",
+      "text": "A strong earthquake strikes the Ionian coast of Sicily, causing tens of thousands of injuries and deaths, especially in Catania."
+    },
+    {
+      "type": "Birth",
+      "year": "2003",
+      "text": "Rasmus Højlund, Danish footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Rob Corddry, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Hunter Biden, American attorney and lobbyist"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "MacKinlay Kantor, American author and screenwriter (died 1977)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Donald Byrd, American trumpet player (born 1932)"
+    },
+    {
+      "type": "Event",
+      "year": "1825",
+      "text": "The Ohio Legislature authorizes the construction of the Ohio and Erie Canal and the Miami and Erie Canal."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Russell Cooper, Australian politician, 33rd Premier of Queensland"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Hylda Baker, English comedian, actress and music hall performer (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Cam'ron, American rapper and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Paul Burlison, American musician (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1877",
+      "text": "Eddie Cochems, American football player and coach (died 1953)"
     }
   ],
   "source": "Wikipedia"
