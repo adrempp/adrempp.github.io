@@ -2,169 +2,9 @@
   "date": "2026-02-05",
   "items": [
     {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Tim Holt, American actor (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "P. J. Vatikiotis, Israeli-American historian and political scientist (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Chris Parnell, American actor and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jon Spencer, American singer, guitarist, and bandleader"
-    },
-    {
       "type": "Event",
-      "year": "756",
-      "text": "Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Tim Meadows, American actor and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Adlai Stevenson II, American soldier, politician, and diplomat, 5th United States Ambassador to the United Nations (died 1965)"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Stephen W. Thompson shoots down a German airplane; this is the first aerial victory by the U.S. military."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Red Buttons, American actor (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "SS Tuscania is torpedoed off the coast of Ireland; it is the first ship carrying American troops to Europe to be torpedoed and sunk."
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest."
-    },
-    {
-      "type": "Death",
-      "year": "1998",
-      "text": "Tim Kelly, American guitarist (born 1963)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Jennifer Jason Leigh, American actress, screenwriter, producer and director"
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "Alexandru Ioan Cuza, Prince of Moldavia, is also elected as prince of Wallachia, joining the two principalities as a personal union called the United Principalities, an autonomous region within the Ottoman Empire, which ushered in the birth of the modern Romanian state."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Roberto Alomar, Puerto Rican-American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Henson Cargill, American country music singer (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Chris Barron, American rock singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Robert Hofstadter, American physicist and academic, Nobel Prize laureate (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Darren Lehmann, Australian cricketer and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Congress of the United States passes the Immigration Act of 1917 over President Woodrow Wilson's veto."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Darren Criss, American actor, singer, and entrepreneur"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "Ugo Vetere, then the mayor of Rome, and Chedli Klibi, then the mayor of Carthage, meet in Tunis to sign a treaty of friendship officially ending the Third Punic War which lasted 2,131 years."
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "A hydrogen bomb known as the Tybee Bomb is lost by the US Air Force off the coast of Savannah, Georgia, never to be recovered."
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "Greek military aviators Michael Moutoussis and Aristeidis Moraitinis perform the first naval air mission in history, with a Farman MF.7 hydroplane."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Alar Toomre, Estonian-American astronomer and mathematician"
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "In Mexico, the General Hospital of Mexico is inaugurated, started with four basic specialties."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Laura Linney, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Russian forces massacre at least 60 civilians in the Novye Aldi suburb of Grozny, Chechnya."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "A major tornado outbreak across the Southern United States kills 57."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Nolan Bushnell, American engineer and businessman, founded Atari, Inc."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Cliff Martinez, American drummer and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1869",
-      "text": "The largest alluvial gold nugget in history, called the \"Welcome Stranger\", is found in Moliagul, Victoria, Australia."
+      "year": "2021",
+      "text": "Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested."
     },
     {
       "type": "Birth",
@@ -173,18 +13,188 @@
     },
     {
       "type": "Birth",
+      "year": "1990",
+      "text": "Dmitry Andreikin, Russian chess player"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Barbara Hershey, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "James E. Bowman, American physician and academic (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Stephen J. Cannell, American actor, producer, and screenwriter (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Paul Vandervort, American actor, film producer, and former model"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The European Court of Justice's ruling in Van Gend en Loos v Nederlandse Administratie der Belastingen establishes the principle of direct effect, one of the most important, if not the most important, decisions in the development of European Union law."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Nikolay Merkushkin, Mordovian engineer and politician, 1st Head of the Republic of Mordovia"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Jeremy Rockliff, Australian politician, 47th Premier of Tasmania"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest."
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "In Mexico, the General Hospital of Mexico is inaugurated, started with four basic specialties."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Tim Holt, American actor (died 1973)"
+    },
+    {
+      "type": "Death",
+      "year": "1981",
+      "text": "Ella Grasso, American politician, 83rd Governor of Connecticut (born 1919)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Roger Staubach, American football player, sportscaster, and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Pegasus Airlines Flight 2193 overshoots the runway at Sabiha Gökçen International Airport and crashes, killing three people and injuring 179."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Robert Allen, American pianist and composer (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Clemente Mastella, Italian politician, Italian Minister of Justice"
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "Alexandru Ioan Cuza, Prince of Moldavia, is also elected as prince of Wallachia, joining the two principalities as a personal union called the United Principalities, an autonomous region within the Ottoman Empire, which ushered in the birth of the modern Romanian state."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "SS Tuscania is torpedoed off the coast of Ireland; it is the first ship carrying American troops to Europe to be torpedoed and sunk."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "A hydrogen bomb known as the Tybee Bomb is lost by the US Air Force off the coast of Savannah, Georgia, never to be recovered."
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Elizabeth Ryan, American tennis player (died 1979)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Jon Spencer, American singer, guitarist, and bandleader"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Stuart Damon, American actor and singer (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1878",
+      "text": "André Citroën, French engineer and businessman, founded Citroën (died 1935)"
+    },
+    {
+      "type": "Birth",
       "year": "1947",
       "text": "Darrell Waltrip, American race car driver and sportscaster"
     },
     {
-      "type": "Birth",
-      "year": "1906",
-      "text": "John Carradine, American actor (died 1988)"
+      "type": "Event",
+      "year": "1917",
+      "text": "The current constitution of Mexico is adopted, establishing a federal republic with powers separated into independent executive, legislative, and judicial branches."
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "Ugo Vetere, then the mayor of Rome, and Chedli Klibi, then the mayor of Carthage, meet in Tunis to sign a treaty of friendship officially ending the Third Punic War which lasted 2,131 years."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Stephen W. Thompson shoots down a German airplane; this is the first aerial victory by the U.S. military."
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Jane Bryant Quinn, American financial journalist"
+      "year": "1948",
+      "text": "Christopher Guest, British-American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Darren Lehmann, Australian cricketer and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "Greek military aviators Michael Moutoussis and Aristeidis Moraitinis perform the first naval air mission in history, with a Farman MF.7 hydroplane."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "The so-called Big Three banks in Switzerland announce the creation of a $71 million fund to aid Holocaust survivors and their families."
+    },
+    {
+      "type": "Event",
+      "year": "756",
+      "text": "Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Hank Aaron, American baseball player (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Edward J. Mortola, American academic and president of Pace University (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Jeremy Sumpter, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Sara Evans, American country singer"
     },
     {
       "type": "Birth",
@@ -194,72 +204,52 @@
     {
       "type": "Birth",
       "year": "1968",
-      "text": "Marcus Grönholm, Finnish race car driver"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The European Court of Justice's ruling in Van Gend en Loos v Nederlandse Administratie der Belastingen establishes the principle of direct effect, one of the most important, if not the most important, decisions in the development of European Union law."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The current constitution of Mexico is adopted, establishing a federal republic with powers separated into independent executive, legislative, and judicial branches."
+      "text": "Roberto Alomar, Puerto Rican-American baseball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Hank Aaron, American baseball player (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "-2",
-      "text": "Caesar Augustus is granted the title pater patriae by the Roman Senate."
-    },
-    {
-      "type": "Event",
-      "year": "1852",
-      "text": "The New Hermitage Museum in Saint Petersburg, Russia, one of the largest and oldest museums in the world, opens to the public."
+      "year": "1960",
+      "text": "Aris Christofellis, Greek soprano and musicologist"
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Michael Mann, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested."
+      "year": "1915",
+      "text": "Robert Hofstadter, American physicist and academic, Nobel Prize laureate (died 1990)"
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Curtis Jerrells, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "1976",
-      "text": "Rudy Pompilli, American saxophonist (Bill Haley & His Comets) (born 1926)"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "The so-called Big Three banks in Switzerland announce the creation of a $71 million fund to aid Holocaust survivors and their families."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Barbara Hershey, American actress"
+      "year": "1964",
+      "text": "Duff McKagan, American singer-songwriter, bass player, and producer"
     },
     {
       "type": "Event",
       "year": "2020",
-      "text": "Pegasus Airlines Flight 2193 overshoots the runway at Sabiha Gökçen International Airport and crashes, killing three people and injuring 179."
+      "text": "United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial."
+    },
+    {
+      "type": "Event",
+      "year": "1869",
+      "text": "The largest alluvial gold nugget in history, called the \"Welcome Stranger\", is found in Moliagul, Victoria, Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Alar Toomre, Estonian-American astronomer and mathematician"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Chris Parnell, American actor and comedian"
     },
     {
       "type": "Birth",
       "year": "1985",
-      "text": "Lloyd Johansson, Australian rugby player"
+      "text": "Laurence Maroney, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Luke Ricketson, Australian rugby league player and sportscaster"
     },
     {
       "type": "Event",
@@ -267,39 +257,49 @@
       "text": "J. P. Morgan incorporates U.S. Steel in the state of New Jersey, although the company would not start doing business until February 25 and the assets of Andrew Carnegie's Carnegie Steel Company, Elbert H. Gary's Federal Steel Company, and William Henry Moore's National Steel Company were not acquired until April 1."
     },
     {
+      "type": "Event",
+      "year": "2008",
+      "text": "A major tornado outbreak across the Southern United States kills 57."
+    },
+    {
       "type": "Death",
-      "year": "1766",
-      "text": "Count Leopold Joseph von Daun, Austrian field marshal (born 1705)"
+      "year": "1969",
+      "text": "Thelma Ritter, American actress (born 1902)"
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Robert Allen, American pianist and composer (died 2000)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "John Aloisi, Australian footballer and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Alex Kuznetsov, Ukrainian-American tennis player"
+      "year": "1947",
+      "text": "Mary L. Cleave, American engineer and astronaut (died 2023)"
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies."
+      "year": "1852",
+      "text": "The New Hermitage Museum in Saint Petersburg, Russia, one of the largest and oldest museums in the world, opens to the public."
+    },
+    {
+      "type": "Death",
+      "year": "1997",
+      "text": "Pamela Harriman, English-American diplomat, 58th United States Ambassador to France (born 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "-2",
+      "text": "Caesar Augustus is granted the title pater patriae by the Roman Senate."
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Henfil, Brazilian journalist, author, and illustrator (died 1988)"
+      "year": "1974",
+      "text": "Michael Maguire, Australian rugby league player and coach"
     },
     {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Reed Sorenson, American race car driver"
+      "type": "Event",
+      "year": "2000",
+      "text": "Russian forces massacre at least 60 civilians in the Novye Aldi suburb of Grozny, Chechnya."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Congress of the United States passes the Immigration Act of 1917 over President Woodrow Wilson's veto."
     }
   ],
   "source": "Wikipedia"
