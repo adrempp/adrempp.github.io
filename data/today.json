@@ -3,18 +3,38 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "David Binn, American football player"
+      "year": "1993",
+      "text": "Tinashe, American singer-songwriter, dancer, and actress"
     },
     {
       "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Forces under the command of Ulysses S. Grant and Andrew H. Foote give the Union its first victory of the war, capturing Fort Henry, Tennessee in the Battle of Fort Henry."
+      "year": "1978",
+      "text": "The Blizzard of 1978, one of the worst Nor'easters in New England history, hit the region, with sustained winds of 65 mph and snowfall of four inches an hour."
     },
     {
       "type": "Event",
-      "year": "1989",
-      "text": "The Round Table Talks start in Poland, thus marking the beginning of the overthrow of communism in Eastern Europe."
+      "year": "1959",
+      "text": "Jack Kilby of Texas Instruments files the first patent for an integrated circuit."
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "Justice Mary Gaudron becomes the first woman to be appointed to the High Court of Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Kevon Looney, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "The first minstrel show in the United States, The Virginia Minstrels, opens (Bowery Amphitheatre in New York City)."
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "The Treaty of Singapore was signed by Sir Thomas Stamford Raffles, Hussein Shah of Johor, and Temenggong Abdul Rahman, and it is now recognised as the founding of modern Singapore."
     },
     {
       "type": "Event",
@@ -22,39 +42,104 @@
       "text": "New York became the third state to ratify the Articles of Confederation."
     },
     {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Tim Herron, American golfer"
+      "type": "Event",
+      "year": "1778",
+      "text": "American Revolutionary War: In Paris the Treaty of Alliance and the Treaty of Amity and Commerce are signed by the United States and France signaling official recognition of the new republic."
     },
     {
-      "type": "Death",
-      "year": "2016",
-      "text": "Dan Gerson, American screenwriter (born 1966)"
+      "type": "Birth",
+      "year": "1969",
+      "text": "David Hayter, American actor and screenwriter"
     },
     {
       "type": "Event",
-      "year": "1973",
-      "text": "The Ms  7.6 Luhuo earthquake strikes Sichuan Province, causing widespread destruction and killing at least 2,199 people."
+      "year": "1951",
+      "text": "The Broker, a Pennsylvania Railroad passenger train derails near Woodbridge Township, New Jersey. The accident kills 85 people and injures over 500 more. The wreck is one of the worst rail disasters in American history."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "At Cape Canaveral, Florida, the first successful test firing of a Titan intercontinental ballistic missile is accomplished."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Cam Cameron, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Babe Ruth, American baseball player and coach (died 1948)"
+    },
+    {
+      "type": "Event",
+      "year": "1851",
+      "text": "The largest Australian bushfires in a populous region in recorded history take place in the state of Victoria."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Brian Stepanek, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "George Brunies, American trombonist (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Gigi Perreau, American actress and director"
+    },
+    {
+      "type": "Event",
+      "year": "1899",
+      "text": "Spanish–American War: The Treaty of Paris, a peace treaty between the United States and Spain, is ratified by the United States Senate."
     },
     {
       "type": "Death",
-      "year": "1918",
-      "text": "Gustav Klimt, Austrian painter and illustrator (born 1862)"
+      "year": "1972",
+      "text": "Julian Steward, American anthropologist (born 1902)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Forces under the command of Ulysses S. Grant and Andrew H. Foote give the Union its first victory of the war, capturing Fort Henry, Tennessee in the Battle of Fort Henry."
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Richie Hayward, American drummer and songwriter  (died 2010)"
+      "year": "1969",
+      "text": "Bob Wickman, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Allan H. Meltzer, American economist and academic (died 2017)"
+      "year": "1963",
+      "text": "Scott Gordon, American ice hockey player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "Massachusetts becomes the sixth state to ratify the United States Constitution."
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Chad Allen, American baseball player and coach"
+      "year": "1955",
+      "text": "John Kuester, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "U.S. Secretary of State Antony Blinken suspends agreements with Guatemala, El Salvador and Honduras to send asylum seekers back to their home countries."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Calum Best, American-English model and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The five-day Seattle General Strike begins, as more than 65,000 workers in the city of Seattle, Washington, walk off the job."
     },
     {
       "type": "Event",
@@ -63,8 +148,103 @@
     },
     {
       "type": "Event",
-      "year": "1959",
-      "text": "At Cape Canaveral, Florida, the first successful test firing of a Titan intercontinental ballistic missile is accomplished."
+      "year": "2023",
+      "text": "Two earthquakes measuring Mww 7.8 and 7.5 struck near the border between Turkey and Syria with a maximum Mercalli intensity of XII (Extreme). The earthquakes resulted in numerous aftershocks and a death toll of 57,658 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Ric Charlesworth, Australian cricketer, coach, and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Mike Farrell, American actor, director, producer, activist and public speaker"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Chad Allen, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Konnor, American wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "James Loewen, American sociologist and historian (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Thurl Ravenscroft, American voice actor and singer (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Rip Torn, American actor (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Washington National Airport is renamed Ronald Reagan National Airport."
+    },
+    {
+      "type": "Event",
+      "year": "1820",
+      "text": "The first 86 African American immigrants sponsored by the American Colonization Society depart New York to start a settlement in present-day Liberia."
+    },
+    {
+      "type": "Death",
+      "year": "2016",
+      "text": "Dan Gerson, American screenwriter (born 1966)"
+    },
+    {
+      "type": "Death",
+      "year": "1908",
+      "text": "Harriet Samuel, English businesswoman and founder of the jewellery retailer H. Samuel (born 1836)"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "Willamette Valley Flood: Floods in the Willamette Valley of Oregon, United States, causes over US$500 million in property damage throughout the Pacific Northwest."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Robert Townsend, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "David Binn, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Second Chechen War: Russia captures Grozny, Chechnya, forcing the separatist Chechen Republic of Ichkeria government into exile."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The Ms  7.6 Luhuo earthquake strikes Sichuan Province, causing widespread destruction and killing at least 2,199 people."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "The Round Table Talks start in Poland, thus marking the beginning of the overthrow of communism in Eastern Europe."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Kate McGarrigle, Canadian musician and singer-songwriter (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Anna Diop, Senegalese-American actress"
     },
     {
       "type": "Event",
@@ -77,104 +257,14 @@
       "text": "Josh Stewart, American actor"
     },
     {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Kris Humphries, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Yury Onufriyenko, Ukrainian-Russian colonel, pilot, and astronaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Ronald Reagan, American actor and politician, 40th President of the United States (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Robert Townsend, American actor and director"
-    },
-    {
       "type": "Event",
-      "year": "1978",
-      "text": "The Blizzard of 1978, one of the worst Nor'easters in New England history, hit the region, with sustained winds of 65 mph and snowfall of four inches an hour."
+      "year": "1922",
+      "text": "The Washington Naval Treaty is signed in Washington, D.C., limiting the naval armaments of United States, Britain, Japan, France, and Italy."
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Zsa Zsa Gabor, Hungarian-American actress and socialite (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Jack Kilby of Texas Instruments files the first patent for an integrated circuit."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Tobias Eisenbauer, Austrian ice dancer"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Kevon Looney, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Michael Pollan, American journalist, author, and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Washington National Airport is renamed Ronald Reagan National Airport."
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Ramon Novarro, Mexican-American actor, singer, and director (died 1968)"
-    },
-    {
-      "type": "Event",
-      "year": "1843",
-      "text": "The first minstrel show in the United States, The Virginia Minstrels, opens (Bowery Amphitheatre in New York City)."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Bob Wickman, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Ric Charlesworth, Australian cricketer, coach, and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "American Revolutionary War: In Paris the Treaty of Alliance and the Treaty of Amity and Commerce are signed by the United States and France signaling official recognition of the new republic."
-    },
-    {
-      "type": "Death",
-      "year": "2022",
-      "text": "Lata Mangeshkar, Indian singer and music composer (born 1929)"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Second Chechen War: Russia captures Grozny, Chechnya, forcing the separatist Chechen Republic of Ichkeria government into exile."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "George Brunies, American trombonist (died 1974)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Bill Staines, American singer-songwriter and guitarist (died 2021)"
+      "year": "1986",
+      "text": "Dane DeHaan, American actor"
     },
     {
       "type": "Birth",
@@ -183,103 +273,13 @@
     },
     {
       "type": "Event",
-      "year": "2021",
-      "text": "U.S. Secretary of State Antony Blinken suspends agreements with Guatemala, El Salvador and Honduras to send asylum seekers back to their home countries."
-    },
-    {
-      "type": "Event",
       "year": "1952",
       "text": "Elizabeth II becomes Queen of the United Kingdom and her other Realms and Territories and Head of the Commonwealth upon the death of her father, George VI. At the exact moment of succession, she was in a tree house at the Treetops Hotel in Kenya."
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Thurl Ravenscroft, American voice actor and singer (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "John Kuester, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Sarah Brady, American activist and author (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "The Washington Naval Treaty is signed in Washington, D.C., limiting the naval armaments of United States, Britain, Japan, France, and Italy."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The five-day Seattle General Strike begins, as more than 65,000 workers in the city of Seattle, Washington, walk off the job."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Natalie Cole, American singer-songwriter and actress (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1851",
-      "text": "The largest Australian bushfires in a populous region in recorded history take place in the state of Victoria."
-    },
-    {
-      "type": "Event",
-      "year": "1819",
-      "text": "The Treaty of Singapore was signed by Sir Thomas Stamford Raffles, Hussein Shah of Johor, and Temenggong Abdul Rahman, and it is now recognised as the founding of modern Singapore."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Kathy Najimy, American actress and comedian"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "Two earthquakes measuring Mww 7.8 and 7.5 struck near the border between Turkey and Syria with a maximum Mercalli intensity of XII (Extreme). The earthquakes resulted in numerous aftershocks and a death toll of 57,658 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Tom Brokaw, American journalist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Willamette Valley Flood: Floods in the Willamette Valley of Oregon, United States, causes over US$500 million in property damage throughout the Pacific Northwest."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Jerry Marotta, American drummer"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Harry Haywood, American soldier and politician (died 1985)"
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "Justice Mary Gaudron becomes the first woman to be appointed to the High Court of Australia."
-    },
-    {
-      "type": "Event",
-      "year": "1820",
-      "text": "The first 86 African American immigrants sponsored by the American Colonization Society depart New York to start a settlement in present-day Liberia."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "James Loewen, American sociologist and historian (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1899",
-      "text": "Spanish–American War: The Treaty of Paris, a peace treaty between the United States and Spain, is ratified by the United States Senate."
+      "year": "1988",
+      "text": "Bailey Hanks, American actress, singer, and dancer"
     },
     {
       "type": "Event",
@@ -288,18 +288,18 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Gigi Perreau, American actress and director"
+      "year": "1956",
+      "text": "Jerry Marotta, American drummer"
     },
     {
-      "type": "Event",
-      "year": "1788",
-      "text": "Massachusetts becomes the sixth state to ratify the United States Constitution."
+      "type": "Birth",
+      "year": "1962",
+      "text": "Axl Rose, American singer-songwriter and producer"
     },
     {
-      "type": "Event",
-      "year": "1951",
-      "text": "The Broker, a Pennsylvania Railroad passenger train derails near Woodbridge Township, New Jersey. The accident kills 85 people and injures over 500 more. The wreck is one of the worst rail disasters in American history."
+      "type": "Birth",
+      "year": "1949",
+      "text": "Mike Anderson, former American football player."
     }
   ],
   "source": "Wikipedia"
