@@ -2,139 +2,14 @@
   "date": "2026-02-07",
   "items": [
     {
-      "type": "Event",
-      "year": "1900",
-      "text": "A Chinese immigrant in San Francisco falls ill to bubonic plague in the first plague epidemic in the continental United States."
-    },
-    {
       "type": "Birth",
-      "year": "1983",
-      "text": "Scott Feldman, American baseball player"
+      "year": "1889",
+      "text": "Harry Nyquist, Swedish-American engineer and theorist (died 1976)"
     },
     {
       "type": "Birth",
       "year": "1968",
-      "text": "Christian Drobits, Austrian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1807",
-      "text": "Napoleonic Wars: Napoleon finds Bennigsen's Russian forces taking a stand at Eylau. After bitter fighting, the French take the town, but the Russians resume the battle the next day."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "An Wang, Chinese-American engineer and businessman, founded Wang Laboratories (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "The Beatles land in the United States for the first time, at the newly renamed John F. Kennedy International Airport."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Eddie Bracken, American actor and singer (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "The United States bans all Cuban imports and exports."
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "Dreyfus affair: Émile Zola is brought to trial for libel for publishing J'Accuse...!"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "J Dilla, American rapper and producer (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Nick Calathes, American-Greek basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Space Shuttle program: STS-41-B Mission: astronauts Bruce McCandless II and Robert L. Stewart make the first untethered space walk using the Manned Maneuvering Unit (MMU)."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Morris Claiborne, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "David Bryan, American keyboard player and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "HMS Orpheus sinks off the coast of Auckland, New Zealand, killing 189."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Oscar Brand, Canadian-American singer-songwriter and author (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "Korean War: More than 700 suspected communist sympathizers are massacred by South Korean forces."
-    },
-    {
-      "type": "Event",
-      "year": "1904",
-      "text": "The Great Baltimore Fire begins in Baltimore, Maryland; it destroys over 1,500 buildings in 30 hours."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Franz Jantscher, Austrian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1819",
-      "text": "Sir Thomas Stamford Raffles leaves Singapore after just taking it over, leaving it in the hands of William Farquhar."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Matthew Stafford, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Jock Mahoney, American actor and stuntman (died 1989)"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Russell Drysdale, English-Australian painter (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1864",
-      "text": "Arthur Collins, American baritone singer (died 1933)"
-    },
-    {
-      "type": "Death",
-      "year": "1972",
-      "text": "Walter Lang, American director and screenwriter (born 1896)"
-    },
-    {
-      "type": "Event",
-      "year": "1795",
-      "text": "The 11th Amendment to the United States Constitution is ratified."
+      "text": "Sully Erna, American singer-songwriter and musician"
     },
     {
       "type": "Birth",
@@ -143,148 +18,43 @@
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Vladimir Kuts, Ukrainian-Russian runner and coach (died 1975)"
+      "year": "1972",
+      "text": "Robyn Lively, American actress"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Giuseppe Baresi, Italian footballer and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Javon Hargrave, American football player"
+      "year": "1932",
+      "text": "Gay Talese, American journalist and memoirist"
     },
     {
       "type": "Death",
-      "year": "2015",
-      "text": "Dean Smith, American basketball player and coach (born 1931)"
+      "year": "1603",
+      "text": "Bartholomäus Sastrow, German politician (born 1520)"
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Mickaël Piétrus, French basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Eric Foner, American historian, author, and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Isaiah Thomas, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "Bushfires in Victoria leave 173 dead in the worst natural disaster in Australia's history."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Heidemarie Stefanyshyn-Piper, American Naval officer and astronaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Tom Glynn-Carney, English actor and musician"
-    },
-    {
-      "type": "Death",
-      "year": "1921",
-      "text": "John J. Gardner, American politician (born 1845)"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "A plane crash at Pushkin Airport kills 50 people, including 16 members of the Pacific Fleet."
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "In the action of 7 February 1813 near the Îles de Los, the frigates Aréthuse and Amelia batter each other, but neither can gain the upper hand."
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Eubie Blake, American pianist and composer (died 1983)"
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "American Revolutionary War: French and Spanish forces lift the Great Siege of Gibraltar."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Ramzi Yousef, the mastermind of the 1993 World Trade Center bombing, is arrested in Islamabad, Pakistan."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Gérard Jean-Juste, Haitian priest and activist (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Chris Rock, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Ernest E. Debs, American politician (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Lincoln D. Faurer, American general (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "The Cripple Creek miner's strike, led by the Western Federation of Miners, begins in Cripple Creek, Colorado, United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Sinclair Lewis, American novelist, short-story writer, and playwright, Nobel Prize laureate (died 1951)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Ksenia Stolbova, Russian figure skater"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Rolf Benirschke, American football player and game show host"
+      "year": "1935",
+      "text": "Herb Kohl, American businessman and politician (died 2023)"
     },
     {
       "type": "Birth",
       "year": "1960",
-      "text": "James Spader, American actor and producer"
+      "text": "Robert Smigel, American actor, producer, and screenwriter"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Miriam Corowa, Australian journalist, television presenter and producer"
+      "year": "1693",
+      "text": "Empress Anna of Russia (died 1740)"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Josh Hennessy, American ice hockey player"
+      "year": "1796",
+      "text": "Thomas Gregson, English-Australian lawyer and politician, 2nd Premier of Tasmania (baptism date; (died 1874)"
     },
     {
-      "type": "Event",
-      "year": "1812",
-      "text": "The strongest in a series of earthquakes strikes New Madrid, Missouri."
+      "type": "Birth",
+      "year": "1937",
+      "text": "Peter Jay, English economist, journalist, and diplomat, British Ambassador to the United States (died 2024)"
     },
     {
       "type": "Birth",
@@ -293,13 +63,243 @@
     },
     {
       "type": "Birth",
+      "year": "1995",
+      "text": "Tom Glynn-Carney, English actor and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Nathan Walker, Welsh-Australian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "Bushfires in Victoria leave 173 dead in the worst natural disaster in Australia's history."
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "Alfred Adler, Austrian-Scottish psychologist and therapist (died 1937)"
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "Sir Thomas Stamford Raffles leaves Singapore after just taking it over, leaving it in the hands of William Farquhar."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "A Chinese immigrant in San Francisco falls ill to bubonic plague in the first plague epidemic in the continental United States."
+    },
+    {
+      "type": "Event",
+      "year": "1795",
+      "text": "The 11th Amendment to the United States Constitution is ratified."
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "In the action of 7 February 1813 near the Îles de Los, the frigates Aréthuse and Amelia batter each other, but neither can gain the upper hand."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Miguel Ferrer, American actor and director (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "Napoleonic Wars: Napoleon finds Bennigsen's Russian forces taking a stand at Eylau. After bitter fighting, the French take the town, but the Russians resume the battle the next day."
+    },
+    {
+      "type": "Death",
+      "year": "1819",
+      "text": "August Wilhelm Hupel, German-Estonian linguist and author (born 1737)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Eric Foner, American historian, author, and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "Space Shuttle program: STS-41-B Mission: astronauts Bruce McCandless II and Robert L. Stewart make the first untethered space walk using the Manned Maneuvering Unit (MMU)."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Ashton Kutcher, American model, actor, producer, and entrepreneur"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "King Curtis, American saxophonist and producer (died 1971)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "The strongest in a series of earthquakes strikes New Madrid, Missouri."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Eddie Bracken, American actor and singer (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Jayden Campbell, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Josh Hennessy, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1904",
+      "text": "The Great Baltimore Fire begins in Baltimore, Maryland; it destroys over 1,500 buildings in 30 hours."
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "The Cripple Creek miner's strike, led by the Western Federation of Miners, begins in Cripple Creek, Colorado, United States."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "The Beatles land in the United States for the first time, at the newly renamed John F. Kennedy International Airport."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Rolf Benirschke, American football player and game show host"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Deborah Ann Woll, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Mark St. John, American guitarist (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Ramzi Yousef, the mastermind of the 1993 World Trade Center bombing, is arrested in Islamabad, Pakistan."
+    },
+    {
+      "type": "Birth",
+      "year": "1741",
+      "text": "Henry Fuseli, Swiss-English painter and academic (died 1825)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "A plane crash at Pushkin Airport kills 50 people, including 16 members of the Pacific Fleet."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Oscar Brand, Canadian-American singer-songwriter and author (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Omar Marmoush, Egyptian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1825",
+      "text": "Karl Möbius, German zoologist and ecologist (died 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Vladimir Kuts, Ukrainian-Russian runner and coach (died 1975)"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "The United States bans all Cuban imports and exports."
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Sinclair Lewis, American novelist, short-story writer, and playwright, Nobel Prize laureate (died 1951)"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Billy Casper, American golfer (born 1931)"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "HMS Orpheus sinks off the coast of Auckland, New Zealand, killing 189."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "American Revolutionary War: French and Spanish forces lift the Great Siege of Gibraltar."
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Eubie Blake, American pianist and composer (died 1983)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995."
+    },
+    {
+      "type": "Birth",
+      "year": "1802",
+      "text": "Louisa Jane Hall, American poet, essayist, and literary critic (died 1892)"
+    },
+    {
+      "type": "Birth",
       "year": "1908",
       "text": "Buster Crabbe, American swimmer and actor (died 1983)"
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Herb Kohl, American businessman and politician (died 2023)"
+      "year": "1932",
+      "text": "Alfred Worden, American colonel, pilot, and astronaut (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Earl King, American singer-songwriter, guitarist, and producer (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Dreyfus affair: Émile Zola is brought to trial for libel for publishing J'Accuse...!"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "Korean War: More than 700 suspected communist sympathizers are massacred by South Korean forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Karen Joy Fowler, American author"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Miriam Corowa, Australian journalist, television presenter and producer"
     }
   ],
   "source": "Wikipedia"
