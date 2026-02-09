@@ -2,204 +2,14 @@
   "date": "2026-02-09",
   "items": [
     {
-      "type": "Birth",
-      "year": "1981",
-      "text": "The Rev, American musician (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists."
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Robert Morris, American sculptor and painter (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "John Abramovic, American basketball player (died 2000)"
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Peggy Wood, American actress (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Phil Ford, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "US president Ulysses S. Grant signs a joint resolution of Congress establishing the U.S. Weather Bureau."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Richard F. Colburn, American sergeant and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "John B. Cobb, American philosopher and theologian (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "The Beatles make their first appearance on The Ed Sullivan Show, performing before a record-setting audience of 73 million viewers across the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Charlie Day, American actor, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Glenn McGrath, Australian cricketer and sportscaster"
-    },
-    {
-      "type": "Death",
-      "year": "2025",
-      "text": "Tom Robbins, American writer (born 1932)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Maurice Ager, American basketball player, singer, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: The British Parliament declares Massachusetts in rebellion."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The R-7 Semyorka, the first intercontinental ballistic missile, becomes operational at Plesetsk, USSR."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Manu Raju, American journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Joe Pesci, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Peggy Whitson, American biochemist and astronaut"
-    },
-    {
       "type": "Event",
       "year": "1861",
       "text": "American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama"
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Ernest Tubb, American singer-songwriter and guitarist (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Lloyd Noel Ferguson, American chemist (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Kathryn Grayson, American actress and soprano (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Jaire Alexander, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Camille Winbush, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Garner Ted Armstrong, American evangelist and author (died 2003)"
-    },
-    {
-      "type": "Death",
-      "year": "1903",
-      "text": "Charles Gavan Duffy, Irish-Australian politician, 8th Premier of Victoria (born 1816)"
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Larry Semon, American actor, producer, director and screenwriter (died 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Derek Strong, American basketball player and race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "John Kruk, American baseball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Sheila Kuehl, American actress, lawyer, gay rights activist, and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: The United States Marine Corps sends a MIM-23 Hawk missile battalion to South Vietnam, the first American troops in-country without an official advisory or training mission."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "Year-round Daylight saving time (aka War Time) is reinstated in the United States as a wartime measure to help conserve energy resources."
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "Rhode Island becomes the fourth US state to ratify the Articles of Confederation."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Robert E. Ogren, American zoologist (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Jo Duffy, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Todd Pratt, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Callistus Ndlovu, Zimbabwean academic and politician (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Josef Masopust, Czech footballer and coach (died 2015)"
+      "year": "1998",
+      "text": "Isabella Gomez, Colombian-American actress"
     },
     {
       "type": "Event",
@@ -208,48 +18,8 @@
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Vince Papale, American football player and sportscaster"
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Hank Bauer, American baseball player and manager (born 1922)"
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "US president Grover Cleveland signs a bill elevating the United States Department of Agriculture to a Cabinet-level agency."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Saquon Barkley, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Alberto Vargas, Peruvian-American painter and illustrator (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Jerry Beck, American historian and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Venus Lacy, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Kermit Gosnell, American abortionist and serial killer"
-    },
-    {
-      "type": "Event",
-      "year": "1098",
-      "text": "A First Crusade army led by Bohemond of Taranto wins a major battle against the Seljuq emir Ridwan of Aleppo during the siege of Antioch."
+      "year": "1954",
+      "text": "Jo Duffy, American author"
     },
     {
       "type": "Event",
@@ -257,14 +27,34 @@
       "text": "Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis."
     },
     {
-      "type": "Event",
-      "year": "2001",
-      "text": "The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor."
+      "type": "Birth",
+      "year": "1956",
+      "text": "Mookie Wilson, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "John Walker Lindh, American Taliban member"
     },
     {
       "type": "Event",
-      "year": "1825",
-      "text": "After no candidate receives a majority of electoral votes in the US presidential election of 1824, the United States House of Representatives elects John Quincy Adams as sixth President of the United States in a contingent election."
+      "year": "1003",
+      "text": "Boleslaus III is restored to authority with armed support from Bolesław I the Brave of Poland."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: The British Parliament declares Massachusetts in rebellion."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Richard F. Colburn, American sergeant and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "C. P. Krishnan Nair, Indian businessman, founded The Leela Palaces, Hotels and Resorts (died 2014)"
     },
     {
       "type": "Birth",
@@ -273,23 +63,98 @@
     },
     {
       "type": "Event",
+      "year": "2001",
+      "text": "The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "Year-round Daylight saving time (aka War Time) is reinstated in the United States as a wartime measure to help conserve energy resources."
+    },
+    {
+      "type": "Event",
       "year": "2025",
       "text": "The Baltic states synchronize their electric power transmission infrastructure with the Continental Europe Synchronous Area (CESA), in objective to disconnect from the Russo-Belarussian agreement to use the IPS/UPS system."
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Alexis Smirnoff, Canadian-American wrestler and actor (died 2019)"
+      "year": "1971",
+      "text": "Matt Gogel, American golfer"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Barry Mann, American pianist, songwriter, and producer"
+      "year": "1970",
+      "text": "Glenn McGrath, Australian cricketer and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Vladimir Guerrero, Dominican-American baseball player"
     },
     {
       "type": "Event",
-      "year": "1003",
-      "text": "Boleslaus III is restored to authority with armed support from Bolesław I the Brave of Poland."
+      "year": "1825",
+      "text": "After no candidate receives a majority of electoral votes in the US presidential election of 1824, the United States House of Representatives elects John Quincy Adams as sixth President of the United States in a contingent election."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Kermit Gosnell, American abortionist and serial killer"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Vince Papale, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Alban Berg, Austrian composer and educator (died 1935)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Esa Pakarinen, Finnish actor and musician (died 1989)"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "US president Ulysses S. Grant signs a joint resolution of Congress establishing the U.S. Weather Bureau."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "K. J. McDaniels, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Colin Egglesfield, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Lloyd Noel Ferguson, American chemist (died 2011)"
+    },
+    {
+      "type": "Death",
+      "year": "1932",
+      "text": "Junnosuke Inoue, Japanese businessman and banker (born 1869)"
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "The Beatles make their first appearance on The Ed Sullivan Show, performing before a record-setting audience of 73 million viewers across the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Brad Maynard, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Vietnam War: The United States Marine Corps sends a MIM-23 Hawk missile battalion to South Vietnam, the first American troops in-country without an official advisory or training mission."
     },
     {
       "type": "Birth",
@@ -297,9 +162,144 @@
       "text": "Chris Gardner, American businessman and philanthropist"
     },
     {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Debrah Miceli, Italian-American wrestler and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "US president Grover Cleveland signs a bill elevating the United States Department of Agriculture to a Cabinet-level agency."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "The R-7 Semyorka, the first intercontinental ballistic missile, becomes operational at Plesetsk, USSR."
+    },
+    {
+      "type": "Event",
+      "year": "1098",
+      "text": "A First Crusade army led by Bohemond of Taranto wins a major battle against the Seljuq emir Ridwan of Aleppo during the siege of Antioch."
+    },
+    {
+      "type": "Death",
+      "year": "1950",
+      "text": "Ted Theodore, Australian politician, 20th Premier of Queensland (born 1884)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Svetlana Boginskaya, Belarusian gymnast"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Carol Wood, American mathematician and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Darren Ferguson, Scottish footballer and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "William Orlando Darby, American general (died 1945)"
+    },
+    {
+      "type": "Death",
+      "year": "2021",
+      "text": "Chick Corea, American jazz composer (born 1941)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Kathryn Grayson, American actress and soprano (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Carole King, American singer-songwriter and pianist"
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Jalen Green, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Bill Bergey, American football player (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Saquon Barkley, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Travis Tritt, American singer-songwriter, guitarist, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1778",
+      "text": "Rhode Island becomes the fourth US state to ratify the Articles of Confederation."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Clete Boyer, American baseball player and manager (died 2007)"
+    },
+    {
       "type": "Event",
       "year": "1978",
       "text": "The Budd Company unveils its first SPV-2000 self-propelled railcar in Philadelphia, Pennsylvania."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Maurice Ager, American basketball player, singer, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Peter Rowsthorn, Australian comedian and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "J. M. Coetzee, South African-Australian novelist, essayist, and linguist, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Major Harris, American singer (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Danny White, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "John Wallace, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Judith Light, American actress"
     }
   ],
   "source": "Wikipedia"
