@@ -3,168 +3,38 @@
   "items": [
     {
       "type": "Birth",
+      "year": "1962",
+      "text": "Cliff Burton, American musician and songwriter (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "John Franklin Enders, American virologist and academic, Nobel Prize laureate (died 1985)"
+    },
+    {
+      "type": "Birth",
       "year": "1986",
-      "text": "Jeff Adrien, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "Texas Tech University is founded as Texas Technological College in Lubbock, Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Jim Whittaker, American mountaineer"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jim Kent, American biologist, computer programmer, academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Greg Bird, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "In round 13 of a boxing match at New York City's Madison Square Garden, Primo Carnera knocks out Ernie Schaaf. Schaaf dies four days later."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "James West, American inventor and acoustician"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The 25th Amendment to the United States Constitution is ratified."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Alex Gordon, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "Jefferson Davis is notified by telegraph that he has been chosen as provisional President of the Confederate States of America."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Natalie Bennett, Australian-English journalist and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "C. J. Anderson, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "U.S. President Dwight D. Eisenhower warns against United States intervention in Vietnam."
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Alan Hale Sr., American actor and director (died 1950)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Elizabeth Banks, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Kathleen Beller, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "Napoleonic Wars: The Battle of Champaubert ends in French victory over the Russians and the Prussians."
-    },
-    {
-      "type": "Birth",
-      "year": "1846",
-      "text": "Ira Remsen, American chemist and academic (died 1927)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Allie Sherman, American football player and coach (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Stephanie Beatriz, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Edith Clarke, American electrical engineer (died 1959)"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Boris Pasternak, Russian poet, novelist, and literary translator Nobel Prize laureate (died 1960)"
+      "text": "Josh Akognon, American basketball player"
     },
     {
       "type": "Death",
-      "year": "1997",
-      "text": "Brian Connolly, Scottish musician (born 1945)"
+      "year": "2021",
+      "text": "Larry Flynt, American publisher (born 1942)"
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "E. L. Konigsburg, American author and illustrator (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4."
+      "year": "1983",
+      "text": "Vic Fuentes, American singer-songwriter and guitarist"
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Frank Keating, American lawyer and politician, 25th Governor of Oklahoma"
+      "year": "1962",
+      "text": "Bobby Czyz, American boxer and commentator"
     },
     {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Lenny Dykstra, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Peter Allen, Australian singer-songwriter, pianist, and actor (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Justin Gatlin, American sprinter"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Makenzie Vega, American actress"
+      "type": "Death",
+      "year": "2005",
+      "text": "Arthur Miller, American actor, playwright, and author (born 1915)"
     },
     {
       "type": "Event",
@@ -173,8 +43,38 @@
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Barbara Maier Gustern, American vocal coach and singer (died 2022)"
+      "year": "1920",
+      "text": "Neva Patterson, American actress (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "John Farrow, Australian-American director, producer, and screenwriter (died 1963)"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "U.S. President Dwight D. Eisenhower warns against United States intervention in Vietnam."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Joe Mangrum, American painter and sculptor"
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Travis d'Arnaud, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Elizabeth Banks, American actress"
     },
     {
       "type": "Birth",
@@ -183,58 +83,53 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Joe Mangrum, American painter and sculptor"
+      "year": "1892",
+      "text": "Alan Hale Sr., American actor and director (died 1950)"
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Cliff Burton, American musician and songwriter (died 1986)"
+      "year": "1930",
+      "text": "E. L. Konigsburg, American author and illustrator (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1869",
-      "text": "Royal Cortissoz, American art critic (died 1948)"
+      "year": "1929",
+      "text": "Jim Whittaker, American mountaineer"
     },
     {
-      "type": "Event",
-      "year": "1962",
-      "text": "Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel."
+      "type": "Birth",
+      "year": "1924",
+      "text": "Max Ferguson, Canadian radio host and actor (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Max Kepler, German-American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Jeff Adrien, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1868",
+      "text": "William Allen White, American journalist and author (died 1944)"
     },
     {
       "type": "Birth",
       "year": "1997",
-      "text": "Lilly King, American swimmer"
+      "text": "Josh Rosen, American football player"
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Trevante Rhodes, American actor"
-    },
-    {
-      "type": "Death",
-      "year": "1837",
-      "text": "Alexander Pushkin, Russian poet and author (born 1799)"
+      "year": "1976",
+      "text": "Lance Berkman, American baseball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Daryl Johnston, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Glenn Beck, American journalist, producer, and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Tiffany Espensen, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Martha Lane Fox, Baroness Lane-Fox of Soho, English businesswoman and politician"
+      "year": "1989",
+      "text": "Liam Hendriks, Australian baseball player"
     },
     {
       "type": "Event",
@@ -248,13 +143,48 @@
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "Spanish Civil War: The Nationalists conclude their conquest of Catalonia and seal the border with France."
+      "year": "1814",
+      "text": "Napoleonic Wars: The Battle of Champaubert ends in French victory over the Russians and the Prussians."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Glenn Beck, American journalist, producer, and author"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "Jefferson Davis is notified by telegraph that he has been chosen as provisional President of the Confederate States of America."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Justin Gatlin, American sprinter"
     },
     {
       "type": "Birth",
       "year": "1997",
-      "text": "Josh Rosen, American football player"
+      "text": "Josh Jackson, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Texas Tech University is founded as Texas Technological College in Lubbock, Texas."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Greg Bird, Australian rugby league player"
     },
     {
       "type": "Event",
@@ -263,18 +193,23 @@
     },
     {
       "type": "Event",
-      "year": "1989",
-      "text": "Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party."
+      "year": "1967",
+      "text": "The 25th Amendment to the United States Constitution is ratified."
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Max Kepler, German-American baseball player"
+      "year": "1937",
+      "text": "Roberta Flack, American singer-songwriter and pianist (died 2025)"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Barrie Ingham, English-American actor (died 2015)"
+      "year": "1941",
+      "text": "Dick Carlson, American journalist and diplomat (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Uzo Aduba, American actress"
     },
     {
       "type": "Birth",
@@ -283,23 +218,88 @@
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Roberta Flack, American singer-songwriter and pianist (died 2025)"
+      "year": "1991",
+      "text": "Emma Roberts, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "John Calipari, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Lou Whittaker, American mountaineer (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Vladimir Zeldin, Russian actor (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Martha Lane Fox, Baroness Lane-Fox of Soho, English businesswoman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Chick Webb, American drummer and bandleader (died 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Greg Norman, Australian golfer and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Garrett Reisman, American engineer and astronaut"
     },
     {
       "type": "Death",
       "year": "2012",
-      "text": "Lloyd Morrison, New Zealand banker and businessman, founded H. R. L. Morrison & Co (born 1957)"
+      "text": "Jeffrey Zaslow, American journalist and author (born 1958)"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Spanish Civil War: The Nationalists conclude their conquest of Catalonia and seal the border with France."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts."
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Rufus Reid, American bassist and composer"
+      "year": "1997",
+      "text": "Chloë Grace Moretz, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "In round 13 of a boxing match at New York City's Madison Square Garden, Primo Carnera knocks out Ernie Schaaf. Schaaf dies four days later."
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Lance Berkman, American baseball player and coach"
+      "year": "1883",
+      "text": "Edith Clarke, American electrical engineer (died 1959)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Lon Chaney Jr., American actor (died 1973)"
     }
   ],
   "source": "Wikipedia"
