@@ -2,34 +2,14 @@
   "date": "2026-02-11",
   "items": [
     {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Mo Willems, American author and illustrator"
+      "type": "Event",
+      "year": "1906",
+      "text": "Pope Pius X publishes the encyclical Vehementer Nos."
     },
     {
       "type": "Birth",
-      "year": "1919",
-      "text": "Eva Gabor, Hungarian-American actress (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Kelly Slater, American surfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Paul Bocuse, French chef (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Lloyd Bentsen, American politician, 69th United States Secretary of the Treasury (died 2006)"
-    },
-    {
-      "type": "Death",
-      "year": "1963",
-      "text": "Sylvia Plath, American poet, novelist, and short story writer (born 1932)"
+      "year": "1924",
+      "text": "Budge Patty, American tennis player (died 2021)"
     },
     {
       "type": "Birth",
@@ -37,44 +17,9 @@
       "text": "Daryn Colledge, American football player"
     },
     {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Trent Frederic, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Billy Halop, American actor (died 1976)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Bill Lawry, Australian cricketer and sportscaster"
-    },
-    {
       "type": "Event",
-      "year": "1970",
-      "text": "Japan launches Ohsumi, becoming the fourth nation to put an object into orbit using its own booster."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Jeb Bush, American banker and politician, 43rd Governor of Florida"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Leslie Nielsen, Canadian-American actor and producer (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Damien Harris, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Matt Dennis, American singer-songwriter and pianist (died 2002)"
+      "year": "1812",
+      "text": "Massachusetts governor Elbridge Gerry is accused of \"gerrymandering\" for the first time."
     },
     {
       "type": "Birth",
@@ -82,159 +27,14 @@
       "text": "Lydia Maria Child, American journalist, author, and activist (died 1880)"
     },
     {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: The United States House of Representatives unanimously passes a resolution guaranteeing noninterference with slavery in any state."
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "First session of United States Senate opens to the public."
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "The Meiji Constitution of Japan is adopted."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Rebel East Timorese soldiers seriously wound President José Ramos-Horta. Rebel leader Alfredo Reinado is killed in the attack."
+      "type": "Birth",
+      "year": "1624",
+      "text": "Ivan Ančić, Croatian Franciscan and religious writer (died 1685)"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Andy Lally, American race car driver"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Saratov Airlines Flight 703 crashes near Moscow, Russia with 71 deaths and no survivors."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Vicki Wilson, Australian netball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Daniel F. Galouye, American author (died 1976)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Richard Hamming, American mathematician and academic (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "1843",
-      "text": "Giuseppe Verdi's opera I Lombardi alla prima crociata receives its first performance in Milan, Italy."
-    },
-    {
-      "type": "Event",
-      "year": "951",
-      "text": "Guo Wei, a court official, leads a military coup and declares himself emperor of the new Later Zhou."
-    },
-    {
-      "type": "Event",
-      "year": "1823",
-      "text": "Carnival tragedy of 1823: About 110 boys are killed during a human crush at the Convent of the Minori Osservanti in Valletta, Malta."
-    },
-    {
-      "type": "Birth",
-      "year": "1830",
-      "text": "Hans Bronsart von Schellendorff, Prussian pianist and composer (died 1913)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Matthew Lawrence, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Daniil Medvedev, Russian tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Buster Douglas, a 42:1 underdog, knocks out Mike Tyson in ten rounds at Tokyo to win boxing's world Heavyweight title."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Calvin Fowler, American basketball player (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Pope Pius X publishes the encyclical Vehementer Nos."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Q'orianka Kilcher, German-American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "COVID-19 pandemic: The World Health Organization officially names the coronavirus outbreak as COVID-19, with the virus being designated SARS-CoV-2."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Brandy Norwood, American singer-songwriter, producer, and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Ken Shamrock, American martial artist and wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "LAPD Red Squad raid on John Reed Club art show in the U.S. results in the destruction of a dozen political artworks."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Mel Carnahan, American lawyer and politician, 51st Governor of Missouri (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "Bernadette Soubirous's first vision of the Blessed Virgin Mary occurs in Lourdes, France."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Daniel James, Jr., American general and pilot (died 1978)"
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Matilda, American chicken and stage magician, oldest known chicken (h. 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Mike Oxley, American lawyer and politician (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Alando Tucker, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1534",
-      "text": "At the Convocation of Canterbury, the Catholic bishops comprising the Upper House of the Province of Canterbury agree to style Henry VIII supreme head of the English church and clergy \"so far as the law of Christ allows\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Otis Clay, American singer-songwriter (died 2016)"
+      "year": "1939",
+      "text": "Gerry Goffin, American songwriter (died 2014)"
     },
     {
       "type": "Birth",
@@ -243,23 +43,63 @@
     },
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "Burt Reynolds, American actor and director (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1903",
-      "text": "Anton Bruckner's 9th Symphony receives its first performance in Vienna, Austria."
-    },
-    {
-      "type": "Death",
-      "year": "1976",
-      "text": "Lee J. Cobb, American actor (born 1911)"
+      "year": "1914",
+      "text": "Josh White, American blues singer-songwriter and guitarist (died 1969)"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Richard Mastracchio, American engineer and astronaut"
+      "year": "1944",
+      "text": "Mike Oxley, American lawyer and politician (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Wesley Strick, American director and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1858",
+      "text": "Bernadette Soubirous's first vision of the Blessed Virgin Mary occurs in Lourdes, France."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Dansby Swanson, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1794",
+      "text": "First session of United States Senate opens to the public."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Jeb Bush, American banker and politician, 43rd Governor of Florida"
+    },
+    {
+      "type": "Event",
+      "year": "1534",
+      "text": "At the Convocation of Canterbury, the Catholic bishops comprising the Upper House of the Province of Canterbury agree to style Henry VIII supreme head of the English church and clergy \"so far as the law of Christ allows\"."
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "Giuseppe Verdi's opera I Lombardi alla prima crociata receives its first performance in Milan, Italy."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Richard Hamming, American mathematician and academic (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1855",
+      "text": "Ellen Day Hale, American painter and author (died 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Josh Jacobs, American football player"
     },
     {
       "type": "Event",
@@ -267,19 +107,134 @@
       "text": "A military transport plane crashes in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people."
     },
     {
-      "type": "Event",
-      "year": "1812",
-      "text": "Massachusetts governor Elbridge Gerry is accused of \"gerrymandering\" for the first time."
+      "type": "Birth",
+      "year": "1898",
+      "text": "Leo Szilard, Hungarian-American physicist and academic (died 1964)"
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "Trish Doan, Korean-Canadian musician (born 1985)"
     },
     {
       "type": "Event",
-      "year": "2001",
-      "text": "A Dutch programmer launches the Anna Kournikova virus infecting millions of emails via a trick photo of the tennis star."
+      "year": "2018",
+      "text": "Saratov Airlines Flight 703 crashes near Moscow, Russia with 71 deaths and no survivors."
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "Tom Veryzer, American baseball player (died 2014)"
+      "year": "1984",
+      "text": "Aubrey O'Day, American singer and reality television personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Vicki Wilson, Australian netball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Virginia E. Johnson, American psychologist and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Zavier Simpson, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Daniel James, Jr., American general and pilot (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Buster Douglas, a 42:1 underdog, knocks out Mike Tyson in ten rounds at Tokyo to win boxing's world Heavyweight title."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Neil Robertson, Australian snooker player"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Gene Vincent, American singer and guitarist (died 1971)"
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "Elsa Beskow, Swedish author and illustrator (died 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Alando Tucker, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Jacque Vaughn, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Matthew Lawrence, American actor and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: The United States House of Representatives unanimously passes a resolution guaranteeing noninterference with slavery in any state."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "COVID-19 pandemic: The World Health Organization officially names the coronavirus outbreak as COVID-19, with the virus being designated SARS-CoV-2."
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "The Meiji Constitution of Japan is adopted."
+    },
+    {
+      "type": "Birth",
+      "year": "1833",
+      "text": "Melville Fuller, American lawyer and jurist, 8th Chief Justice of the United States (died 1910)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Trent Frederic, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Joseph L. Mankiewicz, American director, producer, and screenwriter (died 1993)"
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Jack L. Chalker, American author (born 1944)"
+    },
+    {
+      "type": "Event",
+      "year": "1823",
+      "text": "Carnival tragedy of 1823: About 110 boys are killed during a human crush at the Convent of the Minori Osservanti in Valletta, Malta."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "LAPD Red Squad raid on John Reed Club art show in the U.S. results in the destruction of a dozen political artworks."
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Daniil Medvedev, Russian tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "55",
+      "text": "The death under mysterious circumstances of Tiberius Claudius Caesar Britannicus, heir to the Roman Empire, on the eve of his coming of age clears the way for Nero to become Emperor."
     },
     {
       "type": "Birth",
@@ -288,18 +243,63 @@
     },
     {
       "type": "Event",
+      "year": "1970",
+      "text": "Japan launches Ohsumi, becoming the fourth nation to put an object into orbit using its own booster."
+    },
+    {
+      "type": "Birth",
+      "year": "1821",
+      "text": "Auguste Mariette, French archaeologist and scholar (died 1881)"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Rebel East Timorese soldiers seriously wound President José Ramos-Horta. Rebel leader Alfredo Reinado is killed in the attack."
+    },
+    {
+      "type": "Event",
+      "year": "951",
+      "text": "Guo Wei, a court official, leads a military coup and declares himself emperor of the new Later Zhou."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Matt Dennis, American singer-songwriter and pianist (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "A Dutch programmer launches the Anna Kournikova virus infecting millions of emails via a trick photo of the tennis star."
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "Anton Bruckner's 9th Symphony receives its first performance in Vienna, Austria."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Whitney Houston, American singer-songwriter, producer, and actress (born 1963)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Richard Mastracchio, American engineer and astronaut"
+    },
+    {
+      "type": "Event",
       "year": "1953",
       "text": "Cold War: U.S. President Dwight D. Eisenhower denies all appeals for clemency for Julius and Ethel Rosenberg."
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Diane Franklin, American actress"
+      "year": "1993",
+      "text": "Ben McLemore, American basketball player"
     },
     {
-      "type": "Event",
-      "year": "55",
-      "text": "The death under mysterious circumstances of Tiberius Claudius Caesar Britannicus, heir to the Roman Empire, on the eve of his coming of age clears the way for Nero to become Emperor."
+      "type": "Birth",
+      "year": "1997",
+      "text": "Mike Hughes, American football player"
     }
   ],
   "source": "Wikipedia"
