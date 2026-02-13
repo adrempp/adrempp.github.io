@@ -3,53 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "1996",
-      "text": "The Nepalese Civil War is initiated in the Kingdom of Nepal by the Communist Party of Nepal (Maoist-Centre)."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Chuck Yeager, American general and pilot; first test pilot to break the sound barrier (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Mena Suvari, American actress and fashion designer"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "A major winter storm causes blackouts and kills at least 82 people in Texas and northern Mexico."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Eddie Robinson, American football player and coach (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1891",
-      "text": "Grant Wood, American painter and academic (died 1942)"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "A jury in Flemington, New Jersey finds Bruno Hauptmann guilty of the 1932 kidnapping and murder of the Lindbergh baby, the son of Charles Lindbergh."
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "James Cooke Brown, American sociologist and author (born 1921)"
-    },
-    {
-      "type": "Birth",
-      "year": "1815",
-      "text": "Rufus Wilmot Griswold, American anthologist, editor, poet and critic (died 1857)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Randy Moss, American football player and coach"
+      "year": "1978",
+      "text": "Hilton bombing: A bomb explodes in a refuse truck outside the Hilton Hotel in Sydney, Australia, killing two refuse collectors and a policeman."
     },
     {
       "type": "Event",
@@ -57,9 +12,114 @@
       "text": "American researchers discover the Madrid Codices by Leonardo da Vinci in the National Library of Spain."
     },
     {
+      "type": "Event",
+      "year": "1979",
+      "text": "An intense windstorm strikes western Washington and sinks a 0.5-mile (0.80 km) long section of the Hood Canal Bridge."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game."
+    },
+    {
       "type": "Birth",
-      "year": "1911",
-      "text": "Jean Muir, American actress and educator (died 1996)"
+      "year": "1916",
+      "text": "Dorothy Bliss, American invertebrate zoologist (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "David Naughton, American actor and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "The Nepalese Civil War is initiated in the Kingdom of Nepal by the Communist Party of Nepal (Maoist-Centre)."
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "A series of sewer explosions destroys more than two miles of streets in Louisville, Kentucky."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations."
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Waylon Jennings, American singer-songwriter and guitarist (born 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1805",
+      "text": "Peter Gustav Lejeune Dirichlet, German mathematician and academic (died 1859)"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Virgilijus Alekna, Lithuanian discus thrower"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Bryan Thomas Schmidt, American science fiction author and editor"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Angelo Mosca, American-Canadian football player and wrestler (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Jaden Ivey, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Carlos Cotto, Puerto Rican-American wrestler and boxer"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Gulf War: Two laser-guided \"smart bombs\" destroy the Amiriyah shelter in Baghdad. Allied forces said the bunker was being used as a military communications outpost, but over 400 Iraqi civilians inside were killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Todd Williams, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Feist, Canadian singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Keith Appling, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Kelly Hu, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Pernilla August, Swedish actress"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Black college students stage the first of the Nashville sit-ins at three lunch counters in Nashville, Tennessee."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Former U.S. President Donald Trump is acquitted in his second impeachment trial."
     },
     {
       "type": "Event",
@@ -68,48 +128,8 @@
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Artur Yusupov, Russian-German chess player and author"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "An intense windstorm strikes western Washington and sinks a 0.5-mile (0.80 km) long section of the Hood Canal Bridge."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Kelly Hu, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "The delegation headed by Metropolitan bishop Andrei Șaguna hands out to the Emperor Franz Joseph I of Austria the General Petition of Romanian leaders in Transylvania, Banat and Bukovina, which demands that the Romanian nation be recognized."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Tennessee Ernie Ford, American singer and actor (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Peter Tork, American singer-songwriter, bass player, and actor (died 2019)"
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Aileen Hernandez, American union organizer and activist (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "William Shockley, English-American physicist and academic, Nobel Prize laureate (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Fonzworth Bentley, American rapper and actor"
+      "year": "1885",
+      "text": "Bess Truman, 35th First Lady of the United States (died 1982)"
     },
     {
       "type": "Event",
@@ -117,9 +137,104 @@
       "text": "War of the Straits: The Battle of the Bosporus is fought in a stormy sea into the night between the Genoese, Venetian, Aragonese, and Byzantine fleets."
     },
     {
+      "type": "Event",
+      "year": "1961",
+      "text": "An allegedly 500,000-year-old rock is discovered near Olancha, California, US, that appears to anachronistically encase a spark plug."
+    },
+    {
       "type": "Birth",
-      "year": "1937",
-      "text": "Angelo Mosca, American-Canadian football player and wrestler (died 2021)"
+      "year": "1920",
+      "text": "Boudleaux Bryant, American songwriter (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Eddie Robinson, American football player and coach (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Gary Patterson, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Ernst Fuchs, Austrian painter, sculptor, and illustrator (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Richard Blumenthal, American sergeant and politician, 23rd Attorney General of Connecticut"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Chuck Yeager, American general and pilot; first test pilot to break the sound barrier (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1867",
+      "text": "Work begins on the covering of the Senne, burying Brussels's primary river and creating the modern central boulevards."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Freedom Williams, American rapper and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "Copyright: In New York City the American Society of Composers, Authors and Publishers is established to protect the copyrighted musical compositions of its members."
+    },
+    {
+      "type": "Birth",
+      "year": "1815",
+      "text": "Rufus Wilmot Griswold, American anthologist, editor, poet and critic (died 1857)"
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "The delegation headed by Metropolitan bishop Andrei Șaguna hands out to the Emperor Franz Joseph I of Austria the General Petition of Romanian leaders in Transylvania, Banat and Bukovina, which demands that the Romanian nation be recognized."
+    },
+    {
+      "type": "Event",
+      "year": "1642",
+      "text": "The Clergy Act becomes law, excluding bishops of the Church of England from serving in the House of Lords."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Peter Kern, Austrian actor, director, producer, and screenwriter (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "A jury in Flemington, New Jersey finds Bruno Hauptmann guilty of the 1932 kidnapping and murder of the Lindbergh baby, the son of Charles Lindbergh."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "A major winter storm causes blackouts and kills at least 82 people in Texas and northern Mexico."
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Robert H. Jackson, American politician, 57th United States Attorney General, Nuremberg prosecutor, and Supreme Court justice (died 1954)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Aqib Talib, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Stockard Channing, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Michael Turner, American football player"
     },
     {
       "type": "Event",
@@ -128,28 +243,53 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Bo Svenson, Swedish-American actor, director, and producer"
+      "year": "1902",
+      "text": "Harold Lasswell, American political scientist and theorist (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Kim Novak, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "For the first time in more than 100 years the Umatilla, an American Indian tribe, are able to hunt and harvest a bison just outside Yellowstone National Park, restoring a centuries-old tradition guaranteed by a treaty signed in 1855."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Nathan Eovaldi, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1992",
+      "text": "Nikolay Bogolyubov, Ukrainian-Russian mathematician and physicist (born 1909)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Al Montoya, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Kevin Bloody Wilson, Australian comedian, singer-songwriter, and guitarist"
+    },
+    {
+      "type": "Death",
+      "year": "2025",
+      "text": "Jim Guy Tucker, American lawyer and politician, 43rd Governor of Arkansas (born 1943)"
     },
     {
       "type": "Birth",
       "year": "1942",
-      "text": "Donald E. Williams, American captain, pilot, and astronaut (died 2016)"
+      "text": "Peter Tork, American singer-songwriter, bass player, and actor (died 2019)"
     },
     {
-      "type": "Event",
-      "year": "2008",
-      "text": "Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations."
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Hilton bombing: A bomb explodes in a refuse truck outside the Hilton Hotel in Sydney, Australia, killing two refuse collectors and a policeman."
-    },
-    {
-      "type": "Event",
-      "year": "1867",
-      "text": "Work begins on the covering of the Senne, burying Brussels's primary river and creating the modern central boulevards."
+      "type": "Birth",
+      "year": "1945",
+      "text": "William Sleator, American author and composer (died 2011)"
     },
     {
       "type": "Birth",
@@ -160,146 +300,6 @@
       "type": "Birth",
       "year": "1947",
       "text": "Mike Krzyzewski, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Dorothy Bliss, American invertebrate zoologist (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Freedom Williams, American rapper and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Eileen Farrell, American soprano and educator (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1642",
-      "text": "The Clergy Act becomes law, excluding bishops of the Church of England from serving in the House of Lords."
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "A series of sewer explosions destroys more than two miles of streets in Louisville, Kentucky."
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Hal Chase, American baseball player and manager (died 1947)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "An allegedly 500,000-year-old rock is discovered near Olancha, California, US, that appears to anachronistically encase a spark plug."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Israel Kirzner, English-American economist, author, and academic"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Former U.S. President Donald Trump is acquitted in his second impeachment trial."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game."
-    },
-    {
-      "type": "Birth",
-      "year": "1835",
-      "text": "Mirza Ghulam Ahmad, Indian religious leader (died 1908)"
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "For the first time in more than 100 years the Umatilla, an American Indian tribe, are able to hunt and harvest a bison just outside Yellowstone National Park, restoring a centuries-old tradition guaranteed by a treaty signed in 1855."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Ryan Goins, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Carlos Cotto, Puerto Rican-American wrestler and boxer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Donnie Moore, American baseball player (died 1989)"
-    },
-    {
-      "type": "Death",
-      "year": "1934",
-      "text": "József Pusztai, Slovene-Hungarian poet and journalist (born 1864)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Todd Williams, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1876",
-      "text": "Fritz Buelow, German-American baseball player and umpire (died 1933)"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "Copyright: In New York City the American Society of Composers, Authors and Publishers is established to protect the copyrighted musical compositions of its members."
-    },
-    {
-      "type": "Birth",
-      "year": "1831",
-      "text": "John Aaron Rawlins, American general and politician, 29th United States Secretary of War (died 1869)"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Gordon Tullock, American economist and academic (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Robert H. Jackson, American politician, 57th United States Attorney General, Nuremberg prosecutor, and Supreme Court justice (died 1954)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Luke Ridnour, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Black college students stage the first of the Nashville sit-ins at three lunch counters in Nashville, Tennessee."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Ernst Fuchs, Austrian painter, sculptor, and illustrator (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Gulf War: Two laser-guided \"smart bombs\" destroy the Amiriyah shelter in Baghdad. Allied forces said the bunker was being used as a military communications outpost, but over 400 Iraqi civilians inside were killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Philippe Jaroussky, French singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Peter Gabriel, English singer-songwriter and musician"
     }
   ],
   "source": "Wikipedia"
