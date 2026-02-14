@@ -2,74 +2,49 @@
   "date": "2026-02-14",
   "items": [
     {
+      "type": "Event",
+      "year": "1989",
+      "text": "Union Carbide agrees to pay $470 million to the Indian government for damages it caused in the 1984 Bhopal disaster."
+    },
+    {
+      "type": "Event",
+      "year": "748",
+      "text": "Abbasid Revolution: The Hashimi rebels under Abu Muslim Khorasani take Merv, capital of the Umayyad province Khorasan, marking the consolidation of the Abbasid revolt."
+    },
+    {
       "type": "Birth",
-      "year": "1970",
-      "text": "Giuseppe Guerini, Italian cyclist"
+      "year": "1931",
+      "text": "Brian Kelly, American actor and director (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "In a suburb of Moscow, Russia, the roof of the Transvaal water park collapses, killing more than 28 people, and wounding 193 others."
     },
     {
       "type": "Death",
-      "year": "1987",
-      "text": "Dmitry Kabalevsky, Russian pianist and composer (born 1904)"
+      "year": "1994",
+      "text": "Christopher Lasch, American historian and critic (born 1932)"
     },
     {
       "type": "Event",
-      "year": "2005",
-      "text": "Seven people are killed and 151 wounded in a series of bombings by suspected al-Qaeda-linked militants that hit Makati, Davao City, and General Santos, all in the Philippines."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Rob Thomas, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Rostov-on-Don, Russia is liberated."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Magic Sam, American singer and guitarist (died 1969)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Florence Henderson, American actress and singer (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "In Kabul, Setami Milli militants kidnap the American ambassador to Afghanistan, Adolph Dubs who is later killed during a gunfight between his kidnappers and police."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Richard Hamilton, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Terry Gross, American radio host and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "The Computing-Tabulating-Recording Company changes its name to International Business Machines Corporation (IBM)."
+      "year": "2018",
+      "text": "A shooting at Marjory Stoneman Douglas High School in Parkland, Florida is one of the deadliest school massacres with 17 fatalities and 17 injuries."
     },
     {
       "type": "Death",
-      "year": "1988",
-      "text": "Frederick Loewe, German-American composer (born 1901)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Roger Fisher, American guitarist and songwriter"
+      "year": "1676",
+      "text": "Abraham Bosse, French engraver and illustrator (born 1602)"
     },
     {
       "type": "Event",
-      "year": "1779",
-      "text": "James Cook is killed by Native Hawaiians near Kealakekua on the Island of Hawaii."
+      "year": "1849",
+      "text": "In New York City, James Knox Polk becomes the first serving President of the United States to have his photograph taken."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Donna Shalala, American academic and politician, 18th United States Secretary of Health and Human Services"
     },
     {
       "type": "Event",
@@ -78,93 +53,23 @@
     },
     {
       "type": "Event",
+      "year": "1943",
+      "text": "World War II: Rostov-on-Don, Russia is liberated."
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Jaxon Smith-Njigba, American football player"
+    },
+    {
+      "type": "Event",
       "year": "2008",
       "text": "Northern Illinois University shooting: A gunman opens fire in a lecture hall of Northern Illinois University in DeKalb County, Illinois, resulting in six fatalities (including the gunman) and 21 injuries."
     },
     {
       "type": "Birth",
-      "year": "1894",
-      "text": "Jack Benny, American actor and producer (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "748",
-      "text": "Abbasid Revolution: The Hashimi rebels under Abu Muslim Khorasani take Merv, capital of the Umayyad province Khorasan, marking the consolidation of the Abbasid revolt."
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Iranian leader Ruhollah Khomeini issues a fatwa encouraging Muslims to kill Salman Rushdie, author of The Satanic Verses."
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "In New York City, James Knox Polk becomes the first serving President of the United States to have his photograph taken."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Soviet Russia adopts the Gregorian calendar."
-    },
-    {
-      "type": "Event",
-      "year": "1797",
-      "text": "French Revolutionary Wars: Battle of Cape St. Vincent: John Jervis, (later 1st Earl of St Vincent) and Horatio Nelson (later 1st Viscount Nelson) lead the British Royal Navy to victory over a Spanish fleet in action near Gibraltar."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Byron Mullens, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Milan Hejduk, Czech-American ice hockey player"
-    },
-    {
-      "type": "Birth",
       "year": "1913",
-      "text": "Mel Allen, American sportscaster (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "The original Quorum of the Twelve Apostles, in the Latter Day Saint movement, is formed in Kirtland, Ohio."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Alberto Rosende, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Pat O'Brien, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Adam Matuszczyk, Polish footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "Arizona is admitted as the 48th and the last contiguous U.S. state."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Tim Buckley, American singer-songwriter and guitarist (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Jessica Dragonette, American singer (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Lois Maxwell, Canadian-Australian model and actress (died 2007)"
+      "text": "Woody Hayes, American football player and coach (died 1987)"
     },
     {
       "type": "Event",
@@ -173,43 +78,38 @@
     },
     {
       "type": "Event",
+      "year": "1797",
+      "text": "French Revolutionary Wars: Battle of Cape St. Vincent: John Jervis, (later 1st Earl of St Vincent) and Horatio Nelson (later 1st Viscount Nelson) lead the British Royal Navy to victory over a Spanish fleet in action near Gibraltar."
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "United American Bank of Knoxville, Tennessee collapses. Its president, Jake Butcher, is later convicted of fraud."
+    },
+    {
+      "type": "Birth",
       "year": "1859",
-      "text": "Oregon is admitted as the 33rd U.S. state."
+      "text": "George Washington Gale Ferris Jr., American engineer, inventor of the Ferris wheel (died 1896)"
     },
     {
-      "type": "Death",
-      "year": "1969",
-      "text": "Vito Genovese, Italian-American mob boss (born 1897)"
+      "type": "Birth",
+      "year": "1993",
+      "text": "Jadeveon Clowney, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1847",
+      "text": "Anna Howard Shaw, American physician, minister, and activist (died 1919)"
     },
     {
       "type": "Event",
-      "year": "1349",
-      "text": "Strasbourg massacre: Several thousand Jews are burned to death by mobs while the remaining Jews are forcibly removed from Strasbourg after being accused of causing the Black Death."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "D'Wayne Wiggins, American musical artist (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Drew Bledsoe, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Gregory Hines, American actor, singer, and dancer (died 2003)"
+      "year": "1945",
+      "text": "World War II: Navigational error leads to the mistaken bombing of Prague, Czechoslovakia by a United States Army Air Forces squadron of B-17s assisting in the Soviet Red Army's Vistula–Oder Offensive."
     },
     {
       "type": "Event",
-      "year": "1779",
-      "text": "American Revolutionary War: The Battle of Kettle Creek is fought in Georgia."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Jules Asner, American model and television host"
+      "year": "1924",
+      "text": "The Computing-Tabulating-Recording Company changes its name to International Business Machines Corporation (IBM)."
     },
     {
       "type": "Birth",
@@ -219,77 +119,32 @@
     {
       "type": "Birth",
       "year": "1913",
-      "text": "Woody Hayes, American football player and coach (died 1987)"
+      "text": "Jimmy Hoffa, American trade union leader (died 1975)"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Stuart Erwin, American actor (died 1967)"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "World War II: Navigational error leads to the mistaken bombing of Prague, Czechoslovakia by a United States Army Air Forces squadron of B-17s assisting in the Soviet Red Army's Vistula–Oder Offensive."
+      "year": "1979",
+      "text": "In Kabul, Setami Milli militants kidnap the American ambassador to Afghanistan, Adolph Dubs who is later killed during a gunfight between his kidnappers and police."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Brad Halsey, American baseball player (died 2014)"
     },
     {
       "type": "Event",
       "year": "1989",
-      "text": "Union Carbide agrees to pay $470 million to the Indian government for damages it caused in the 1984 Bhopal disaster."
+      "text": "Iranian leader Ruhollah Khomeini issues a fatwa encouraging Muslims to kill Salman Rushdie, author of The Satanic Verses."
     },
     {
-      "type": "Event",
-      "year": "1899",
-      "text": "Voting machines are approved by the U.S. Congress for use in federal elections."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Hazel McCallion, Canadian businesswoman and politician, 3rd Mayor of Mississauga (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "The Voyager 1 spacecraft takes the photograph of planet Earth that later becomes famous as Pale Blue Dot."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "United American Bank of Knoxville, Tennessee collapses. Its president, Jake Butcher, is later convicted of fraud."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: On the first day of the bombing of Dresden, the British Royal Air Force and the United States Army Air Forces begin fire-bombing Dresden."
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "In a suburb of Moscow, Russia, the roof of the Transvaal water park collapses, killing more than 28 people, and wounding 193 others."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Poasa Faamausili, New Zealand rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Jadeveon Clowney, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1855",
-      "text": "Texas is linked by telegraph to the rest of the United States, with the completion of a connection between New Orleans and Marshall, Texas."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "A shooting at Marjory Stoneman Douglas High School in Parkland, Florida is one of the deadliest school massacres with 17 fatalities and 17 injuries."
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Jaxon Smith-Njigba, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "The U.S. Navy commissions its first class of diesel-powered submarines."
+      "type": "Death",
+      "year": "2015",
+      "text": "Philip Levine, American poet and academic (born 1928)"
     },
     {
       "type": "Event",
@@ -298,8 +153,153 @@
     },
     {
       "type": "Event",
+      "year": "1945",
+      "text": "World War II: On the first day of the bombing of Dresden, the British Royal Air Force and the United States Army Air Forces begin fire-bombing Dresden."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Bogdan Kiselevich, Russian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Derek Norris, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Vic Morrow, American actor and director (died 1982)"
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "Oregon is admitted as the 33rd U.S. state."
+    },
+    {
+      "type": "Event",
+      "year": "1349",
+      "text": "Strasbourg massacre: Several thousand Jews are burned to death by mobs while the remaining Jews are forcibly removed from Strasbourg after being accused of causing the Black Death."
+    },
+    {
+      "type": "Event",
+      "year": "1779",
+      "text": "James Cook is killed by Native Hawaiians near Kealakekua on the Island of Hawaii."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Vicente T. Blaz, American general and politician (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Soviet Russia adopts the Gregorian calendar."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Rob Thomas, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Ken Wahl, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1912",
+      "text": "The U.S. Navy commissions its first class of diesel-powered submarines."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "Seven people are killed and 151 wounded in a series of bombings by suspected al-Qaeda-linked militants that hit Makati, Davao City, and General Santos, all in the Philippines."
+    },
+    {
+      "type": "Event",
+      "year": "1855",
+      "text": "Texas is linked by telegraph to the rest of the United States, with the completion of a connection between New Orleans and Marshall, Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Mel Allen, American sportscaster (died 1996)"
+    },
+    {
+      "type": "Event",
       "year": "1778",
       "text": "The United States flag is formally recognized by a foreign naval vessel for the first time, when French Admiral Toussaint-Guillaume Picquet de la Motte renders a nine gun salute to USS Ranger, commanded by John Paul Jones."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Adam Matuszczyk, Polish footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "The Voyager 1 spacecraft takes the photograph of planet Earth that later becomes famous as Pale Blue Dot."
+    },
+    {
+      "type": "Event",
+      "year": "1779",
+      "text": "American Revolutionary War: The Battle of Kettle Creek is fought in Georgia."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Blowfly, American singer-songwriter and producer (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Andrew Robinson, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Mark Rutte, Dutch businessman and politician, Prime Minister of the Netherlands"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Rocky Elsom, Australian rugby player"
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Johnny Longden, English-American jockey and trainer (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Teller, American magician and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Hugh Downs, American journalist, game show host, and producer (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "The original Quorum of the Twelve Apostles, in the Latter Day Saint movement, is formed in Kirtland, Ohio."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jared Lorenzen, American football player (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1912",
+      "text": "Arizona is admitted as the 48th and the last contiguous U.S. state."
+    },
+    {
+      "type": "Event",
+      "year": "1899",
+      "text": "Voting machines are approved by the U.S. Congress for use in federal elections."
     }
   ],
   "source": "Wikipedia"
