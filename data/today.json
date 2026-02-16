@@ -3,238 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Mark Price, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "In Miami, Giuseppe Zangara attempts to assassinate US President-elect Franklin D. Roosevelt, but instead shoots Chicago mayor Anton J. Cermak, who dies of his wounds on March 6."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Confederates commanded by Brig. Gen. John B. Floyd attack General Ulysses S. Grant's Union forces besieging Fort Donelson in Tennessee. Unable to break the fort's encirclement, the Confederates surrender the following day."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "Canada and the United States agree to construct the Distant Early Warning Line, a system of radar stations in the far northern Arctic regions of Canada and Alaska."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Fall of Singapore. Following an assault by Japanese forces, the British General Arthur Percival surrenders. About 80,000 Indian, United Kingdom and Australian soldiers become prisoners of war, the largest surrender of British-led military personnel in history."
+      "year": "1981",
+      "text": "Matt Hoopes, American singer-songwriter and guitarist"
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Shameka Christon, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "A meteor explodes over Russia, injuring 1,500 people as a shock wave blows out windows and rocks buildings. This happens unexpectedly only hours before the expected closest ever approach of the larger and unrelated asteroid 2012 DA14."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Renee O'Connor, American actress, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "The Embassy of the United States, Athens, is attacked by an antitank rocket, launched by the Revolutionary Organization 17 November."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Robert Drew, American director and producer (died 2014)"
-    },
-    {
-      "type": "Death",
-      "year": "1939",
-      "text": "Kuzma Petrov-Vodkin, Russian painter and author (born 1878)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Allan Arbus, American actor and photographer (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "The battleship USS Maine explodes and sinks in Havana harbor in Cuba, killing about 274 of the ship's roughly 354 crew. The disaster pushes the United States to declare war on Spain."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "John Trudell, American author, poet, and actor (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Sound recordings are granted U.S. federal copyright protection for the first time."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Birdman, American rapper and producer"
-    },
-    {
-      "type": "Event",
-      "year": "706",
-      "text": "Byzantine emperor Justinian II has his predecessors Leontios and Tiberios III publicly executed in the Hippodrome of Constantinople."
-    },
-    {
-      "type": "Event",
-      "year": "1899",
-      "text": "Tsar Nicholas II of Russia issues a declaration known as the February Manifesto, which reduces the autonomy of the Grand Duchy of Finland, thus beginning the first period of oppression."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Niklaus Wirth, Swiss computer scientist, created the Pascal programming language (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1852",
-      "text": "The Helsinki Cathedral (known as St. Nicholas' Church at time) is officially inaugurated in Helsinki, Finland."
-    },
-    {
-      "type": "Birth",
-      "year": "1825",
-      "text": "Carter Harrison, Sr., American lawyer and politician, 29th Mayor of Chicago (died 1893)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Chris Farley, American comedian and actor (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Soviet–Afghan War: The Soviet Union officially announces that all of its troops have left Afghanistan."
-    },
-    {
-      "type": "Birth",
-      "year": "1725",
-      "text": "Abraham Clark, American surveyor, lawyer, and politician (died 1794)"
-    },
-    {
-      "type": "Birth",
-      "year": "1835",
-      "text": "Demetrius Vikelas, Greek businessman and philanthropist (died 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Brian Holland, American songwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1811",
-      "text": "Domingo Faustino Sarmiento, Argentinian journalist and politician, 7th President of Argentina (died 1888)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Zachary Gordon, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Nate Schierholtz, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "ENIAC, the first electronic general-purpose computer, is formally dedicated at the University of Pennsylvania in Philadelphia."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Ali Campbell, English singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Angella D. Ferguson, American pediatrician (died 2026)"
-    },
-    {
-      "type": "Event",
-      "year": "1764",
-      "text": "The city of St. Louis is established in Spanish Louisiana (now in Missouri, USA)."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Matt Groening, American animator, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Erich Eliskases, Austrian chess player (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Gregory Mcdonald, American author (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "438",
-      "text": "Roman emperor Theodosius II publishes the law codex Codex Theodosianus."
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "Serbia's Sretenje Constitution briefly comes into effect."
-    },
-    {
-      "type": "Event",
-      "year": "1493",
-      "text": "While on board the Niña, Christopher Columbus writes an open letter (widely distributed upon his return to Portugal) describing his discoveries and the unexpected items he came across in the New World."
-    },
-    {
-      "type": "Event",
-      "year": "1690",
-      "text": "Constantin Cantemir, Prince of Moldavia, and the Holy Roman Empire sign a secret treaty in Sibiu, stipulating that Moldavia would support the actions led by the House of Habsburg against the Ottoman Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Sax Rohmer, English-American author (died 1959)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Mick Avory, English musician and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Ken Anderson, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Alexander Wurz, Austrian racing driver and businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Sabena Flight 548 crashes in Belgium, killing 73, including the entire United States figure skating team along with several of their coaches and family members."
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Stevens Institute of Technology is founded in New Jersey, US, and offers the first Bachelor of Engineering degree in mechanical engineering."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Harold Arlen, American composer (died 1986)"
+      "year": "1973",
+      "text": "Amy van Dyken, American swimmer"
     },
     {
       "type": "Event",
@@ -243,33 +18,263 @@
     },
     {
       "type": "Birth",
-      "year": "1458",
-      "text": "Ivan the Young, son of Ivan III of Russia (died 1490)"
+      "year": "1982",
+      "text": "Shameka Christon, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "In Miami, Giuseppe Zangara attempts to assassinate US President-elect Franklin D. Roosevelt, but instead shoots Chicago mayor Anton J. Cermak, who dies of his wounds on March 6."
     },
     {
       "type": "Death",
-      "year": "2000",
-      "text": "Angus MacLean, Canadian commander and politician, 25th Premier of Prince Edward Island (born 1914)"
+      "year": "1905",
+      "text": "Lew Wallace, American author, general, and politician, 11th Governor of New Mexico Territory (born 1827)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Robert Drew, American director and producer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "Serbia's Sretenje Constitution briefly comes into effect."
+    },
+    {
+      "type": "Event",
+      "year": "1764",
+      "text": "The city of St. Louis is established in Spanish Louisiana (now in Missouri, USA)."
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "The battleship USS Maine explodes and sinks in Havana harbor in Cuba, killing about 274 of the ship's roughly 354 crew. The disaster pushes the United States to declare war on Spain."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Brendon Small, American animator, producer, screenwriter, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "ENIAC, the first electronic general-purpose computer, is formally dedicated at the University of Pennsylvania in Philadelphia."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Soviet–Afghan War: The Soviet Union officially announces that all of its troops have left Afghanistan."
+    },
+    {
+      "type": "Birth",
+      "year": "1377",
+      "text": "Ladislaus of Naples (died 1414)"
+    },
+    {
+      "type": "Birth",
+      "year": "1847",
+      "text": "Robert Fuchs, Austrian composer and educator (died 1927)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Derrick Jones Jr., American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Gale Sondergaard, Danish-American actress (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Alexander Wurz, Austrian racing driver and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Air Transport International Flight 805 crashes in Swanton, Ohio, near Toledo Express Airport, killing all four people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Chris Farley, American comedian and actor (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Allan Arbus, American actor and photographer (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "438",
+      "text": "Roman emperor Theodosius II publishes the law codex Codex Theodosianus."
+    },
+    {
+      "type": "Event",
+      "year": "706",
+      "text": "Byzantine emperor Justinian II has his predecessors Leontios and Tiberios III publicly executed in the Hippodrome of Constantinople."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "Canada and the United States agree to construct the Distant Early Warning Line, a system of radar stations in the far northern Arctic regions of Canada and Alaska."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Russell Martin, Canadian baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Brandon Boyd, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Erich Eliskases, Austrian chess player (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1493",
+      "text": "While on board the Niña, Christopher Columbus writes an open letter (widely distributed upon his return to Portugal) describing his discoveries and the unexpected items he came across in the New World."
+    },
+    {
+      "type": "Birth",
+      "year": "1883",
+      "text": "Sax Rohmer, English-American author (died 1959)"
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "The 1925 serum run to Nome: The second delivery of serum arrives in Nome, Alaska."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Marisa Berenson, American model and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Sound recordings are granted U.S. federal copyright protection for the first time."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Stevens Institute of Technology is founded in New Jersey, US, and offers the first Bachelor of Engineering degree in mechanical engineering."
+    },
+    {
+      "type": "Birth",
+      "year": "1835",
+      "text": "Demetrius Vikelas, Greek businessman and philanthropist (died 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1810",
+      "text": "Mary S. B. Shindler, American poet, writer, and editor (died 1883)"
     },
     {
       "type": "Birth",
       "year": "1998",
-      "text": "George Russell, English racing driver"
+      "text": "Zachary Gordon, American actor"
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "Bruce Dawe, Australian poet and academic (died 2020)"
+      "year": "1725",
+      "text": "Abraham Clark, American surveyor, lawyer, and politician (died 1794)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Brian Holland, American songwriter and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1809",
+      "text": "Cyrus McCormick, American journalist and businessman, co-founded International Harvester (died 1884)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Hale Boggs, American lawyer and politician (died 1972)"
+    },
+    {
+      "type": "Birth",
+      "year": "1812",
+      "text": "Charles Lewis Tiffany, American businessman, founded Tiffany & Co. (died 1902)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Norman C. Deno, American chemist and plant scientist, (died 2017)"
     },
     {
       "type": "Birth",
       "year": "1984",
-      "text": "Gary Clark Jr., American singer-songwriter and musician"
+      "text": "Nate Schierholtz, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Sabena Flight 548 crashes in Belgium, killing 73, including the entire United States figure skating team along with several of their coaches and family members."
+    },
+    {
+      "type": "Event",
+      "year": "1899",
+      "text": "Tsar Nicholas II of Russia issues a declaration known as the February Manifesto, which reduces the autonomy of the Grand Duchy of Finland, thus beginning the first period of oppression."
+    },
+    {
+      "type": "Event",
+      "year": "1852",
+      "text": "The Helsinki Cathedral (known as St. Nicholas' Church at time) is officially inaugurated in Helsinki, Finland."
+    },
+    {
+      "type": "Death",
+      "year": "1939",
+      "text": "Kuzma Petrov-Vodkin, Russian painter and author (born 1878)"
+    },
+    {
+      "type": "Event",
+      "year": "1879",
+      "text": "Women's rights: US President Rutherford B. Hayes signs a bill allowing female attorneys to argue cases before the Supreme Court of the United States."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "A meteor explodes over Russia, injuring 1,500 people as a shock wave blows out windows and rocks buildings. This happens unexpectedly only hours before the expected closest ever approach of the larger and unrelated asteroid 2012 DA14."
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Amber Riley, American actress and singer"
+      "year": "1959",
+      "text": "Joseph R. Gannascoli, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Birdman, American rapper and producer"
+    },
+    {
+      "type": "Death",
+      "year": "1933",
+      "text": "Pat Sullivan, Australian animator and producer, co-created Felix the Cat (born 1887)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Confederates commanded by Brig. Gen. John B. Floyd attack General Ulysses S. Grant's Union forces besieging Fort Donelson in Tennessee. Unable to break the fort's encirclement, the Confederates surrender the following day."
+    },
+    {
+      "type": "Event",
+      "year": "1690",
+      "text": "Constantin Cantemir, Prince of Moldavia, and the Holy Roman Empire sign a secret treaty in Sibiu, stipulating that Moldavia would support the actions led by the House of Habsburg against the Ottoman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Gene Hickerson, American football player (died 2008)"
     },
     {
       "type": "Birth",
@@ -278,28 +283,23 @@
     },
     {
       "type": "Event",
-      "year": "1925",
-      "text": "The 1925 serum run to Nome: The second delivery of serum arrives in Nome, Alaska."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Air Transport International Flight 805 crashes in Swanton, Ohio, near Toledo Express Airport, killing all four people on board."
-    },
-    {
-      "type": "Death",
-      "year": "1145",
-      "text": "Lucius II, pope of the Catholic Church"
+      "year": "1942",
+      "text": "World War II: Fall of Singapore. Following an assault by Japanese forces, the British General Arthur Percival surrenders. About 80,000 Indian, United Kingdom and Australian soldiers become prisoners of war, the largest surrender of British-led military personnel in history."
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Sodapoppin, American Twitch streamer and internet personality"
+      "year": "1964",
+      "text": "Leland D. Melvin, American engineer and astronaut"
     },
     {
-      "type": "Event",
-      "year": "1879",
-      "text": "Women's rights: US President Rutherford B. Hayes signs a bill allowing female attorneys to argue cases before the Supreme Court of the United States."
+      "type": "Birth",
+      "year": "1934",
+      "text": "Graham Kennedy, Australian television host and actor (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1759",
+      "text": "Friedrich August Wolf, German philologist and critic (died 1824)"
     }
   ],
   "source": "Wikipedia"
