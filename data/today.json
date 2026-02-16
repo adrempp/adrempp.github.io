@@ -3,288 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Vera-Ellen, German-American actress, singer, and dancer (died 1981)"
+      "year": "1802",
+      "text": "Phineas Quimby, American mystic and philosopher (died 1866)"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Gretchen Wyler, American actress, singer, and dancer (died 2007)"
+      "year": "1954",
+      "text": "Margaux Hemingway, American model and actress (died 1996)"
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Mahershala Ali, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Ava Max, American singer and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Council of Lithuania unanimously adopts the Act of Independence, declaring Lithuania an independent state."
-    },
-    {
-      "type": "Birth",
-      "year": "1812",
-      "text": "Henry Wilson, American colonel and politician, 18th Vice President of the United States (died 1875)"
-    },
-    {
-      "type": "Event",
-      "year": "1804",
-      "text": "First Barbary War: Stephen Decatur leads a raid to burn the pirate-held frigate USS Philadelphia."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "George F. Kennan, American historian and diplomat, United States Ambassador to the Soviet Union (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "The Kyoto Protocol comes into force, following its ratification by Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Peter Porter, Australian-English poet and educator (died 2010)"
-    },
-    {
-      "type": "Death",
-      "year": "2021",
-      "text": "Gustavo Noboa, Ecuadorian politician, 42nd President of Ecuador (born 1937)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Ian Clarke, Irish-American computer scientist, founded Hyphanet"
-    },
-    {
-      "type": "Birth",
-      "year": "1786",
-      "text": "Maria Pavlovna, Russian Grand Duchess (died 1859)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Oussama Mellouli, Tunisian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The Ash Wednesday bushfires in Victoria and South Australia kill 75."
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Jimmy Wakely, American country music singer-songwriter and actor (died 1982)"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "The National Hockey League cancels the entire 2004–05 regular season and playoffs."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Ice-T, American rapper and actor"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "The last Mobile army surgical hospital (MASH) is decommissioned by the United States Army."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Margot Frank, German-Dutch holocaust victim (died 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Bill Doggett, American pianist and composer (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jerry Owens, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "Wallace H. Carothers receives a United States patent for nylon."
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Emery Worldwide Airlines Flight 17 crashes near Sacramento Mather Airport in Rancho Cordova, California, killing all three aboard."
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "Robert J. Flaherty, American director and producer (died 1951)"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "The U.S. Navy submarine USS Triton begins Operation Sandblast, setting sail from New London, Connecticut, to begin the first submerged circumnavigation of the globe."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Eric Mun, American-South Korean singer and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Jerome Bettis, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Qyntel Woods, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Marlene Hagge, American golfer (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "LeVar Burton, American actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "In Haleyville, Alabama, the first 9-1-1 emergency telephone system goes into service."
-    },
-    {
-      "type": "Birth",
-      "year": "1514",
-      "text": "Georg Joachim Rheticus, Austrian cartographer and instrument maker (died 1574)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: American forces land on Corregidor Island in the Philippines."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "William Katt, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Elizabeth Olsen, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "John Tartaglia, American actor, singer, and puppeteer"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "James Ingram, American singer-songwriter and producer (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Manny Delcarmen, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1646",
-      "text": "Battle of Torrington, Devon: The last major battle of the First English Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Susanna Kallur, Swedish sprint hurdler"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "James Baskett, American actor and singer (died 1948)"
-    },
-    {
-      "type": "Birth",
-      "year": "1831",
-      "text": "Nikolai Leskov, Russian author, playwright, and journalist (died 1895)"
-    },
-    {
-      "type": "Event",
-      "year": "1270",
-      "text": "The Grand Duchy of Lithuania defeats the Livonian Order in the Battle of Karuse."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "The Austrian Civil War ends with the defeat of the Social Democrats and the Republikanischer Schutzbund."
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Richard McDonald, American businessman, co-founded McDonald's (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Eric Byrnes, American baseball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Richard Ford, American novelist and short story writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Zsófia Susányi, Hungarian tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Five thousand people gathered in the town of Kherrata, Bejaia Province to mark the second anniversary of the Hirak protest movement. Demonstrations had been suspended because of the COVID-19 pandemic in Algeria."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: General Ulysses S. Grant captures Fort Donelson, Tennessee."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Sonny Bono, American actor, singer, and politician  (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The Alaska Equal Rights Act of 1945, the first anti-discrimination law in the United States, was signed into law."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Shawne Williams, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "A Chicago-bound Amtrak train, the Capitol Limited, collides with a MARC commuter train bound for Washington, D.C., killing 11 people."
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Roger Bowen, American actor and author (born 1932)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "August Coppola, American author and academic (died 2009)"
+      "year": "1965",
+      "text": "Dave Lombardo, Cuban-American musician and songwriter"
     },
     {
       "type": "Event",
@@ -293,13 +23,283 @@
     },
     {
       "type": "Birth",
-      "year": "1901",
-      "text": "Wayne King, American singer-songwriter and conductor (died 1985)"
+      "year": "1843",
+      "text": "Henry M. Leland, American engineer and businessman, founded Cadillac and Lincoln (died 1932)"
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "The Kyoto Protocol comes into force, following its ratification by Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1514",
+      "text": "Georg Joachim Rheticus, Austrian cartographer and instrument maker (died 1574)"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "George F. Kennan, American historian and diplomat, United States Ambassador to the Soviet Union (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Ed Emshwiller, American illustrator and experiment film maker (died 1990)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Five thousand people gathered in the town of Kherrata, Bejaia Province to mark the second anniversary of the Hirak protest movement. Demonstrations had been suspended because of the COVID-19 pandemic in Algeria."
     },
     {
       "type": "Death",
+      "year": "2024",
+      "text": "Alexei Navalny, Russian activist (born 1976)"
+    },
+    {
+      "type": "Death",
+      "year": "2001",
+      "text": "Howard W. Koch, American director and producer (born 1916)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Hugh Beaumont, American actor and director (died 1982)"
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "The Austrian Civil War ends with the defeat of the Social Democrats and the Republikanischer Schutzbund."
+    },
+    {
+      "type": "Event",
+      "year": "1270",
+      "text": "The Grand Duchy of Lithuania defeats the Livonian Order in the Battle of Karuse."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The Alaska Equal Rights Act of 1945, the first anti-discrimination law in the United States, was signed into law."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Susanna Kallur, Swedish sprint hurdler"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Katharine Cornell, American actress and producer (died 1974)"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "A Chicago-bound Amtrak train, the Capitol Limited, collides with a MARC commuter train bound for Washington, D.C., killing 11 people."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "In Haleyville, Alabama, the first 9-1-1 emergency telephone system goes into service."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Jordan Greenway, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The U.S. Navy submarine USS Triton begins Operation Sandblast, setting sail from New London, Connecticut, to begin the first submerged circumnavigation of the globe."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Council of Lithuania unanimously adopts the Act of Independence, declaring Lithuania an independent state."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Vera Menchik, Russian-Czechoslovak-British chess player (died 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Otis Blackwell, American singer-songwriter and pianist (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Lupe Fiasco, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Herb Williams, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Richard McDonald, American businessman, co-founded McDonald's (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "August Coppola, American author and academic (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1838",
+      "text": "Henry Adams, American journalist, historian, and author (died 1918)"
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "The National Hockey League cancels the entire 2004–05 regular season and playoffs."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Tommy Milone, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Qyntel Woods, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1786",
+      "text": "Maria Pavlovna, Russian Grand Duchess (died 1859)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Gerhard Hanappi, Austrian footballer and architect (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1856",
+      "text": "Ossian Everett Mills, American academic, founded Phi Mu Alpha Sinfonia (died 1920)"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Denzel Curry, American rapper"
+    },
+    {
+      "type": "Event",
+      "year": "1804",
+      "text": "First Barbary War: Stephen Decatur leads a raid to burn the pirate-held frigate USS Philadelphia."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "James Ingram, American singer-songwriter and producer (died 2019)"
+    },
+    {
+      "type": "Event",
       "year": "2000",
-      "text": "Lila Kedrova, Russian-French actress and singer"
+      "text": "Emery Worldwide Airlines Flight 17 crashes near Sacramento Mather Airport in Rancho Cordova, California, killing all three aboard."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Gretchen Wyler, American actress, singer, and dancer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Ava Max, American singer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Marie Ulven Ringheim, Norwegian singer, songwriter and music producer"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "The Ash Wednesday bushfires in Victoria and South Australia kill 75."
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "Robert J. Flaherty, American director and producer (died 1951)"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "The last Mobile army surgical hospital (MASH) is decommissioned by the United States Army."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Stephen Gaskin, American activist, co-founded The Farm (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Ice-T, American rapper and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Michael Avenatti, American attorney and pundit"
+    },
+    {
+      "type": "Birth",
+      "year": "1831",
+      "text": "Nikolai Leskov, Russian author, playwright, and journalist (died 1895)"
+    },
+    {
+      "type": "Event",
+      "year": "1646",
+      "text": "Battle of Torrington, Devon: The last major battle of the First English Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: American forces land on Corregidor Island in the Philippines."
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "James Baskett, American actor and singer (died 1948)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "LeVar Burton, American actor, director, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Chester Morris, American actor (died 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "Wallace H. Carothers receives a United States patent for nylon."
+    },
+    {
+      "type": "Death",
+      "year": "2011",
+      "text": "Justinas Marcinkevičius, Lithuanian poet and playwright (born 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "1866",
+      "text": "Billy Hamilton, American baseball player and manager (died 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Shawne Williams, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: General Ulysses S. Grant captures Fort Donelson, Tennessee."
     }
   ],
   "source": "Wikipedia"
