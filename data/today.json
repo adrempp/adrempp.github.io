@@ -3,203 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Jerry O'Connell, American actor, director, and producer"
+      "year": "1854",
+      "text": "Friedrich Alfred Krupp, German businessman (died 1902)"
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Brian Bruney, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1819",
-      "text": "The United States House of Representatives passes the Missouri Compromise for the first time."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "The Al-Waziri coup briefly ousts the ruling Hamidaddin dynasty of Yemen; Imam Yahya Muhammad Hamid ed-Din is killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Otto Stern, German-American physicist and academic, Nobel Prize laureate (died 1969)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Mary Ann Mobley, American model and actress, Miss America 1959 (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Case Keenum, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Tommy Edwards, American R&B singer-songwriter (died 1969)"
-    },
-    {
-      "type": "Event",
-      "year": "1370",
-      "text": "Northern Crusades: Grand Duchy of Lithuania and the Teutonic Knights meet in the Battle of Rudau."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Drew Barry, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: The Battle of Eniwetok begins. The battle ends in an American victory on February 22."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "NASA's Discovery Program begins as the NEAR Shoemaker spacecraft lifts off on the first mission ever to orbit and land on an asteroid, 433 Eros."
-    },
-    {
-      "type": "Event",
-      "year": "1838",
-      "text": "Weenen massacre: Hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Shahrnush Parsipur, Iranian-American author and academic"
-    },
-    {
-      "type": "Death",
-      "year": "1986",
-      "text": "Jiddu Krishnamurti, Indian-American philosopher and author (born 1895)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Shmulik Kraus, Israeli singer-songwriter and actor (born 1935)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Andrey Korotayev, Russian anthropologist, historian, and sociologist"
-    },
-    {
-      "type": "Birth",
-      "year": "1832",
-      "text": "Richard Henry Park, American sculptor (died 1902)"
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The Ukrainian People's Republic asks the Entente and the United States for help fighting the Bolsheviks."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Becky Ann Baker, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Huey P. Newton, American activist, co-founded the Black Panther Party (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Brett Kern, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Zina Bethune, American actress, dancer, and choreographer (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Larry the Cable Guy, American comedian and voice actor"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: Operation Hailstone begins: U.S. naval air, surface, and submarine attack against Truk Lagoon, Japan's main base in the central Pacific, in support of the Eniwetok invasion."
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Robert K. Preston, a disgruntled U.S. Army private, buzzes the White House in a stolen helicopter."
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Mary Brian, American actress (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Al Harrington, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Michael Jordan, American basketball player, executive, and businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "The Troubles: The Provisional IRA detonates an incendiary bomb at the La Mon restaurant, near Belfast, killing 12 and seriously injuring 30 others, all Protestants."
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "The Armory Show opens in New York City, displaying works of artists who are to become some of the most influential painters of the early 20th century."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Duane Gish, American biochemist and academic (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Annie Glenn, American disability and communication disorder advocate (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1801",
-      "text": "United States presidential election: A tie in the Electoral College between Thomas Jefferson and Aaron Burr is resolved when Jefferson is elected President of the United States and Burr Vice President by the United States House of Representatives."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Kelly Carlson, American actress and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Hal Holbrook, American actor and director (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Lou Diamond Phillips, American actor and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1836",
-      "text": "Gustavo Adolfo Bécquer, Spanish author, poet, and playwright (died 1870)"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "In Wesberry v. Sanders the Supreme Court of the United States rules that congressional districts have to be approximately equal in population."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Gene Pitney, American singer-songwriter (died 2006)"
+      "year": "1881",
+      "text": "Mary Carson Breckinridge, American nurse midwife, founded Frontier Nursing Service (died 1965)"
     },
     {
       "type": "Event",
@@ -208,8 +18,28 @@
     },
     {
       "type": "Event",
-      "year": "1411",
-      "text": "Following the successful campaigns during the Ottoman Interregnum, Musa Çelebi, one of the sons of Bayezid I, becomes Sultan of the Ottoman Empire with the support of Mircea I of Wallachia."
+      "year": "1996",
+      "text": "NASA's Discovery Program begins as the NEAR Shoemaker spacecraft lifts off on the first mission ever to orbit and land on an asteroid, 433 Eros."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "The Al-Waziri coup briefly ousts the ruling Hamidaddin dynasty of Yemen; Imam Yahya Muhammad Hamid ed-Din is killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Richard Karn, American actor and game show host"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Al Harrington, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Dorothy Canfield Fisher, American educational reformer, social activist and author (died 1958)"
     },
     {
       "type": "Event",
@@ -218,18 +48,73 @@
     },
     {
       "type": "Birth",
-      "year": "1854",
-      "text": "Friedrich Alfred Krupp, German businessman (died 1902)"
+      "year": "1961",
+      "text": "Angela Eagle, English politician, Shadow Leader of the House of Commons"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "Robert K. Preston, a disgruntled U.S. Army private, buzzes the White House in a stolen helicopter."
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Buddy DeFranco, American clarinet player and bandleader (died 2014)"
+      "year": "1981",
+      "text": "Joseph Gordon-Levitt, American actor, director, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Jim Brown, American football player and actor (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Joe Hunt, American tennis player (died 1945)"
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "The United States House of Representatives passes the Missouri Compromise for the first time."
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Wally Pipp, American baseball player and journalist (died 1965)"
+    },
+    {
+      "type": "Death",
+      "year": "1962",
+      "text": "Bruno Walter, German-American pianist, composer, and conductor (born 1876)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Mary Brian, American actress (died 2002)"
+    },
+    {
+      "type": "Death",
+      "year": "1909",
+      "text": "Geronimo, American tribal leader (born 1829)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Alexander Obolensky, Russian rugby player and pilot (died 1940)"
     },
     {
       "type": "Birth",
       "year": "1972",
-      "text": "Taylor Hawkins, American singer-songwriter and musician (died 2022)"
+      "text": "Valeria Mazza, Argentine model and businesswoman"
+    },
+    {
+      "type": "Event",
+      "year": "1838",
+      "text": "Weenen massacre: Hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus."
+    },
+    {
+      "type": "Birth",
+      "year": "1864",
+      "text": "Banjo Paterson, Australian journalist, author, and poet (died 1941)"
     },
     {
       "type": "Birth",
@@ -238,18 +123,13 @@
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "The family of Jeffrey R. MacDonald, United States Army captain, is found murdered in their home in Ft. Bragg, North Carolina.  Eventually, MacDonald himself was charged with and convicted of the murder of his pregnant wife and two daughters."
+      "year": "1865",
+      "text": "American Civil War: Columbia, South Carolina, is burned as Confederate forces flee from advancing Union forces."
     },
     {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Arthur Kennedy, American actor (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Curt Swan, American illustrator (died 1996)"
+      "type": "Event",
+      "year": "1919",
+      "text": "The Ukrainian People's Republic asks the Entente and the United States for help fighting the Bolsheviks."
     },
     {
       "type": "Event",
@@ -258,13 +138,43 @@
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Giuseppe Signori, Italian footballer"
+      "year": "1949",
+      "text": "Dennis Green, American football player and coach (died 2016)"
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Craig L. Thomas, American captain and politician (died 2007)"
+      "year": "1912",
+      "text": "Andre Norton, American author (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Paris Hilton, American model, media personality, actress, singer, DJ, author and businesswoman"
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "In Wesberry v. Sanders the Supreme Court of the United States rules that congressional districts have to be approximately equal in population."
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "United States presidential election: A tie in the Electoral College between Thomas Jefferson and Aaron Burr is resolved when Jefferson is elected President of the United States and Burr Vice President by the United States House of Representatives."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Shmulik Kraus, Israeli singer-songwriter and actor (born 1935)"
+    },
+    {
+      "type": "Event",
+      "year": "1411",
+      "text": "Following the successful campaigns during the Ottoman Interregnum, Musa Çelebi, one of the sons of Bayezid I, becomes Sultan of the Ottoman Empire with the support of Mircea I of Wallachia."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: The Battle of Eniwetok begins. The battle ends in an American victory on February 22."
     },
     {
       "type": "Birth",
@@ -272,9 +182,49 @@
       "text": "Pontus Segerström, Swedish footballer (died 2014)"
     },
     {
-      "type": "Death",
-      "year": "1905",
-      "text": "Grand Duke Sergei Alexandrovich of Russia, fifth son and seventh child of Tsar Alexander II (born 1857)"
+      "type": "Birth",
+      "year": "1963",
+      "text": "Jen-Hsun Huang, Taiwanese-American businessman, co-founded Nvidia"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "The family of Jeffrey R. MacDonald, United States Army captain, is found murdered in their home in Ft. Bragg, North Carolina.  Eventually, MacDonald himself was charged with and convicted of the murder of his pregnant wife and two daughters."
+    },
+    {
+      "type": "Event",
+      "year": "1370",
+      "text": "Northern Crusades: Grand Duchy of Lithuania and the Teutonic Knights meet in the Battle of Rudau."
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Alex de Minaur, Australian tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "The Troubles: The Provisional IRA detonates an incendiary bomb at the La Mon restaurant, near Belfast, killing 12 and seriously injuring 30 others, all Protestants."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Christina Pickles, English-American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Buddy Ryan, American football coach (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Rene Russo, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Sasha Pieterse, South African-American actress and singer-songwriter"
     },
     {
       "type": "Event",
@@ -283,23 +233,73 @@
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Denise Richards, American model and actress"
+      "year": "1980",
+      "text": "Jason Ritter, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Vasily Kudinov, Russian handball player (died 2017)"
     },
     {
       "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: Columbia, South Carolina, is burned as Confederate forces flee from advancing Union forces."
+      "year": "1944",
+      "text": "World War II: Operation Hailstone begins: U.S. naval air, surface, and submarine attack against Truk Lagoon, Japan's main base in the central Pacific, in support of the Eniwetok invasion."
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Angela Eagle, English politician, Shadow Leader of the House of Commons"
+      "year": "1925",
+      "text": "Hal Holbrook, American actor and director (died 2021)"
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Phil Pressey, American basketball player and coach"
+      "year": "1848",
+      "text": "Louisa Lawson, Australian poet and publisher (died 1920)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Chaim Potok, American rabbi and author (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "The Armory Show opens in New York City, displaying works of artists who are to become some of the most influential painters of the early 20th century."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Michael Jordan, American basketball player, executive, and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Billie Joe Armstrong, American singer-songwriter, guitarist, actor, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1836",
+      "text": "Gustavo Adolfo Bécquer, Spanish author, poet, and playwright (died 1870)"
+    },
+    {
+      "type": "Birth",
+      "year": "1843",
+      "text": "Aaron Montgomery Ward, American businessman, founded Montgomery Ward (died 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Buddy DeFranco, American clarinet player and bandleader (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Rowdy Gaines, American swimmer and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Tommy Edwards, American R&B singer-songwriter (died 1969)"
     }
   ],
   "source": "Wikipedia"
