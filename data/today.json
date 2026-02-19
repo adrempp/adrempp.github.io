@@ -3,203 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1552",
-      "text": "Melchior Klesl, Austrian cardinal (died 1630)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Norm O'Neill, Australian cricketer and sportscaster (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1869",
-      "text": "Hovhannes Tumanyan, Armenian-Russian poet and author (died 1923)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Amy Tan, American novelist, essayist, and short story writer"
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "King William IV signs Letters Patent establishing the province of South Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Haylie Duff, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "An Ilyushin Il-76 military aircraft crashes near Kerman, Iran, killing 275."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Leslie David Baker, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "In Austin, Texas, the newly formed Texas state government is officially installed. The Republic of Texas government officially transfers power to the State of Texas government following the annexation of Texas by the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Donald Richie, American-Japanese author and critic (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Danielle Bunten Berry, American game designer and programmer (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "William Messner-Loebs, American author and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "A Fairchild Swearingen Metroliner operating as AVAir Flight 3378 crashes in Cary, North Carolina, killing 12."
-    },
-    {
-      "type": "Birth",
-      "year": "1859",
-      "text": "Svante Arrhenius, Swedish physicist and chemist, Nobel Prize laureate (died 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Battle of Iwo Jima: About 30,000 United States Marines land on the island of Iwo Jima."
-    },
-    {
-      "type": "Birth",
       "year": "1971",
-      "text": "Richard Green, Australian golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Ryan Whitney, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "197",
-      "text": "Emperor Septimius Severus defeats usurper Clodius Albinus in the Battle of Lugdunum, the bloodiest battle between Roman armies."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Homer Hickam, American author and engineer"
-    },
-    {
-      "type": "Death",
-      "year": "1997",
-      "text": "Leo Rosten, Polish-American author and academic (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Camille Kostek, American model"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Jawad Williams, American basketball player"
+      "text": "Jeff Kinney, American author and illustrator"
     },
     {
       "type": "Birth",
       "year": "1935",
-      "text": "Chung-Yun Hse, Taiwanese-American wood scientist (died 2021)"
+      "text": "Russ Nixon, American MLB catcher and coach (died 2016)"
     },
     {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Helena Guergis, Canadian businesswoman and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: United States President Franklin D. Roosevelt signs executive order 9066, allowing the United States military to relocate Japanese Americans to internment camps."
-    },
-    {
-      "type": "Event",
-      "year": "1807",
-      "text": "Former Vice President of the United States Aaron Burr is arrested for treason in Wakefield, Alabama, and confined to Fort Stoddert."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Immortal Technique, Peruvian-American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Daewon Song, South Korean-American skateboarder, co-founded Almost Skateboards"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Justine Bateman, American actress and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Tim Shadbolt, New Zealand businessman and politician, 42nd Mayor of Invercargill"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Adreian Payne, American basketball player (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Trevor Bayne, American race car driver"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Peter Holsapple, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Alma Rubens, American actress (died 1931)"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "William J. Schroeder becomes the first recipient of an artificial heart to leave the hospital."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Will Provine, American biologist, historian, and academic (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1884",
-      "text": "More than sixty tornadoes strike the Southern United States, one of the largest tornado outbreaks in U.S. history."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Josh Reddick, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1714",
-      "text": "Great Northern War: The battle of Napue between Sweden and Russia is fought in Isokyrö, Ostrobothnia."
+      "type": "Death",
+      "year": "2001",
+      "text": "Stanley Kramer, American director and producer (born 1913)"
     },
     {
       "type": "Event",
@@ -208,13 +23,8 @@
     },
     {
       "type": "Birth",
-      "year": "1911",
-      "text": "Merle Oberon, Indian-American actress (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jon Fishman, American drummer"
+      "year": "1973",
+      "text": "Eric Lange, American actor"
     },
     {
       "type": "Birth",
@@ -222,24 +32,34 @@
       "text": "Falco, Austrian singer-songwriter, rapper, and musician (died 1998)"
     },
     {
-      "type": "Event",
-      "year": "1963",
-      "text": "The publication of Betty Friedan's The Feminine Mystique reawakens the feminist movement in the United States as women's organizations and consciousness raising groups spread."
-    },
-    {
-      "type": "Event",
-      "year": "1726",
-      "text": "The Supreme Privy Council is established in Russia."
+      "type": "Birth",
+      "year": "1943",
+      "text": "Lou Christie, American singer-songwriter (died 2025)"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Arielle Kebbel, American actress and model"
+      "year": "1940",
+      "text": "Bobby Rogers, American singer-songwriter (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Jeff Daniels, American actor and playwright"
+      "year": "1937",
+      "text": "Norm O'Neill, Australian cricketer and sportscaster (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Merle Oberon, Indian-American actress (died 1979)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Karen Silkwood, American technician and activist (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Richard Green, Australian golfer"
     },
     {
       "type": "Event",
@@ -248,8 +68,108 @@
     },
     {
       "type": "Death",
-      "year": "1980",
-      "text": "Bon Scott, Scottish-Australian singer-songwriter (born 1946)"
+      "year": "1928",
+      "text": "George Howard Earle Jr., American lawyer and businessman (born 1856)"
+    },
+    {
+      "type": "Event",
+      "year": "1714",
+      "text": "Great Northern War: The battle of Napue between Sweden and Russia is fought in Isokyrö, Ostrobothnia."
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "David Mazouz, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jackie Curtis, American actress and playwright (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The publication of Betty Friedan's The Feminine Mystique reawakens the feminist movement in the United States as women's organizations and consciousness raising groups spread."
+    },
+    {
+      "type": "Event",
+      "year": "197",
+      "text": "Emperor Septimius Severus defeats usurper Clodius Albinus in the Battle of Lugdunum, the bloodiest battle between Roman armies."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "An Ilyushin Il-76 military aircraft crashes near Kerman, Iran, killing 275."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Victoria Justice, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Frank Tashlin, American animator and screenwriter (died 1972)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Verena Nussbaum, Austrian politician"
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "Former Vice President of the United States Aaron Burr is arrested for treason in Wakefield, Alabama, and confined to Fort Stoddert."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Battle of Iwo Jima: About 30,000 United States Marines land on the island of Iwo Jima."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Frederick Seidel, American poet"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Immortal Technique, Peruvian-American rapper"
+    },
+    {
+      "type": "Event",
+      "year": "1836",
+      "text": "King William IV signs Letters Patent establishing the province of South Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Leroy, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "C. Z. Guest, American actress, fashion designer, and author (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "Transfer of Crimea: The Soviet Politburo of the Soviet Union orders the transfer of the Crimean Oblast from the Russian SFSR to the Ukrainian SSR."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Ryan Whitney, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Lee Marvin, American actor (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Dave Stewart, American baseball player, coach, and executive"
     },
     {
       "type": "Event",
@@ -257,9 +177,64 @@
       "text": "The anti-paganism policy of Constantius II forbids the worship of pagan idols in the Roman Empire."
     },
     {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Joseph P. Kerwin, American captain, physician, and astronaut"
+    },
+    {
       "type": "Event",
-      "year": "1954",
-      "text": "Transfer of Crimea: The Soviet Politburo of the Soviet Union orders the transfer of the Crimean Oblast from the Russian SFSR to the Ukrainian SSR."
+      "year": "2002",
+      "text": "NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system."
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "In Austin, Texas, the newly formed Texas state government is officially installed. The Republic of Texas government officially transfers power to the State of Texas government following the annexation of Texas by the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Les Hinton, English-American journalist and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Nearly 250 Japanese warplanes attack the northern Australian city of Darwin, killing 243 people."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: United States President Franklin D. Roosevelt signs executive order 9066, allowing the United States military to relocate Japanese Americans to internment camps."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Ernie Gonzalez, American golfer (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "John Freeman, English lawyer, politician, and diplomat, British Ambassador to the United States (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1884",
+      "text": "More than sixty tornadoes strike the Southern United States, one of the largest tornado outbreaks in U.S. history."
+    },
+    {
+      "type": "Event",
+      "year": "1726",
+      "text": "The Supreme Privy Council is established in Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Eduardo Xol, American designer and author (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "A Fairchild Swearingen Metroliner operating as AVAir Flight 3378 crashes in Cary, North Carolina, killing 12."
     },
     {
       "type": "Event",
@@ -268,38 +243,63 @@
     },
     {
       "type": "Event",
+      "year": "1985",
+      "text": "William J. Schroeder becomes the first recipient of an artificial heart to leave the hospital."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Frank Watkins, American bass player (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1869",
+      "text": "Hovhannes Tumanyan, Armenian-Russian poet and author (died 1923)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Jeff Daniels, American actor and playwright"
+    },
+    {
+      "type": "Death",
+      "year": "1998",
+      "text": "Grandpa Jones, American singer-songwriter and banjo player (born 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Steve Cherundolo, American soccer player and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Terry Carr, American author and educator (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Linus Klasen, Swedish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Homer Hickam, American author and engineer"
+    },
+    {
+      "type": "Event",
       "year": "1594",
       "text": "Having already been elected to the throne of the Polish–Lithuanian Commonwealth in 1587, Sigismund III of the House of Vasa is crowned King of Sweden, having succeeded his father John III of Sweden in 1592."
     },
     {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Nearly 250 Japanese warplanes attack the northern Australian city of Darwin, killing 243 people."
+      "type": "Birth",
+      "year": "1912",
+      "text": "Dorothy Janis, American actress (died 2010)"
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Roger Goodell, American businessman, 6th National Football League Commissioner"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "John Freeman, English lawyer, politician, and diplomat, British Ambassador to the United States (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Dave Stewart, American baseball player, coach, and executive"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Jessica Tuck, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Hana Mandlíková, Czech-Australian tennis player and coach"
+      "year": "1983",
+      "text": "Jawad Williams, American basketball player"
     }
   ],
   "source": "Wikipedia"
