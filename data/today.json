@@ -3,8 +3,13 @@
   "items": [
     {
       "type": "Event",
-      "year": "2010",
-      "text": "In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago."
+      "year": "1933",
+      "text": "Adolf Hitler secretly meets with German industrialists to arrange for financing of the Nazi Party's upcoming election campaign."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "French Stewart, American actor"
     },
     {
       "type": "Event",
@@ -13,88 +18,33 @@
     },
     {
       "type": "Event",
-      "year": "1952",
-      "text": "Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League."
+      "year": "1920",
+      "text": "An earthquake kills between 114 and 130 in Georgia and heavily damages the town of Gori."
     },
     {
-      "type": "Birth",
+      "type": "Event",
+      "year": "1939",
+      "text": "Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present."
+    },
+    {
+      "type": "Event",
       "year": "1962",
-      "text": "Dwayne McDuffie, American author, screenwriter, and producer, co-founded Milestone Media (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval."
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Sandra Dee, American actress (born 1942)"
+      "text": "Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes."
     },
     {
       "type": "Birth",
-      "year": "1792",
-      "text": "Eliza Courtney, French daughter of Georgiana, Duchess of Devonshire (died 1859)"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "A cooking gas cylinder explodes on board an Egyptian National Railways train in El Ayyat, causing a fire and killing over 370 people."
+      "year": "1906",
+      "text": "Gale Gordon, American actor (died 1995)"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Jennifer O'Neill, American model and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate."
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "Adolf Hitler secretly meets with German industrialists to arrange for financing of the Nazi Party's upcoming election campaign."
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Mildred Dresselhaus, American physicist (born 1930)"
-    },
-    {
-      "type": "Event",
-      "year": "1931",
-      "text": "The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California."
+      "year": "1951",
+      "text": "Randy California, American singer-songwriter and guitarist (died 1997)"
     },
     {
       "type": "Birth",
-      "year": "1774",
-      "text": "Vicente Sebastián Pintado, Spanish cartographer, engineer, military officer and land surveyor of Spanish Louisiana and Spanish West Florida (died 1829)"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: The \"Big Week\" begins with American bomber raids on German aircraft manufacturing centers."
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout."
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Jared McCain, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms."
+      "year": "1848",
+      "text": "E. H. Harriman, American businessman and philanthropist (died 1909)"
     },
     {
       "type": "Event",
@@ -102,14 +52,49 @@
       "text": "The United States Merchant Marine Academy becomes a permanent Service Academy."
     },
     {
+      "type": "Death",
+      "year": "1258",
+      "text": "Al-Musta'sim, Iraqi caliph (born 1213)"
+    },
+    {
       "type": "Birth",
-      "year": "1951",
-      "text": "Edward Albert, American actor (died 2006)"
+      "year": "1844",
+      "text": "Ludwig Boltzmann, Austrian physicist and philosopher (died 1906)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "John Charles Daly, South African–American journalist and game show host (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1792",
+      "text": "The Postal Service Act, establishing the United States Post Office Department, is signed by United States President George Washington."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Sidney Poitier, Bahamian-American actor, director, and diplomat (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1889",
+      "text": "Hulusi Behçet, Turkish dermatologist and physician (died 1948)"
+    },
+    {
+      "type": "Event",
+      "year": "1824",
+      "text": "William Buckland formally announces the name Megalosaurus, the first scientifically validly named non-avian dinosaur species."
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Matthew Bucksbaum, American businessman and philanthropist, co-founded General Growth Properties (died 2013)"
     },
     {
       "type": "Birth",
       "year": "1959",
-      "text": "Scott Brayton, American race car driver (died 1996)"
+      "text": "Bill Gullickson, American baseball player"
     },
     {
       "type": "Event",
@@ -117,29 +102,9 @@
       "text": "World War II: American movie studio executives agree to allow the Office of War Information to censor movies."
     },
     {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Ryan Sweeney, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Larry Hovis, American actor and singer (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "The U.S. Supreme Court upholds the constitutionality of Massachusetts's mandatory smallpox vaccination program in Jacobson v. Massachusetts."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Liván Hernández, Cuban-American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1798",
-      "text": "Louis-Alexandre Berthier removes Pope Pius VI from power."
+      "type": "Death",
+      "year": "2025",
+      "text": "Jerry Butler, American singer-songwriter and producer (born 1939)"
     },
     {
       "type": "Birth",
@@ -148,38 +113,23 @@
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "David Herman, American comedian and actor"
+      "year": "1924",
+      "text": "Gloria Vanderbilt, American actress, fashion designer, and socialite (died 2019)"
     },
     {
       "type": "Birth",
-      "year": "1902",
-      "text": "Ansel Adams, American photographer and environmentalist (died 1984)"
+      "year": "1985",
+      "text": "Ryan Sweeney, American baseball player"
     },
     {
-      "type": "Event",
-      "year": "1521",
-      "text": "Spanish conquistador Juan Ponce de León sets out from San Juan, Puerto Rico, for Florida with about 200 prospective colonists."
+      "type": "Birth",
+      "year": "1959",
+      "text": "Scott Brayton, American race car driver (died 1996)"
     },
     {
-      "type": "Event",
-      "year": "1872",
-      "text": "The Metropolitan Museum of Art opens in New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "The legislature of Hawaii Territory convenes for the first time."
-    },
-    {
-      "type": "Event",
-      "year": "1824",
-      "text": "William Buckland formally announces the name Megalosaurus, the first scientifically validly named non-avian dinosaur species."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes."
+      "type": "Birth",
+      "year": "2000",
+      "text": "Josh Sargent, American soccer player"
     },
     {
       "type": "Event",
@@ -188,33 +138,18 @@
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Majandra Delfino, American actress and singer-songwriter"
+      "year": "1936",
+      "text": "Larry Hovis, American actor and singer (died 2003)"
     },
     {
       "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Olustee: The largest battle fought in Florida during the war."
+      "year": "1933",
+      "text": "The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval."
     },
     {
-      "type": "Birth",
-      "year": "1987",
-      "text": "James Johnson, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Jeff Maggert, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Hulusi Behçet, Turkish dermatologist and physician (died 1948)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Buddy Rogers, American wrestler (died 1992)"
+      "type": "Event",
+      "year": "2005",
+      "text": "Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout."
     },
     {
       "type": "Event",
@@ -223,18 +158,53 @@
     },
     {
       "type": "Event",
-      "year": "1792",
-      "text": "The Postal Service Act, establishing the United States Post Office Department, is signed by United States President George Washington."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: The United States takes Eniwetok Atoll."
+      "year": "1998",
+      "text": "American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan."
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Victor G. Atiyeh, American businessman and politician, 32nd Governor of Oregon (died 2014)"
+      "year": "1774",
+      "text": "Vicente Sebastián Pintado, Spanish cartographer, engineer, military officer and land surveyor of Spanish Louisiana and Spanish West Florida (died 1829)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Brian McCann, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of Olustee: The largest battle fought in Florida during the war."
+    },
+    {
+      "type": "Death",
+      "year": "2009",
+      "text": "Larry H. Miller, American businessman and philanthropist (born 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Walter Becker, American singer-songwriter, guitarist, and producer (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "The legislature of Hawaii Territory convenes for the first time."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Charles Barkley, American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1872",
+      "text": "The Metropolitan Museum of Art opens in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Nancy Wilson, American singer and actress (died 2018)"
     },
     {
       "type": "Event",
@@ -242,34 +212,84 @@
       "text": "The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War."
     },
     {
-      "type": "Death",
-      "year": "1996",
-      "text": "Audrey Munson, American model (born 1891)"
-    },
-    {
       "type": "Event",
-      "year": "1939",
-      "text": "Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Julio Borbón, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "An earthquake kills between 114 and 130 in Georgia and heavily damages the town of Gori."
+      "year": "1943",
+      "text": "The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms."
     },
     {
       "type": "Birth",
       "year": "1901",
-      "text": "Louis Kahn, American architect, designed the Salk Institute, the Kimbell Art Museum and the Bangladesh Parliament Building (died 1974)"
+      "text": "René Dubos, French-American biologist and author (died 1982)"
+    },
+    {
+      "type": "Event",
+      "year": "1798",
+      "text": "Louis-Alexandre Berthier removes Pope Pius VI from power."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League."
+    },
+    {
+      "type": "Event",
+      "year": "1521",
+      "text": "Spanish conquistador Juan Ponce de León sets out from San Juan, Puerto Rico, for Florida with about 200 prospective colonists."
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: The \"Big Week\" begins with American bomber raids on German aircraft manufacturing centers."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "A cooking gas cylinder explodes on board an Egyptian National Railways train in El Ayyat, causing a fire and killing over 370 people."
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "The U.S. Supreme Court upholds the constitutionality of Massachusetts's mandatory smallpox vaccination program in Jacobson v. Massachusetts."
+    },
+    {
+      "type": "Birth",
+      "year": "1726",
+      "text": "William Prescott, American colonel (died 1795)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Victor G. Atiyeh, American businessman and politician, 32nd Governor of Oregon (died 2014)"
     },
     {
       "type": "Birth",
       "year": "1951",
-      "text": "Randy California, American singer-songwriter and guitarist (died 1997)"
+      "text": "Edward Albert, American actor (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1685",
+      "text": "René-Robert Cavelier establishes Fort St. Louis at Matagorda Bay thus forming the basis for France's claim to Texas."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Lili Taylor, American actress"
     },
     {
       "type": "Event",
@@ -278,28 +298,8 @@
     },
     {
       "type": "Event",
-      "year": "1685",
-      "text": "René-Robert Cavelier establishes Fort St. Louis at Matagorda Bay thus forming the basis for France's claim to Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1819",
-      "text": "Alfred Escher, Swiss businessman and politician (died 1882)"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Clarke Schmidt, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Bobby Unser, American race car driver (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1870",
-      "text": "Jay Johnson Morrow, American engineer and politician, 3rd Governor of the Panama Canal Zone (died 1937)"
+      "year": "1944",
+      "text": "World War II: The United States takes Eniwetok Atoll."
     }
   ],
   "source": "Wikipedia"
