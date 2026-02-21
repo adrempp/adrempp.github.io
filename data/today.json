@@ -3,58 +3,13 @@
   "items": [
     {
       "type": "Event",
-      "year": "1885",
-      "text": "The newly completed Washington Monument is dedicated."
+      "year": "1975",
+      "text": "Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison."
     },
     {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Alan Trammell, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Dorothy Blum, American computer scientist and cryptanalyst (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "The League of Nations bans foreign national \"volunteers\" in the Spanish Civil War."
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "Constituent Assembly of the Democratic Republic of Georgia adopts the country's first constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Ron Clarke, Australian runner and politician, Mayor of the Gold Coast (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "In New York City, Edwin Land demonstrates the first \"instant camera\", the Polaroid Land Camera, to a meeting of the Optical Society of America."
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "John Greenough is granted the first U.S. patent for the sewing machine."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Barbara Jordan, American lawyer and politician (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Bobby Charles, American singer-songwriter (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Richard T. Whitcomb, American aeronautical engineer (died 2009)"
+      "type": "Death",
+      "year": "1554",
+      "text": "Hieronymus Bock, German botanist and physician (born 1498)"
     },
     {
       "type": "Birth",
@@ -63,118 +18,13 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Petra Kronberger, Austrian skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Leroy Burrell, American runner and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "David Geffen, American businessman, co-founded DreamWorks and Geffen Records"
-    },
-    {
-      "type": "Birth",
       "year": "1953",
       "text": "William Petersen, American actor and producer"
     },
     {
-      "type": "Death",
-      "year": "1947",
-      "text": "Fannie Charles Dillon, American composer (born 1881)"
-    },
-    {
       "type": "Birth",
-      "year": "1969",
-      "text": "Tony Meola, American soccer player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Mark Kelly, American astronaut and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Ranking Roger, English singer-songwriter and musician (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Mark McManus, Scottish actor (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison."
-    },
-    {
-      "type": "Event",
-      "year": "1878",
-      "text": "The first telephone directory is issued in New Haven, Connecticut."
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "Without a previous declaration of war, Russian troops cross the border to Sweden at Abborfors in eastern Finland, thus beginning the Finnish War, in which Sweden will lose the eastern half of the country (i.e. Finland) to Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Christopher Atkins, American actor and businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "W. H. Auden, English-American poet, playwright, and composer (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "John Lewis, American activist and politician (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Erma Bombeck, American journalist and author (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1556",
-      "text": "Sethus Calvisius, German astronomer, composer, and theorist (died 1615)"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Celia Lovsky, Austrian-American actress (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Ian Cole, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "The New Yorker publishes its first issue."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Rhiannon Giddens, American musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Jordan Peele, American actor, comedian, director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: During the Battle of Iwo Jima, Japanese kamikaze planes sink the escort carrier USS Bismarck Sea and damage the USS Saratoga."
+      "year": "1970",
+      "text": "Michael Slater, Australian cricketer and sportscaster"
     },
     {
       "type": "Event",
@@ -182,64 +32,19 @@
       "text": "The Prussian Confederation is formed."
     },
     {
-      "type": "Event",
-      "year": "1919",
-      "text": "German socialist Kurt Eisner is assassinated. His death results in the establishment of the Bavarian Soviet Republic and parliament and government fleeing Munich, Germany."
+      "type": "Birth",
+      "year": "1937",
+      "text": "Gary Lockwood, American actor"
     },
     {
       "type": "Birth",
-      "year": "1621",
-      "text": "Rebecca Nurse, Massachusetts colonist, executed as a witch (died 1692)"
-    },
-    {
-      "type": "Event",
-      "year": "1613",
-      "text": "Mikhail I is unanimously elected Tsar by a national assembly, beginning the Romanov dynasty of Imperial Russia."
+      "year": "1964",
+      "text": "Scott Kelly, American astronaut"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Kim Coates, Canadian-American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Noah Rubin, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Corbin Bleu, American actor, model, dancer, film producer and singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Rue McClanahan, American actress (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Christine Ebersole, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "United States President Richard Nixon visits China to normalize Sino-American relations."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Aldrich Ames is arrested by the Federal Bureau of Investigation for selling national secrets to the Soviet Union in Arlington County, Virginia."
-    },
-    {
-      "type": "Birth",
-      "year": "1791",
-      "text": "Carl Czerny, Austrian pianist and composer (died 1857)"
-    },
-    {
-      "type": "Death",
-      "year": "1862",
-      "text": "Justinus Kerner, German poet and physician (born 1786)"
+      "year": "1977",
+      "text": "Rhiannon Giddens, American musician"
     },
     {
       "type": "Event",
@@ -253,8 +58,18 @@
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Jennifer Love Hewitt, American actress and producer"
+      "year": "1984",
+      "text": "James Wisniewski, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Christopher Atkins, American actor and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Ian Cole, American ice hockey player"
     },
     {
       "type": "Event",
@@ -263,33 +78,33 @@
     },
     {
       "type": "Birth",
-      "year": "1912",
-      "text": "Arline Judge, American actress and singer (died 1974)"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Tadd Dameron, American pianist and composer (died 1965)"
+      "year": "1978",
+      "text": "Erick Barkley, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1828",
-      "text": "Initial issue of the Cherokee Phoenix is the first periodical to use the Cherokee syllabary invented by Sequoyah."
+      "year": "1613",
+      "text": "Mikhail I is unanimously elected Tsar by a national assembly, beginning the Romanov dynasty of Imperial Russia."
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Elliot Hirshman, American psychologist and academic"
-    },
-    {
-      "type": "Death",
-      "year": "2019",
-      "text": "Stanley Donen, American film director (born 1924)"
+      "year": "1885",
+      "text": "Sacha Guitry, Russian-French actor, director, and playwright (died 1957)"
     },
     {
       "type": "Event",
-      "year": "1896",
-      "text": "An Englishman raised in Australia, Bob Fitzsimmons, fights an Irishman, Peter Maher, in an American promoted event which technically takes place in Mexico, winning the 1896 World Heavyweight Championship in boxing."
+      "year": "1878",
+      "text": "The first telephone directory is issued in New Haven, Connecticut."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Nina Simone, American singer-songwriter and pianist (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1885",
+      "text": "The newly completed Washington Monument is dedicated."
     },
     {
       "type": "Birth",
@@ -298,8 +113,193 @@
     },
     {
       "type": "Birth",
+      "year": "1969",
+      "text": "Petra Kronberger, Austrian skier"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Steve Francis, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Barbara Jordan, American lawyer and politician (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Mark McManus, Scottish actor (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Celia Lovsky, Austrian-American actress (died 1979)"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "United States President Richard Nixon visits China to normalize Sino-American relations."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Vince Welnick, American keyboard player (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "The League of Nations bans foreign national \"volunteers\" in the Spanish Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: During the Battle of Iwo Jima, Japanese kamikaze planes sink the escort carrier USS Bismarck Sea and damage the USS Saratoga."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Kelsey Grammer, American actor, singer, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Jennifer Love Hewitt, American actress and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1842",
+      "text": "John Greenough is granted the first U.S. patent for the sewing machine."
+    },
+    {
+      "type": "Birth",
+      "year": "1791",
+      "text": "Carl Czerny, Austrian pianist and composer (died 1857)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Mark Ferguson, Australian journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Corbin Bleu, American actor, model, dancer, film producer and singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Tony Martin, Trinidadian-American historian and academic (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "Aldrich Ames is arrested by the Federal Bureau of Investigation for selling national secrets to the Soviet Union in Arlington County, Virginia."
+    },
+    {
+      "type": "Event",
+      "year": "1828",
+      "text": "Initial issue of the Cherokee Phoenix is the first periodical to use the Cherokee syllabary invented by Sequoyah."
+    },
+    {
+      "type": "Event",
+      "year": "1896",
+      "text": "An Englishman raised in Australia, Bob Fitzsimmons, fights an Irishman, Peter Maher, in an American promoted event which technically takes place in Mexico, winning the 1896 World Heavyweight Championship in boxing."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Thelma Estrin, American computer scientist and engineer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "German socialist Kurt Eisner is assassinated. His death results in the establishment of the Bavarian Soviet Republic and parliament and government fleeing Munich, Germany."
+    },
+    {
+      "type": "Birth",
       "year": "1962",
       "text": "Chuck Palahniuk, American novelist and journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Hayley Orrantia, American actress and singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Hans Erni, Swiss painter, sculptor, and illustrator (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Kim Coates, Canadian-American actor"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "John Bahnsen,  United States Army brigadier general and decorated veteran of the Vietnam War (born 1934)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Noah Rubin, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1556",
+      "text": "Sethus Calvisius, German astronomer, composer, and theorist (died 1615)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "David Geffen, American businessman, co-founded DreamWorks and Geffen Records"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Elliot Hirshman, American psychologist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "Constituent Assembly of the Democratic Republic of Georgia adopts the country's first constitution."
+    },
+    {
+      "type": "Death",
+      "year": "2025",
+      "text": "Clint Hill, American Secret Service agent (born 1932)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Sam Peckinpah, American director and screenwriter (died 1984)"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "In New York City, Edwin Land demonstrates the first \"instant camera\", the Polaroid Land Camera, to a meeting of the Optical Society of America."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Mary Chapin Carpenter, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Anaïs Nin, French-American essayist and memoirist (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "The New Yorker publishes its first issue."
+    },
+    {
+      "type": "Event",
+      "year": "1808",
+      "text": "Without a previous declaration of war, Russian troops cross the border to Sweden at Abborfors in eastern Finland, thus beginning the Finnish War, in which Sweden will lose the eastern half of the country (i.e. Finland) to Russia."
     }
   ],
   "source": "Wikipedia"
