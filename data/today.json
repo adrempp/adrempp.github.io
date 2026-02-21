@@ -2,259 +2,9 @@
   "date": "2026-02-20",
   "items": [
     {
-      "type": "Event",
-      "year": "1901",
-      "text": "The legislature of Hawaii Territory convenes for the first time."
-    },
-    {
       "type": "Birth",
-      "year": "1978",
-      "text": "Jay Hernandez, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "The U.S. Supreme Court upholds the constitutionality of Massachusetts's mandatory smallpox vaccination program in Jacobson v. Massachusetts."
-    },
-    {
-      "type": "Event",
-      "year": "1798",
-      "text": "Louis-Alexandre Berthier removes Pope Pius VI from power."
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Ivan Albright, American painter (died 1983)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Willie Garson, American actor and director (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan."
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Mary Garden, Scottish-American soprano and actress (died 1967)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present."
-    },
-    {
-      "type": "Birth",
-      "year": "1819",
-      "text": "Alfred Escher, Swiss businessman and politician (died 1882)"
-    },
-    {
-      "type": "Death",
-      "year": "1258",
-      "text": "Al-Musta'sim, Iraqi caliph (born 1213)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Lauren Ambrose, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Six people are killed and two injured in multiple shooting incidents in Kalamazoo County, Michigan."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "An earthquake kills between 114 and 130 in Georgia and heavily damages the town of Gori."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Olustee: The largest battle fought in Florida during the war."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Clarke Schmidt, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Julio Borbón, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Kurt Cobain, American singer-songwriter and guitarist (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Karl Albrecht, German businessman, co-founded Aldi (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate."
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval."
-    },
-    {
-      "type": "Event",
-      "year": "1685",
-      "text": "René-Robert Cavelier establishes Fort St. Louis at Matagorda Bay thus forming the basis for France's claim to Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Matthew Bucksbaum, American businessman and philanthropist, co-founded General Growth Properties (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "The United States Merchant Marine Academy becomes a permanent Service Academy."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Majandra Delfino, American actress and singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Olivia Rodrigo, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Roy Cohn, American lawyer and political activist (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Jared McCain, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1792",
-      "text": "The Postal Service Act, establishing the United States Post Office Department, is signed by United States President George Washington."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms."
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Alexander Haig, American general and politician, 59th United States Secretary of State (born 1924)"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "An earthquake cracks open the Sinila volcanic crater on the Dieng Plateau, releasing poisonous H2S gas and killing 149 villagers in the Indonesian province of Central Java."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "A cooking gas cylinder explodes on board an Egyptian National Railways train in El Ayyat, causing a fire and killing over 370 people."
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Solomon Asch, American psychologist and academic (born 1907)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Andrea Savage, American actress and comedian"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Daniella Pineda, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Scott Brayton, American race car driver (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League."
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Elizabeth Holloway Marston, American psychologist and author (died 1993)"
-    },
-    {
-      "type": "Event",
-      "year": "1872",
-      "text": "The Metropolitan Museum of Art opens in New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: The United States takes Eniwetok Atoll."
-    },
-    {
-      "type": "Event",
-      "year": "1521",
-      "text": "Spanish conquistador Juan Ponce de León sets out from San Juan, Puerto Rico, for Florida with about 200 prospective colonists."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Jean Kennedy Smith, American diplomat, 25th United States Ambassador to Ireland (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1705",
-      "text": "Nicolas Chédeville, French musette player and composer (died 1782)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "John Charles Daly, South African–American journalist and game show host (died 1991)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: American movie studio executives agree to allow the Office of War Information to censor movies."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "James Johnson, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Bill Gullickson, American baseball player"
+      "year": "1985",
+      "text": "Julia Volkova, Russian singer and actress"
     },
     {
       "type": "Event",
@@ -263,8 +13,213 @@
     },
     {
       "type": "Event",
-      "year": "2010",
-      "text": "In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago."
+      "year": "1872",
+      "text": "The Metropolitan Museum of Art opens in New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1685",
+      "text": "René-Robert Cavelier establishes Fort St. Louis at Matagorda Bay thus forming the basis for France's claim to Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Elle Purrier St. Pierre, American track and field athlete"
+    },
+    {
+      "type": "Birth",
+      "year": "2003",
+      "text": "Olivia Rodrigo, American actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes."
+    },
+    {
+      "type": "Event",
+      "year": "1521",
+      "text": "Spanish conquistador Juan Ponce de León sets out from San Juan, Puerto Rico, for Florida with about 200 prospective colonists."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout."
+    },
+    {
+      "type": "Event",
+      "year": "1798",
+      "text": "Louis-Alexandre Berthier removes Pope Pius VI from power."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: The United States takes Eniwetok Atoll."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of Olustee: The largest battle fought in Florida during the war."
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "The United States Merchant Marine Academy becomes a permanent Service Academy."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Marj Dusay, American actress (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present."
+    },
+    {
+      "type": "Birth",
+      "year": "1802",
+      "text": "Charles Auguste de Bériot, Belgian violinist and composer (died 1870)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "The United States Emergency Broadcast System is accidentally activated in an erroneous national alert."
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "Jay Johnson Morrow, American engineer and politician, 3rd Governor of the Panama Canal Zone (died 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Roy Cohn, American lawyer and political activist (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Jeff Maggert, American golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Bobby Unser, American race car driver (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Jean Kennedy Smith, American diplomat, 25th United States Ambassador to Ireland (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "A cooking gas cylinder explodes on board an Egyptian National Railways train in El Ayyat, causing a fire and killing over 370 people."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate."
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Elizabeth Holloway Marston, American psychologist and author (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Dwayne McDuffie, American author, screenwriter, and producer, co-founded Milestone Media (died 2011)"
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "Mildred Dresselhaus, American physicist (born 1930)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "An earthquake kills between 114 and 130 in Georgia and heavily damages the town of Gori."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Liván Hernández, Cuban-American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1866",
+      "text": "Carl Westman, Swedish architect, designed the Stockholm Court House and Röhsska Museum (died 1936)"
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Walter D. Ehlers, American lieutenant, Medal of Honor recipient (born 1921)"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: American movie studio executives agree to allow the Office of War Information to censor movies."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "J. Geils, American singer-songwriter and guitarist (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Sandy Duncan, American actress, singer, and dancer"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "An earthquake cracks open the Sinila volcanic crater on the Dieng Plateau, releasing poisonous H2S gas and killing 149 villagers in the Indonesian province of Central Java."
+    },
+    {
+      "type": "Event",
+      "year": "1824",
+      "text": "William Buckland formally announces the name Megalosaurus, the first scientifically validly named non-avian dinosaur species."
+    },
+    {
+      "type": "Birth",
+      "year": "1844",
+      "text": "Ludwig Boltzmann, Austrian physicist and philosopher (died 1906)"
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "René Dubos, French-American biologist and author (died 1982)"
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League."
     },
     {
       "type": "Event",
@@ -273,18 +228,58 @@
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Jack Falahee, American actor and singer-songwriter"
+      "year": "1959",
+      "text": "Bill Gullickson, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Louis Kahn, American architect, designed the Salk Institute, the Kimbell Art Museum and the Bangladesh Parliament Building (died 1974)"
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "The United States Emergency Broadcast System is accidentally activated in an erroneous national alert."
+      "year": "2016",
+      "text": "Six people are killed and two injured in multiple shooting incidents in Kalamazoo County, Michigan."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Scott Brayton, American race car driver (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Richard Matheson, American author and screenwriter (died 2013)"
     },
     {
       "type": "Event",
-      "year": "1931",
-      "text": "The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California."
+      "year": "1905",
+      "text": "The U.S. Supreme Court upholds the constitutionality of Massachusetts's mandatory smallpox vaccination program in Jacobson v. Massachusetts."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Tony Wilson, English journalist and businessman (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Patty Hearst, American actress and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Miles Teller, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1882",
+      "text": "Elie Nadelman, Polish-American sculptor (died 1946)"
     },
     {
       "type": "Event",
@@ -292,14 +287,19 @@
       "text": "World War II: The \"Big Week\" begins with American bomber raids on German aircraft manufacturing centers."
     },
     {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Steve Lundquist, American swimmer"
+      "type": "Event",
+      "year": "1901",
+      "text": "The legislature of Hawaii Territory convenes for the first time."
     },
     {
       "type": "Event",
-      "year": "1824",
-      "text": "William Buckland formally announces the name Megalosaurus, the first scientifically validly named non-avian dinosaur species."
+      "year": "1792",
+      "text": "The Postal Service Act, establishing the United States Post Office Department, is signed by United States President George Washington."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Sandra Dee, American actress (born 1942)"
     }
   ],
   "source": "Wikipedia"
