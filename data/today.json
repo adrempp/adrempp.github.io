@@ -2,124 +2,9 @@
   "date": "2026-02-23",
   "items": [
     {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Lee Shaffer, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Paul Morrissey, American director, producer, and screenwriter (died 2024)"
-    },
-    {
       "type": "Event",
-      "year": "1903",
-      "text": "Cuba leases Guantánamo Bay to the United States \"in perpetuity\"."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "American Airlines Flight 009 crashes near Rural Retreat, Virginia, killing 17."
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "Texas Revolution: The Siege of the Alamo (prelude to the Battle of the Alamo) begins in San Antonio, Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Elston Howard, American baseball player and coach (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "President-elect Abraham Lincoln arrives secretly in Washington, D.C., after the thwarting of an alleged assassination plot in Baltimore, Maryland."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: During the Battle of Iwo Jima, a group of United States Marines reach the top of Mount Suribachi on the island and are photographed raising the American flag."
-    },
-    {
-      "type": "Event",
-      "year": "1725",
-      "text": "J. S. Bach leads his Tafel-Music Shepherd Cantata for the birthday of Christian, Duke of Saxe-Weissenfels."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Theophilus London, Trinidadian-American singer-songwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Johnny Winter, American singer-songwriter, guitarist, and producer (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1927",
-      "text": "U.S. President Calvin Coolidge signs a bill by Congress establishing the Federal Radio Commission (later replaced by the Federal Communications Commission) which was to regulate the use of radio frequencies in the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Jacqueline Mattson, American baseball player (born 1928)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Four simultaneous prison riots leave at least 62 people dead in Ecuador."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Eddie Dibbs, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Debbie Friedman, American singer-songwriter of Jewish melodies (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Kristin Davis, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Ahmaud Arbery, a 25-year-old African-American citizen, is shot and murdered by three white men after visiting a house under construction while jogging at a neighborhood in Satilla Shores near Brunswick in Glynn County, Georgia."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "First demonstrations in Saint Petersburg, Russia. The beginning of the February Revolution (March 8 in the Gregorian calendar)."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "In the United States, tornadoes in central Florida destroy or damage 2,600 structures and kill 42 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Diane Varsi, American actress (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Michael Dell, American businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Tom Wesselmann, American painter and sculptor (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The capital of the Philippines, Manila, is liberated by combined Filipino and American forces."
+      "year": "1870",
+      "text": "Reconstruction Era: Post-U.S. Civil War military control of Mississippi ends and it is readmitted to the Union."
     },
     {
       "type": "Event",
@@ -128,8 +13,33 @@
     },
     {
       "type": "Event",
-      "year": "1905",
-      "text": "Chicago attorney Paul Harris and three other businessmen meet for lunch to form the Rotary Club, the world's first service club."
+      "year": "1945",
+      "text": "World War II: During the Battle of Iwo Jima, a group of United States Marines reach the top of Mount Suribachi on the island and are photographed raising the American flag."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "American Airlines Flight 009 crashes near Rural Retreat, Virginia, killing 17."
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Harold Horder, Australian rugby league player and coach (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Japanese submarines fire artillery shells at the coastline near Santa Barbara, California."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "In the United States, tornadoes in central Florida destroy or damage 2,600 structures and kill 42 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Kristin Davis, American actress and producer"
     },
     {
       "type": "Birth",
@@ -138,13 +48,28 @@
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Jerod Mayo, American football player and coach"
+      "year": "1940",
+      "text": "Peter Fonda, American actor, director, producer, and screenwriter (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Sylvia Chase, American broadcast journalist (died 2019)"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "William Raggio, American lawyer and politician (born 1926)"
     },
     {
       "type": "Event",
-      "year": "532",
-      "text": "Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople – the Hagia Sophia."
+      "year": "1983",
+      "text": "The United States Environmental Protection Agency announces its intent to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Clarence D. Lester, American fighter pilot (died 1986)"
     },
     {
       "type": "Event",
@@ -153,13 +78,73 @@
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Peter Fonda, American actor, director, producer, and screenwriter (died 2019)"
+      "year": "1889",
+      "text": "John Gilbert Winant, American captain, pilot, and politician, 60th Governor of New Hampshire (died 1947)"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "A United States Air Force B-2 Spirit bomber crashes on Guam, marking  the first operational loss of a B-2."
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Émile Zola is imprisoned in France after writing J'Accuse…!, a letter accusing the French government of antisemitism and wrongfully imprisoning Captain Alfred Dreyfus."
     },
     {
       "type": "Birth",
-      "year": "1883",
-      "text": "Guy C. Wiggins, American painter (died 1962)"
+      "year": "1941",
+      "text": "Ron Hunt, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "William L. Shirer, American journalist and historian (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "Cuba leases Guantánamo Bay to the United States \"in perpetuity\"."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "First demonstrations in Saint Petersburg, Russia. The beginning of the February Revolution (March 8 in the Gregorian calendar)."
+    },
+    {
+      "type": "Birth",
+      "year": "1889",
+      "text": "Musidora, French actress and director (died 1957)"
+    },
+    {
+      "type": "Birth",
+      "year": "1889",
+      "text": "Cyril Delevanti, English-American actor (died 1975)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Robert Lopez, American songwriter and playwright"
+    },
+    {
+      "type": "Event",
+      "year": "1725",
+      "text": "J. S. Bach leads his Tafel-Music Shepherd Cantata for the birthday of Christian, Duke of Saxe-Weissenfels."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Dakota Fanning, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Flip Saunders, American basketball player and coach (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Four simultaneous prison riots leave at least 62 people dead in Ecuador."
     },
     {
       "type": "Birth",
@@ -167,9 +152,54 @@
       "text": "Steve Stricker, American golfer"
     },
     {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Malik Hairston, American basketball player"
+    },
+    {
       "type": "Event",
-      "year": "1942",
-      "text": "World War II: Japanese submarines fire artillery shells at the coastline near Santa Barbara, California."
+      "year": "2020",
+      "text": "Ahmaud Arbery, a 25-year-old African-American citizen, is shot and murdered by three white men after visiting a house under construction while jogging at a neighborhood in Satilla Shores near Brunswick in Glynn County, Georgia."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The capital of the Philippines, Manila, is liberated by combined Filipino and American forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Aziz Ansari, American comedian, actor, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1854",
+      "text": "The official independence of the Orange Free State, South Africa is declared."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "An avalanche buries the town of Galtür, Austria, killing 31."
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "President-elect Abraham Lincoln arrives secretly in Washington, D.C., after the thwarting of an alleged assassination plot in Baltimore, Maryland."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Louis Stokes, American lawyer and politician (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "In Spain, Antonio Tejero attempts a coup d'état by capturing the Spanish Congress of Deputies."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "The Soviet Union begins the forced deportation of the Chechen and Ingush people from the North Caucasus to Central Asia."
     },
     {
       "type": "Event",
@@ -182,9 +212,14 @@
       "text": "American Revolutionary War: Baron von Steuben arrives at Valley Forge, Pennsylvania, to help train the Continental Army."
     },
     {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Niecy Nash, American actress and producer"
+      "type": "Event",
+      "year": "532",
+      "text": "Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople – the Hagia Sophia."
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "Mexican–American War: Battle of Buena Vista: In Mexico, American troops under future president General Zachary Taylor defeat Mexican General Antonio López de Santa Anna."
     },
     {
       "type": "Event",
@@ -197,99 +232,24 @@
       "text": "Matthias Corvinus, Hungarian king (died 1490)"
     },
     {
-      "type": "Event",
-      "year": "1944",
-      "text": "The Soviet Union begins the forced deportation of the Chechen and Ingush people from the North Caucasus to Central Asia."
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "Émile Zola is imprisoned in France after writing J'Accuse…!, a letter accusing the French government of antisemitism and wrongfully imprisoning Captain Alfred Dreyfus."
-    },
-    {
       "type": "Birth",
-      "year": "1955",
-      "text": "Francesca Simon, American-British author"
+      "year": "1946",
+      "text": "Rusty Young, American singer-songwriter and guitarist (died 2021)"
     },
     {
       "type": "Birth",
       "year": "1986",
-      "text": "Skylar Grey, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Jeff Nordgaard, American-Polish basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "An avalanche buries the town of Galtür, Austria, killing 31."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The United States Environmental Protection Agency announces its intent to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri."
+      "text": "Jerod Mayo, American football player and coach"
     },
     {
       "type": "Death",
-      "year": "1944",
-      "text": "Leo Baekeland, Belgian-American chemist and engineer (born 1863)"
+      "year": "1855",
+      "text": "Carl Friedrich Gauss, German mathematician, astronomer, and physicist (born 1777)"
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Aziz Ansari, American comedian, actor, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "A United States Air Force B-2 Spirit bomber crashes on Guam, marking  the first operational loss of a B-2."
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "Atlas Air Flight 3591, a Boeing 767 freighter, crashes into Trinity Bay near Anahuac, Texas, killing all three people on board."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Brad Whitford, American guitarist and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Mexican–American War: Battle of Buena Vista: In Mexico, American troops under future president General Zachary Taylor defeat Mexican General Antonio López de Santa Anna."
-    },
-    {
-      "type": "Event",
-      "year": "1854",
-      "text": "The official independence of the Orange Free State, South Africa is declared."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Ed \"Too Tall\" Jones, American football player and boxer"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Reconstruction Era: Post-U.S. Civil War military control of Mississippi ends and it is readmitted to the Union."
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Cyril Delevanti, English-American actor (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Flip Saunders, American basketball player and coach (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Malik Hairston, American basketball player"
+      "year": "1680",
+      "text": "Jean-Baptiste Le Moyne, Sieur de Bienville, Canadian politician, 2nd Colonial Governor of Louisiana (died 1767)"
     },
     {
       "type": "Death",
@@ -298,8 +258,48 @@
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "In Spain, Antonio Tejero attempts a coup d'état by capturing the Spanish Congress of Deputies."
+      "year": "2019",
+      "text": "Atlas Air Flight 3591, a Boeing 767 freighter, crashes into Trinity Bay near Anahuac, Texas, killing all three people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Samara Weaving, Australian actress and model"
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "Chicago attorney Paul Harris and three other businessmen meet for lunch to form the Rotary Club, the world's first service club."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Ab-Soul, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Agnes Smedley, American journalist and writer (died 1950)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Tom Wesselmann, American painter and sculptor (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Rebecca Goldstein, American philosopher and author"
+    },
+    {
+      "type": "Event",
+      "year": "1836",
+      "text": "Texas Revolution: The Siege of the Alamo (prelude to the Battle of the Alamo) begins in San Antonio, Texas."
+    },
+    {
+      "type": "Event",
+      "year": "1927",
+      "text": "U.S. President Calvin Coolidge signs a bill by Congress establishing the Federal Radio Commission (later replaced by the Federal Communications Commission) which was to regulate the use of radio frequencies in the United States."
     }
   ],
   "source": "Wikipedia"
