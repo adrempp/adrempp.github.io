@@ -3,203 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Mary Locke Petermann, American cellular biochemist (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "Alexei Rykov, Russian politician, Premier of Russia (died 1938)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Andy Pafko, American baseball player and manager (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1845",
-      "text": "George Reid, Scottish-Australian lawyer and politician, 4th Prime Minister of Australia (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Erick Fedde, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he is disarmed and beaten to death by survivors."
-    },
-    {
-      "type": "Event",
-      "year": "138",
-      "text": "Roman emperor Hadrian adopts Antoninus Pius as his son, effectively making him his successor."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Carrot Top, American comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Herb Elliott, Australian athlete"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Joakim Noah, French-American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Ric Flair, American professional wrestler"
-    },
-    {
-      "type": "Death",
-      "year": "2022",
-      "text": "Farrah Forke, American actress (born 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Zeppo Marx, American comedian and theatrical agent (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "William Z. Foster, American union leader and politician (died 1961)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Tony Lema, American golfer (died 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "E'Twaun Moore, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1475",
-      "text": "Edward Plantagenet, 17th Earl of Warwick, last male member of the House of York (died 1499)"
-    },
-    {
-      "type": "Event",
-      "year": "1843",
-      "text": "Lord George Paulet occupies the Kingdom of Hawaii in the name of Great Britain in the Paulet affair."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "Soviet NKVD forces in Hungary abduct Béla Kovács—secretary-general of the majority Independent Smallholders' Party—and deport him to the USSR in defiance of Parliament. His arrest is an important turning point in the Communist takeover of Hungary."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Lee Evans, American sprinter and athletics coach (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Napoleon Harris, American football player and politician"
-    },
-    {
-      "type": "Death",
-      "year": "1822",
-      "text": "William Pinkney, American politician and diplomat, 7th United States Attorney General (born 1764)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Oumou Sangaré, Malian musician"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Three people are killed and fourteen others injured in a series of shootings in the small Kansas cities of Newton and Hesston."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Jim Backus, American actor and screenwriter (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Lesley Boone, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "Samuel Colt is granted a United States patent for his revolver firearm."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Larry Gelbart, American author and screenwriter (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Vince Gair, Australian politician, 27th Premier of Queensland (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Hiram Rhodes Revels, a Republican from Mississippi, is sworn into the United States Senate, becoming the first African American ever to sit in Congress."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Ralph Stanley, American singer and banjo player (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "Soldiers of the Bangladesh Rifles mutiny at their headquarters in Pilkhana, Dhaka, Bangladesh, resulting in 74 deaths, including 57 army officials."
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "Launch of the USS Ranger at Newport News, Virginia. It is the first purpose-built aircraft carrier to be commissioned by the US Navy."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Jimmer Fredette, American basketball player"
-    },
-    {
-      "type": "Birth",
       "year": "1973",
       "text": "Anson Mount, American actor"
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Daniel Powter, Canadian singer-songwriter and musician"
+      "year": "1888",
+      "text": "John Foster Dulles, American soldier, lawyer, and politician, 52nd United States Secretary of State (died 1959)"
     },
     {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Philip Habib, American academic and diplomat, Assistant Secretary of State for East Asian and Pacific Affairs (died 1992)"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "The formal abolition of Prussia is proclaimed by the Allied Control Council, the Prussian government having already been abolished by the Preußenschlag of 1932."
-    },
-    {
-      "type": "Birth",
-      "year": "1869",
-      "text": "Phoebus Levene, Russian-American biochemist and physician (died 1940)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Bob Schieffer, American political author, journalist and TV interviewer"
+      "type": "Death",
+      "year": "1996",
+      "text": "Haing S. Ngor, Cambodian-American physician and author (born 1940)"
     },
     {
       "type": "Birth",
@@ -208,48 +23,8 @@
     },
     {
       "type": "Birth",
-      "year": "1856",
-      "text": "Mathias Zdarsky, Czech-Austrian skier, painter, and sculptor (died 1940)"
-    },
-    {
-      "type": "Birth",
       "year": "2001",
       "text": "Vernon Carey Jr., American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "A. Leon Higginbotham, Jr., American civil rights advocate, historian, and judge (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Samaki Walker, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Téa Leoni, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Brandin Podziemski, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Frank G. Slaughter, American physician and author (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Faron Young, American country music singer-songwriter and guitarist (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Tyler Sanders, American actor (died 2022)"
     },
     {
       "type": "Event",
@@ -258,38 +33,113 @@
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Maria Kanellis, American professional wrestler, actress, and model"
+      "year": "1966",
+      "text": "Alexis Denisof, American actor"
     },
     {
       "type": "Birth",
-      "year": "1919",
-      "text": "Monte Irvin, American baseball player and executive (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "In his speech On the Cult of Personality and Its Consequences, Nikita Khrushchev, leader of the Soviet Union, denounces Stalin."
+      "year": "1988",
+      "text": "Gerald McCoy, American football player"
     },
     {
       "type": "Death",
-      "year": "1099",
-      "text": "Anselm of Ribemont, Frankish nobleman and participant of the First Crusade"
+      "year": "2012",
+      "text": "Louisiana Red, American singer-songwriter and guitarist (born 1932)"
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Richard G. Stern, American author and academic (died 2013)"
+      "year": "1966",
+      "text": "Téa Leoni, American actress"
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Diane Baker, American actress and producer"
+      "year": "1806",
+      "text": "Emma Catherine Embury, American author and poet (died 1863)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Bo Nix, American football player"
     },
     {
       "type": "Event",
-      "year": "1932",
-      "text": "Adolf Hitler, having been stateless for seven years, obtains German citizenship when he is appointed a Brunswick state official by Dietrich Klagges, a fellow Nazi. As a result, Hitler is able to run for Reichspräsident in the 1932 election."
+      "year": "1994",
+      "text": "American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he is disarmed and beaten to death by survivors."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Bobby Riggs, American tennis player (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Hiram Rhodes Revels, a Republican from Mississippi, is sworn into the United States Senate, becoming the first African American ever to sit in Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Karen Grassle, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1475",
+      "text": "Edward Plantagenet, 17th Earl of Warwick, last male member of the House of York (died 1499)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Isabelle Fuhrman, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1833",
+      "text": "John St. John, American lawyer and politician, 8th Governor of Kansas (died 1916)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Sean Astin, American actor, director and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Fred VanVleet, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1869",
+      "text": "Phoebus Levene, Russian-American biochemist and physician (died 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Frank G. Slaughter, American physician and author (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1845",
+      "text": "George Reid, Scottish-Australian lawyer and politician, 4th Prime Minister of Australia (died 1918)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Veronica Webb, American model, actress, and writer"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Three people are killed and fourteen others injured in a series of shootings in the small Kansas cities of Newton and Hesston."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "Launch of the USS Ranger at Newport News, Virginia. It is the first purpose-built aircraft carrier to be commissioned by the US Navy."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Zeppo Marx, American comedian and theatrical agent (died 1979)"
     },
     {
       "type": "Event",
@@ -298,8 +148,158 @@
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Ron Santo, American baseball player and sportscaster (died 2010)"
+      "year": "1953",
+      "text": "John Doe, American musician, singer-songwriter, actor, and poet"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Hugh Huxley, English-American biologist and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Bob Schieffer, American political author, journalist and TV interviewer"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Tony Campolo, American sociologist and pastor (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1836",
+      "text": "Samuel Colt is granted a United States patent for his revolver firearm."
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "In his speech On the Cult of Personality and Its Consequences, Nikita Khrushchev, leader of the Soviet Union, denounces Stalin."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Daniel Powter, Canadian singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Kurt Rambis, Greek-American basketball player, coach, and executive"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Vince Gair, Australian politician, 27th Premier of Queensland (died 1980)"
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "Lord George Paulet occupies the Kingdom of Hawaii in the name of Great Britain in the Paulet affair."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Maria Kanellis, American professional wrestler, actress, and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1881",
+      "text": "Alexei Rykov, Russian politician, Premier of Russia (died 1938)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Thon Maker, South Sudanese-Australian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Tony Lema, American golfer (died 1966)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Monte Irvin, American baseball player and executive (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Joakim Noah, French-American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Jimmer Fredette, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Napoleon Harris, American football player and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Kash Patel, American lawyer, former federal prosecutor and official"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Diane Baker, American actress and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "Soldiers of the Bangladesh Rifles mutiny at their headquarters in Pilkhana, Dhaka, Bangladesh, resulting in 74 deaths, including 57 army officials."
+    },
+    {
+      "type": "Event",
+      "year": "138",
+      "text": "Roman emperor Hadrian adopts Antoninus Pius as his son, effectively making him his successor."
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "Soviet NKVD forces in Hungary abduct Béla Kovács—secretary-general of the majority Independent Smallholders' Party—and deport him to the USSR in defiance of Parliament. His arrest is an important turning point in the Communist takeover of Hungary."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Herb Elliott, Australian athlete"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Justin Berfield, American actor, writer, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "The formal abolition of Prussia is proclaimed by the Allied Control Council, the Prussian government having already been abolished by the Preußenschlag of 1932."
+    },
+    {
+      "type": "Birth",
+      "year": "2004",
+      "text": "Tyler Sanders, American actor (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Samaki Walker, American basketball player"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Harve Bennett, American screenwriter and producer (born 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Perry Miller, American historian, author, and academic (died 1963)"
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "Adolf Hitler, having been stateless for seven years, obtains German citizenship when he is appointed a Brunswick state official by Dietrich Klagges, a fellow Nazi. As a result, Hitler is able to run for Reichspräsident in the 1932 election."
     }
   ],
   "source": "Wikipedia"
