@@ -2,14 +2,34 @@
   "date": "2026-02-26",
   "items": [
     {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Marta Kristen, Norwegian-American actress"
+      "type": "Event",
+      "year": "-747",
+      "text": "According to Ptolemy, the epoch (origin) of the Nabonassar Era began at noon on this date. Historians use this to establish the modern BC chronology for dating historic events."
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Keena Rothhammer, American swimmer"
+      "year": "1933",
+      "text": "James Goldsmith, French-British businessman and politician (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1882",
+      "text": "Husband E. Kimmel, American admiral (died 1968)"
+    },
+    {
+      "type": "Death",
+      "year": "1981",
+      "text": "Howard Hanson, American composer, conductor, and educator (born 1896)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "President Woodrow Wilson signs an act of Congress establishing the Grand Canyon National Park."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Fats Domino, American singer-songwriter and pianist (died 2017)"
     },
     {
       "type": "Birth",
@@ -22,109 +42,14 @@
       "text": "Bill Johnston, Australian cricketer and businessman (died 2007)"
     },
     {
-      "type": "Event",
-      "year": "-747",
-      "text": "According to Ptolemy, the epoch (origin) of the Nabonassar Era began at noon on this date. Historians use this to establish the modern BC chronology for dating historic events."
-    },
-    {
-      "type": "Event",
-      "year": "1074",
-      "text": "Battle of Kemej: The royal army of Solomon, King of Hungary defeats the force of his rebellious cousin Duke Géza."
+      "type": "Birth",
+      "year": "1920",
+      "text": "Danny Gardella, American baseball player and trainer (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Simon Crean, Australian trade union leader and politician, 14th Australian Minister for the Arts (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Max Martin, Swedish-American record producer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1808",
-      "text": "Honoré Daumier, French painter, illustrator, and sculptor (died 1879)"
-    },
-    {
-      "type": "Event",
-      "year": "1929",
-      "text": "President Calvin Coolidge signs legislation establishing the 96,000 acres (390 km2) Grand Teton National Park in Wyoming."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Johnny Cash, American singer-songwriter, guitarist, and actor (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Wallace Fard Muhammad, American religious leader, founded the Nation of Islam (disappeared 1934)"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "William Frawley, American actor and vaudevillian (died 1966)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: US troops reclaim the Philippine island of Corregidor from the Japanese."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Fritz Wiessner, German-American mountaineer (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Susan Helms, American general, engineer, and astronaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Barbara Niven, American actress and writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Betty Hutton, American actress and singer (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Mason Adams, American actor (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Greg Rikaart, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Morgan Gautrat, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Robert Mathis, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Marc Bucci, American composer, lyricist, and dramatist (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Tim Kaine, American lawyer and politician, 70th Governor of Virginia"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Jerome Harrison, American football player"
+      "year": "1982",
+      "text": "Nate Ruess, American singer-songwriter"
     },
     {
       "type": "Birth",
@@ -133,8 +58,13 @@
     },
     {
       "type": "Birth",
-      "year": "1672",
-      "text": "Antoine Augustin Calmet, French monk and theologian (died 1757)"
+      "year": "1983",
+      "text": "Jerome Harrison, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "2009",
+      "text": "Norm Van Lier, American basketball player, coach, and sportscaster (born 1947)"
     },
     {
       "type": "Birth",
@@ -142,9 +72,14 @@
       "text": "Herbert Henry Dow, Canadian-American businessman, founded the Dow Chemical Company (died 1930)"
     },
     {
-      "type": "Birth",
+      "type": "Event",
       "year": "1945",
-      "text": "Mitch Ryder, American singer-songwriter"
+      "text": "World War II: US troops reclaim the Philippine island of Corregidor from the Japanese."
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Wallace Fard Muhammad, American religious leader, founded the Nation of Islam (disappeared 1934)"
     },
     {
       "type": "Birth",
@@ -153,58 +88,23 @@
     },
     {
       "type": "Birth",
-      "year": "1829",
-      "text": "Levi Strauss, German-American fashion designer, founded Levi Strauss & Co. (died 1902)"
-    },
-    {
-      "type": "Death",
-      "year": "1930",
-      "text": "Mary Whiton Calkins, American philosopher and psychologist (born 1863)"
-    },
-    {
-      "type": "Death",
-      "year": "1889",
-      "text": "Karl Davydov, Russian cellist and composer (born 1838)"
+      "year": "1877",
+      "text": "Rudolph Dirks, German-American illustrator (died 1968)"
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Tim Thomas, American basketball player"
+      "year": "2000",
+      "text": "Yeat, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Oldřich Kulhánek, Czech painter, illustrator, and stage designer (died 2013)"
     },
     {
       "type": "Event",
-      "year": "1876",
-      "text": "Japan and Korea sign the Treaty of Kangwha, which grants Japanese citizens extraterritoriality rights in Korea, opens three Korean ports to Japanese trade, and ends Korea's status as a tributary state of Qing dynasty China."
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "Seventeen-year-old African-American student Trayvon Martin is shot to death by neighborhood watch coordinator George Zimmerman in an altercation in Sanford, Florida."
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Grover Cleveland Alexander, American baseball player and coach (died 1950)"
-    },
-    {
-      "type": "Birth",
-      "year": "1808",
-      "text": "Nathan Kelley, American architect, designed the Ohio Statehouse (died 1871)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Robert Novak, American journalist and author (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "James Goldsmith, French-British businessman and politician (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Ronald Lauder, American businessman and diplomat, United States Ambassador to Austria"
+      "year": "1929",
+      "text": "President Calvin Coolidge signs legislation establishing the 96,000 acres (390 km2) Grand Teton National Park in Wyoming."
     },
     {
       "type": "Birth",
@@ -213,13 +113,23 @@
     },
     {
       "type": "Birth",
-      "year": "1846",
-      "text": "Buffalo Bill, American soldier and hunter (died 1917)"
+      "year": "1949",
+      "text": "Elizabeth George, American author and educator"
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Fats Domino, American singer-songwriter and pianist (died 2017)"
+      "year": "1994",
+      "text": "Jacob Trouba, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Simon Crean, Australian trade union leader and politician, 14th Australian Minister for the Arts (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Chase Masterson, American actress, singer, and activist"
     },
     {
       "type": "Event",
@@ -227,69 +137,14 @@
       "text": "The New York Philharmonic performs in Pyongyang, North Korea; this is the first event of its kind to take place in North Korea."
     },
     {
-      "type": "Birth",
-      "year": "1881",
-      "text": "Janus Djurhuus, Faroese poet (died 1948)"
-    },
-    {
-      "type": "Death",
-      "year": "1981",
-      "text": "Howard Hanson, American composer, conductor, and educator (born 1896)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Tex Avery, American animator, producer, and voice actor (died 1980)"
-    },
-    {
       "type": "Event",
-      "year": "1606",
-      "text": "The Janszoon voyage of 1605–06 becomes the first European expedition to set foot on Australia, although it is mistaken as a part of New Guinea."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Pyotr Masherov, Leader of Soviet Belarus (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "The UK's oldest investment banking institute, Barings Bank, collapses after a rogue securities broker Nick Leeson loses $1.4 billion by speculating on the Singapore International Monetary Exchange using futures contracts."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "President Woodrow Wilson signs an act of Congress establishing the Grand Canyon National Park."
+      "year": "1876",
+      "text": "Japan and Korea sign the Treaty of Kangwha, which grants Japanese citizens extraterritoriality rights in Korea, opens three Korean ports to Japanese trade, and ends Korea's status as a tributary state of Qing dynasty China."
     },
     {
       "type": "Event",
       "year": "1993",
       "text": "World Trade Center bombing: In New York City, a truck bomb parked below the North Tower of the World Trade Center explodes, killing six and injuring over a thousand people."
-    },
-    {
-      "type": "Birth",
-      "year": "1877",
-      "text": "Henry Barwell, Australian politician, 28th Premier of South Australia (died 1959)"
-    },
-    {
-      "type": "Birth",
-      "year": "1861",
-      "text": "Nadezhda Krupskaya, Russian soldier and politician (died 1939)"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "The Beach Pneumatic Transit in New York City, intended as a demonstration for a subway line, opens."
-    },
-    {
-      "type": "Event",
-      "year": "320",
-      "text": "Chandragupta I is officially crowned as the first Gupta Emperor."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Sharon Van Etten, American singer-songwriter, musician and actress"
     },
     {
       "type": "Event",
@@ -298,8 +153,153 @@
     },
     {
       "type": "Birth",
+      "year": "2003",
+      "text": "Jamal Musiala, German footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Theodore Sturgeon, American author and critic (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Billy Steinberg, American songwriter (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Morgan Gautrat, American soccer player"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "The Beach Pneumatic Transit in New York City, intended as a demonstration for a subway line, opens."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Max Martin, Swedish-American record producer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Greg Rikaart, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Wayne Goss, Australian lawyer and politician, 34th Premier of Queensland (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Grover Cleveland Alexander, American baseball player and coach (died 1950)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Rolando Blackman, Panamanian-American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Prince Ernst August of Hanover"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Teresa Palmer, Australian actress"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "The UK's oldest investment banking institute, Barings Bank, collapses after a rogue securities broker Nick Leeson loses $1.4 billion by speculating on the Singapore International Monetary Exchange using futures contracts."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Bob Hite, American singer-songwriter and musician (died 1981)"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "Seventeen-year-old African-American student Trayvon Martin is shot to death by neighborhood watch coordinator George Zimmerman in an altercation in Sanford, Florida."
+    },
+    {
+      "type": "Event",
+      "year": "1606",
+      "text": "The Janszoon voyage of 1605–06 becomes the first European expedition to set foot on Australia, although it is mistaken as a part of New Guinea."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Fritz Wiessner, German-American mountaineer (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Johnny Cash, American singer-songwriter, guitarist, and actor (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "Andrei Zhdanov, Ukrainian-Russian civil servant and politician (died 1948)"
+    },
+    {
+      "type": "Birth",
       "year": "1957",
-      "text": "John Jude Palencar, American artist and illustrator"
+      "text": "Joe Mullen, American ice hockey player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Robert Alda, American actor, singer, and director (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1729",
+      "text": "Anders Chydenius, Finnish economist, philosopher and Lutheran priest (died 1803)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Keena Rothhammer, American swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Jean Bruller, French author and illustrator, co-founded Les Éditions de Minuit (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Tim Commerford, American bass player"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Lawrence Tierney, American actor (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Jessie Bates, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Pyotr Masherov, Leader of Soviet Belarus (died 1980)"
+    },
+    {
+      "type": "Event",
+      "year": "1074",
+      "text": "Battle of Kemej: The royal army of Solomon, King of Hungary defeats the force of his rebellious cousin Duke Géza."
+    },
+    {
+      "type": "Event",
+      "year": "320",
+      "text": "Chandragupta I is officially crowned as the first Gupta Emperor."
     }
   ],
   "source": "Wikipedia"
