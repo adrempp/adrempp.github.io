@@ -1,305 +1,305 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "items": [
     {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Maz Jobrani, American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Nate Ruess, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1866",
-      "text": "Herbert Henry Dow, Canadian-American businessman, founded the Dow Chemical Company (died 1930)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Susan Helms, American general, engineer, and astronaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Simon Crean, Australian trade union leader and politician, 14th Australian Minister for the Arts (died 2023)"
+      "type": "Event",
+      "year": "1617",
+      "text": "Sweden and the Tsardom of Russia sign the Treaty of Stolbovo, ending the Ingrian War and shutting Russia out of the Baltic Sea."
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "President Woodrow Wilson signs an act of Congress establishing the Grand Canyon National Park."
+      "year": "1973",
+      "text": "The American Indian Movement occupies Wounded Knee in protest of the federal government."
     },
     {
       "type": "Event",
-      "year": "1995",
-      "text": "The UK's oldest investment banking institute, Barings Bank, collapses after a rogue securities broker Nick Leeson loses $1.4 billion by speculating on the Singapore International Monetary Exchange using futures contracts."
-    },
-    {
-      "type": "Event",
-      "year": "1876",
-      "text": "Japan and Korea sign the Treaty of Kangwha, which grants Japanese citizens extraterritoriality rights in Korea, opens three Korean ports to Japanese trade, and ends Korea's status as a tributary state of Qing dynasty China."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Bingo Smith, American basketball player (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Fritz Wiessner, German-American mountaineer (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1672",
-      "text": "Antoine Augustin Calmet, French monk and theologian (died 1757)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jennifer Grant, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Barbara Niven, American actress and writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1852",
-      "text": "John Harvey Kellogg, American surgeon, co-created Corn flakes (died 1943)"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Sorel Etrog, Romanian-Canadian sculptor, painter, and illustrator (born 1933)"
-    },
-    {
-      "type": "Event",
-      "year": "-747",
-      "text": "According to Ptolemy, the epoch (origin) of the Nabonassar Era began at noon on this date. Historians use this to establish the modern BC chronology for dating historic events."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Danny Gardella, American baseball player and trainer (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Andrei Zhdanov, Ukrainian-Russian civil servant and politician (died 1948)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "World Trade Center bombing: In New York City, a truck bomb parked below the North Tower of the World Trade Center explodes, killing six and injuring over a thousand people."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "A New York-bound Alitalia airliner crashes into a cemetery in Shannon, Ireland, shortly after takeoff, killing 34 of the 52 persons on board."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Robert Novak, American journalist and author (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Fats Domino, American singer-songwriter and pianist (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Peter Brock, Australian racing driver (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Jonathan Cain, American singer-songwriter, keyboard player, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Yeat, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Bill Johnston, Australian cricketer and businessman (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "320",
-      "text": "Chandragupta I is officially crowned as the first Gupta Emperor."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Jean Bruller, French author and illustrator, co-founded Les Éditions de Minuit (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Mason Adams, American actor (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1861",
-      "text": "Nadezhda Krupskaya, Russian soldier and politician (died 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Pyotr Masherov, Leader of Soviet Belarus (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Wallace Fard Muhammad, American religious leader, founded the Nation of Islam (disappeared 1934)"
-    },
-    {
-      "type": "Birth",
-      "year": "1651",
-      "text": "Quirinus Kuhlmann, German Baroque poet and mystic (died 1689)"
-    },
-    {
-      "type": "Birth",
-      "year": "1846",
-      "text": "Buffalo Bill, American soldier and hunter (died 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Paul Dickson, American football player and coach (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1606",
-      "text": "The Janszoon voyage of 1605–06 becomes the first European expedition to set foot on Australia, although it is mistaken as a part of New Guinea."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Michael Bolton, American singer-songwriter and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Prince Ernst August of Hanover, head of the House of Hanover"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "The New York Philharmonic performs in Pyongyang, North Korea; this is the first event of its kind to take place in North Korea."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Jackie Gleason, American actor and singer (died 1987)"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Earl Lloyd, American basketball player and coach (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Robert Alda, American actor, singer, and director (died 1986)"
-    },
-    {
-      "type": "Death",
-      "year": "1985",
-      "text": "Tjalling Koopmans, Dutch-American economist and mathematician, Nobel Prize laureate (born 1910)"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Doris Belack, American actress (died 2011)"
+      "year": "1943",
+      "text": "The Smith Mine #3 in Bearcreek, Montana, explodes, killing 74 men."
     },
     {
       "type": "Birth",
       "year": "1939",
-      "text": "Chuck Wepner, American boxer"
+      "text": "Peter Revson, American race car driver (died 1974)"
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Marta Kristen, Norwegian-American actress"
+      "year": "1990",
+      "text": "Lindsey Morgan, American actress"
     },
     {
       "type": "Event",
-      "year": "2012",
-      "text": "Seventeen-year-old African-American student Trayvon Martin is shot to death by neighborhood watch coordinator George Zimmerman in an altercation in Sanford, Florida."
+      "year": "2010",
+      "text": "An earthquake measuring 8.8 on the moment magnitude scale strikes central parts of Chile leaving over 500 victims, and thousands injured. The quake triggers a tsunami which strikes Hawaii shortly after."
     },
     {
       "type": "Birth",
-      "year": "1882",
-      "text": "Husband E. Kimmel, American admiral (died 1968)"
+      "year": "1976",
+      "text": "Sergei Semak, Ukrainian-Russian footballer and manager"
+    },
+    {
+      "type": "Event",
+      "year": "425",
+      "text": "The University of Constantinople is founded by Emperor Theodosius II at the urging of his wife Aelia Eudocia."
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "James Wan, Australian film director, screenwriter, and producer"
+      "year": "1888",
+      "text": "Lotte Lehmann, German-American soprano and actress (died 1976)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "Russian politician Boris Nemtsov is assassinated in Moscow while out walking with his girlfriend."
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "The Twenty-second Amendment to the United States Constitution, limiting Presidents to two terms, is ratified."
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "United States representative Daniel Sickles, after learning of an affair between his wife and Attorney General Philip Barton Key II, murders him in Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Noah Emmerich, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Jack Gibson, Australian rugby league player, coach, and sportscaster (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "380",
+      "text": "Edict of Thessalonica: Emperor Theodosius I and his co-emperors Gratian and Valentinian II declare their wish that all Roman citizens convert to Nicene Christianity."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust: In Berlin, the Gestapo arrest 1,800 Jewish men with German wives, leading to the Rosenstrasse protest."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Kent Desormeaux, American jockey"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Pat Richards, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Ralph Nader, American lawyer, politician, and activist"
+    },
+    {
+      "type": "Death",
+      "year": "1968",
+      "text": "Frankie Lymon, American singer-songwriter (born 1942)"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "The first congress of the Spanish Trade Union Organisation is inaugurated."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Joan Bennett, American actress (died 1990)"
+    },
+    {
+      "type": "Death",
+      "year": "1998",
+      "text": "J. T. Walsh, American actor (born 1943)"
+    },
+    {
+      "type": "Death",
+      "year": "1720",
+      "text": "Samuel Parris, English-American minister (born 1653)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Chelsea Clinton, American journalist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "The Mäntsälä rebellion begins when members of the far-right Lapua Movement start shooting at the social democrats' event in Mäntsälä, Finland."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Peter Andre, English-Australian singer-songwriter and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The International Working Union of Socialist Parties is founded in Vienna."
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "The former Spanish territory of Western Sahara, under the auspices of the Polisario Front declares independence as the Sahrawi Arab Democratic Republic."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Kevin Curran, American screenwriter and television producer (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "Poet Lord Byron gives his first address as a member of the House of Lords, in defense of Luddite violence against Industrialism in his home county of Nottinghamshire."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "James Augustine, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: The Battle of Moore's Creek Bridge in North Carolina breaks up a Loyalist militia."
     },
     {
       "type": "Birth",
       "year": "1933",
-      "text": "James Goldsmith, French-British businessman and politician (died 1997)"
+      "text": "Malcolm Wallop, American politician (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Jony Ive, English-American industrial designer, former chief design officer of Apple"
     },
     {
       "type": "Event",
-      "year": "1074",
-      "text": "Battle of Kemej: The royal army of Solomon, King of Hungary defeats the force of his rebellious cousin Duke Géza."
+      "year": "1939",
+      "text": "United States labor law: The U.S. Supreme Court rules in NLRB v. Fansteel Metallurgical Corp. that the National Labor Relations Board has no authority to force an employer to rehire workers who engage in sit-down strikes."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Lee Atwater, American journalist, activist and political strategist (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Lúcio Costa, French-Brazilian architect and engineer, designed Gustavo Capanema Palace (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Kusumagraj, Indian author, poet, and playwright (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Reginald Gardiner, English-American actor and singer (died 1980)"
     },
     {
       "type": "Event",
-      "year": "1929",
-      "text": "President Calvin Coolidge signs legislation establishing the 96,000 acres (390 km2) Grand Teton National Park in Wyoming."
+      "year": "2002",
+      "text": "Ryanair Flight 296 catches fire at London Stansted Airport causing minor injuries."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Devin Harris, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1878",
+      "text": "Alvan T. Fuller, American businessman and politician, 50th Governor of Massachusetts (died 1958)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Paul von Ragué Schleyer, American chemist and academic (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1902",
+      "text": "Second Boer War: Australian soldiers Harry \"Breaker\" Morant and Peter Handcock are executed in Pretoria after being convicted of war crimes."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Alan Guth, American physicist and cosmologist"
     },
     {
       "type": "Birth",
       "year": "1981",
-      "text": "Kertus Davis, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Hannah Kearney, American skier"
+      "text": "Josh Groban, American singer-songwriter, producer, and actor"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "World War II: US troops reclaim the Philippine island of Corregidor from the Japanese."
+      "year": "1991",
+      "text": "Gulf War: U.S. President George H. W. Bush announces that \"Kuwait is liberated\"."
     },
     {
       "type": "Birth",
-      "year": "1718",
-      "text": "Johan Ernst Gunnerus, Norwegian bishop, botanist and zoologist (died 1773)"
+      "year": "1942",
+      "text": "Jimmy Burns, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Godhra train burning: A Muslim mob torches a train returning from Ayodhya, killing 59 Hindu pilgrims."
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Tim Kaine, American lawyer and politician, 70th Governor of Virginia"
+      "year": "1962",
+      "text": "Grant Show, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "A challenge to the Nineteenth Amendment to the United States Constitution, allowing women the right to vote, is rebuffed by the Supreme Court of the United States in Leser v. Garnett."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "Reichstag fire: Germany's parliament building in Berlin, the Reichstag, is set on fire; Marinus van der Lubbe, a young Dutch Communist claims responsibility."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Chinese stock bubble of 2007: The Shanghai Stock Exchange falls 9%, the largest daily fall in ten years, following speculation about a crackdown on illegal share offerings and trading, and fears about accelerating inflation."
+    },
+    {
+      "type": "Event",
+      "year": "1782",
+      "text": "American Revolutionary War: The House of Commons of Great Britain votes against further war in America."
+    },
+    {
+      "type": "Event",
+      "year": "1860",
+      "text": "Abraham Lincoln makes a speech at Cooper Union in the city of New York that plays an important role in his election to the Presidency."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The first Northern prisoners arrive at the Confederate prison at Andersonville, Georgia."
     },
     {
       "type": "Birth",
+      "year": "1940",
+      "text": "Howard Hesseman, American actor (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "Pursuant to the District of Columbia Organic Act of 1801, Washington, D.C. is placed under the jurisdiction of the U.S. Congress."
+    },
+    {
+      "type": "Event",
       "year": "1971",
-      "text": "Max Martin, Swedish-American record producer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Andreas Maislinger, Austrian historian and academic, founded the Austrian Holocaust Memorial Service"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "The Beach Pneumatic Transit in New York City, intended as a demonstration for a subway line, opens."
+      "text": "Doctors in the first Dutch abortion clinic (the Mildredhuis in Arnhem) start performing artificially-induced abortions."
     }
   ],
   "source": "Wikipedia"
