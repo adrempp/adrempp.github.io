@@ -2,99 +2,19 @@
   "date": "2026-02-28",
   "items": [
     {
-      "type": "Death",
-      "year": "2014",
-      "text": "Hugo Brandt Corstius, Dutch linguist and author (born 1935)"
+      "type": "Birth",
+      "year": "1958",
+      "text": "Mark Pavelich, American ice hockey player (died 2021)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Svetlana Alliluyeva, Russian-American writer, daughter of Joseph Stalin (died 2011)"
+      "year": "1994",
+      "text": "Arkadiusz Milik, Polish footballer"
     },
     {
       "type": "Event",
-      "year": "1922",
-      "text": "The United Kingdom ends its protectorate over Egypt through a Unilateral Declaration of Independence."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Rae Dawn Chong, Canadian-American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "William Finn, American composer and lyricist (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Adrian Dantley, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Milton Caniff, American cartoonist (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Tom Aldredge, American actor (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Seth Rudetsky, American musician, actor, writer, and radio host"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "A NASA T-38 Talon crashes into the McDonnell Aircraft factory while attempting a poor-visibility landing at Lambert Field, St. Louis, killing astronauts Elliot See and Charles Bassett."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Kelly Bishop, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2026",
-      "text": "The United States and Israel launch attacks across Iran, assassinating Supreme Leader Ali Khamenei. Retaliatory strikes are launched by Iran against US military bases in the Gulf, with explosions reported in Bahrain, Kuwait, Qatar and the UAE."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Terry Leahy, English businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Pat Monahan, American singer-songwriter and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Charles Durning, American actor (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Jason Aldean, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Benjamin Raich, Austrian skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Bubba Smith, American football player and actor (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Daniel C. Tsui, Chinese-American physicist and academic, Nobel Prize laureate"
+      "year": "1959",
+      "text": "Discoverer 1, an American spy satellite that is the first object intended to achieve a polar orbit, is launched but fails to achieve orbit."
     },
     {
       "type": "Event",
@@ -103,8 +23,108 @@
     },
     {
       "type": "Birth",
+      "year": "1989",
+      "text": "Carlos Dunlap, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "2026",
+      "text": "The United States and Israel launch attacks across Iran, assassinating Supreme Leader Ali Khamenei. Retaliatory strikes are launched by Iran against US military bases in the Gulf, with explosions reported in Bahrain, Kuwait, Qatar and the UAE."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Seth Rudetsky, American musician, actor, writer, and radio host"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Ketti Frings, American author, playwright, and screenwriter (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Marquis Teague, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Hayden Fry, American football player and coach (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Gavin MacLeod, American actor, Christian activist, and author (died 2021)"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Cat Janice, American singer-songwriter (born 1993)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Donald A. Glaser, American physicist and biologist, Nobel Prize laureate (born 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Ricky Steamboat, American professional wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Ernst Hinterseer, Austria retired alpine skier"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Robert Sean Leonard, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Robert A. Roe, American soldier and politician (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Jamaal Tinsley, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Kelly Bishop, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Mercedes Ruehl, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Pat Monahan, American singer-songwriter and actor"
+    },
+    {
+      "type": "Birth",
       "year": "1971",
       "text": "Tasha Smith, American actress, director, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1535",
+      "text": "Cornelius Gemma, Dutch astronomer and astrologer (died 1578)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "William Finn, American composer and lyricist (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Tom Aldredge, American actor (died 2011)"
     },
     {
       "type": "Birth",
@@ -113,38 +133,13 @@
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Gavin MacLeod, American actor, Christian activist, and author (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Linus Pauling, American chemist and activist, Nobel Prize laureate (died 1994)"
-    },
-    {
-      "type": "Death",
-      "year": "2020",
-      "text": "Freeman Dyson, British-born American physicist and mathematician (born 1923)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Alfred Marshall, American businessman, founded Marshalls (died 2013)"
-    },
-    {
-      "type": "Birth",
       "year": "1948",
       "text": "Steven Chu, American physicist and politician, 12th United States Secretary of Energy, Nobel Prize laureate"
     },
     {
       "type": "Birth",
-      "year": "1995",
-      "text": "Madisen Beaty, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Philip Showalter Hench, American physician and endocrinologist, Nobel Prize laureate (died 1965)"
+      "year": "1926",
+      "text": "Svetlana Alliluyeva, Russian-American writer, daughter of Joseph Stalin (died 2011)"
     },
     {
       "type": "Event",
@@ -158,118 +153,8 @@
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Mark Pavelich, American ice hockey player (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Robert Sean Leonard, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Rory Cochrane, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Gilbert Gottfried, American comedian, actor, and singer (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Ilene Graff, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Ryan Allen, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Ketti Frings, American author, playwright, and screenwriter (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Geoffrey Arend, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Ali Larter, American actress and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Tommy Tune, American actor, dancer, singer, theatre director, producer, and choreographer"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "In London, an underground train fails to stop at Moorgate terminus station and crashes into the end of the tunnel, killing 43 people."
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Arthur M. Schlesinger, Jr. American historian and critic (born 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "John Turturro, American actor and director"
-    },
-    {
-      "type": "Event",
-      "year": "1844",
-      "text": "A gun explodes on board the steam warship USS Princeton during a pleasure cruise down the Potomac River, killing six, including Secretary of State Abel Upshur. President John Tyler, who is also on board, is not injured from the blast."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Daniel Handler, American author, musician, screenwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Frank Bonner, American actor and television director (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Chris Lindstrom, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Paul Krugman, American economist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Discoverer 1, an American spy satellite that is the first object intended to achieve a polar orbit, is launched but fails to achieve orbit."
-    },
-    {
-      "type": "Birth",
-      "year": "1894",
-      "text": "Ben Hecht, American director, producer, and screenwriter (died 1964)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Carlos Dunlap, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Michelle Horn, American actress"
+      "year": "1954",
+      "text": "Brian Billick, American football player, coach, and sportscaster"
     },
     {
       "type": "Birth",
@@ -278,18 +163,18 @@
     },
     {
       "type": "Birth",
-      "year": "1887",
-      "text": "William Zorach, Lithuanian-American sculptor and painter (died 1966)"
+      "year": "1955",
+      "text": "Adrian Dantley, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1844",
+      "text": "A gun explodes on board the steam warship USS Princeton during a pleasure cruise down the Potomac River, killing six, including Secretary of State Abel Upshur. President John Tyler, who is also on board, is not injured from the blast."
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Hayden Fry, American football player and coach (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Jamaal Tinsley, American basketball player"
+      "year": "1940",
+      "text": "Mario Andretti, Italian-American racing driver"
     },
     {
       "type": "Birth",
@@ -298,8 +183,123 @@
     },
     {
       "type": "Birth",
+      "year": "1930",
+      "text": "Leon Cooper, American physicist and academic, Nobel Prize laureate (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Bobb'e J. Thompson, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Terry Leahy, English businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Vincente Minnelli, American theatre and film director (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Bernadette Peters, American actress, singer, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Geoffrey Arend, American actor"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Mary Stuart, American actress and singer (born 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Daniel Handler, American author, musician, screenwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Chris Lindstrom, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Daniel C. Tsui, Chinese-American physicist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Alfred Marshall, American businessman, founded Marshalls (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Billie Bird, American actress (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Madisen Beaty, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Lance Hoyt, American football player and wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Gilbert Gottfried, American comedian, actor, and singer (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Ali Larter, American actress and model"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The United Kingdom ends its protectorate over Egypt through a Unilateral Declaration of Independence."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Milton Caniff, American cartoonist (died 1988)"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "A NASA T-38 Talon crashes into the McDonnell Aircraft factory while attempting a poor-visibility landing at Lambert Field, St. Louis, killing astronauts Elliot See and Charles Bassett."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Josh McRoberts, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Rae Dawn Chong, Canadian-American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Luther Burden, American basketball player (died 2015)"
+    },
+    {
+      "type": "Event",
       "year": "1975",
-      "text": "Mike Rucker, American football player"
+      "text": "In London, an underground train fails to stop at Moorgate terminus station and crashes into the end of the tunnel, killing 43 people."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre."
     }
   ],
   "source": "Wikipedia"
