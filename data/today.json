@@ -2,39 +2,39 @@
   "date": "2026-03-04",
   "items": [
     {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Crowbar, American wrestler"
+      "type": "Event",
+      "year": "1918",
+      "text": "A case of influenza is recorded at Camp Funston, Kansas, conventionally marking the beginning of the worldwide Spanish flu pandemic."
     },
     {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Collinwood school fire, Collinwood near Cleveland, Ohio, kills 174 people."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is \"more popular than Jesus now\"."
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The Parliament of Austria is suspended because of a quibble over procedure – Chancellor Engelbert Dollfuss initiates an authoritarian rule by decree."
+      "type": "Death",
+      "year": "1978",
+      "text": "Joe Marsala, American clarinet player and songwriter (born 1907)"
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Trenton Hassell, American basketball player"
+      "year": "1992",
+      "text": "Nick Castellanos, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Giedrius Gustas, Lithuanian basketball player"
     },
     {
       "type": "Event",
-      "year": "1849",
-      "text": "Zachary Taylor, 12th President of the United States of America and Millard Fillmore, 12th Vice President, did not take their respective oaths of office (they did so the following day), leading to the erroneous theory that outgoing President pro tempore of the United States Senate David Rice Atchison had assumed the role of acting president for one day."
+      "year": "1990",
+      "text": "American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game."
     },
     {
       "type": "Event",
-      "year": "938",
-      "text": "Translation of the relics of martyr Wenceslaus I, Duke of Bohemia, Prince of the Czechs."
+      "year": "1686",
+      "text": "After being unofficially established as a settlement in 1678, the Dominican mission of Ilagan is founded in the Philippines."
+    },
+    {
+      "type": "Event",
+      "year": "1628",
+      "text": "The Massachusetts Bay Colony is granted a Royal charter."
     },
     {
       "type": "Event",
@@ -43,53 +43,13 @@
     },
     {
       "type": "Event",
-      "year": "1865",
-      "text": "The third and final national flag of the Confederate States of America is adopted by the Confederate Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1681",
-      "text": "Charles II grants a land charter to William Penn for the area that will later become Pennsylvania."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Afghanistan: Seven American Special Operations Forces soldiers and 200 Al-Qaeda Fighters are killed as American forces attempt to infiltrate the Shah-i-Kot Valley on a low-flying helicopter reconnaissance mission."
+      "year": "1901",
+      "text": "William McKinley is inaugurated President of the United States for the second time; Theodore Roosevelt is vice president."
     },
     {
       "type": "Birth",
-      "year": "1978",
-      "text": "Jean-Marc Pelletier, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "A case of influenza is recorded at Camp Funston, Kansas, conventionally marking the beginning of the worldwide Spanish flu pandemic."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin."
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "Vermont is admitted to the United States as the fourteenth state."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Lindy Chamberlain-Creighton, New Zealand-Australian author"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: Americans defeat British forces at the Battle of Longwoods between London, Ontario and Thamesville, near present-day Wardsville, Ontario."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme Court of the United States rules that federal laws banning on-the-job sexual harassment also apply when both parties are the same sex."
+      "year": "1987",
+      "text": "Cameron Wood, Australian footballer"
     },
     {
       "type": "Event",
@@ -103,118 +63,13 @@
     },
     {
       "type": "Event",
-      "year": "1493",
-      "text": "Explorer Christopher Columbus arrives back in Lisbon, Portugal, aboard his ship Niña from his voyage to what are now The Bahamas and other islands in the Caribbean."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "James Ellroy, American writer"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Mike Moran, English musician, songwriter and record producer"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "U.S. politician Andrew Johnson makes his drunk vice-presidential inaugural address in Washington, D.C."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days."
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "In New York City, the first Congress of the United States meets, putting the United States Constitution into effect."
-    },
-    {
-      "type": "Event",
-      "year": "1686",
-      "text": "After being unofficially established as a settlement in 1678, the Dominican mission of Ilagan is founded in the Philippines."
-    },
-    {
-      "type": "Event",
-      "year": "1773",
-      "text": "Wolfgang Amadeus Mozart departs Italy after the last of his three tours there."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Sergio Romo, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1628",
-      "text": "The Massachusetts Bay Colony is granted a Royal charter."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The sixth President of Finland, Gustaf Mannerheim, submits his resignation for health reasons."
-    },
-    {
-      "type": "Death",
-      "year": "1999",
-      "text": "Harry Blackmun, American lawyer and judge (born 1908)"
-    },
-    {
-      "type": "Event",
-      "year": "1238",
-      "text": "The Battle of the Sit River begins two centuries of Mongol horde domination of Rus."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Margo Harshman, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "The Food and Drug Administration approves a blood test for HIV infection, used since then for screening all blood donations in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved."
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "U.S. President William Howard Taft uses what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State."
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The United States Senate confirms Frances Perkins as United States Secretary of Labor and she is sworn in the same day, making her the first female member of the United States Cabinet."
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "Carlo Alberto di Savoia signs the Statuto Albertino that will later represent the first constitution of the Regno d'Italia."
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Tadeusz Nalepa, Polish singer-songwriter and guitarist (born 1934)"
-    },
-    {
-      "type": "Event",
       "year": "1933",
       "text": "Franklin D. Roosevelt is inaugurated as the 32nd President of the United States."
     },
     {
-      "type": "Event",
-      "year": "1461",
-      "text": "Wars of the Roses in England: Lancastrian King Henry VI is deposed by his House of York cousin, who then becomes King Edward IV."
+      "type": "Birth",
+      "year": "1951",
+      "text": "Sam Perlozzo, American baseball player and manager"
     },
     {
       "type": "Event",
@@ -223,68 +78,8 @@
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Chonda Pierce, American comedian"
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "The 11th Amendment to the U.S. Constitution is passed by the U.S. Congress."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Lukas Webb, Australian rules footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolutionary War: The Continental Army fortifies Dorchester Heights with cannon, leading the British troops to abandon the Siege of Boston."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Bohdan Shust, Ukrainian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Jenna Boyd, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Scott Michael Foster, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "William McKinley is inaugurated President of the United States for the second time; Theodore Roosevelt is vice president."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "The Northern Ireland Constitutional Convention is formally dissolved in Northern Ireland, resulting in direct rule of Northern Ireland from London by the British parliament."
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "John Reynolds Gardiner, American author and engineer (born 1944)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Bill Young, Australian rugby player"
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "The United States Department of Labor is formed."
+      "year": "1951",
+      "text": "Theresa Hak Kyung Cha, South Korean-American author, director, and producer (died 1982)"
     },
     {
       "type": "Event",
@@ -293,13 +88,218 @@
     },
     {
       "type": "Event",
+      "year": "1849",
+      "text": "Zachary Taylor, 12th President of the United States of America and Millard Fillmore, 12th Vice President, did not take their respective oaths of office (they did so the following day), leading to the erroneous theory that outgoing President pro tempore of the United States Senate David Rice Atchison had assumed the role of acting president for one day."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved."
+    },
+    {
+      "type": "Event",
+      "year": "1773",
+      "text": "Wolfgang Amadeus Mozart departs Italy after the last of his three tours there."
+    },
+    {
+      "type": "Event",
+      "year": "1238",
+      "text": "The Battle of the Sit River begins two centuries of Mongol horde domination of Rus."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme Court of the United States rules that federal laws banning on-the-job sexual harassment also apply when both parties are the same sex."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Katherine Center, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "1461",
+      "text": "Wars of the Roses in England: Lancastrian King Henry VI is deposed by his House of York cousin, who then becomes King Edward IV."
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Lukas Webb, Australian rules footballer"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine."
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "The sixth President of Finland, Gustaf Mannerheim, submits his resignation for health reasons."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Jenna Boyd, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "The Food and Drug Administration approves a blood test for HIV infection, used since then for screening all blood donations in the United States."
+    },
+    {
+      "type": "Event",
       "year": "2001",
       "text": "BBC bombing: A massive car bomb explodes in front of the BBC Television Centre in London, seriously injuring one person; the attack was attributed to the Real IRA."
     },
     {
       "type": "Event",
+      "year": "1681",
+      "text": "Charles II grants a land charter to William Penn for the area that will later become Pennsylvania."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Tom Grieve, American baseball player, manager, and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Nicholas Coleridge, English journalist and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1493",
+      "text": "Explorer Christopher Columbus arrives back in Lisbon, Portugal, aboard his ship Niña from his voyage to what are now The Bahamas and other islands in the Caribbean."
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "The Northern Ireland Constitutional Convention is formally dissolved in Northern Ireland, resulting in direct rule of Northern Ireland from London by the British parliament."
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days."
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "Vermont is admitted to the United States as the fourteenth state."
+    },
+    {
+      "type": "Event",
+      "year": "1794",
+      "text": "The 11th Amendment to the U.S. Constitution is passed by the U.S. Congress."
+    },
+    {
+      "type": "Death",
+      "year": "1992",
+      "text": "Pare Lorentz, American director, producer, and screenwriter (born 1905)"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "The Collinwood school fire, Collinwood near Cleveland, Ohio, kills 174 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Mike Small, American golfer and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "In New York City, the first Congress of the United States meets, putting the United States Constitution into effect."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Whitney Port, American fashion designer and author"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The United States Senate confirms Frances Perkins as United States Secretary of Labor and she is sworn in the same day, making her the first female member of the United States Cabinet."
+    },
+    {
+      "type": "Event",
+      "year": "938",
+      "text": "Translation of the relics of martyr Wenceslaus I, Duke of Bohemia, Prince of the Czechs."
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "Carlo Alberto di Savoia signs the Statuto Albertino that will later represent the first constitution of the Regno d'Italia."
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "U.S. President William Howard Taft uses what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Fiona Ma, American accountant and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is \"more popular than Jesus now\"."
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: The Continental Army fortifies Dorchester Heights with cannon, leading the British troops to abandon the Siege of Boston."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Jason Newsted, American musician and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "The United States Department of Labor is formed."
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "The third and final national flag of the Confederate States of America is adopted by the Confederate Congress."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Afghanistan: Seven American Special Operations Forces soldiers and 200 Al-Qaeda Fighters are killed as American forces attempt to infiltrate the Shah-i-Kot Valley on a low-flying helicopter reconnaissance mission."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The Parliament of Austria is suspended because of a quibble over procedure – Chancellor Engelbert Dollfuss initiates an authoritarian rule by decree."
+    },
+    {
+      "type": "Death",
+      "year": "2025",
+      "text": "Roy Ayers, American singer-songwriter, keyboard player, vibraphonist, and producer (born 1940)"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: Americans defeat British forces at the Battle of Longwoods between London, Ontario and Thamesville, near present-day Wardsville, Ontario."
+    },
+    {
+      "type": "Event",
       "year": "1797",
       "text": "John Adams is inaugurated as the 2nd President of the United States of America, becoming the first President to begin his presidency on March 4."
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "U.S. politician Andrew Johnson makes his drunk vice-presidential inaugural address in Washington, D.C."
     }
   ],
   "source": "Wikipedia"
