@@ -3,53 +3,38 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Ryan Franklin, American baseball player"
+      "year": "1941",
+      "text": "Des Wilson, New Zealand-English businessman and activist"
     },
     {
       "type": "Event",
-      "year": "1770",
-      "text": "Boston Massacre: Five Americans, including Crispus Attucks, are fatally shot by British troops in an event that would contribute to the outbreak of the American Revolutionary War (also known as the American War of Independence) five years later."
+      "year": "1046",
+      "text": "Nasir Khusraw begins the seven-year Middle Eastern journey which he will later describe in his book Safarnama."
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Ken Irvine, Australian rugby league player (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Mike Brown, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Bob Forward, American director, producer, and screenwriter"
+      "year": "1938",
+      "text": "Paul Evans, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
-      "year": "1982",
-      "text": "Soviet probe Venera 14 lands on Venus."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Soviet probes Venera 11, Venera 12 and the German-American solar satellite Helios II all are hit by \"off the scale\" gamma rays leading to the discovery of soft gamma repeaters."
+      "year": "1912",
+      "text": "Italo-Turkish War: Italian forces are the first to use airships for military purposes, employing them for reconnaissance behind Turkish lines."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Robin Hobb, American author"
+      "year": "1957",
+      "text": "Ray Suarez, American journalist and author"
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Elmer Valo, American baseball player and coach (died 1998)"
+      "year": "1923",
+      "text": "Laurence Tisch, American businessman, co-founded the Loews Corporation (died 2003)"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Tom Russell, American singer-songwriter and guitarist"
+      "year": "1927",
+      "text": "Robert Lindsay, 29th Earl of Crawford, Scottish businessman and politician (died 2023)"
     },
     {
       "type": "Birth",
@@ -58,8 +43,63 @@
     },
     {
       "type": "Event",
-      "year": "1616",
-      "text": "Nicolaus Copernicus's book On the Revolutions of the Heavenly Spheres is added to the Index of Forbidden Books 73 years after it was first published."
+      "year": "1872",
+      "text": "George Westinghouse patents the air brake."
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Justin Fields, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "American country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas and their pilot Randy Hughes are killed in a plane crash in Camden, Tennessee."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Fred, French author and illustrator (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Yuu Watase, Japanese illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1770",
+      "text": "Boston Massacre: Five Americans, including Crispus Attucks, are fatally shot by British troops in an event that would contribute to the outbreak of the American Revolutionary War (also known as the American War of Independence) five years later."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Paul Sand, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Philip K. Chapman, Australian-American astronaut and engineer (died 2021)"
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Charles B. Pierce, American director, producer, and screenwriter (born 1938)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Mike Squires, American baseball player and scout"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Tom Russell, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Soviet probe Venera 14 lands on Venus."
     },
     {
       "type": "Event",
@@ -67,39 +107,9 @@
       "text": "The Landsat 3 is launched from Vandenberg Air Force Base in California."
     },
     {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Japanese forces capture Batavia, capital of Dutch East Indies, which is left undefended after the withdrawal of the KNIL garrison and Australian Blackforce battalion to Buitenzorg and Bandung."
-    },
-    {
       "type": "Birth",
-      "year": "1978",
-      "text": "Jared Crouch, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Madison Beer, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1766",
-      "text": "Antonio de Ulloa, the first Spanish governor of Louisiana, arrives in New Orleans."
-    },
-    {
-      "type": "Death",
-      "year": "1997",
-      "text": "Samm Sinclair Baker, American writer (born 1909)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Roy Gutman, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Wally Szczerbiak, American basketball player and sportscaster"
+      "year": "1993",
+      "text": "Kyle Schwarber, American baseball player"
     },
     {
       "type": "Birth",
@@ -107,24 +117,49 @@
       "text": "Mike Munchak, American football player and coach"
     },
     {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Michael J. Sandel, American philosopher and academic"
+    },
+    {
       "type": "Event",
-      "year": "1860",
-      "text": "Parma, Tuscany, Modena and Romagna vote in referendums to join the Kingdom of Sardinia."
+      "year": "1906",
+      "text": "Moro Rebellion: United States Army troops bring overwhelming force against the native Moros in the First Battle of Bud Dajo, leaving only six survivors."
+    },
+    {
+      "type": "Event",
+      "year": "1824",
+      "text": "First Anglo-Burmese War: The British officially declare war on Burma."
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Soviet probes Venera 11, Venera 12 and the German-American solar satellite Helios II all are hit by \"off the scale\" gamma rays leading to the discovery of soft gamma repeaters."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Lake Central Airlines Flight 527 crashes near Marseilles, Ohio, killing 38."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) pause the Deir ez-Zor campaign due to the Turkish-led invasion of Afrin."
+    },
+    {
+      "type": "Death",
+      "year": "1963",
+      "text": "Patsy Cline, American singer-songwriter (born 1932)"
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Gordon Bajnai, Hungarian businessman and politician, 7th Prime Minister of Hungary"
+      "year": "1977",
+      "text": "Bryan Berard, American ice hockey player"
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "James B. Sikking, American actor (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Šarūnas Jasikevičius, Lithuanian basketball player and coach"
+      "year": "1952",
+      "text": "Robin Hobb, American author"
     },
     {
       "type": "Event",
@@ -133,13 +168,78 @@
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Mark E. Smith, English singer, songwriter and musician (died 2018)"
+      "year": "1942",
+      "text": "Mike Resnick, American author and editor (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Ken Irvine, Australian rugby league player (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Elmer Valo, American baseball player and coach (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "J. B. Lenoir, American singer-songwriter and guitarist (died 1967)"
     },
     {
       "type": "Event",
-      "year": "1963",
-      "text": "American country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas and their pilot Randy Hughes are killed in a plane crash in Camden, Tennessee."
+      "year": "1616",
+      "text": "Nicolaus Copernicus's book On the Revolutions of the Heavenly Spheres is added to the Index of Forbidden Books 73 years after it was first published."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Japanese forces capture Batavia, capital of Dutch East Indies, which is left undefended after the withdrawal of the KNIL garrison and Australian Blackforce battalion to Buitenzorg and Bandung."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Eddy Grant, Guyanese-British singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Bo Bichette, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Brad Mills, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Bernard Arnault, French businessman, philanthropist, and art collector"
+    },
+    {
+      "type": "Event",
+      "year": "1860",
+      "text": "Parma, Tuscany, Modena and Romagna vote in referendums to join the Kingdom of Sardinia."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Daria Saville, Russian-Australian tennis player"
+    },
+    {
+      "type": "Death",
+      "year": "1953",
+      "text": "Herman J. Mankiewicz, American screenwriter and producer (born 1897)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "In Haifa, 17 Israeli civilians are killed in the Haifa bus 37 suicide bombing."
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Cold War: Winston Churchill delivers his famous \"Iron Curtain\" speech at Westminster College, Missouri."
     },
     {
       "type": "Birth",
@@ -152,129 +252,14 @@
       "text": "An Iberia McDonnell Douglas DC-9 collides in mid-air with a Spantax Convair 990 Coronado over Nantes, France, killing all 68 people aboard the DC-9, including music manager Michael Jeffery."
     },
     {
-      "type": "Event",
-      "year": "1967",
-      "text": "Lake Central Airlines Flight 527 crashes near Marseilles, Ohio, killing 38."
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "Italo-Turkish War: Italian forces are the first to use airships for military purposes, employing them for reconnaissance behind Turkish lines."
-    },
-    {
       "type": "Birth",
-      "year": "1963",
-      "text": "Joel Osteen, American pastor, author, and television host"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Kyle Schwarber, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Moussa Saïb, Algerian footballer and manager"
+      "year": "1986",
+      "text": "Corey Brewer, American basketball player and coach"
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "In Haifa, 17 Israeli civilians are killed in the Haifa bus 37 suicide bombing."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Mike Squires, American baseball player and scout"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Sam Bankman-Fried, American businessman and fraudster"
-    },
-    {
-      "type": "Death",
-      "year": "1963",
-      "text": "Patsy Cline, American singer-songwriter (born 1932)"
-    },
-    {
-      "type": "Death",
-      "year": "1927",
-      "text": "Franz Mertens, Polish-Austrian mathematician and academic (born 1840)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Spanish Civil War: The National Defence Council seizes control of the republican government in a coup d'etat, with the intention of negotiating an end to the war."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) pause the Deir ez-Zor campaign due to the Turkish-led invasion of Afrin."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Mike Resnick, American author and editor (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Fred Williamson, American football player, actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Talia Balsam, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1046",
-      "text": "Nasir Khusraw begins the seven-year Middle Eastern journey which he will later describe in his book Safarnama."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "Cold War: Winston Churchill delivers his famous \"Iron Curtain\" speech at Westminster College, Missouri."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Bernard Arnault, French businessman, philanthropist, and art collector"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Aasif Mandvi, Indian-American actor, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Zachary Stevens, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Eva Mendes, American model and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Marsha Warfield, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Moro Rebellion: United States Army troops bring overwhelming force against the native Moros in the First Battle of Bud Dajo, leaving only six survivors."
-    },
-    {
-      "type": "Event",
-      "year": "1872",
-      "text": "George Westinghouse patents the air brake."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Daria Saville, Russian-Australian tennis player"
+      "year": "1766",
+      "text": "Antonio de Ulloa, the first Spanish governor of Louisiana, arrives in New Orleans."
     },
     {
       "type": "Birth",
@@ -283,23 +268,38 @@
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Shay Carl, American businessman, co-founded Maker Studios"
+      "year": "1981",
+      "text": "Karolina Wydra, Polish-American actress and model"
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Mason Plumlee, American basketball player"
+      "year": "1953",
+      "text": "Tokyo Sexwale, South African businessman and politician, 1st Premier of Gauteng"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Jack Cassidy, American actor and singer (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Eva Mendes, American model and actress"
     },
     {
       "type": "Event",
-      "year": "1824",
-      "text": "First Anglo-Burmese War: The British officially declare war on Burma."
+      "year": "1939",
+      "text": "Spanish Civil War: The National Defence Council seizes control of the republican government in a coup d'etat, with the intention of negotiating an end to the war."
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Paul Drayson, Baron Drayson, English businessman and politician, Minister for Defence Equipment, Support and Technology"
+      "year": "1978",
+      "text": "Kimberly McCullough, American actress, singer, and dancer"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Marsha Warfield, American actress"
     }
   ],
   "source": "Wikipedia"
