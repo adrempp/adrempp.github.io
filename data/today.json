@@ -3,63 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Ian Clark, American basketball player"
+      "year": "1956",
+      "text": "Bryan Cranston, American actor, director, and producer"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Cameron Prosser, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Bret Easton Ellis, American author and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "189",
-      "text": "Publius Septimius Geta, Roman emperor (died 211)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Merv Neagle, Australian footballer and coach (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Matthew Fisher, English musician, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "William L. Laurence, Lithuanian-American journalist (died 1977)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Amanda Gorman, American poet and activist"
-    },
-    {
-      "type": "Event",
-      "year": "1277",
-      "text": "The University of Paris issues the last in a series of condemnations of various philosophical and theological theses."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected."
-    },
-    {
-      "type": "Event",
-      "year": "1573",
-      "text": "A peace treaty is signed between the Ottoman Empire and the Republic of Venice, ending the Ottoman–Venetian War and leaving Cyprus in Ottoman hands."
+      "year": "1959",
+      "text": "Tom Lehman, American golfer"
     },
     {
       "type": "Event",
@@ -67,84 +17,14 @@
       "text": "Senator Daniel Webster gives his \"Seventh of March\" speech endorsing the Compromise of 1850 in order to prevent a possible civil war."
     },
     {
-      "type": "Birth",
-      "year": "1811",
-      "text": "Increase A. Lapham, American scientist (died 1875)"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Olga Ladyzhenskaya, Russian mathematician and academic (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Sweden officially joins NATO, becoming its 32nd member."
-    },
-    {
-      "type": "Birth",
-      "year": "1730",
-      "text": "Louis Auguste Le Tonnelier de Breteuil, French soldier and politician (died 1807)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Elizabeth Moon, American author"
-    },
-    {
       "type": "Event",
       "year": "681",
       "text": "The Third Council of Constantinople deposes patriarch Macarius I of Antioch."
     },
     {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Peter Sarsgaard, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Jake Layman, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1850",
-      "text": "Tomáš Garrigue Masaryk, Austrian-Czech politician, 1st President of Czechoslovakia (died 1937)"
-    },
-    {
-      "type": "Birth",
-      "year": "2007",
-      "text": "Kiyan Anthony, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Milton Avery, American painter (died 1965)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Laura Prepon, American actress"
-    },
-    {
       "type": "Event",
-      "year": "1826",
-      "text": "Shrigley abduction: 15-year old Ellen Turner is abducted by Edward Gibbon Wakefield, a future figure in the establishment of colonies in South Australia and New Zealand."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Townes Van Zandt, American singer-songwriter and guitarist (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Bryan Cranston, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Jeff Withey, American basketball player"
+      "year": "2024",
+      "text": "Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set."
     },
     {
       "type": "Birth",
@@ -153,43 +33,33 @@
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Ernie Isley, American guitarist and songwriter"
+      "year": "1950",
+      "text": "Billy Joe DuPree, American football player"
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Andy Phillip, American basketball player and coach (died 2001)"
+      "year": "1984",
+      "text": "Jacob Lillyman, Australian rugby league player"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Steve Lawrence, American actor and singer (born 1935)"
+    },
+    {
+      "type": "Birth",
+      "year": "1849",
+      "text": "Luther Burbank, American botanist (died 1926)"
     },
     {
       "type": "Event",
-      "year": "1965",
-      "text": "Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Franco Harris, American football player and businessman (died 2022)"
+      "year": "1826",
+      "text": "Shrigley abduction: 15-year old Ellen Turner is abducted by Edward Gibbon Wakefield, a future figure in the establishment of colonies in South Australia and New Zealand."
     },
     {
       "type": "Birth",
       "year": "1938",
       "text": "David Baltimore, American biologist and academic, Nobel Prize laureate (died 2025)"
-    },
-    {
-      "type": "Death",
-      "year": "1993",
-      "text": "Josef Steindl, Austrian economist (born 1912)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "T. J. Thyne, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The short-lived socialist Labin Republic is proclaimed."
     },
     {
       "type": "Event",
@@ -198,73 +68,113 @@
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Jacob Lillyman, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Tammy Faye Messner, American evangelist, television personality, and talk show host (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Taylor Dayne, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Willard Scott, American television personality and actor (died 2021)"
+      "year": "1952",
+      "text": "Lynn Swann, American football player, sportscaster, and politician"
     },
     {
       "type": "Death",
-      "year": "1976",
-      "text": "Wright Patman, American politician (born 1893)"
+      "year": "2006",
+      "text": "Gordon Parks, American photographer, director, and composer (born 1912)"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Rick Bass, American author and environmentalist"
+      "year": "1964",
+      "text": "Wanda Sykes, American comedian, actress, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Cameron Prosser, Australian swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Haley Lu Richardson, American actress"
     },
     {
       "type": "Event",
-      "year": "1931",
-      "text": "The Parliament House of Finland is officially inaugurated in Helsinki, Finland."
+      "year": "1921",
+      "text": "The short-lived socialist Labin Republic is proclaimed."
+    },
+    {
+      "type": "Event",
+      "year": "1277",
+      "text": "The University of Paris issues the last in a series of condemnations of various philosophical and theological theses."
     },
     {
       "type": "Birth",
-      "year": "1841",
-      "text": "William Rockhill Nelson, American businessman and publisher, founded The Kansas City Star (died 1915)"
+      "year": "1850",
+      "text": "Champ Clark, American lawyer and politician, Speaker of the United States House of Representatives (died 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Ernie Isley, American guitarist and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Mark Richards, Australian surfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Milton Avery, American painter (died 1965)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Jeff Kent, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "189",
+      "text": "Publius Septimius Geta, Roman emperor (died 211)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Jake Layman, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Jenna Fischer, American actress"
     },
     {
       "type": "Birth",
       "year": "1950",
-      "text": "Billy Joe DuPree, American football player"
+      "text": "J. R. Richard, American baseball player and minister (died 2021)"
     },
     {
       "type": "Birth",
-      "year": "1843",
-      "text": "Marriott Henry Brosius, American senator (died 1901)"
+      "year": "1917",
+      "text": "Janet Collins, American ballerina and choreographer (died 2003)"
     },
     {
-      "type": "Death",
-      "year": "1997",
-      "text": "Edward Mills Purcell, American physicist and academic, Nobel Prize laureate (born 1912)"
+      "type": "Event",
+      "year": "2007",
+      "text": "Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people."
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Steve Burtt Jr., American-Ukrainian basketball player"
+      "year": "1972",
+      "text": "Craig Polla-Mounter, Australian rugby league player"
     },
     {
       "type": "Birth",
       "year": "2000",
-      "text": "Rasmus Sandin, Swedish ice hockey player"
+      "text": "Sebastian Schwaighofer, Austrian politician"
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Daniel J. Travanti, American actor"
+      "year": "1958",
+      "text": "Merv Neagle, Australian footballer and coach (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Nick Searcy, American actor"
     },
     {
       "type": "Birth",
@@ -274,12 +184,67 @@
     {
       "type": "Birth",
       "year": "1946",
-      "text": "Peter Wolf, American singer-songwriter and musician"
+      "text": "John Heard, American actor and producer (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "The Parliament House of Finland is officially inaugurated in Helsinki, Finland."
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Joe Carter, American baseball player"
+      "year": "1945",
+      "text": "Arthur Lee, American singer-songwriter and musician (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Piet Mondrian, Dutch-American painter (died 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "James Broderick, American actor and director (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Gray Morrow, American illustrator and comic book artist (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Jeff Feagles, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1573",
+      "text": "A peace treaty is signed between the Ottoman Empire and the Republic of Venice, ending the Ottoman–Venetian War and leaving Cyprus in Ottoman hands."
+    },
+    {
+      "type": "Birth",
+      "year": "1886",
+      "text": "Wilson Dallam Wallis, American anthropologist (died 1970)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Laura Prepon, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Rasmus Sandin, Swedish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "2007",
+      "text": "Kiyan Anthony, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama."
     },
     {
       "type": "Event",
@@ -287,19 +252,54 @@
       "text": "Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses."
     },
     {
+      "type": "Death",
+      "year": "1897",
+      "text": "Harriet Ann Jacobs, African American Abolitionist and author (born 1813)"
+    },
+    {
       "type": "Event",
       "year": "2024",
-      "text": "Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set."
+      "text": "Sweden officially joins NATO, becoming its 32nd member."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor."
     },
     {
       "type": "Event",
       "year": "2007",
-      "text": "Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people."
+      "text": "Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Daniel J. Travanti, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jay Duplass, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Jim Spivey, American runner and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1843",
+      "text": "Marriott Henry Brosius, American senator (died 1901)"
     },
     {
       "type": "Birth",
       "year": "1984",
       "text": "Brandon T. Jackson, American actor and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Mary Beth Evans, American actress"
     }
   ],
   "source": "Wikipedia"
