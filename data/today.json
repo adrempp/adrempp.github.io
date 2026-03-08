@@ -2,99 +2,14 @@
   "date": "2026-03-07",
   "items": [
     {
-      "type": "Birth",
-      "year": "189",
-      "text": "Publius Septimius Geta, Roman emperor (died 211)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Steve Burtt Jr., American-Ukrainian basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Ned O'Gorman, American poet and educator (born 1929)"
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Milton Avery, American painter (died 1965)"
-    },
-    {
-      "type": "Birth",
-      "year": "1837",
-      "text": "Henry Draper, American physician and astronomer (died 1882)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Jake Layman, American basketball player"
+      "type": "Event",
+      "year": "161",
+      "text": "Marcus Aurelius and L. Commodus (who changes his name to Lucius Verus) become joint emperors of Rome on the death of Antoninus Pius."
     },
     {
       "type": "Event",
-      "year": "1986",
-      "text": "Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Bob Herbert, American journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1850",
-      "text": "Senator Daniel Webster gives his \"Seventh of March\" speech endorsing the Compromise of 1850 in order to prevent a possible civil war."
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Lynne Stewart, American attorney and activist (born 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Ryan Ciminelli, American bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Jacob Lillyman, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Taylor Dayne, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1811",
-      "text": "Increase A. Lapham, American scientist (died 1875)"
-    },
-    {
-      "type": "Birth",
-      "year": "1730",
-      "text": "Louis Auguste Le Tonnelier de Breteuil, French soldier and politician (died 1807)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jim Spivey, American runner and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Daniel J. Travanti, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Sweden officially joins NATO, becoming its 32nd member."
+      "year": "1965",
+      "text": "Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama."
     },
     {
       "type": "Event",
@@ -103,113 +18,8 @@
     },
     {
       "type": "Birth",
-      "year": "1904",
-      "text": "Reinhard Heydrich, German SS officer and a principle architect of the Holocaust (died 1942)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Mark Richards, Australian surfer"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Bret Easton Ellis, American author and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Billy Joe DuPree, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Nick Searcy, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The short-lived socialist Labin Republic is proclaimed."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "J. R. Richard, American baseball player and minister (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "2007",
-      "text": "Kiyan Anthony, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Rick Bass, American author and environmentalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "John Heard, American actor and producer (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Tom Lehman, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Jay Duplass, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Townes Van Zandt, American singer-songwriter and guitarist (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Joe Carter, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Cameron Prosser, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "681",
-      "text": "The Third Council of Constantinople deposes patriarch Macarius I of Antioch."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Jenna Fischer, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1931",
-      "text": "The Parliament House of Finland is officially inaugurated in Helsinki, Finland."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Jeff Withey, American basketball player"
+      "year": "1956",
+      "text": "Bryan Cranston, American actor, director, and producer"
     },
     {
       "type": "Event",
@@ -218,63 +28,18 @@
     },
     {
       "type": "Birth",
-      "year": "1888",
-      "text": "William L. Laurence, Lithuanian-American journalist (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "161",
-      "text": "Marcus Aurelius and L. Commodus (who changes his name to Lucius Verus) become joint emperors of Rome on the death of Antoninus Pius."
+      "year": "1945",
+      "text": "Arthur Lee, American singer-songwriter and musician (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Betty Holberton, American engineer and programmer (died 2001)"
+      "year": "1960",
+      "text": "Joe Carter, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Tammy Faye Messner, American evangelist, television personality, and talk show host (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Gray Morrow, American illustrator and comic book artist (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Brandon T. Jackson, American actor and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Wanda Sykes, American comedian, actress, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Matthew Fisher, English musician, songwriter, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Willard Scott, American television personality and actor (died 2021)"
-    },
-    {
-      "type": "Death",
-      "year": "161",
-      "text": "Antoninus Pius, Roman emperor (born 86)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Lynn Swann, American football player, sportscaster, and politician"
+      "year": "1811",
+      "text": "Increase A. Lapham, American scientist (died 1875)"
     },
     {
       "type": "Birth",
@@ -282,14 +47,14 @@
       "text": "Amanda Gorman, American poet and activist"
     },
     {
-      "type": "Event",
-      "year": "1277",
-      "text": "The University of Paris issues the last in a series of condemnations of various philosophical and theological theses."
+      "type": "Birth",
+      "year": "1922",
+      "text": "Andy Phillip, American basketball player and coach (died 2001)"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Michael Eisner, American businessman"
+      "year": "1933",
+      "text": "Ed Bouchee, American baseball player (died 2013)"
     },
     {
       "type": "Birth",
@@ -298,8 +63,243 @@
     },
     {
       "type": "Birth",
+      "year": "1942",
+      "text": "Tammy Faye Messner, American evangelist, television personality, and talk show host (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1277",
+      "text": "The University of Paris issues the last in a series of condemnations of various philosophical and theological theses."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Betty Holberton, American engineer and programmer (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Rasmus Sandin, Swedish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Peter Sarsgaard, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "2007",
+      "text": "Kiyan Anthony, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "189",
+      "text": "Publius Septimius Geta, Roman emperor (died 211)"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Craig Polla-Mounter, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The short-lived socialist Labin Republic is proclaimed."
+    },
+    {
+      "type": "Death",
+      "year": "1949",
+      "text": "Bradbury Robinson, American football player, physician, and politician (born 1884)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Claude King, American singer-songwriter and guitarist (born 1923)"
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "The Parliament House of Finland is officially inaugurated in Helsinki, Finland."
+    },
+    {
+      "type": "Death",
+      "year": "1993",
+      "text": "Eleanor Sanger, American television producer (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "David Baltimore, American biologist and academic, Nobel Prize laureate (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Laura Prepon, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set."
+    },
+    {
+      "type": "Birth",
+      "year": "1857",
+      "text": "Julius Wagner-Jauregg, Austrian physician and academic, Nobel Prize laureate (died 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jay Duplass, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1888",
+      "text": "William L. Laurence, Lithuanian-American journalist (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Olga Ladyzhenskaya, Russian mathematician and academic (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Cameron Prosser, Australian swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Jacob Lillyman, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Jeff Withey, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Lynn Swann, American football player, sportscaster, and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1886",
+      "text": "Virginia Pearson, American actress (died 1958)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "T. J. Thyne, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Sebastian Schwaighofer, Austrian politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Jake Layman, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Mark Richards, Australian surfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Daniel J. Travanti, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Michael Eisner, American businessman"
+    },
+    {
+      "type": "Event",
+      "year": "681",
+      "text": "The Third Council of Constantinople deposes patriarch Macarius I of Antioch."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Janet Collins, American ballerina and choreographer (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "Sweden officially joins NATO, becoming its 32nd member."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Merv Neagle, Australian footballer and coach (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1730",
+      "text": "Louis Auguste Le Tonnelier de Breteuil, French soldier and politician (died 1807)"
+    },
+    {
+      "type": "Birth",
       "year": "1945",
-      "text": "Elizabeth Moon, American author"
+      "text": "Bob Herbert, American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1850",
+      "text": "Champ Clark, American lawyer and politician, Speaker of the United States House of Representatives (died 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Rick Bass, American author and environmentalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Haley Lu Richardson, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "John Heard, American actor and producer (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1850",
+      "text": "Senator Daniel Webster gives his \"Seventh of March\" speech endorsing the Compromise of 1850 in order to prevent a possible civil war."
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Milton Avery, American painter (died 1965)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Townes Van Zandt, American singer-songwriter and guitarist (died 1997)"
     }
   ],
   "source": "Wikipedia"
