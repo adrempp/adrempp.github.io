@@ -1,305 +1,305 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-08",
   "items": [
     {
+      "type": "Birth",
+      "year": "1886",
+      "text": "Edward Calvin Kendall, American chemist and academic, Nobel Prize laureate (died 1972)"
+    },
+    {
       "type": "Event",
-      "year": "161",
-      "text": "Marcus Aurelius and L. Commodus (who changes his name to Lucius Verus) become joint emperors of Rome on the death of Antoninus Pius."
+      "year": "2004",
+      "text": "A new constitution is signed by Iraq's Governing Council."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Panditrao Agashe, Indian businessman (died 1986)"
+    },
+    {
+      "type": "Death",
+      "year": "1889",
+      "text": "John Ericsson, Swedish-American engineer (born 1803)"
+    },
+    {
+      "type": "Birth",
+      "year": "1822",
+      "text": "Ignacy Łukasiewicz, Polish inventor and businessman, invented the Kerosene lamp (died 1882)"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "A Turkish Airlines Fokker F27 Friendship crashes into Mount Medetsiz in the Taurus Mountains of Turkey, killing all 11 people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "2003",
+      "text": "Montana Jordan, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Peggy March, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Warren Bennis, American scholar, author, and academic (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Milana Vayntrub, Uzbekistani-American actress and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1841",
+      "text": "Oliver Wendell Holmes Jr., American lawyer and jurist (died 1935)"
+    },
+    {
+      "type": "Death",
+      "year": "1948",
+      "text": "Hulusi Behçet, Turkish dermatologist and scientist (born 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Keemstar, American YouTuber"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Chris Clark, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "Spanish Civil War: The Battle of Guadalajara begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Cyd Charisse, American actress and dancer (died 2008)"
     },
     {
       "type": "Event",
       "year": "1965",
-      "text": "Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama."
+      "text": "Vietnam War: US Marines arrive at Da Nang."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Lidiya Skoblikova, Russian speed skater and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1851",
+      "text": "Frank Avery Hutchins, American librarian and educator (died 1914)"
     },
     {
       "type": "Event",
-      "year": "1573",
-      "text": "A peace treaty is signed between the Ottoman Empire and the Republic of Venice, ending the Ottoman–Venetian War and leaving Cyprus in Ottoman hands."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Bryan Cranston, American actor, director, and producer"
+      "year": "1983",
+      "text": "Cold War: While addressing a convention of Evangelicals, U.S. President Ronald Reagan labels the Soviet Union an \"evil empire\"."
     },
     {
       "type": "Event",
-      "year": "1826",
-      "text": "Shrigley abduction: 15-year old Ellen Turner is abducted by Edward Gibbon Wakefield, a future figure in the establishment of colonies in South Australia and New Zealand."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Arthur Lee, American singer-songwriter and musician (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Joe Carter, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1811",
-      "text": "Increase A. Lapham, American scientist (died 1875)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Amanda Gorman, American poet and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Andy Phillip, American basketball player and coach (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Ed Bouchee, American baseball player (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jeff Feagles, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Tammy Faye Messner, American evangelist, television personality, and talk show host (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1277",
-      "text": "The University of Paris issues the last in a series of condemnations of various philosophical and theological theses."
-    },
-    {
-      "type": "Birth",
       "year": "1917",
-      "text": "Betty Holberton, American engineer and programmer (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Rasmus Sandin, Swedish ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Peter Sarsgaard, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "2007",
-      "text": "Kiyan Anthony, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "189",
-      "text": "Publius Septimius Geta, Roman emperor (died 211)"
+      "text": "The United States Senate votes to limit filibusters by adopting the cloture rule."
     },
     {
       "type": "Event",
-      "year": "2007",
-      "text": "Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people."
+      "year": "1985",
+      "text": "A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon kills 80 and injures 200 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Kenny Smith, American basketball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Nick Zano, American actor"
     },
     {
       "type": "Birth",
       "year": "1972",
-      "text": "Craig Polla-Mounter, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The short-lived socialist Labin Republic is proclaimed."
-    },
-    {
-      "type": "Death",
-      "year": "1949",
-      "text": "Bradbury Robinson, American football player, physician, and politician (born 1884)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Claude King, American singer-songwriter and guitarist (born 1923)"
-    },
-    {
-      "type": "Event",
-      "year": "1931",
-      "text": "The Parliament House of Finland is officially inaugurated in Helsinki, Finland."
-    },
-    {
-      "type": "Death",
-      "year": "1993",
-      "text": "Eleanor Sanger, American television producer (born 1929)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "David Baltimore, American biologist and academic, Nobel Prize laureate (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Laura Prepon, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set."
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "Julius Wagner-Jauregg, Austrian physician and academic, Nobel Prize laureate (died 1940)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Jay Duplass, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "William L. Laurence, Lithuanian-American journalist (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor."
+      "text": "Matt Nable, Australian rugby league player and actor"
     },
     {
       "type": "Birth",
       "year": "1922",
-      "text": "Olga Ladyzhenskaya, Russian mathematician and academic (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses."
+      "text": "Carl Furillo, American baseball player (died 1989)"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Cameron Prosser, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected."
+      "year": "1912",
+      "text": "Meldrim Thomson Jr., American publisher and politician, Governor of New Hampshire (died 2001)"
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Jacob Lillyman, Australian rugby league player"
+      "year": "1924",
+      "text": "Anthony Caro, English sculptor and illustrator (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "An anonymous writer, thought by some to be Thomas Paine, publishes \"African Slavery in America\", the first article in the American colonies calling for the emancipation of slaves and the abolition of slavery."
+    },
+    {
+      "type": "Death",
+      "year": "2018",
+      "text": "Kate Wilhelm, American author (born 1928)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Lynn Redgrave, English-American actress and singer (died 2010)"
     },
     {
       "type": "Birth",
       "year": "1990",
-      "text": "Jeff Withey, American basketball player"
+      "text": "Kristinia DeBarge, American singer-songwriter and actress"
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Lynn Swann, American football player, sportscaster, and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Virginia Pearson, American actress (died 1958)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "T. J. Thyne, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Sebastian Schwaighofer, Austrian politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Jake Layman, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Mark Richards, Australian surfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Daniel J. Travanti, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Michael Eisner, American businessman"
+      "year": "1976",
+      "text": "Hines Ward, Korean-American football player"
     },
     {
       "type": "Event",
-      "year": "681",
-      "text": "The Third Council of Constantinople deposes patriarch Macarius I of Antioch."
+      "year": "1924",
+      "text": "A mine disaster kills 172 coal miners near Castle Gate, Utah."
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Janet Collins, American ballerina and choreographer (died 2003)"
+      "year": "1959",
+      "text": "Lester Holt, American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Preston Smith, American businessman and politician, Governor of Texas (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Michael S. Hart, American author, founded Project Gutenberg (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Tommy Pham, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Chad Gable, American wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "George Coleman, American saxophonist, composer, and bandleader"
     },
     {
       "type": "Event",
-      "year": "2024",
-      "text": "Sweden officially joins NATO, becoming its 32nd member."
+      "year": "1262",
+      "text": "Battle of Hausbergen between bourgeois militias and the army of the bishop of Strasbourg."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "The first Aurat March (social/political demonstration) is held on International Women's Day in Karachi, Pakistan, since then held annually across Pakistan, and the feminist slogan \"Mera Jism Meri Marzi\" (My body, my choice), in demand for women's right to bodily autonomy and against gender-based violence, came into vogue in Pakistan."
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Merv Neagle, Australian footballer and coach (died 2012)"
+      "year": "1990",
+      "text": "Kevin Zeitler, American football player"
     },
     {
       "type": "Birth",
-      "year": "1730",
-      "text": "Louis Auguste Le Tonnelier de Breteuil, French soldier and politician (died 1807)"
+      "year": "1999",
+      "text": "Nathan McSweeney, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Susan Clark, Canadian actress and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1865",
+      "text": "Frederic Goudy, American type designer (died 1947)"
+    },
+    {
+      "type": "Birth",
+      "year": "1799",
+      "text": "Simon Cameron, American journalist and politician, United States Secretary of War (died 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Irek Mukhamedov, Russian ballet dancer"
+    },
+    {
+      "type": "Birth",
+      "year": "1830",
+      "text": "João de Deus, Portuguese poet and educator (died 1896)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "David Malpass, American economist and government official"
+    },
+    {
+      "type": "Birth",
+      "year": "1836",
+      "text": "Harriet Samuel, English businesswoman and founder the jewellery retailer H. Samuel (died 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Robbie Hummel, American basketball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Dianne Walker, American tap dancer"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Aidan Quinn, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Kat Von D, American tattoo artist and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Thomas Morstead, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Brandon Kozun, American-Canadian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "The iconic Volkswagen Type 2 \"Bus\" begins production."
+    },
+    {
+      "type": "Event",
+      "year": "1782",
+      "text": "Gnadenhutten massacre: Ninety-six Native Americans in Gnadenhutten, Ohio, who had converted to Christianity, are killed by Pennsylvania militiamen in retaliation for raids carried out by other Indian tribes."
     },
     {
       "type": "Birth",
       "year": "1945",
-      "text": "Bob Herbert, American journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1850",
-      "text": "Champ Clark, American lawyer and politician, Speaker of the United States House of Representatives (died 1921)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Rick Bass, American author and environmentalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Haley Lu Richardson, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "John Heard, American actor and producer (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1850",
-      "text": "Senator Daniel Webster gives his \"Seventh of March\" speech endorsing the Compromise of 1850 in order to prevent a possible civil war."
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Milton Avery, American painter (died 1965)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Townes Van Zandt, American singer-songwriter and guitarist (died 1997)"
+      "text": "Micky Dolenz, American singer-songwriter and actor"
     }
   ],
   "source": "Wikipedia"
