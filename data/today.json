@@ -3,243 +3,13 @@
   "items": [
     {
       "type": "Event",
-      "year": "1933",
-      "text": "Great Depression: President Franklin D. Roosevelt submits the Emergency Banking Act to Congress, the first of his New Deal policies."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Kerr Smith, American actor"
-    },
-    {
-      "type": "Event",
       "year": "1967",
       "text": "Trans World Airlines Flight 553 crashes in a field in Concord Township, Ohio, following a mid-air collision with a Beechcraft Baron, killing 26 people."
     },
     {
       "type": "Birth",
-      "year": "1890",
-      "text": "Vyacheslav Molotov, Russian politician and diplomat, Soviet Minister of Foreign Affairs (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Eric Fischl, American painter and sculptor"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Clint Dempsey, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Dennis Rader, American serial killer"
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Will Geer, American actor (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Finn Carter, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Mickey Spillane, American crime novelist (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "The 8.6 Mw  Andreanof Islands earthquake shakes the Aleutian Islands, causing over $5 million in damage from ground movement and a destructive tsunami."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Rick Steiner, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1883",
-      "text": "Demonstration of 9 March 1883 :  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Giuseppe Conte, Prime Minister of Italy, announces in a televised address and signs the decree imposing the first nationwide COVID-19 lockdown in the world."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The Barbie doll makes its debut at the American International Toy Fair in New York."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Darrell Walker, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Ornette Coleman, American saxophonist, violinist, trumpet player, and composer (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Kimberly Guilfoyle, American lawyer and journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in an attack against the border town of Columbus, New Mexico."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Joe Franklin, American radio and television host (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Andrew Viterbi, American engineer and businessman, co-founded Qualcomm Inc."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Andy North, American golfer"
-    },
-    {
-      "type": "Death",
-      "year": "1992",
-      "text": "Menachem Begin, Belarusian-Israeli soldier, politician and Prime Minister of Israel, Nobel Prize laureate (born 1913)"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "The Mars 7 Flyby bus releases the descent module too early, missing Mars."
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "Chrysler announces its acquisition of American Motors Corporation."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Jordan Klepper, American comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Carl Betz, American actor (died 1978)"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "Soviet forces suppress mass demonstrations in the Georgian SSR, reacting to Nikita Khrushchev's de-Stalinization policy."
-    },
-    {
-      "type": "Event",
-      "year": "-141",
-      "text": "Liu Che, posthumously known as Emperor Wu of Han, assumes the throne over the Han dynasty of China."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Julia Mancuso, American skier"
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Mexican–American War: The first large-scale amphibious assault in U.S. history is launched in the Siege of Veracruz."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Mark Dantonio, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Mickey Gilley, American singer-songwriter and pianist (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Daniel Hudson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Sunisa Lee, American gymnast"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "The Hanafi Siege: In a 39-hour standoff, armed Hanafi Muslims seize three Washington, D.C., buildings."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "George Lincoln Rockwell, American sailor and politician, founded the American Nazi Party (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Jeffrey Osborne, American singer and drummer"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships."
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Usman Garuba, Spanish basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Rupert Balfe, Australian footballer and lieutenant (died 1915)"
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "Giuseppe Verdi's third opera, Nabucco, receives its première performance in Milan; its success establishes Verdi as one of Italy's foremost opera composers."
-    },
-    {
-      "type": "Event",
-      "year": "1841",
-      "text": "The U.S. Supreme Court rules in the United States v. The Amistad case that captive Africans who had seized control of the ship carrying them had been taken into slavery illegally."
-    },
-    {
-      "type": "Birth",
-      "year": "1564",
-      "text": "David Fabricius, German theologian, cartographer and astronomer (died 1617)"
-    },
-    {
-      "type": "Death",
-      "year": "1974",
-      "text": "Harry Womack, American singer (born 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Doug Ault, American baseball player and manager (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Lloyd Price, American R&B singer-songwriter (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "President Soeharto inaugurates Jagorawi Toll Road, the first toll highway in Indonesia, connecting Jakarta, Bogor and Ciawi, West Java."
+      "year": "1966",
+      "text": "Brendan Canty, American drummer and songwriter"
     },
     {
       "type": "Event",
@@ -248,48 +18,103 @@
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Gerald Bull, Canadian-American engineer and academic (died 1990)"
+      "year": "1918",
+      "text": "Mickey Spillane, American crime novelist (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1863",
-      "text": "Mary Harris Armor, American suffragist (died 1950)"
+      "year": "1939",
+      "text": "Malcolm Bricklin, American businessman, founded Bricklin and Yugo"
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Lonny Price, American actor, director, and screenwriter"
+      "year": "1943",
+      "text": "Charles Gibson, American journalist"
     },
     {
       "type": "Death",
+      "year": "886",
+      "text": "Abu Ma'shar al-Balkhi, Muslim scholar and astrologer (born 787)"
+    },
+    {
+      "type": "Birth",
+      "year": "1806",
+      "text": "Edwin Forrest, American actor and philanthropist (died 1872)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "James L. Buckley, American lawyer, judge, and politician (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Bow Wow, American rapper and actor"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Giuseppe Conte, Prime Minister of Italy, announces in a televised address and signs the decree imposing the first nationwide COVID-19 lockdown in the world."
+    },
+    {
+      "type": "Birth",
       "year": "1983",
-      "text": "Faye Emerson, American actress (born 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Brittany Snow, American actress and producer"
+      "text": "Clint Dempsey, American soccer player"
     },
     {
       "type": "Event",
-      "year": "1776",
-      "text": "Scottish philosopher Adam Smith publishes The Wealth of Nations, ushering in the classical period of political economy."
+      "year": "1978",
+      "text": "President Soeharto inaugurates Jagorawi Toll Road, the first toll highway in Indonesia, connecting Jakarta, Bogor and Ciawi, West Java."
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Brendan Canty, American drummer and songwriter"
+      "year": "1977",
+      "text": "Mark Tookey, Australian rugby league player"
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Tom Amandes, American actor"
+      "year": "1964",
+      "text": "Phil Housley, American ice hockey player and coach"
     },
     {
       "type": "Event",
-      "year": "1226",
-      "text": "Khwarazmian sultan Jalal ad-Din conquers the Georgian capital of Tbilisi."
+      "year": "1841",
+      "text": "The U.S. Supreme Court rules in the United States v. The Amistad case that captive Africans who had seized control of the ship carrying them had been taken into slavery illegally."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Finn Carter, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Chingy, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Marty Ingels, American actor and comedian (died 2015)"
+    },
+    {
+      "type": "Death",
+      "year": "1994",
+      "text": "Charles Bukowski, American poet, novelist, and short story writer (born 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in an attack against the border town of Columbus, New Mexico."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Jodey Arrington, American politician"
+    },
+    {
+      "type": "Event",
+      "year": "1883",
+      "text": "Demonstration of 9 March 1883 :  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel."
     },
     {
       "type": "Event",
@@ -298,8 +123,183 @@
     },
     {
       "type": "Event",
+      "year": "1842",
+      "text": "Giuseppe Verdi's third opera, Nabucco, receives its première performance in Milan; its success establishes Verdi as one of Italy's foremost opera composers."
+    },
+    {
+      "type": "Event",
       "year": "1765",
       "text": "After a campaign by the writer Voltaire, judges in Paris posthumously exonerate Jean Calas of murdering his son. Calas had been tortured and executed in 1762 on the charge, though his son may have actually died by suicide."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Aaron Boone, American baseball player and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Tony Lockett, Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1226",
+      "text": "Khwarazmian sultan Jalal ad-Din conquers the Georgian capital of Tbilisi."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Mark Harrity, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Adonal Foyle, Vincentian-American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Keely Smith, American singer and actress (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships."
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "The Mars 7 Flyby bus releases the descent module too early, missing Mars."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Mahmoud Abdul-Rauf, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Shannon Leto, American musician and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1856",
+      "text": "Eddie Foy, Sr., American actor and dancer (died 1928)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Carlos Ghosn, Brazilian-Lebanese-French business executive"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Samuel Barber, American pianist and composer (died 1981)"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "The Barbie doll makes its debut at the American International Toy Fair in New York."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "Great Depression: President Franklin D. Roosevelt submits the Emergency Banking Act to Congress, the first of his New Deal policies."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Walter Kohn, Austrian-American physicist and academic, Nobel Prize laureate (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Wayne Simien, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1815",
+      "text": "David Davis, American jurist and politician (died 1886)"
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "Mexican–American War: The first large-scale amphibious assault in U.S. history is launched in the Siege of Veracruz."
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "The 8.6 Mw  Andreanof Islands earthquake shakes the Aleutian Islands, causing over $5 million in damage from ground movement and a destructive tsunami."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Matthew Gray Gubler, American actor"
+    },
+    {
+      "type": "Death",
+      "year": "1992",
+      "text": "Menachem Begin, Belarusian-Israeli soldier, politician and Prime Minister of Israel, Nobel Prize laureate (born 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "George Lincoln Rockwell, American sailor and politician, founded the American Nazi Party (died 1967)"
+    },
+    {
+      "type": "Event",
+      "year": "-141",
+      "text": "Liu Che, posthumously known as Emperor Wu of Han, assumes the throne over the Han dynasty of China."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The Hanafi Siege: In a 39-hour standoff, armed Hanafi Muslims seize three Washington, D.C., buildings."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Gerald Bull, Canadian-American engineer and academic (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Linda Fiorentino, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "Soviet forces suppress mass demonstrations in the Georgian SSR, reacting to Nikita Khrushchev's de-Stalinization policy."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Naveen Jindal, Indian businessman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Cierra Ramirez, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Ernesto Miranda, American criminal (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Andrew Viterbi, American engineer and businessman, co-founded Qualcomm Inc."
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "Chrysler announces its acquisition of American Motors Corporation."
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "Scottish philosopher Adam Smith publishes The Wealth of Nations, ushering in the classical period of political economy."
     }
   ],
   "source": "Wikipedia"
