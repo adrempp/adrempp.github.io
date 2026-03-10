@@ -3,13 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Austin Carr, American basketball player"
+      "year": "1867",
+      "text": "Hector Guimard, French-American architect (died 1942)"
     },
     {
       "type": "Birth",
-      "year": "1903",
-      "text": "Clare Boothe Luce, American playwright, journalist, and diplomat, United States Ambassador to Italy (died 1987)"
+      "year": "1915",
+      "text": "Harry Bertoia, Italian-American sculptor and furniture designer (died 1978)"
     },
     {
       "type": "Death",
@@ -17,9 +17,9 @@
       "text": "Ross Hunter, American film producer (born 1926)"
     },
     {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Sepp Blatter, Swiss businessman and eighth president of FIFA"
+      "type": "Event",
+      "year": "1971",
+      "text": "John Gorton resigns as Prime Minister of Australia and the leader of the Liberal Party of Australia after a secret ballot vote of confidence, being replaced in both positions by William McMahon."
     },
     {
       "type": "Birth",
@@ -27,19 +27,14 @@
       "text": "Katharine Houghton, American actress and playwright"
     },
     {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Aloma Wright, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "James Earl Ray, American criminal; assassin of Martin Luther King Jr. (died 1998)"
-    },
-    {
       "type": "Event",
-      "year": "1944",
-      "text": "Greek Civil War: The Political Committee of National Liberation is established in Greece by the National Liberation Front."
+      "year": "1735",
+      "text": "An agreement between Nader Shah and Russia is signed near Ganja, Azerbaijan and Russian troops are withdrawn from occupied territories."
+    },
+    {
+      "type": "Birth",
+      "year": "1845",
+      "text": "Alexander III of Russia (died 1894)"
     },
     {
       "type": "Event",
@@ -48,58 +43,28 @@
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: Captain Ernest Medina is charged by the U.S. military with My Lai war crimes."
+      "year": "1944",
+      "text": "Greek Civil War: The Political Committee of National Liberation is established in Greece by the National Liberation Front."
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Sergei Shirokov, Russian ice hockey player"
+      "year": "1984",
+      "text": "Olivia Wilde, American actress and director"
     },
     {
       "type": "Event",
-      "year": "1496",
-      "text": "After establishing the city of Santo Domingo, Christopher Columbus departs for Spain, leaving his brother in command."
+      "year": "1979",
+      "text": "1979 International Women's Day protests in Tehran: Protestor involvement peaks with 15,000 Iranian women and girls performing a three‐hour-long sit‐in at the Courthouse of Tehran."
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Kenshi Yonezu, Japanese singer-songwriter and illustrator"
+      "year": "1903",
+      "text": "Bix Beiderbecke, American cornet player, pianist, and composer (died 1931)"
     },
     {
       "type": "Birth",
-      "year": "2002",
-      "text": "Keon Johnson, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Astronomers discover the rings of Uranus."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Rick Rubin, American record producer"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "In Haiti, Prosper Avril is ousted eighteen months after seizing power in a coup d'état in September 1988."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Tibetan uprising: Fearing an abduction attempt by China, thousands of Tibetans surround the Dalai Lama's palace to prevent his removal."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Dr Disrespect, American live streamer"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Edie Brickell, American singer-songwriter"
+      "year": "1846",
+      "text": "Edward Baker Lincoln, American son of Abraham Lincoln (died 1850)"
     },
     {
       "type": "Event",
@@ -108,48 +73,8 @@
     },
     {
       "type": "Birth",
-      "year": "1810",
-      "text": "Samuel Ferguson, Irish poet and lawyer (died 1886)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Beth Buchanan, Australian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Janet Mock, American journalist, author, and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Cole Kmet, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Olivia Wilde, American actress and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Zach LaVine, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "Silicon Valley Bank collapses due to a run on its deposits, in the second largest bank failure in US history. Its operations are taken over by the FDIC."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Marques Haynes, American basketball player (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Ego Nwodim, American actress"
+      "year": "1956",
+      "text": "Larry Myricks, American long jumper and sprinter"
     },
     {
       "type": "Birth",
@@ -158,8 +83,8 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Barbara Schett, Austrian tennis player"
+      "year": "1972",
+      "text": "Matt Kenseth, American NASCAR driver"
     },
     {
       "type": "Birth",
@@ -167,39 +92,14 @@
       "text": "Robin Thicke, American singer, songwriter, and record producer"
     },
     {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Mitch Gaylord, American gymnast and actor"
+      "type": "Death",
+      "year": "1872",
+      "text": "Giuseppe Mazzini, Italian journalist and politician (born 1805)"
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Bob Lanier, American lawyer, banker, and politician, Mayor of Houston (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1762",
-      "text": "French Huguenot Jean Calas, who had been wrongly convicted of killing his son, dies after being tortured by authorities; the event inspired Voltaire to begin a campaign for religious tolerance and legal reform."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Rod Woodson, American football player, coach, and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Paget Brewster, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Quincy Pondexter, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Tom Scholz, American musician and songwriter"
+      "year": "1972",
+      "text": "Beth Buchanan, Australian actress"
     },
     {
       "type": "Event",
@@ -208,73 +108,43 @@
     },
     {
       "type": "Birth",
+      "year": "1999",
+      "text": "Cole Kmet, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1769",
+      "text": "Joseph Williamson, English businessman and philanthropist (died 1840)"
+    },
+    {
+      "type": "Birth",
+      "year": "1873",
+      "text": "Jakob Wassermann, German-Austrian soldier and author (died 1934)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: Captain Ernest Medina is charged by the U.S. military with My Lai war crimes."
+    },
+    {
+      "type": "Birth",
+      "year": "1867",
+      "text": "Lillian Wald, American nurse, humanitarian, and author, founded the Henry Street Settlement (died 1940)"
+    },
+    {
+      "type": "Birth",
       "year": "1982",
       "text": "Thomas Middleditch, Canadian-American comedian and actor"
     },
     {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The U.S. Army Air Force firebombs Tokyo, and the resulting conflagration kills more than 100,000 people, mostly civilians."
-    },
-    {
       "type": "Birth",
-      "year": "1971",
-      "text": "Jon Hamm, American actor and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Ron Mix, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Chuck Norris, American actor, producer, and martial artist"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "David Rabe, American playwright and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Ralph Emery, American country music disc jockey, radio and television host (died 2022)"
+      "year": "1995",
+      "text": "Sergey Mozgov, Russian ice dancer"
     },
     {
       "type": "Event",
-      "year": "1848",
-      "text": "The Treaty of Guadalupe Hidalgo is ratified by the United States Senate, ending the Mexican–American War."
-    },
-    {
-      "type": "Death",
-      "year": "1925",
-      "text": "Myer Prinstein, Polish-American jumper (born 1878)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Timbaland, American rapper and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "1974 Belgian general election: Elections are held in Belgium for all 212 seats in the Chamber of Representatives, the Belgian Socialist Party taking the majority with 59."
-    },
-    {
-      "type": "Birth",
-      "year": "1876",
-      "text": "Anna Hyatt Huntington, American sculptor (died 1973)"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "1979 International Women's Day protests in Tehran: Protestor involvement peaks with 15,000 Iranian women and girls performing a three‐hour-long sit‐in at the Courthouse of Tehran."
-    },
-    {
-      "type": "Death",
-      "year": "1998",
-      "text": "Lloyd Bridges, American actor and director (born 1913)"
+      "year": "1959",
+      "text": "Tibetan uprising: Fearing an abduction attempt by China, thousands of Tibetans surround the Dalai Lama's palace to prevent his removal."
     },
     {
       "type": "Event",
@@ -283,23 +153,153 @@
     },
     {
       "type": "Event",
+      "year": "2023",
+      "text": "Silicon Valley Bank collapses due to a run on its deposits, in the second largest bank failure in US history. Its operations are taken over by the FDIC."
+    },
+    {
+      "type": "Death",
+      "year": "1315",
+      "text": "Agnes Blannbekin, Austrian mystic"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "In Haiti, Prosper Avril is ousted eighteen months after seizing power in a coup d'état in September 1988."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Edi Gathegi, Kenyan-American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "David Riazanov, Russian theorist and politician (died 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "1762",
+      "text": "French Huguenot Jean Calas, who had been wrongly convicted of killing his son, dies after being tortured by authorities; the event inspired Voltaire to begin a campaign for religious tolerance and legal reform."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Danny Pudi, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Chuck Norris, American actor, producer, and martial artist"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Tom Scholz, American musician and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "1974 Belgian general election: Elections are held in Belgium for all 212 seats in the Chamber of Representatives, the Belgian Socialist Party taking the majority with 59."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Zach LaVine, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Dr Disrespect, American live streamer"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Val Logsdon Fitch, American physicist and academic, Nobel Prize laureate (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The U.S. Army Air Force firebombs Tokyo, and the resulting conflagration kills more than 100,000 people, mostly civilians."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Benjamin Burnley, American musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jason Croker, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Jeff Ament, American bass player and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1496",
+      "text": "After establishing the city of Santo Domingo, Christopher Columbus departs for Spain, leaving his brother in command."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Astronomers discover the rings of Uranus."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "James Earl Ray, American criminal; assassin of Martin Luther King Jr. (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Kenshi Yonezu, Japanese singer-songwriter and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "The Treaty of Guadalupe Hidalgo is ratified by the United States Senate, ending the Mexican–American War."
+    },
+    {
+      "type": "Birth",
+      "year": "1810",
+      "text": "Samuel Ferguson, Irish poet and lawyer (died 1886)"
+    },
+    {
+      "type": "Event",
       "year": "2017",
       "text": "The impeachment of President Park Geun-hye of South Korea in response to a major political scandal is unanimously upheld by the country's Constitutional Court, ending her presidency."
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Martellus Bennett, American football player"
+      "year": "1935",
+      "text": "Polly Farmer, Australian footballer and coach (died 2019)"
     },
     {
-      "type": "Event",
-      "year": "1735",
-      "text": "An agreement between Nader Shah and Russia is signed near Ganja, Azerbaijan and Russian troops are withdrawn from occupied territories."
+      "type": "Birth",
+      "year": "1925",
+      "text": "Bob Lanier, American lawyer, banker, and politician, Mayor of Houston (died 2014)"
     },
     {
-      "type": "Event",
-      "year": "1971",
-      "text": "John Gorton resigns as Prime Minister of Australia and the leader of the Liberal Party of Australia after a secret ballot vote of confidence, being replaced in both positions by William McMahon."
+      "type": "Birth",
+      "year": "1948",
+      "text": "Austin Carr, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Janet Mock, American journalist, author, and activist"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Logan Mankins, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Ego Nwodim, American actress"
     }
   ],
   "source": "Wikipedia"
