@@ -2,294 +2,14 @@
   "date": "2026-03-11",
   "items": [
     {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Peter Berg, American director, producer, screenwriter, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Anissa Jones, American child actress (died 1976)"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Russell Lissack, English musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "Lewi Pethrus, Swedish minister and hymn-writer (died 1974)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "James H. Douglas, Jr., American lawyer, and politician, United States Deputy Secretary of Defense (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Brad Carson, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Willie Banks, American triple jumper"
-    },
-    {
-      "type": "Birth",
-      "year": "1876",
-      "text": "Carl Ruggles, American composer and painter (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1880",
-      "text": "Harry H. Laughlin, American eugenicist and sociologist (died 1943)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Rich Hill, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1387",
-      "text": "Battle of Castagnaro: Padua, led by John Hawkwood, is victorious over Giovanni Ordelaffi of Verona."
-    },
-    {
-      "type": "Event",
-      "year": "1851",
-      "text": "The first performance of Rigoletto by Giuseppe Verdi takes place in Venice."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Margaret Oakley Dayhoff, American biochemist and academic (died 1983)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Nicolaas Bloembergen, Dutch-American physicist and academic, Nobel Prize laureate (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Nina Hartley, American pornographic actress/director, sex educator, sex-positive feminist, and author"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic."
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "An earthquake measuring 9.0 in magnitude strikes 130 km (81 mi) east of Sendai, Japan, triggering a tsunami killing thousands of people. This event also triggered the second largest nuclear accident in history, and one of only two events to be classified as a Level 7 on the International Nuclear Event Scale."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "The 1977 Hanafi Siege: Around 150 hostages held in Washington, D.C., by Hanafi Muslims are set free after ambassadors from three Islamic nations join negotiations."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Freda Meissner-Blau, Austrian activist and politician (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Wallace Langham, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Matt Mead, American politician, 32nd Governor of Wyoming"
-    },
-    {
-      "type": "Birth",
-      "year": "1806",
-      "text": "Louis Boulanger, French Romantic painter, lithographer and illustrator (died 1867)"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "Rudolf Höss, the first commandant of Auschwitz concentration camp, is captured by British troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "J. C. R. Licklider, American computer scientist and psychologist (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "Mikhail Gorbachev is elected to the position of General Secretary of the Communist Party of the Soviet Union, making Gorbachev the USSR's de facto, and last, head of state."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Lisa Loeb, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Economist and businessman Sebastián Piñera is sworn in as President of Chile. Aftershocks of the 2010 Pichilemu earthquakes hit central Chile during the ceremony."
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "Madrid train bombings: Simultaneous explosions on rush hour trains in Madrid, Spain kill 191 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "David LaChapelle, American photographer and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1785",
-      "text": "John McLean, American jurist and politician (died 1861)"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: The Constitution of the Confederate States of America is adopted."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Cassandra Fairbanks, American journalist and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Vinnie Paul, American drummer, songwriter and producer (died 2018)"
-    },
-    {
       "type": "Event",
       "year": "2021",
       "text": "US President Joe Biden signs the $1.9 trillion American Rescue Plan into law."
     },
     {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Vince Boryla, American basketball player, coach, and executive (died 2016)"
-    },
-    {
       "type": "Death",
-      "year": "1944",
-      "text": "Edgar Zilsel, Austrian historian and philosopher of science, linked to the Vienna Circle (born 1891)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Malcolm Delaney, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Timothy Carey, American actor, director, producer, and screenwriter (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1927",
-      "text": "In New York City, Samuel Roxy Rothafel opens the Roxy Theatre."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Ralph Abernathy, American minister and activist (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: United States President Franklin D. Roosevelt signs the Lend-Lease Act into law, allowing American-built war supplies to be shipped to the Allies on loan."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Thora Birch, American actress, producer, and director"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II:  The Imperial Japanese Navy attempts a large-scale kamikaze attack on the U.S. Pacific Fleet anchored at Ulithi atoll in Operation Tan No. 2."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jesse Jackson, Jr., American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "The Saint-Germain bombing ushers France into the Ère des attentats (1892-1894)."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Lee Evans, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Fred Jones, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "David Newman, American composer and conductor"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Abdul Razak Hussein, Malaysian lawyer and politician, Prime Minister of Malaysia (died 1976)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "David Gentleman, English illustrator and engraver"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Dean Bailey, Australian footballer and coach (born 1967)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "A U.S. soldier kills 16 civilians in the Panjwayi District of Afghanistan near Kandahar."
-    },
-    {
-      "type": "Event",
-      "year": "1888",
-      "text": "The Great Blizzard of 1888 begins along the eastern seaboard of the United States, shutting down commerce and killing more than 400 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Conor Garland, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Becky Hammon, American-Russian basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Lawrence Welk, American accordion player and bandleader (died 1992)"
-    },
-    {
-      "type": "Death",
-      "year": "1820",
-      "text": "Benjamin West, American-English painter and academic (born 1738)"
+      "year": "1915",
+      "text": "Thomas Alexander Browne, English-Australian author (born 1826)"
     },
     {
       "type": "Event",
@@ -298,8 +18,288 @@
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Jerry Zucker, American director, producer, and screenwriter"
+      "year": "1958",
+      "text": "Anissa Jones, American child actress (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Lawrence Welk, American accordion player and bandleader (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "1927",
+      "text": "In New York City, Samuel Roxy Rothafel opens the Roxy Theatre."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "Madrid train bombings: Simultaneous explosions on rush hour trains in Madrid, Spain kill 191 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Malcolm Delaney, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Russell Lissack, English musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1785",
+      "text": "John McLean, American jurist and politician (died 1861)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Benji Madden, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Abdul Razak Hussein, Malaysian lawyer and politician, Prime Minister of Malaysia (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Derek Daly, Irish-American race car driver and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Nicolaas Bloembergen, Dutch-American physicist and academic, Nobel Prize laureate (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Becky Hammon, American-Russian basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1819",
+      "text": "Henry Tate, English businessman and philanthropist, founded Tate & Lyle (died 1899)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Willie Banks, American triple jumper"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Nikolai Topor-Stanley, Australian footballer"
+    },
+    {
+      "type": "Death",
+      "year": "1989",
+      "text": "James Kee, American lawyer and politician (born 1917)"
+    },
+    {
+      "type": "Birth",
+      "year": "1806",
+      "text": "Louis Boulanger, French Romantic painter, lithographer and illustrator (died 1867)"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "A U.S. soldier kills 16 civilians in the Panjwayi District of Afghanistan near Kandahar."
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: The Constitution of the Confederate States of America is adopted."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Brian Anderson, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Anton Yelchin, Russian-American actor (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1888",
+      "text": "The Great Blizzard of 1888 begins along the eastern seaboard of the United States, shutting down commerce and killing more than 400 people."
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani."
+    },
+    {
+      "type": "Death",
+      "year": "222",
+      "text": "Elagabalus, Roman emperor (born 203)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Sam Donaldson, American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Henry Cowell, American pianist and composer (died 1965)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Jimmy Iovine, American record producer and businessman, co-founded Beats Electronics"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Soraya, Colombian-American singer-songwriter, guitarist, and producer (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "The Saint-Germain bombing ushers France into the Ère des attentats (1892-1894)."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Economist and businessman Sebastián Piñera is sworn in as President of Chile. Aftershocks of the 2010 Pichilemu earthquakes hit central Chile during the ceremony."
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "Lewi Pethrus, Swedish minister and hymn-writer (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Fred Jones, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Roy Barnes, American politician, 80th Governor of Georgia"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "John Thompson III, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II:  The Imperial Japanese Navy attempts a large-scale kamikaze attack on the U.S. Pacific Fleet anchored at Ulithi atoll in Operation Tan No. 2."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: United States President Franklin D. Roosevelt signs the Lend-Lease Act into law, allowing American-built war supplies to be shipped to the Allies on loan."
+    },
+    {
+      "type": "Birth",
+      "year": "1880",
+      "text": "Harry H. Laughlin, American eugenicist and sociologist (died 1943)"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Lee Evans, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Nina Hartley, American pornographic actress/director, sex educator, sex-positive feminist, and author"
+    },
+    {
+      "type": "Event",
+      "year": "1387",
+      "text": "Battle of Castagnaro: Padua, led by John Hawkwood, is victorious over Giovanni Ordelaffi of Verona."
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "Mikhail Gorbachev is elected to the position of General Secretary of the Communist Party of the Soviet Union, making Gorbachev the USSR's de facto, and last, head of state."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Terrence Howard, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Rudolf Höss, the first commandant of Auschwitz concentration camp, is captured by British troops."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Dan Uggla, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Johnny Knoxville, American actor and entertainer"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Thora Birch, American actress, producer, and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Mark Metcalf, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Rich Hill, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1851",
+      "text": "The first performance of Rigoletto by Giuseppe Verdi takes place in Venice."
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "James H. Douglas, Jr., American lawyer, and politician, United States Deputy Secretary of Defense (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "David Anders, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "An earthquake measuring 9.0 in magnitude strikes 130 km (81 mi) east of Sendai, Japan, triggering a tsunami killing thousands of people. This event also triggered the second largest nuclear accident in history, and one of only two events to be classified as a Level 7 on the International Nuclear Event Scale."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Wallace Langham, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Jim McMillian, American basketball player (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The 1977 Hanafi Siege: Around 150 hostages held in Washington, D.C., by Hanafi Muslims are set free after ambassadors from three Islamic nations join negotiations."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Dock Ellis, American baseball player and coach (died 2008)"
     }
   ],
   "source": "Wikipedia"
