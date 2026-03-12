@@ -3,43 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Aaron Eckhart, American actor and producer"
+      "year": "1949",
+      "text": "Rob Cohen, American director, producer, and screenwriter"
     },
     {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Dave Eggers, American author and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Rhys Coiro, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Samm Levine, American actor and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "George Ariyoshi, American lawyer and politician, 3rd Governor of Hawaii"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Martynas Andriuškevičius, Lithuanian basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1088",
-      "text": "Election of Urban II as the 159th Pope of the Catholic Church. He is best known for initiating the Crusades."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Dean Cundey, American cinematographer and film director"
+      "type": "Death",
+      "year": "2003",
+      "text": "Lynne Thigpen, American actress and singer (born 1948)"
     },
     {
       "type": "Event",
@@ -48,33 +18,23 @@
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "The World Health Organization officially release a global warning of outbreaks of Severe acute respiratory syndrome (SARS)."
+      "year": "1918",
+      "text": "Moscow becomes the capital of Russia again after Saint Petersburg held this status for most of the period since 1713."
     },
     {
       "type": "Event",
-      "year": "1942",
-      "text": "The Battle of Java ends with the surrender of the American-British-Dutch-Australian Command to the Empire of Japan in Bandung, West Java, Dutch East Indies."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Mauritius gains independence from the United Kingdom."
+      "year": "2011",
+      "text": "A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and releases radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami."
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Andrew Young, American pastor and politician, 14th United States Ambassador to the United Nations"
+      "year": "1989",
+      "text": "Tyler Clary, American swimmer"
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Maxwell Holt, American volleyball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Phil Anderson, English-Australian cyclist"
+      "year": "1986",
+      "text": "Ben Offereins, Australian runner"
     },
     {
       "type": "Event",
@@ -83,18 +43,18 @@
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Dmitry Korobov, Belarusian ice hockey player"
+      "year": "1933",
+      "text": "Barbara Feldon, American actress"
     },
     {
-      "type": "Death",
-      "year": "1974",
-      "text": "George D. Sax, American banker and businessman (born 1904)"
+      "type": "Birth",
+      "year": "1994",
+      "text": "Christina Grimmie, American singer-songwriter (died 2016)"
     },
     {
       "type": "Event",
-      "year": "1993",
-      "text": "North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites."
+      "year": "1933",
+      "text": "Great Depression: Franklin D. Roosevelt addresses the nation for the first time as President of the United States. This is also the first of his \"fireside chats\"."
     },
     {
       "type": "Birth",
@@ -103,78 +63,28 @@
     },
     {
       "type": "Birth",
+      "year": "1948",
+      "text": "James Taylor, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "US-Bangla Airlines Flight 211 crashes at Tribhuvan International Airport in Katmandu, killing 51 and injuring 20."
+    },
+    {
+      "type": "Event",
       "year": "2003",
-      "text": "Malina Weissman, American actress and model"
+      "text": "The World Health Organization officially release a global warning of outbreaks of Severe acute respiratory syndrome (SARS)."
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "David Daniels, American countertenor"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "The Girl Guides (later renamed the Girl Scouts of the USA) are founded in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "538",
-      "text": "Vitiges, king of the Ostrogoths, ends his siege of Rome and retreats to Ravenna, leaving the city to the victorious Byzantine general, Belisarius."
+      "year": "1978",
+      "text": "Arina Tanemura, Japanese author and illustrator"
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Steve Finley, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Brent Johnson, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Vadim Shipachyov, Russian ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Jamie Dwyer, Australian field hockey player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Myrna Fahey, American actress (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Luenell, American comedian and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Pete Doherty, English musician, songwriter, actor, poet, writer, and artist"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Edgaras Jankauskas, Lithuanian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Francisco J. Ayala, Spanish-American evolutionary biologist and philosopher (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The United States suspends travel from Europe due to the COVID-19 pandemic."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Ganesh Pyne, Indian painter and illustrator (born 1937)"
+      "year": "1986",
+      "text": "Martynas Andriuškevičius, Lithuanian basketball player"
     },
     {
       "type": "Birth",
@@ -183,23 +93,93 @@
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Becky Holliday, American pole vaulter"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "Great Depression: Franklin D. Roosevelt addresses the nation for the first time as President of the United States. This is also the first of his \"fireside chats\"."
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "In Mahmoudiyah, Iraq, 14-year-old Abeer Qassim Hamza al-Janabi is raped and murdered by five American soldiers of the 502nd Infantry Regiment, who also murder both of her parents and her sister."
+      "year": "1979",
+      "text": "Pete Doherty, English musician, songwriter, actor, poet, writer, and artist"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "James Taylor, American singer-songwriter and guitarist"
+      "year": "1968",
+      "text": "Aaron Eckhart, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Battle of Java ends with the surrender of the American-British-Dutch-Australian Command to the Empire of Japan in Bandung, West Java, Dutch East Indies."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Jessica Hardy, American swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Rhys Coiro, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Andrew Young, American pastor and politician, 14th United States Ambassador to the United Nations"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "In the House of Commons, the revised EU Withdrawal Bill was rejected by a margin of 149 votes."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Casey Mears, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Edward Albee, American director and playwright (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Aleksandr Bukharov, Russian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Marlon Jackson, American singer-songwriter and dancer"
+    },
+    {
+      "type": "Event",
+      "year": "1622",
+      "text": "Ignatius of Loyola and Francis Xavier, founders of the Society of Jesus, are canonized by the Roman Catholic Church."
+    },
+    {
+      "type": "Death",
+      "year": "1929",
+      "text": "Asa Griggs Candler, American businessman and politician, 44th Mayor of Atlanta (born 1851)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Courtney B. Vance, American actor and painter"
+    },
+    {
+      "type": "Event",
+      "year": "538",
+      "text": "Vitiges, king of the Ostrogoths, ends his siege of Rome and retreats to Ravenna, leaving the city to the victorious Byzantine general, Belisarius."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Mauritius gains independence from the United Kingdom."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Vytautas Černiauskas, Lithuanian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Titus Welliver, American actor"
     },
     {
       "type": "Event",
@@ -208,18 +188,13 @@
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Mitt Romney, American businessman and politician, 70th Governor of Massachusetts"
+      "year": "1980",
+      "text": "Becky Holliday, American pole vaulter"
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Candy Costie, American swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1622",
-      "text": "Ignatius of Loyola and Francis Xavier, founders of the Society of Jesus, are canonized by the Roman Catholic Church."
+      "year": "1979",
+      "text": "Charlie Bell, American basketball player and coach"
     },
     {
       "type": "Event",
@@ -229,67 +204,52 @@
     {
       "type": "Birth",
       "year": "1994",
-      "text": "Jerami Grant, American basketball player"
+      "text": "Tyler Patrick Jones, American actor"
     },
     {
       "type": "Birth",
       "year": "1990",
-      "text": "Dont'a Hightower, American football coach and former player"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Frank Welker, American voice actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Zurab Sotkilava, Georgian operatic tenor (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "In the House of Commons, the revised EU Withdrawal Bill was rejected by a margin of 149 votes."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Tammy Duckworth, Thai-American colonel, pilot, and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Edward Albee, American director and playwright (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "US-Bangla Airlines Flight 211 crashes at Tribhuvan International Airport in Katmandu, killing 51 and injuring 20."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Moscow becomes the capital of Russia again after Saint Petersburg held this status for most of the period since 1713."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Anschluss: German troops occupy and annex Austria."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Jessica Hardy, American swimmer"
+      "text": "Mikko Sumusalo, Finnish footballer"
     },
     {
       "type": "Death",
-      "year": "2002",
-      "text": "Spyros Kyprianou, Cypriot lawyer and politician, 2nd President of Cyprus (born 1932)"
+      "year": "1935",
+      "text": "Mihajlo Pupin, Serbian-American physicist and chemist (born 1858)"
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Dale Murphy, American baseball player"
+      "year": "1945",
+      "text": "Anne Summers, Australian feminist writer, editor, publisher and public servant"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "The United States suspends travel from Europe due to the COVID-19 pandemic."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "David Daniels, American countertenor"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "In Mahmoudiyah, Iraq, 14-year-old Abeer Qassim Hamza al-Janabi is raped and murdered by five American soldiers of the 502nd Infantry Regiment, who also murder both of her parents and her sister."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Isaiah Rider, American basketball player and rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Kent Conrad, American politician"
     },
     {
       "type": "Birth",
@@ -297,9 +257,49 @@
       "text": "Ron Tutt, American drummer (died 2021)"
     },
     {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Phil Anderson, English-Australian cyclist"
+    },
+    {
       "type": "Event",
-      "year": "2011",
-      "text": "A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and releases radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami."
+      "year": "1938",
+      "text": "Anschluss: German troops occupy and annex Austria."
+    },
+    {
+      "type": "Event",
+      "year": "1088",
+      "text": "Election of Urban II as the 159th Pope of the Catholic Church. He is best known for initiating the Crusades."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Dmitry Korobov, Belarusian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Dean Cundey, American cinematographer and film director"
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Max Duggan, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Emmett Leith, American professor of electrical engineering and co-inventor of three-dimensional holography (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1912",
+      "text": "The Girl Guides (later renamed the Girl Scouts of the USA) are founded in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Eddie Sutton, American basketball player and coach (died 2020)"
     }
   ],
   "source": "Wikipedia"
