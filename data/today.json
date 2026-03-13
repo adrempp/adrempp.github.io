@@ -3,123 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "David Draiman, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Anatoly Fomenko, Russian mathematician and academic"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "An article in Nature identifies the Ciampate del Diavolo as 350,000-year-old hominid footprints."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Dana Delany, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: German forces liquidate the Jewish ghetto in Kraków."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Charles Krauthammer, American physician, journalist, and author (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1815",
-      "text": "Participants at the Congress of Vienna declare Napoleon an outlaw following his escape from Elba."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Dirk Wellham, Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Moses Hogan, American composer and conductor (died 2003)"
+      "year": "1992",
+      "text": "Lucy Fry, Australian actress"
     },
     {
       "type": "Birth",
       "year": "1953",
-      "text": "Michael Curry, American bishop, 27th Presiding Bishop of the Episcopal Church"
-    },
-    {
-      "type": "Birth",
-      "year": "1479",
-      "text": "Lazarus Spengler, German hymnwriter (died 1534)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Dorothy Tangney, Australian politician (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Tim Story, American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "President Donald Trump declares the COVID-19 pandemic to be a national emergency in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "George Negus, Australian journalist and television host (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Trent Dilfer, American football player, coach, and analyst"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "The Act Prohibiting the Return of Slaves is passed by the United States Congress, effectively annulling the Fugitive Slave Act of 1850 and setting the stage for the Emancipation Proclamation."
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "L. Ron Hubbard, American author, founder of Scientology (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Walter Annenberg, American publisher, philanthropist, and diplomat, United States Ambassador to the United Kingdom (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "The New Jewel Movement, headed by Maurice Bishop, ousts the Prime Minister of Grenada, Eric Gairy, in a coup d'état."
-    },
-    {
-      "type": "Event",
-      "year": "222",
-      "text": "Roman emperor Elagabalus is murdered alongside his mother, Julia Soaemias. He is replaced by his 14-year old cousin, Severus Alexander."
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "B. H. Roberts, English-American historian and politician (died 1933)"
-    },
-    {
-      "type": "Event",
-      "year": "1825",
-      "text": "Pope Leo XII publishes the apostolic constitution Quo Graviora in which he renewed the prohibition on Catholics joining freemasonry."
+      "text": "Andy Bean, American golfer (died 2023)"
     },
     {
       "type": "Event",
@@ -128,38 +18,28 @@
     },
     {
       "type": "Birth",
+      "year": "1970",
+      "text": "Tim Story, American director and producer"
+    },
+    {
+      "type": "Birth",
       "year": "1886",
       "text": "Home Run Baker, American baseball player and manager (died 1963)"
     },
     {
-      "type": "Death",
-      "year": "1873",
-      "text": "David Swinson Maynard, American physician, lawyer, and businessman (born 1808)"
+      "type": "Birth",
+      "year": "1973",
+      "text": "Bobby Jackson, American basketball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Troy Hudson, American basketball player and rapper"
+      "year": "1997",
+      "text": "Landry Shamet, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Caron Butler, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "John Hoeven, American banker and politician, 31st Governor of North Dakota"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Lee Moses, American R&B Soul Singer and Guitarist (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Sian Elias, New Zealand lawyer and politician, 12th Chief Justice of New Zealand"
+      "year": "1995",
+      "text": "Mikaela Shiffrin, American skier"
     },
     {
       "type": "Event",
@@ -167,14 +47,54 @@
       "text": "The Battle of Badr, the first major battle between the Muslims and Quraysh."
     },
     {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Tristan Thompson, American basketball player"
+      "type": "Event",
+      "year": "1920",
+      "text": "The Kapp Putsch briefly ousts the Weimar Republic government from Berlin."
+    },
+    {
+      "type": "Event",
+      "year": "222",
+      "text": "Roman emperor Elagabalus is murdered alongside his mother, Julia Soaemias. He is replaced by his 14-year old cousin, Severus Alexander."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Nicole Ohlde, American basketball player"
+      "year": "1864",
+      "text": "Alexej von Jawlensky, Russian-German painter (died 1941)"
+    },
+    {
+      "type": "Death",
+      "year": "1901",
+      "text": "Benjamin Harrison, American general and politician, 23rd President of the United States (born 1833)"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Myrtle Bachelder, American chemist and Women's Army Corps officer (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "President Donald Trump declares the COVID-19 pandemic to be a national emergency in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "The New Jewel Movement, headed by Maurice Bishop, ousts the Prime Minister of Grenada, Eric Gairy, in a coup d'état."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust: German forces liquidate the Jewish ghetto in Kraków."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "The Act Prohibiting the Return of Slaves is passed by the United States Congress, effectively annulling the Fugitive Slave Act of 1850 and setting the stage for the Emancipation Proclamation."
     },
     {
       "type": "Event",
@@ -183,43 +103,43 @@
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Brad Watts, Australian rugby league player"
+      "year": "1892",
+      "text": "Janet Flanner, American journalist and author (died 1978)"
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "William J. Casey, American politician, 13th Director of Central Intelligence (died 1987)"
+      "year": "1908",
+      "text": "Walter Annenberg, American publisher, philanthropist, and diplomat, United States Ambassador to the United Kingdom (died 2002)"
     },
     {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Marco Andretti, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Edward O'Hare, American lieutenant and pilot, Medal of Honor recipient (died 1943)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Darren Fritz, Australian rugby league player"
+      "type": "Event",
+      "year": "1815",
+      "text": "Participants at the Congress of Vienna declare Napoleon an outlaw following his escape from Elba."
     },
     {
       "type": "Birth",
       "year": "1963",
-      "text": "Vance Johnson, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "Gustav IV Adolf of Sweden is deposed in the Coup of 1809."
+      "text": "Fito Páez, Argentine musician, songwriter and filmmaker"
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Roy Haynes, American drummer and composer (died 2024)"
+      "year": "1990",
+      "text": "Marcell Dareus, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1800",
+      "text": "Mustafa Reşid Pasha, Ottoman politician, 212th Grand Vizier of the Ottoman Empire (died 1858)"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Sammy Kaye, American saxophonist, songwriter, and bandleader (died 1987)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas."
     },
     {
       "type": "Birth",
@@ -228,13 +148,143 @@
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Neil Sedaka, American singer-songwriter and pianist (died 2026)"
+      "year": "1955",
+      "text": "Glenne Headly, American actress (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Al Jaffee, American cartoonist (died 2023)"
     },
     {
       "type": "Event",
-      "year": "1993",
-      "text": "The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas."
+      "year": "2003",
+      "text": "An article in Nature identifies the Ciampate del Diavolo as 350,000-year-old hominid footprints."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Craig Dimond, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "Gustav IV Adolf of Sweden is deposed in the Coup of 1809."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Walter Jacob, American Reform rabbi (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Jacque Fresco, American engineer and academic (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Nicole Ohlde, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Will Clark, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The Winter War between Finland and the Soviet Union officially ends after the signing of the Moscow Peace Treaty."
+    },
+    {
+      "type": "Death",
+      "year": "1999",
+      "text": "Garson Kanin, American director and screenwriter (born 1912)"
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Dorothy Tangney, Australian politician (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "Ellery Harding Clark, American jumper, coach, and lawyer (died 1949)"
+    },
+    {
+      "type": "Birth",
+      "year": "2004",
+      "text": "Coco Gauff, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Scatman John, American singer-songwriter (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1825",
+      "text": "Pope Leo XII publishes the apostolic constitution Quo Graviora in which he renewed the prohibition on Catholics joining freemasonry."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Yonatan Netanyahu, American-Israeli colonel (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Diane Dillon, American illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Robert Gammage, American captain and politician (died 2012)"
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Maureen Stapleton, American actress (born 1925)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Brad Watts, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "David Draiman, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1860",
+      "text": "Hugo Wolf, Slovene-Austrian composer (died 1903)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "L. Ron Hubbard, American author, founder of Scientology (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Jack Harlow, American rapper, singer-songwriter, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Danny Masterson, American actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Lyn St. James, American race car driver"
     },
     {
       "type": "Event",
@@ -248,58 +298,8 @@
     },
     {
       "type": "Birth",
-      "year": "1890",
-      "text": "Fritz Busch, German conductor and director (died 1951)"
-    },
-    {
-      "type": "Birth",
       "year": "1953",
       "text": "Deborah Raffin, American actress (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Trevor Gillmeister, Australian rugby league player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Kapp Putsch briefly ousts the Weimar Republic government from Berlin."
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Dave Cutler, American computer scientist and engineer"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Olga Rukavishnikova, Russian pentathlete"
-    },
-    {
-      "type": "Death",
-      "year": "2001",
-      "text": "John A. Alonzo, American actor and cinematographer (born 1934)"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "The Winter War between Finland and the Soviet Union officially ends after the signing of the Moscow Peace Treaty."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Rick Lazio, American lawyer and politician"
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Maureen Stapleton, American actress (born 1925)"
     }
   ],
   "source": "Wikipedia"
