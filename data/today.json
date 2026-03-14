@@ -1,305 +1,305 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "items": [
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Lucy Fry, Australian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Andy Bean, American golfer (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1781",
-      "text": "William Herschel discovers Uranus."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Tim Story, American director and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Home Run Baker, American baseball player and manager (died 1963)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Bobby Jackson, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Landry Shamet, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Mikaela Shiffrin, American skier"
-    },
-    {
-      "type": "Event",
-      "year": "624",
-      "text": "The Battle of Badr, the first major battle between the Muslims and Quraysh."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Kapp Putsch briefly ousts the Weimar Republic government from Berlin."
-    },
-    {
-      "type": "Event",
-      "year": "222",
-      "text": "Roman emperor Elagabalus is murdered alongside his mother, Julia Soaemias. He is replaced by his 14-year old cousin, Severus Alexander."
-    },
-    {
-      "type": "Birth",
-      "year": "1864",
-      "text": "Alexej von Jawlensky, Russian-German painter (died 1941)"
-    },
-    {
-      "type": "Death",
-      "year": "1901",
-      "text": "Benjamin Harrison, American general and politician, 23rd President of the United States (born 1833)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality."
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Myrtle Bachelder, American chemist and Women's Army Corps officer (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "President Donald Trump declares the COVID-19 pandemic to be a national emergency in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "The New Jewel Movement, headed by Maurice Bishop, ousts the Prime Minister of Grenada, Eric Gairy, in a coup d'état."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: German forces liquidate the Jewish ghetto in Kraków."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "The Act Prohibiting the Return of Slaves is passed by the United States Congress, effectively annulling the Fugitive Slave Act of 1850 and setting the stage for the Emancipation Proclamation."
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Kitty Genovese is murdered in New York City, prompting research into the bystander effect due to the false story that neighbors witnessed the killing and did nothing to help her."
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Janet Flanner, American journalist and author (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Walter Annenberg, American publisher, philanthropist, and diplomat, United States Ambassador to the United Kingdom (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1815",
-      "text": "Participants at the Congress of Vienna declare Napoleon an outlaw following his escape from Elba."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Fito Páez, Argentine musician, songwriter and filmmaker"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Marcell Dareus, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1800",
-      "text": "Mustafa Reşid Pasha, Ottoman politician, 212th Grand Vizier of the Ottoman Empire (died 1858)"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Sammy Kaye, American saxophonist, songwriter, and bandleader (died 1987)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas."
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Frank Gore Jr., American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Glenne Headly, American actress (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Al Jaffee, American cartoonist (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "An article in Nature identifies the Ciampate del Diavolo as 350,000-year-old hominid footprints."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Craig Dimond, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "Gustav IV Adolf of Sweden is deposed in the Coup of 1809."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Walter Jacob, American Reform rabbi (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Jacque Fresco, American engineer and academic (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Nicole Ohlde, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Will Clark, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "The Winter War between Finland and the Soviet Union officially ends after the signing of the Moscow Peace Treaty."
-    },
     {
       "type": "Death",
       "year": "1999",
-      "text": "Garson Kanin, American director and screenwriter (born 1912)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Dorothy Tangney, Australian politician (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Ellery Harding Clark, American jumper, coach, and lawyer (died 1949)"
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Coco Gauff, American tennis player"
+      "text": "John Broome, American author (born 1913)"
     },
     {
       "type": "Birth",
       "year": "1942",
-      "text": "Scatman John, American singer-songwriter (died 1999)"
+      "text": "Rita Tushingham, English actress"
     },
     {
       "type": "Event",
-      "year": "1825",
-      "text": "Pope Leo XII publishes the apostolic constitution Quo Graviora in which he renewed the prohibition on Catholics joining freemasonry."
+      "year": "1074",
+      "text": "Battle of Mogyoród: Dukes Géza and Ladislaus defeat their cousin Solomon, King of Hungary, forcing him to flee to Hungary's western borderland."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Tamara Tunie, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "A USAF B-52 bomber carrying nuclear weapons crashes near Yuba City, California."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust: The liquidation of the Kraków Ghetto is completed."
+    },
+    {
+      "type": "Birth",
+      "year": "1804",
+      "text": "Johann Strauss I, Austrian composer and conductor (died 1849)"
+    },
+    {
+      "type": "Birth",
+      "year": "1854",
+      "text": "Thomas R. Marshall, American lawyer and politician, 28th Vice President of the United States of America (died 1925)"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Escondida in Chile's Atacama Desert – which was to become the worlds most productive copper mine – is officially inaugurated."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Kristian Bush, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1813",
+      "text": "Joseph P. Bradley, American lawyer and jurist (died 1892)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Frank Borman, American astronaut (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Ed Heinemann, American designer of military aircraft (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolutionary War: Spanish forces capture Fort Charlotte in Mobile, Alabama, the last British frontier post capable of threatening New Orleans."
+    },
+    {
+      "type": "Birth",
+      "year": "1898",
+      "text": "Reginald Marsh, French-American painter and illustrator (died 1954)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Tad Williams, American author"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Norman Thagard becomes the first American astronaut to ride to space on board a Russian launch vehicle."
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "Cyclone Idai makes landfall near Beira, Mozambique, causing devastating floods and over 1,000 deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Larry Johnson, American basketball player and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "Utah governor Heber Manning Wells vetoes a bill that would have eased restrictions on polygamy."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Erik Gustafsson, Swedish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Naina Yeltsina, Russian wife of Boris Yeltsin, First Lady of Russia"
+    },
+    {
+      "type": "Birth",
+      "year": "1836",
+      "text": "Isabella Beeton, English author of Mrs Beeton's Book of Household Management (died 1865)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Rick Dees, American actor and radio host"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Tom Stannage, Australian historian and academic (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Billy Sherwood, American guitarist, songwriter, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "Pelican Island National Wildlife Refuge, the first national wildlife refuge in the US, is established by President Theodore Roosevelt."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Dmitri Markov, Belarusian-Australian pole vaulter"
+    },
+    {
+      "type": "Death",
+      "year": "1932",
+      "text": "Frederick Jackson Turner, American historian (born 1861)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Clyde Lee, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Megan Follows, Canadian-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "The Gold Standard Act is ratified, placing the United States currency on the gold standard."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Jonathan Kaufer, American director and screenwriter (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "The body of U.S. President John F. Kennedy is moved to a permanent burial place at Arlington National Cemetery."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Walter Parazaider, American saxophonist"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Mark Murphy, American singer-songwriter and actor (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Brandon Aubrey, American multi-sport athlete"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Mike Lazaridis, Greek–Canadian businessman and philanthropist, founded BlackBerry Limited"
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Albert Einstein, German-American physicist, academic and Nobel Prize laureate (died 1955)"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "LOT Polish Airlines Flight 007 crashes during final approach near Warsaw, Poland, killing 87 people, including a 14-man American boxing team."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Chuck Share, American basketball player (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1837",
+      "text": "Charles Ammi Cutter, American librarian (died 1903)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Bruce Reid, Australian cricketer and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Raoul Lufbery, French-American soldier and pilot (died 1918)"
     },
     {
       "type": "Birth",
       "year": "1946",
-      "text": "Yonatan Netanyahu, American-Israeli colonel (died 1976)"
+      "text": "Wes Unseld, American basketball player, coach, and manager (died 2020)"
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Diane Dillon, American illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Robert Gammage, American captain and politician (died 2012)"
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Maureen Stapleton, American actress (born 1925)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Brad Watts, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "David Draiman, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1860",
-      "text": "Hugo Wolf, Slovene-Austrian composer (died 1903)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "L. Ron Hubbard, American author, founder of Scientology (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Jack Harlow, American rapper, singer-songwriter, and actor"
+      "year": "1948",
+      "text": "Tom Coburn, American physician and politician (died 2020)"
     },
     {
       "type": "Birth",
       "year": "1976",
-      "text": "Danny Masterson, American actor and producer"
+      "text": "Brian Quinn, American improvisational comedian and actor"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Lyn St. James, American race car driver"
+      "year": "2008",
+      "text": "Abby Ryder Fortson, American actress"
     },
     {
       "type": "Event",
-      "year": "1323",
-      "text": "Siege of Warangal: Sultan Ghiyath al-Din Tughluq sends an expeditionary army led by his son, Muhammad bin Tughluq, to the Kakatiya capital Warangal – after ruler Prataparudra has refused to make tribute payments. He besieges the city and finally, after a campaign of 8 months, Prataparudra surrenders on November 9."
-    },
-    {
-      "type": "Event",
-      "year": "483",
-      "text": "Election of Pope Felix III following the death of Pope Simplicius earlier that month."
+      "year": "2006",
+      "text": "Operation Bringing Home the Goods: Israeli troops raid an American-supervised Palestinian prison in Jericho to capture six Palestinian prisoners, including PFLP chief Ahmad Sa'adat."
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "Deborah Raffin, American actress (died 2012)"
+      "year": "1981",
+      "text": "George Wilson, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "1932",
+      "text": "George Eastman, American inventor and businessman, founded Eastman Kodak (born 1854)"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "The South African government bombs the headquarters of the African National Congress in London."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Kirby Puckett, American baseball player (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Bobby Jenks, American baseball player (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Ada Louise Huxtable, American author and critic (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "Anne Miller becomes the first American patient to be treated with penicillin, under the care of Orvan Hess and John Bumstead."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Kevin Brown, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1737",
+      "text": "Ioan Nicolidi of Pindus, Aromanian physician and noble (died 1828)"
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Jack Ruby is convicted of killing Lee Harvey Oswald, the assassin who had shot and killed John F. Kennedy the previous year."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Anita Morris, American actress and singer (died 1994)"
     }
   ],
   "source": "Wikipedia"
