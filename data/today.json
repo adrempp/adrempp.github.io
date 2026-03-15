@@ -3,38 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "1951",
-      "text": "The Iranian oil industry is nationalized."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "President Lyndon B. Johnson, responding to the Selma crisis, tells the U.S. Congress \"We shall overcome\" while advocating the Voting Rights Act."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Michael Fulmer, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "At the 1961 Commonwealth Prime Ministers' Conference, South Africa announces that it will withdraw from the Commonwealth when the South African Constitution of 1961 comes into effect."
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Harold L. Ickes, American journalist and politician, United States Secretary of the Interior (died 1952)"
-    },
-    {
-      "type": "Event",
-      "year": "351",
-      "text": "Constantius Gallus is elevated as Caesar and then sent to Antioch to govern the Roman East."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Tsar Nicholas II of Russia abdicates the Russian throne, ending the 304-year Romanov dynasty."
+      "year": "1626",
+      "text": "A dam failure causes the sudden flooding of the mining city of Potosí in present-day Bolivia leading to the death of thousands and the massive release of toxic mercury into the environment."
     },
     {
       "type": "Event",
@@ -43,183 +13,23 @@
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Xavier Henry, American basketball player"
+      "year": "1993",
+      "text": "Taylor Heinicke, American football player"
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Sly Stone, American musician and record producer (died 2025)"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Dave Philley, American baseball player and manager (born 1920)"
+      "year": "1937",
+      "text": "Valentin Rasputin, Russian environmentalist and author (died 2015)"
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Judd Hirsch, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Kellan Lutz, American actor and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "E. Donnall Thomas, American physician and academic, Nobel Prize laureate (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Jimmy Swaggart, American pastor and television host (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Mike Pagliarulo, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "2019",
-      "text": "Larry DiTillio, American film and TV series writer (born 1948)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Kevin Youkilis, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1311",
-      "text": "Battle of Halmyros: The Catalan Company defeats Walter V, Count of Brienne to take control of the Duchy of Athens, a Crusader state in Greece."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The American Legion is founded."
+      "year": "1974",
+      "text": "Robert Fick, American baseball player"
     },
     {
       "type": "Event",
       "year": "-200",
       "text": "The Roman Republic under its new consuls Publius Sulpicius Galba and Gaius Aurelius Cotta declares war on Philip V of Macedon, starting the Second Macedonian War."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Rockwell, American singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Mark McGrath, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1821",
-      "text": "Johann Josef Loschmidt, Austrian physicist and chemist (died 1895)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Alan Bean, American astronaut and pilot (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Dee Snider, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1672",
-      "text": "King Charles II of England issues the Royal Declaration of Indulgence, granting limited religious freedom to all Christians."
-    },
-    {
-      "type": "Event",
-      "year": "-44",
-      "text": "The assassination of Julius Caesar, the dictator of the Roman Republic, by a group of senators takes place on the Ides of March."
-    },
-    {
-      "type": "Event",
-      "year": "1626",
-      "text": "A dam failure causes the sudden flooding of the mining city of Potosí in present-day Bolivia leading to the death of thousands and the massive release of toxic mercury into the environment."
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "In an emotional speech in Newburgh, New York, George Washington asks his officers not to support the Newburgh Conspiracy. The plea is successful, and the threatened coup d'état never takes place."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Arif Mardin, Turkish-American record producer (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "will.i.am, American rapper, producer, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1851",
-      "text": "John Sebastian Little, American lawyer and politician, Governor of Arkansas (died 1916)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Trayce Thompson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Nick Ahmed, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Ben Johnston, American composer and academic  (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Timo Kotipelto, Finnish musician and lead singer of the power metal band Stratovarius"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Fabio Lanzoni, Italian-American model and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Macdonald Carey, American actor (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Frances Conroy, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Eva Longoria, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1875",
-      "text": "Archbishop of New York John McCloskey is named the first cardinal in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Madelyn Pugh, American television writer and producer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Eliot Teltscher, American tennis player"
     },
     {
       "type": "Birth",
@@ -233,18 +43,33 @@
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "Zhores Alferov, Belarusian-Russian physicist and academic, Nobel Prize laureate (died 2019)"
+      "year": "1790",
+      "text": "Ludwig Immanuel Magnus, German mathematician and academic (died 1861)"
     },
     {
-      "type": "Event",
-      "year": "1823",
-      "text": "Sailor Benjamin Morrell erroneously reports the existence of the island of New South Greenland near Antarctica."
+      "type": "Death",
+      "year": "1942",
+      "text": "Rachel Field, American author and poet (born 1894)"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Lil Dicky, American rapper, comedian, and actor"
+      "year": "1980",
+      "text": "Freddie Bynum, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Kellan Lutz, American actor and model"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "President Lyndon B. Johnson, responding to the Selma crisis, tells the U.S. Congress \"We shall overcome\" while advocating the Voting Rights Act."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Young Buck, American rapper"
     },
     {
       "type": "Event",
@@ -253,43 +78,33 @@
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Ted Kaufman, American politician"
+      "year": "1946",
+      "text": "Bobby Bonds, American baseball player and coach (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Timo Kotipelto, Finnish musician and lead singer of the power metal band Stratovarius"
     },
     {
       "type": "Event",
-      "year": "1564",
-      "text": "Mughal Emperor Akbar abolishes the jizya tax on non-Muslim subjects."
+      "year": "-44",
+      "text": "The assassination of Julius Caesar, the dictator of the Roman Republic, by a group of senators takes place on the Ides of March."
     },
     {
       "type": "Birth",
-      "year": "1852",
-      "text": "Augusta, Lady Gregory, Anglo-Irish landowner, playwright, and translator (died 1932)"
+      "year": "1991",
+      "text": "Xavier Henry, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Eric Decker, American football player"
-    },
-    {
-      "type": "Death",
-      "year": "2001",
-      "text": "Ann Sothern, American actress and singer (born 1909)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Valentin Rasputin, Russian environmentalist and author (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Jackson Scholz, American runner (died 1986)"
+      "year": "1921",
+      "text": "Madelyn Pugh, American television writer and producer (died 2011)"
     },
     {
       "type": "Event",
-      "year": "1820",
-      "text": "Maine is admitted as the twenty-third U.S. state."
+      "year": "351",
+      "text": "Constantius Gallus is elevated as Caesar and then sent to Antioch to govern the Roman East."
     },
     {
       "type": "Birth",
@@ -298,8 +113,193 @@
     },
     {
       "type": "Event",
+      "year": "1875",
+      "text": "Archbishop of New York John McCloskey is named the first cardinal in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Jon Jay, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Tavon Austin, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Frank Coghlan, Jr., American actor and pilot (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Derek Parra, American speed skater"
+    },
+    {
+      "type": "Death",
+      "year": "1998",
+      "text": "Benjamin Spock, American pediatrician and author (born 1903)"
+    },
+    {
+      "type": "Birth",
+      "year": "1851",
+      "text": "John Sebastian Little, American lawyer and politician, Governor of Arkansas (died 1916)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Eric Decker, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "E. Donnall Thomas, American physician and academic, Nobel Prize laureate (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Ry Cooder, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "Harold L. Ickes, American journalist and politician, United States Secretary of the Interior (died 1952)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Ben Johnston, American composer and academic  (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The American Legion is founded."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "Tsar Nicholas II of Russia abdicates the Russian throne, ending the 304-year Romanov dynasty."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Macdonald Carey, American actor (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1858",
+      "text": "Liberty Hyde Bailey, American botanist and academic, co-founded the American Society for Horticultural Science (died 1954)"
+    },
+    {
+      "type": "Event",
       "year": "1918",
       "text": "Finnish Civil War: The battle of Tampere begins."
+    },
+    {
+      "type": "Event",
+      "year": "1823",
+      "text": "Sailor Benjamin Morrell erroneously reports the existence of the island of New South Greenland near Antarctica."
+    },
+    {
+      "type": "Event",
+      "year": "1672",
+      "text": "King Charles II of England issues the Royal Declaration of Indulgence, granting limited religious freedom to all Christians."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "In an emotional speech in Newburgh, New York, George Washington asks his officers not to support the Newburgh Conspiracy. The plea is successful, and the threatened coup d'état never takes place."
+    },
+    {
+      "type": "Birth",
+      "year": "1845",
+      "text": "Hallie Quinn Brown, African-American educator, writer and activist (died 1949)"
+    },
+    {
+      "type": "Death",
+      "year": "1975",
+      "text": "Aristotle Onassis, Greek-Argentinian businessman (born 1906)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Maxwell Jacob Friedman, American professional wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Kim Raver, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Lightnin' Hopkins, American blues singer-songwriter and guitarist (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Zhores Alferov, Belarusian-Russian physicist and academic, Nobel Prize laureate (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Frances Conroy, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1564",
+      "text": "Mughal Emperor Akbar abolishes the jizya tax on non-Muslim subjects."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Steve Witkoff, American real estate investor, former lawyer, and diplomat"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Lawrence Tierney, American actor (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "The Iranian oil industry is nationalized."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Craig Wasson, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "At the 1961 Commonwealth Prime Ministers' Conference, South Africa announces that it will withdraw from the Commonwealth when the South African Constitution of 1961 comes into effect."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Judd Hirsch, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Kristian Kostov, Russian-Bulgarian singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Phil Lesh, American bassist (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1820",
+      "text": "Maine is admitted as the twenty-third U.S. state."
+    },
+    {
+      "type": "Event",
+      "year": "1311",
+      "text": "Battle of Halmyros: The Catalan Company defeats Walter V, Count of Brienne to take control of the Duchy of Athens, a Crusader state in Greece."
     }
   ],
   "source": "Wikipedia"
