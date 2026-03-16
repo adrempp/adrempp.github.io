@@ -2,64 +2,44 @@
   "date": "2026-03-16",
   "items": [
     {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Flavor Flav, American rapper and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Nancy Wilson, American singer-songwriter, guitarist, producer, and actress"
-    },
-    {
       "type": "Event",
       "year": "2022",
       "text": "A 7.4-magnitude earthquake occurs off the coast of Fukushima, Japan, killing 4 people and injuring 225."
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Bob Ley, American sports anchor and reporter"
+      "year": "1991",
+      "text": "Chris Boswell, American football player"
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Ajiona Alexus, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1926",
-      "text": "History of rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts."
+      "year": "1983",
+      "text": "Tramon Williams, American football player"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Phillip Wilcher, Australian pianist and composer"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Assassination of Kamal Jumblatt, the main leader of the anti-government forces in the Lebanese Civil War."
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Alexander Esenin-Volpin, Russian-American mathematician and poet (born 1924)"
+      "year": "1961",
+      "text": "Todd McFarlane, Canadian author, illustrator, and businessman, founded McFarlane Toys"
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Julia Letlow, American politician"
+      "year": "1986",
+      "text": "Toney Douglas, American basketball player"
     },
     {
-      "type": "Event",
-      "year": "445",
-      "text": "Western Roman Emperor Valentinian III is assassinated  while practising on the Campus Martius on behalf of Petronius Maximus."
+      "type": "Birth",
+      "year": "1991",
+      "text": "Reggie Bullock, American basketball player"
     },
     {
-      "type": "Event",
-      "year": "1988",
-      "text": "Iran–Contra affair: Lieutenant Colonel Oliver North and Vice Admiral John Poindexter are indicted on charges of conspiracy to defraud the United States."
+      "type": "Birth",
+      "year": "1959",
+      "text": "Greg Dyer, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Fred Neil, American folk singer-songwriter and guitarist (died 2001)"
     },
     {
       "type": "Death",
@@ -68,28 +48,43 @@
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Curtis Granderson, American baseball player"
+      "year": "2000",
+      "text": "Jalen Smith, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1244",
-      "text": "Over 200 Cathars who refuse to recant are burnt to death after the Fall of Montségur."
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "The 7th and 10th US cavalry regiments under John J. Pershing cross the US–Mexico border to join the hunt for Pancho Villa."
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people."
+      "year": "2003",
+      "text": "American activist Rachel Corrie is killed in Rafah by being run over by an Israel Defense Forces bulldozer while trying to obstruct the demolition of a home."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Tramon Williams, American football player"
+      "year": "1964",
+      "text": "Gore Verbinski, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Death",
+      "year": "1958",
+      "text": "Leon Cadore, American baseball player (born 1891)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Todd Heap, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Patty Griffin, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "John Hemming, English businessman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Curtis Granderson, American baseball player"
     },
     {
       "type": "Birth",
@@ -102,119 +97,19 @@
       "text": "The first siege of Jerusalem by the Neo-Babylonian Empire ends with the city surrendering to king Nebuchadnezzar II."
     },
     {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Tim Hardaway Jr., American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Clifton Powell, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Brandon League, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Jiří Tlustý, Czech ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Charles Hudson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "T. J. Jordan, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "John Hemming, English businessman and politician"
-    },
-    {
       "type": "Event",
-      "year": "2003",
-      "text": "American activist Rachel Corrie is killed in Rafah by being run over by an Israel Defense Forces bulldozer while trying to obstruct the demolition of a home."
+      "year": "1985",
+      "text": "Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991."
     },
     {
-      "type": "Event",
-      "year": "2016",
-      "text": "A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 30."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Vonda Ward, American boxer"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Vietnam War: My Lai massacre occurs; between 347 and 500 Vietnamese villagers are killed by American troops."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Finnish Civil War: Battle of Länkipohja is infamous for its bloody aftermath as the Whites execute 70–100 capitulated Reds."
+      "type": "Death",
+      "year": "2018",
+      "text": "Louise Slaughter, Member of the U.S. House of Representatives from New York (born 1929)"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Jerry Jeff Walker, American singer-songwriter and guitarist (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Ronnie McCoury, American bluegrass mandolin player, singer and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "Israel officially hands over Jericho to Palestinian control."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Ray Benson, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Tyler Arnason, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Todd McFarlane, Canadian author, illustrator, and businessman, founded McFarlane Toys"
-    },
-    {
-      "type": "Event",
-      "year": "1815",
-      "text": "Prince Willem proclaims himself King of the United Kingdom of the Netherlands, the first constitutional monarch in the Netherlands."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Amos Tversky, Israeli-American psychologist and academic (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Kenny Dykstra, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Patty Griffin, American singer-songwriter"
+      "year": "1955",
+      "text": "Svetlana Alexeeva, Russian ice dancer and coach"
     },
     {
       "type": "Event",
@@ -222,19 +117,14 @@
       "text": "The Army Corps of Engineers is established to found and operate the United States Military Academy at West Point."
     },
     {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Florian Neuhaus, German footballer"
+      "type": "Event",
+      "year": "2005",
+      "text": "Israel officially hands over Jericho to Palestinian control."
     },
     {
       "type": "Event",
-      "year": "1985",
-      "text": "Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Crimea votes in a controversial referendum to secede from Ukraine to join Russia."
+      "year": "2016",
+      "text": "A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 30."
     },
     {
       "type": "Event",
@@ -243,13 +133,103 @@
     },
     {
       "type": "Event",
+      "year": "1988",
+      "text": "Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people."
+    },
+    {
+      "type": "Event",
+      "year": "1926",
+      "text": "History of rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Finnish Civil War: Battle of Länkipohja is infamous for its bloody aftermath as the Whites execute 70–100 capitulated Reds."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Tracy Bonham, American singer and violinist"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Joe DeLamielleure, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Blake Griffin, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Tyrel Jackson Williams, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Sierra McClain, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865."
+    },
+    {
+      "type": "Event",
       "year": "1898",
       "text": "In Melbourne, the representatives of five colonies adopt a constitution, which would become the basis of the Commonwealth of Australia.[page needed]"
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Rashad Moore, American football player"
+      "year": "1958",
+      "text": "Phillip Wilcher, Australian pianist and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Wolfgang Van Halen, American bassist"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Andrew S. Tanenbaum, American computer scientist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "The 7th and 10th US cavalry regiments under John J. Pershing cross the US–Mexico border to join the hunt for Pancho Villa."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Assassination of Kamal Jumblatt, the main leader of the anti-government forces in the Lebanese Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Vonda Ward, American boxer"
+    },
+    {
+      "type": "Event",
+      "year": "1244",
+      "text": "Over 200 Cathars who refuse to recant are burnt to death after the Fall of Montségur."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Vagif Mustafazadeh, Azerbaijani pianist and composer (died 1979)"
+    },
+    {
+      "type": "Event",
+      "year": "1815",
+      "text": "Prince Willem proclaims himself King of the United Kingdom of the Netherlands, the first constitutional monarch in the Netherlands."
+    },
+    {
+      "type": "Event",
+      "year": "1792",
+      "text": "King Gustav III of Sweden is shot; he dies on March 29."
     },
     {
       "type": "Event",
@@ -258,18 +238,13 @@
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Rimantas Astrauskas, Lithuanian physicist"
+      "year": "1942",
+      "text": "Jerry Jeff Walker, American singer-songwriter and guitarist (died 2020)"
     },
     {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Alina Ivanova, Russian athlete"
-    },
-    {
-      "type": "Death",
+      "type": "Event",
       "year": "1988",
-      "text": "Jigger Statz, American baseball player (born 1897)"
+      "text": "Iran–Contra affair: Lieutenant Colonel Oliver North and Vice Admiral John Poindexter are indicted on charges of conspiracy to defraud the United States."
     },
     {
       "type": "Event",
@@ -278,28 +253,53 @@
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Steve Marker, American musician"
+      "year": "1971",
+      "text": "Alan Tudyk, American actor"
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Douglas Ahlstedt, American tenor (died 2023)"
+      "year": "1996",
+      "text": "Ajiona Alexus, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Michael J. Bloomfield, American astronaut"
     },
     {
       "type": "Event",
-      "year": "1792",
-      "text": "King Gustav III of Sweden is shot; he dies on March 29."
+      "year": "445",
+      "text": "Western Roman Emperor Valentinian III is assassinated  while practising on the Campus Martius on behalf of Petronius Maximus."
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Agustín Marchesín, Argentinian footballer"
+      "year": "1959",
+      "text": "Scott L. Schwartz, American actor stuntman and wrestler (died 2024)"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "J. Z. Knight, American New Age teacher and author"
+      "year": "1967",
+      "text": "John Darnielle, American musician and novelist"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Crimea votes in a controversial referendum to secede from Ukraine to join Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Brett Davern, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Amos Tversky, Israeli-American psychologist and academic (died 1996)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Vietnam War: My Lai massacre occurs; between 347 and 500 Vietnamese villagers are killed by American troops."
     }
   ],
   "source": "Wikipedia"
