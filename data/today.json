@@ -2,74 +2,9 @@
   "date": "2026-03-17",
   "items": [
     {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Carsten Almqvist, Swedish business executive"
-    },
-    {
       "type": "Event",
-      "year": "1776",
-      "text": "American Revolution: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Marcel Sabitzer, Austrian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "John Wayne Gacy, American serial killer and rapist (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland."
-    },
-    {
-      "type": "Death",
-      "year": "1995",
-      "text": "Sunnyland Slim, American blues pianist (born 1906)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Michael Kelly, American journalist and author (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Rob Lowe, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Rob Kardashian, American television personality"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Dick Curless, American country music singer (died 1995)"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Northwest Orient Airlines Flight 710 crashes in Tobin Township, Perry County, Indiana, killing 63."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Aaron Baddeley, American-Australian golfer"
-    },
-    {
-      "type": "Event",
-      "year": "180",
-      "text": "Commodus becomes sole emperor of the Roman Empire at the age of eighteen, following the death of his father, Marcus Aurelius."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "The first railway line of Finland between cities of Helsinki and Hämeenlinna, called Päärata, is officially opened."
+      "year": "2016",
+      "text": "Rojava conflict: At a conference in Rmelan, the Movement for a Democratic Society declares the establishment of the Democratic Federation of Northern Syria."
     },
     {
       "type": "Birth",
@@ -78,58 +13,8 @@
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Gene Ween, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Samoa Joe, American professional wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Adam Wade, American singer, drummer, and actor (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Rhys Hoskins, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Lloyd Rees, Australian painter (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1862",
-      "text": "Martha P. Falconer, American social reformer (died 1941)"
-    },
-    {
-      "type": "Event",
-      "year": "1400",
-      "text": "Turko-Mongol emperor Timur sacks Damascus."
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The Second Polish Republic adopts the March Constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "DeForest Buckner, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Janet Gardner, American singer and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Paul Kantner, American singer-songwriter and guitarist (died 2016)"
+      "year": "1910",
+      "text": "Sonny Werblin, American businessman and philanthropist (died 1991)"
     },
     {
       "type": "Event",
@@ -137,104 +22,9 @@
       "text": "Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO."
     },
     {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Ralph Rose, American track and field athlete (died 1913)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Jeremy Pargo, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "William Gibson, American-Canadian author and screenwriter"
-    },
-    {
       "type": "Death",
-      "year": "1992",
-      "text": "Grace Stafford, American actress (born 1903)"
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "Alcide Nunez, American clarinet player (died 1934)"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "U.S. President Dwight D. Eisenhower signs the National Security Council directive on the anti-Cuban covert action program that will ultimately lead to the Bay of Pigs Invasion."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Scott Gorham, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "Off the coast of Spain in the Mediterranean, the DSV Alvin submarine finds a missing American hydrogen bomb."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Emmanuel Sanders, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Hozier, Irish musician"
-    },
-    {
-      "type": "Event",
-      "year": "-45",
-      "text": "In his last victory, Julius Caesar defeats the Pompeian forces of Titus Labienus and Pompey the Younger in the Battle of Munda."
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "The United States launches the first solar-powered satellite, which is also the first satellite to achieve a long-term orbit."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "As a result of nerve gas testing by the U.S. Army Chemical Corps in Skull Valley, Utah, over 6,000 sheep are found dead."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Terry Rozier, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Alfred Newman, American composer and conductor (died 1970)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The Pulitzer Prize–winning photograph Burst of Joy is taken, depicting a former prisoner of war being reunited with his family, which came to symbolize the end of United States involvement in the Vietnam War."
-    },
-    {
-      "type": "Event",
-      "year": "455",
-      "text": "Petronius Maximus becomes, with support of the Roman Senate, emperor of the Western Roman Empire; he forces Licinia Eudoxia, the widow of his predecessor, Valentinian III, to marry him."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Betty Allen, American soprano and educator (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1891",
-      "text": "Ross McLarty, Australian politician, 17th Premier of Western Australia (died 1962)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Kyle Korver, American basketball player"
+      "year": "2014",
+      "text": "Rachel Lambert Mellon, American gardener, philanthropist, art collector and political patron (born 1910)"
     },
     {
       "type": "Birth",
@@ -243,23 +33,63 @@
     },
     {
       "type": "Birth",
-      "year": "1894",
-      "text": "Paul Green, American playwright and academic (died 1981)"
+      "year": "1991",
+      "text": "Cordarrelle Patterson, American football player"
     },
     {
       "type": "Event",
-      "year": "1950",
-      "text": "Researchers at the University of California, Berkeley announce the creation of element 98, which they name \"californium\"."
+      "year": "1400",
+      "text": "Turko-Mongol emperor Timur sacks Damascus."
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Sonny Werblin, American businessman and philanthropist (died 1991)"
+      "year": "1993",
+      "text": "Rhys Hoskins, American baseball player"
     },
     {
-      "type": "Death",
-      "year": "1956",
-      "text": "Fred Allen, American actor, comedian, screenwriter, and author (born 1894)"
+      "type": "Birth",
+      "year": "1862",
+      "text": "Martha P. Falconer, American social reformer (died 1941)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Ryan Rottman, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Patricia Breslin, American actress (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Off the coast of Spain in the Mediterranean, the DSV Alvin submarine finds a missing American hydrogen bomb."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "U.S. President Dwight D. Eisenhower signs the National Security Council directive on the anti-Cuban covert action program that will ultimately lead to the Bay of Pigs Invasion."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "James Irwin, American colonel, pilot, and astronaut (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Sam Bowie, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1846",
+      "text": "Kate Greenaway, English author and illustrator (died 1901)"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The Second Polish Republic adopts the March Constitution."
     },
     {
       "type": "Birth",
@@ -268,23 +98,13 @@
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Barry Minkow, American pastor and businessman"
+      "year": "1884",
+      "text": "Alcide Nunez, American clarinet player (died 1934)"
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Paul Black, American singer-songwriter and drummer"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Rojava conflict: At a conference in Rmelan, the Movement for a Democratic Society declares the establishment of the Democratic Federation of Northern Syria."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Ryan Rottman, American actor, producer, and screenwriter"
+      "year": "1935",
+      "text": "Fred T. Mackenzie,  American biologist and academic (died 2024)"
     },
     {
       "type": "Event",
@@ -293,13 +113,193 @@
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "David Peakall, English-American chemist and toxicologist (died 2001)"
+      "year": "1866",
+      "text": "Pierce Butler, American lawyer and jurist (died 1939)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland."
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Bayard Rustin, American activist (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Patrick Suppes, American psychologist and philosopher (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Patrick Cantlay, American golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "William Gibson, American-Canadian author and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Northwest Orient Airlines Flight 710 crashes in Tobin Township, Perry County, Indiana, killing 63."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Hozier, Irish musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Aaron Baddeley, American-Australian golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Galina Samsova, Russian ballerina (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Danny Ainge, American baseball and basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "180",
+      "text": "Commodus becomes sole emperor of the Roman Empire at the age of eighteen, following the death of his father, Marcus Aurelius."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Zola Taylor, American singer (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Researchers at the University of California, Berkeley announce the creation of element 98, which they name \"californium\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Barry Minkow, American pastor and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Michael Kelly, American journalist and author (died 2003)"
+    },
+    {
+      "type": "Death",
+      "year": "1902",
+      "text": "John Houlding, English businessman, founded Liverpool Football Club (born 1833)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Adam Wade, American singer, drummer, and actor (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1806",
+      "text": "Norbert Rillieux, African American inventor and chemical engineer (died 1894)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Dick Curless, American country music singer (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "-45",
+      "text": "In his last victory, Julius Caesar defeats the Pompeian forces of Titus Labienus and Pompey the Younger in the Battle of Munda."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Vance Wilson, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "As a result of nerve gas testing by the U.S. Army Chemical Corps in Skull Valley, Utah, over 6,000 sheep are found dead."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The Pulitzer Prize–winning photograph Burst of Joy is taken, depicting a former prisoner of war being reunited with his family, which came to symbolize the end of United States involvement in the Vietnam War."
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Ralph Rose, American track and field athlete (died 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Katie Ledecky, American swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolution: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city."
+    },
+    {
+      "type": "Birth",
+      "year": "1889",
+      "text": "Harry Clarke, Irish stained-glass artist and book illustrator (died 1931)"
+    },
+    {
+      "type": "Event",
+      "year": "455",
+      "text": "Petronius Maximus becomes, with support of the Roman Senate, emperor of the Western Roman Empire; he forces Licinia Eudoxia, the widow of his predecessor, Valentinian III, to marry him."
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Chaim Gross, Austrian-American sculptor and educator (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Rob Sitch, Australian actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "The first railway line of Finland between cities of Helsinki and Hämeenlinna, called Päärata, is officially opened."
+    },
+    {
+      "type": "Death",
+      "year": "180",
+      "text": "Marcus Aurelius, Roman emperor (born 121)"
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The United States launches the first solar-powered satellite, which is also the first satellite to achieve a long-term orbit."
     },
     {
       "type": "Birth",
       "year": "1969",
       "text": "Alexander McQueen, English fashion designer, founded eponymous brand (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1877",
+      "text": "Otto Gross, Austrian-German psychoanalyst and philosopher (died 1920)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Marcel Sabitzer, Austrian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Scott Downs, American baseball player"
     }
   ],
   "source": "Wikipedia"
