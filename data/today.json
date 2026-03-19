@@ -3,113 +3,13 @@
   "items": [
     {
       "type": "Death",
-      "year": "235",
-      "text": "Severus Alexander, Roman emperor (born 208)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Casey Jacobsen, American basketball player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Falklands War: Argentinian forces land on South Georgia Island, precipitating war with the United Kingdom."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Off the coast of Japan, a dive bomber hits the aircraft carrier USS Franklin, killing 724 of her crew. Badly damaged, the ship is able to return to the US under her own power."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "United States President George W. Bush addresses the nation, announcing the invasion of Iraq."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Irving Wallace, American journalist, author, and screenwriter (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Dudley Bradley, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Joseph Carroll, American general (died 1991)"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The US Congress establishes time zones and approves daylight saving time."
+      "year": "1816",
+      "text": "Filippo Mazzei, Italian-American physician and philosopher (born 1730)"
     },
     {
       "type": "Death",
-      "year": "1944",
-      "text": "William Hale Thompson, American rancher and politician, 41st Mayor of Chicago (born 1869)"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The wreck of the SS Georgiana, valued at over $50,000,000 and said to have been the most powerful Confederate cruiser, is discovered by teenage diver and pioneer underwater archaeologist E. Lee Spence, exactly 102 years after its destruction."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Vern Schuppan, Australian race car driver"
-    },
-    {
-      "type": "Death",
-      "year": "1900",
-      "text": "John Bingham, American lawyer and politician, 7th United States Ambassador to Japan (born 1815)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Derek Chauvin, American criminal and former police officer"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Patrick McGoohan, Irish-American actor, director, producer, and screenwriter (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "The Cortes of Cádiz promulgates the Spanish Constitution of 1812."
-    },
-    {
-      "type": "Event",
-      "year": "1687",
-      "text": "Explorer Robert Cavelier de La Salle, searching for the mouth of the Mississippi River, is murdered by his own men."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Jonathan Fanene, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1824",
-      "text": "American explorer Benjamin Morrell departs Antarctica after a voyage later plagued by claims of fraud."
-    },
-    {
-      "type": "Event",
-      "year": "1277",
-      "text": "The Byzantine–Venetian treaty of 1277 is concluded, stipulating a two-year truce and renewing Venetian commercial privileges in the Byzantine Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1831",
-      "text": "First documented bank heist in U.S. history, when burglars steal $245,000 (1831 values) from the City Bank (now Citibank) on Wall Street. Most of the money was recovered."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The United States Senate rejects the Treaty of Versailles for the second time (the first time was on November 19, 1919)."
+      "year": "1977",
+      "text": "William L. Laurence, Lithuanian-born American journalist and author (born 1888)"
     },
     {
       "type": "Event",
@@ -118,83 +18,48 @@
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Quenton Nelson, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1649",
-      "text": "The House of Commons of England passes an act abolishing the House of Lords, declaring it \"useless and dangerous to the people of England\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Andre Miller, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1829",
-      "text": "Carl Frederik Tietgen, Danish businessman (died 1901)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Phyllis Newman, American actress and singer (died 2019)"
-    },
-    {
-      "type": "Birth",
       "year": "1937",
       "text": "Clarence \"Frogman\" Henry, American singer-songwriter and pianist (died 2024)"
     },
     {
-      "type": "Event",
-      "year": "1990",
-      "text": "The ethnic clashes of Târgu Mureș begin four days after the anniversary of the Revolutions of 1848 in the Austrian Empire."
-    },
-    {
       "type": "Birth",
-      "year": "1912",
-      "text": "Hugh Watt, Australian-New Zealand engineer and politician, Prime Minister of New Zealand (died 1980)"
+      "year": "1905",
+      "text": "Joe Rollino, American weightlifter and boxer (died 2010)"
     },
     {
-      "type": "Event",
-      "year": "1931",
-      "text": "Governor Fred B. Balzar signs a bill legalizing gambling in Nevada."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Brad Jones, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Scott May, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Sheldon Brown, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Ahmad Bradshaw, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Nico Collins, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Theodore Sizer, American professor of the history of art (died 1967)"
+      "type": "Death",
+      "year": "1900",
+      "text": "John Bingham, American lawyer and politician, 7th United States Ambassador to Japan (born 1815)"
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "The United States House of Representatives begins broadcasting its day-to-day business via the cable television network C-SPAN."
+      "year": "1227",
+      "text": "Election of Ugolino di Conti as Pope Gregory IX following the death of Pope Honorius III."
+    },
+    {
+      "type": "Event",
+      "year": "1831",
+      "text": "First documented bank heist in U.S. history, when burglars steal $245,000 (1831 values) from the City Bank (now Citibank) on Wall Street. Most of the money was recovered."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Derek Chauvin, American criminal and former police officer"
+    },
+    {
+      "type": "Birth",
+      "year": "1880",
+      "text": "Ernestine Rose, American librarian and advocate (died 1961)"
+    },
+    {
+      "type": "Birth",
+      "year": "1847",
+      "text": "Albert Pinkham Ryder, American painter (died 1917)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Louis Hayward, South African-American actor (died 1985)"
     },
     {
       "type": "Birth",
@@ -203,13 +68,28 @@
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Martin Ravallion, Australian economist and academic (died 2022)"
+      "year": "1943",
+      "text": "Nate Bowman, American basketball player (died 1984)"
     },
     {
       "type": "Birth",
-      "year": "1748",
-      "text": "Elias Hicks, American farmer, minister, and theologian (died 1830)"
+      "year": "1976",
+      "text": "Andre Miller, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1824",
+      "text": "American explorer Benjamin Morrell departs Antarctica after a voyage later plagued by claims of fraud."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Lennie Tristano, American pianist, composer, and educator (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "United States President George W. Bush addresses the nation, announcing the invasion of Iraq."
     },
     {
       "type": "Birth",
@@ -217,39 +97,14 @@
       "text": "Wyatt Earp, American police officer (died 1929)"
     },
     {
-      "type": "Event",
-      "year": "2011",
-      "text": "Libyan Civil War: After the failure of Muammar Gaddafi's forces to take Benghazi, the French Air Force launches Opération Harmattan, beginning foreign military intervention in Libya."
-    },
-    {
       "type": "Birth",
-      "year": "1922",
-      "text": "Guy Lewis, American basketball player and coach (died 2015)"
+      "year": "1978",
+      "text": "Virginia Williams, American actress"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "World War II: Adolf Hitler issues his \"Nero Decree\" ordering all industries, military installations, shops, transportation facilities, and communications facilities in Germany to be destroyed."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Said Musa, Belizean lawyer and politician, 5th Prime Minister of Belize"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Modestas Paulauskas, Lithuanian basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1809",
-      "text": "Fredrik Pacius, German composer and conductor (died 1891)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Jo Mielziner, French-American set designer (died 1976)"
+      "year": "1812",
+      "text": "The Cortes of Cádiz promulgates the Spanish Constitution of 1812."
     },
     {
       "type": "Birth",
@@ -257,14 +112,79 @@
       "text": "Pamela Britton, American actress (died 1974)"
     },
     {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Joseph Stilwell, American general (died 1946)"
+      "type": "Event",
+      "year": "1920",
+      "text": "The United States Senate rejects the Treaty of Versailles for the second time (the first time was on November 19, 1919)."
     },
     {
       "type": "Event",
-      "year": "1227",
-      "text": "Election of Ugolino di Conti as Pope Gregory IX following the death of Pope Honorius III."
+      "year": "1965",
+      "text": "The wreck of the SS Georgiana, valued at over $50,000,000 and said to have been the most powerful Confederate cruiser, is discovered by teenage diver and pioneer underwater archaeologist E. Lee Spence, exactly 102 years after its destruction."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Philip Daniel Bolden, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Connor Trinneer, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1277",
+      "text": "The Byzantine–Venetian treaty of 1277 is concluded, stipulating a two-year truce and renewing Venetian commercial privileges in the Byzantine Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "Governor Fred B. Balzar signs a bill legalizing gambling in Nevada."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Adolf Eichmann, German SS officer, one of the main organizers of the Holocaust (died 1962)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Off the coast of Japan, a dive bomber hits the aircraft carrier USS Franklin, killing 724 of her crew. Badly damaged, the ship is able to return to the US under her own power."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Clayton Kershaw, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1865",
+      "text": "William Morton Wheeler, American entomologist, myrmecologist, and academic (died 1937)"
+    },
+    {
+      "type": "Event",
+      "year": "1649",
+      "text": "The House of Commons of England passes an act abolishing the House of Lords, declaring it \"useless and dangerous to the people of England\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Gay Brewer, American golfer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Theodore Sizer, American professor of the history of art (died 1967)"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "March 19 Shooting Incident: The Republic of China (Taiwan) president Chen Shui-bian is shot just before the country's presidential election on March 20."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Ruth Pointer, American musician"
     },
     {
       "type": "Birth",
@@ -273,8 +193,63 @@
     },
     {
       "type": "Event",
-      "year": "2004",
-      "text": "March 19 Shooting Incident: The Republic of China (Taiwan) president Chen Shui-bian is shot just before the country's presidential election on March 20."
+      "year": "1687",
+      "text": "Explorer Robert Cavelier de La Salle, searching for the mouth of the Mississippi River, is murdered by his own men."
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "The United States House of Representatives begins broadcasting its day-to-day business via the cable television network C-SPAN."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Patricia Morison, American actress and singer (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Nico Collins, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Clara Breed, American librarian and activist (died 1994)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Adolf Hitler issues his \"Nero Decree\" ordering all industries, military installations, shops, transportation facilities, and communications facilities in Germany to be destroyed."
+    },
+    {
+      "type": "Birth",
+      "year": "1864",
+      "text": "Charles Marion Russell, American painter and sculptor (died 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Tyrone Hill, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1748",
+      "text": "Elias Hicks, American farmer, minister, and theologian (died 1830)"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Falklands War: Argentinian forces land on South Georgia Island, precipitating war with the United Kingdom."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Robert G. Cole, American colonel, Medal of Honor recipient (died 1944)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The US Congress establishes time zones and approves daylight saving time."
     },
     {
       "type": "Event",
@@ -283,23 +258,48 @@
     },
     {
       "type": "Birth",
-      "year": "1998",
-      "text": "Julian Love, American football player"
+      "year": "1933",
+      "text": "Renée Taylor, American actress, producer, and screenwriter"
     },
     {
       "type": "Birth",
-      "year": "1881",
-      "text": "Edith Nourse Rogers, American social worker and politician (died 1960)"
+      "year": "1982",
+      "text": "Eduardo Saverin, Brazilian-Singaporean businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "The ethnic clashes of Târgu Mureș begin four days after the anniversary of the Revolutions of 1848 in the Austrian Empire."
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Theo Von, American stand-up comedian"
+      "year": "1893",
+      "text": "Gertrud Dorka, German archaeologist, prehistorian and museum director (died 1976)"
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Bruce Willis, German-American actor and producer"
+      "year": "1982",
+      "text": "Landon Powell, American baseball player and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Joseph Carroll, American general (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Barbara Haas, Austrian tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "Libyan Civil War: After the failure of Muammar Gaddafi's forces to take Benghazi, the French Air Force launches Opération Harmattan, beginning foreign military intervention in Libya."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Vern Schuppan, Australian race car driver"
     }
   ],
   "source": "Wikipedia"
