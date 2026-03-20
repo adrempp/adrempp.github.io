@@ -2,269 +2,19 @@
   "date": "2026-03-20",
   "items": [
     {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Sister Rosetta Tharpe, American singer-songwriter and guitarist (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Henry Bartholomay, American soldier and pilot (died 2015)"
-    },
-    {
-      "type": "Death",
-      "year": "2023",
-      "text": "Kyle White, Australian rugby league player (born 1970)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Tomasz Kuszczak, Polish footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "James P. Gordon, American physicist and engineer (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Jack Barry, American game show host and producer, co-founded Barry & Enright Productions (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Eritrean War of Independence: Having defeated the Nadew Command, the Eritrean People's Liberation Front enters the town of Afabet, victoriously concluding the Battle of Afabet."
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Börries von Münchhausen, German poet and activist (died 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Paul Junger Witt, American director and producer (died 2018)"
-    },
-    {
-      "type": "Death",
-      "year": "1945",
-      "text": "Dorothy Campbell, Scottish-American golfer (born 1883)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "John Ehrlichman, American lawyer, 12th White House Counsel (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "1883",
-      "text": "The Paris Convention for the Protection of Industrial Property is signed."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Fred Rogers, American television host and producer (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Jerry Reed, American singer-songwriter, guitarist, and actor (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Jon Brockman, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Touré, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Robin Luke, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Trevor Zegras, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "A United Arab airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan international Airport, killing 100 people."
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Cooper Hoffman, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Jamil Abdullah Al-Amin, a former Black Panther once known as H. Rap Brown, is captured after murdering Georgia sheriff's deputy Ricky Kinchen and critically wounding Deputy Aldranon English."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Pamela Harriman, English-American diplomat, 58th United States Ambassador to France (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Amanda Clement, American baseball player, umpire, and educator (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Mike Francesa, American radio talk show host and television commentator"
-    },
-    {
-      "type": "Event",
-      "year": "1854",
-      "text": "The Republican Party of the United States is organized in Ripon, Wisconsin, US."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "David Foster, Australian woodchopper"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Mary Roach, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Gerald Curran, American lawyer and politician (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Four suspected Taliban members attack the Kabul Serena Hotel, killing at least nine people."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Usmar Ismail, Indonesian filmmaker (died 1971)"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Iraq War: The United States, the United Kingdom, Australia, and Poland begin an invasion of Iraq."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "John Boswell, American historian, philologist, and academic (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Spike Lee, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Lois Lowry, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Chester Bennington, American singer-songwriter, producer, and actor (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Michelle Snow, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Legoland California, the first Legoland outside of Europe, opens in Carlsbad, California, US."
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "Syrian civil war: The Siege of Kobanî is broken by the People's Protection Units (YPG) and Free Syrian Army (FSA), marking a turning point in the Rojava–Islamist conflict."
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Frank Sheed, Australian-British Catholic writer and apologist (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Edoardo Ballerini, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Larry Elgart, American saxophonist and bandleader (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "IJustine, American YouTuber"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Lauritz Melchior, Danish-American tenor and actor (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Ozzie Nelson, American actor and bandleader (died 1975)"
-    },
-    {
       "type": "Event",
       "year": "1948",
       "text": "With a Musicians Union ban lifted, the first telecasts of classical music in the United States, under Eugene Ormandy and Arturo Toscanini, are given on CBS and NBC."
     },
     {
-      "type": "Event",
-      "year": "1922",
-      "text": "The USS Langley is commissioned as the first United States Navy aircraft carrier."
+      "type": "Birth",
+      "year": "1912",
+      "text": "Ralph Hauenstein, American businessman and philanthropist (died 2016)"
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Bettye Washington Greene, American chemist (died 1995)"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Gene Eugene, Canadian-American singer-songwriter and producer (born 1961)"
-    },
-    {
-      "type": "Event",
-      "year": "1888",
-      "text": "The premiere of the very first Romani language operetta is staged in Moscow, Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "The Arts Club of Chicago hosts the opening of Pablo Picasso's first United States showing, entitled Original Drawings by Pablo Picasso, becoming an early proponent of modern art in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Gerard Malanga, American poet and photographer"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Douglas Tompkins, American businessman, co-founded The North Face and Esprit Holdings (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Wendell Corey, American actor and politician (died 1968)"
+      "year": "1957",
+      "text": "Chris Wedge, American animator, producer, screenwriter, and voice actor"
     },
     {
       "type": "Event",
@@ -273,18 +23,198 @@
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Paul Annacone, American tennis player and coach"
-    },
-    {
-      "type": "Birth",
       "year": "1922",
       "text": "Ray Goulding, American actor and screenwriter (died 1990)"
     },
     {
+      "type": "Birth",
+      "year": "1957",
+      "text": "David Foster, Australian woodchopper"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "John Boswell, American historian, philologist, and academic (died 1994)"
+    },
+    {
       "type": "Event",
-      "year": "1952",
-      "text": "The US Senate ratifies the Security Treaty Between the United States and Japan."
+      "year": "2015",
+      "text": "Syrian civil war: The Siege of Kobanî is broken by the People's Protection Units (YPG) and Free Syrian Army (FSA), marking a turning point in the Rojava–Islamist conflict."
+    },
+    {
+      "type": "Event",
+      "year": "1888",
+      "text": "The premiere of the very first Romani language operetta is staged in Moscow, Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Justin Faulk, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "Eritrean War of Independence: Having defeated the Nadew Command, the Eritrean People's Liberation Front enters the town of Afabet, victoriously concluding the Battle of Afabet."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Yuri Shargin, Russian colonel, engineer, and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Ted Bessell, American actor and director (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Stephen Sommers, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Pat Riley, American basketball player, coach and executive"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Talal Khalifa Aljeri, Kuwaiti businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Chester Bennington, American singer-songwriter, producer, and actor (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Paul Mirabella, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Spike Lee, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ultra Naté, American singer, songwriter, record producer, DJ, and promoter"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Iraq War: The United States, the United Kingdom, Australia, and Poland begin an invasion of Iraq."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Mary Roach, American author"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ken Ono, Japanese-American mathematician"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Jack Barry, American game show host and producer, co-founded Barry & Enright Productions (died 1984)"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Jamil Abdullah Al-Amin, a former Black Panther once known as H. Rap Brown, is captured after murdering Georgia sheriff's deputy Ricky Kinchen and critically wounding Deputy Aldranon English."
+    },
+    {
+      "type": "Event",
+      "year": "1854",
+      "text": "The Republican Party of the United States is organized in Ripon, Wisconsin, US."
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Tonie Nathan, American politician (born 1923)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Blake Ferguson, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1876",
+      "text": "Payne Whitney, American businessman and philanthropist (died 1927)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Ozzie Nelson, American actor and bandleader (died 1975)"
+    },
+    {
+      "type": "Death",
+      "year": "2001",
+      "text": "Luis Alvarado, Puerto Rican-American baseball player (born 1949)"
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "Philipp Frank, Austrian-American physicist, mathematician, and philosopher (died 1966)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Brent Sherwin, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Edoardo Ballerini, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "David Malouf, Australian author and playwright"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The USS Langley is commissioned as the first United States Navy aircraft carrier."
+    },
+    {
+      "type": "Death",
+      "year": "2023",
+      "text": "Kyle White, Australian rugby league player (born 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "A United Arab airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan international Airport, killing 100 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Sergei Novikov, Russian mathematician and academic, winner of the Fields Medal (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Legoland California, the first Legoland outside of Europe, opens in Carlsbad, California, US."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Ian Moss, Australian guitarist and singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "The Arts Club of Chicago hosts the opening of Pablo Picasso's first United States showing, entitled Original Drawings by Pablo Picasso, becoming an early proponent of modern art in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Larry Elgart, American saxophonist and bandleader (died 2017)"
     },
     {
       "type": "Birth",
@@ -293,13 +223,83 @@
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "A. J. Jacobs, American journalist and author"
+      "year": "1940",
+      "text": "Mary Ellen Mark, American photographer and journalist (died 2015)"
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Peter Truscott, Baron Truscott, British Labour Party politician and peer"
+      "year": "1963",
+      "text": "Paul Annacone, American tennis player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "The US Senate ratifies the Security Treaty Between the United States and Japan."
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Trevor Zegras, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Pamela Harriman, English-American diplomat, 58th United States Ambassador to France (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Four suspected Taliban members attack the Kabul Serena Hotel, killing at least nine people."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Michelle Snow, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Amalie Sara Colquhoun, Australian landscape and portrait painter (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Douglas Tompkins, American businessman, co-founded The North Face and Esprit Holdings (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Sister Rosetta Tharpe, American singer-songwriter and guitarist (died 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Jon Brockman, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Nina Kiriki Hoffman, American author"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Pat Corrales, American baseball player and manager (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "George Altman, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1883",
+      "text": "The Paris Convention for the Protection of Industrial Property is signed."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Anne Donahue, American lawyer and politician"
     }
   ],
   "source": "Wikipedia"
