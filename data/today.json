@@ -3,13 +3,23 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Mims, American rapper"
+      "year": "1892",
+      "text": "Charlie Poole, American country banjo player (died 1931)"
     },
     {
-      "type": "Event",
-      "year": "2017",
-      "text": "Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa."
+      "type": "Birth",
+      "year": "1723",
+      "text": "Charles Carroll, American lawyer and politician (died 1783)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Harry Vanda, Dutch-Australian singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1873",
+      "text": "Ernest Lawson, Canadian-American painter (died 1939)"
     },
     {
       "type": "Event",
@@ -17,9 +27,14 @@
       "text": "Ten people are killed in a mass shooting in Boulder, Colorado."
     },
     {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Russell Maryland, American football player"
+    },
+    {
       "type": "Event",
-      "year": "1934",
-      "text": "The first Masters Tournament is held at Augusta National Golf Club in Georgia."
+      "year": "1794",
+      "text": "The Slave Trade Act of 1794 bans the export of slaves from the United States, and prohibits American citizens from outfitting a ship for the purpose of importing slaves."
     },
     {
       "type": "Event",
@@ -27,14 +42,124 @@
       "text": "Two buses crash in Kitampo, a town north of Ghana's capital Accra, killing at least 50 people."
     },
     {
+      "type": "Event",
+      "year": "1920",
+      "text": "Azeri and Turkish army soldiers with participation of Kurdish gangs attack the Armenian inhabitants of Shushi (Nagorno Karabakh)."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Justin Masterson, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Rudy Rucker, American mathematician, computer scientist, and author"
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "The Austrians defeat the Piedmontese at the Battle of Novara."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "USAir Flight 405 crashes shortly after takeoff from New York City's LaGuardia Airport, leading to a number of studies into the effect that ice has on aircraft."
+    },
+    {
       "type": "Death",
-      "year": "2015",
-      "text": "Arkady Arkanov, Ukrainian-Russian actor and playwright (born 1933)"
+      "year": "2025",
+      "text": "Jessica Aber, American lawyer (born 1981)"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "NASA's Space Shuttle Atlantis is launched on its 16th mission, STS-76."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "A fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama, causes a dangerous reduction in cooling water levels."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Greta Kempton, Austrian-American painter (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Don Chaney, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1890",
+      "text": "George Clark, American race car driver (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Joey Porter, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Aliaksandra Sasnovich, Belarusian tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "1895",
+      "text": "Before the Société pour L'Encouragement à l'Industrie, brothers Auguste and Louis Lumière demonstrate movie film technology publicly for the first time."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Kenneth Rogoff, American economist and chess grandmaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Aaron North, American guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "In Eisenstadt v. Baird, the United States Supreme Court decides that unmarried persons have the right to possess contraceptives."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "J. J. Watt, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "George Ferguson, English architect and politician, 1st Mayor of Bristol"
     },
     {
       "type": "Event",
       "year": "2017",
       "text": "A terrorist attack in London near the Houses of Parliament leaves four people dead and at least 20 injured."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Werner Klemperer, German-American actor (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Chico Marx, American actor (died 1961)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Angelo Badalamenti, American pianist and composer (died 2022)"
     },
     {
       "type": "Event",
@@ -47,9 +172,9 @@
       "text": "A United States Air Force aircraft disappears with all 67 people on board somewhere over the Pacific Ocean."
     },
     {
-      "type": "Birth",
-      "year": "1846",
-      "text": "James Timberlake, American lieutenant, police officer, and farmer (died 1891)"
+      "type": "Event",
+      "year": "1894",
+      "text": "The Stanley Cup ice hockey competition is held for the first time, in Montreal, Canada."
     },
     {
       "type": "Event",
@@ -58,28 +183,13 @@
     },
     {
       "type": "Event",
-      "year": "2016",
-      "text": "Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jim Covert, American football player"
+      "year": "1988",
+      "text": "The United States Congress votes to override President Ronald Reagan's veto of the Civil Rights Restoration Act of 1987."
     },
     {
       "type": "Event",
-      "year": "1982",
-      "text": "NASA's Space Shuttle Columbia is launched from the Kennedy Space Center on its third mission, STS-3."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Yevgeny Ostashev, Russian test pilot, participant in the launch of the first artificial Earth satellite (died 1960)"
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "The Slave Trade Act of 1794 bans the export of slaves from the United States, and prohibits American citizens from outfitting a ship for the purpose of importing slaves."
+      "year": "1934",
+      "text": "The first Masters Tournament is held at Augusta National Golf Club in Georgia."
     },
     {
       "type": "Birth",
@@ -87,19 +197,9 @@
       "text": "James Westerfield, American actor (died 1971)"
     },
     {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Erol Büyükburç, Turkish singer-songwriter, pop music composer, and actor (died 2015)"
-    },
-    {
       "type": "Event",
-      "year": "1895",
-      "text": "Before the Société pour L'Encouragement à l'Industrie, brothers Auguste and Louis Lumière demonstrate movie film technology publicly for the first time."
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "The Special Counsel investigation on the 2016 United States presidential election concludes when Robert Mueller submits his report to the United States Attorney General."
+      "year": "1871",
+      "text": "In North Carolina, William Woods Holden becomes the first governor of a U.S. state to be removed from office by impeachment."
     },
     {
       "type": "Event",
@@ -108,123 +208,8 @@
     },
     {
       "type": "Event",
-      "year": "1920",
-      "text": "Azeri and Turkish army soldiers with participation of Kurdish gangs attack the Armenian inhabitants of Shushi (Nagorno Karabakh)."
-    },
-    {
-      "type": "Death",
-      "year": "235",
-      "text": "Severus Alexander, Roman emperor (born 208)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Rudy Rucker, American mathematician, computer scientist, and author"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Karl Wallenda of The Flying Wallendas dies after falling off a tight-rope suspended between two hotels in San Juan, Puerto Rico."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "The United States Congress sends the Equal Rights Amendment to the states for ratification."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "In Eisenstadt v. Baird, the United States Supreme Court decides that unmarried persons have the right to possess contraceptives."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "NASA's Space Shuttle Atlantis is launched on its 16th mission, STS-76."
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Billy Williamson, American guitarist (born 1925)"
-    },
-    {
-      "type": "Event",
-      "year": "1871",
-      "text": "In North Carolina, William Woods Holden becomes the first governor of a U.S. state to be removed from office by impeachment."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Thomas Davis Sr., American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Dave Portnoy, American businessman and social media personality"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Dexter Fowler, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Carrie Donovan, American journalist (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Jon Hassell, American trumpet player and composer (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Greta Kempton, Austrian-American painter (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Ross Martin, American actor (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Chimezie Metu, Nigerian-American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: The entire village of Khatyn (in present-day Republic of Belarus) is burnt alive by Schutzmannschaft Battalion 118."
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "The Stanley Cup ice hockey competition is held for the first time, in Montreal, Canada."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Irving Kaplansky, Canadian-American mathematician and academic (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Nicolas Tikhomiroff, Russian photographer (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "The United States Congress votes to override President Ronald Reagan's veto of the Civil Rights Restoration Act of 1987."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Ike Davis, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "The Austrians defeat the Piedmontese at the Battle of Novara."
+      "year": "1622",
+      "text": "Jamestown massacre: Algonquians kill 347 English settlers around Jamestown, Virginia, a third of the colony's population, during the Second Anglo-Powhatan War."
     },
     {
       "type": "Event",
@@ -233,43 +218,13 @@
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "Tom McCall, American journalist and politician, 30th Governor of Oregon (died 1983)"
+      "year": "1808",
+      "text": "David Swinson Maynard, American physician and lawyer (died 1873)"
     },
     {
       "type": "Event",
-      "year": "1992",
-      "text": "USAir Flight 405 crashes shortly after takeoff from New York City's LaGuardia Airport, leading to a number of studies into the effect that ice has on aircraft."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Constance Wu, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1622",
-      "text": "Jamestown massacre: Algonquians kill 347 English settlers around Jamestown, Virginia, a third of the colony's population, during the Second Anglo-Powhatan War."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Harry Vanda, Dutch-Australian singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Frank Pulli, American baseball player and umpire (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "At least 145 people are killed and 551 injured in a bombing and mass shooting at the Crocus City Hall in Krasnogorsk, Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1663",
-      "text": "August Hermann Francke, German clergyman, philanthropist, and scholar (died 1727)"
+      "year": "1943",
+      "text": "World War II: The entire village of Khatyn (in present-day Republic of Belarus) is burnt alive by Schutzmannschaft Battalion 118."
     },
     {
       "type": "Event",
@@ -277,14 +232,34 @@
       "text": "The Massachusetts Bay Colony outlaws the possession of cards, dice, and gaming tables."
     },
     {
-      "type": "Event",
-      "year": "1975",
-      "text": "A fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama, causes a dangerous reduction in cooling water levels."
+      "type": "Death",
+      "year": "1986",
+      "text": "Olive Deering, American actress (born 1918)"
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Arne Gabius, German runner"
+      "year": "1940",
+      "text": "Haing S. Ngor, Cambodian-American physician and author (died 1996)"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "The Special Counsel investigation on the 2016 United States presidential election concludes when Robert Mueller submits his report to the United States Attorney General."
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa."
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "At least 145 people are killed and 551 injured in a bombing and mass shooting at the Crocus City Hall in Krasnogorsk, Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "NASA's Space Shuttle Columbia is launched from the Kennedy Space Center on its third mission, STS-3."
     },
     {
       "type": "Event",
@@ -292,14 +267,39 @@
       "text": "A United States Navy Douglas R6D-1 Liftmaster crashes into Hawaii's Waiʻanae Range, killing 66."
     },
     {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Mims, American rapper"
+    },
+    {
       "type": "Event",
-      "year": "1765",
-      "text": "The British Parliament passes the Stamp Act that introduces a tax to be levied directly on its American colonies."
+      "year": "1978",
+      "text": "Karl Wallenda of The Flying Wallendas dies after falling off a tight-rope suspended between two hotels in San Juan, Puerto Rico."
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Angelo Badalamenti, American pianist and composer (died 2022)"
+      "year": "1880",
+      "text": "Ernest C. Quigley, Canadian-American football player and coach (died 1960)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Irving Kaplansky, Canadian-American mathematician and academic (died 2006)"
+    },
+    {
+      "type": "Death",
+      "year": "1976",
+      "text": "John Dwyer McLaughlin, American painter (born 1898)"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "The United States Congress sends the Equal Rights Amendment to the states for ratification."
+    },
+    {
+      "type": "Event",
+      "year": "1765",
+      "text": "The British Parliament passes the Stamp Act that introduces a tax to be levied directly on its American colonies."
     }
   ],
   "source": "Wikipedia"
