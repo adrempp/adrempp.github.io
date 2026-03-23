@@ -2,14 +2,34 @@
   "date": "2026-03-23",
   "items": [
     {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Platt Adams, American jumper and politician (died 1961)"
+      "type": "Event",
+      "year": "2003",
+      "text": "Battle of Nasiriyah, first major conflict during the invasion of Iraq."
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Lee Sexton, American banjo player (died 2021)"
+      "year": "1923",
+      "text": "Angelo Ingrassia, American soldier and judge (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Adrian Reynard, English businessman, founded Reynard Motorsport"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Peter Lawler, Australian public servant (died 2017)"
+    },
+    {
+      "type": "Death",
+      "year": "1980",
+      "text": "Arthur Melvin Okun, American economist and academic (born 1928)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Boris Berezovsky, Russian-born Soviet-British mathematician and businessman (born 1946)"
     },
     {
       "type": "Event",
@@ -17,39 +37,9 @@
       "text": "Waltham Abbey is surrendered to King Henry VIII of England, the last religious community to be closed during the Dissolution of the Monasteries."
     },
     {
-      "type": "Death",
-      "year": "2001",
-      "text": "Robert Laxalt, American author (born 1923)"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Dane Rudhyar, French-American astrologer, author and composer (died 1985)"
-    },
-    {
       "type": "Event",
-      "year": "1977",
-      "text": "The first of The Nixon Interviews (12 will be recorded over four weeks) is videotaped with British journalist David Frost interviewing former United States President Richard Nixon about the Watergate scandal and the Nixon tapes."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Battle of Nasiriyah, first major conflict during the invasion of Iraq."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Alan Toovey, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "625",
-      "text": "The Muslim army under Muhammad suffers a defeat against the Quraysh in the battle of Uhud."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Geno Auriemma, Italian-American basketball player and coach"
+      "year": "1994",
+      "text": "A United States Air Force (USAF) F-16 aircraft collides with a USAF C-130 at Pope Air Force Base and then crashes, killing 24 United States Army soldiers on the ground alongside destroying a Starlifter by accident. This later became known as the Green Ramp disaster."
     },
     {
       "type": "Event",
@@ -57,19 +47,19 @@
       "text": "The US-backed Syrian Democratic Forces capture the town of Baghuz in Eastern Syria, declaring military victory over the Islamic State of Iraq and the Levant after four years of fighting, although the group maintains a scattered presence and sleeper cells across Syria and Iraq."
     },
     {
-      "type": "Event",
-      "year": "1980",
-      "text": "Archbishop Óscar Romero of El Salvador gives his famous speech appealing to men of the El Salvadoran armed forces to stop killing the Salvadorans."
+      "type": "Birth",
+      "year": "1974",
+      "text": "Randall Park, American actor, director and screenwriter"
     },
     {
-      "type": "Event",
-      "year": "1901",
-      "text": "Emilio Aguinaldo, only President of the First Philippine Republic, is captured at Palanan, Isabela by the forces of American General Frederick Funston."
+      "type": "Birth",
+      "year": "1909",
+      "text": "Charles Werner, American cartoonist (died 1997)"
     },
     {
-      "type": "Event",
-      "year": "1991",
-      "text": "The Revolutionary United Front, with support from the special forces of Charles Taylor's National Patriotic Front of Liberia, invades Sierra Leone in an attempt to overthrow Joseph Saidu Momoh, sparking the 11-year Sierra Leone Civil War."
+      "type": "Birth",
+      "year": "1987",
+      "text": "Alan Toovey, Australian footballer"
     },
     {
       "type": "Birth",
@@ -83,193 +73,18 @@
     },
     {
       "type": "Event",
-      "year": "1806",
-      "text": "After traveling through the Louisiana Purchase and reaching the Pacific Ocean, explorers Lewis and Clark and their Corps of Discovery begin their arduous journey home."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Bethanie Mattek-Sands, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Angelo Ingrassia, American soldier and judge (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Randall Park, American actor, director and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "A tornado outbreak kills more than 240 people in the central United States, while an ongoing flood in the Ohio River watershed was killing 650 people."
-    },
-    {
-      "type": "Event",
-      "year": "1888",
-      "text": "In England, The Football League, the world's oldest professional association football league, meets for the first time."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Chaka Khan, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Erin Crocker, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Dellin Betances, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Aeroflot Flight 593 crashes into the Kuznetsk Alatau mountain, Kemerovo Oblast, Russia, killing 75."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Kenneth Cole, American fashion designer, founded Kenneth Cole Productions"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Amanda Plummer, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Francesco Clemente, Italian painter and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "Signing of the Constitution of the Commonwealth of the Philippines."
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "The University of California is founded in Oakland, California when the Organic Act is signed into law."
-    },
-    {
-      "type": "Event",
-      "year": "1857",
-      "text": "Elisha Otis's first elevator is installed at 488 Broadway New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1400",
-      "text": "The Trần dynasty of Vietnam is deposed, after one hundred and seventy-five years of rule, by Hồ Quý Ly, a court official."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "In Milan, Italy, Benito Mussolini founds his Fascist political movement."
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "The Ahmadiyya Muslim Community is established by Mirza Ghulam Ahmad in Qadian, British India."
-    },
-    {
-      "type": "Death",
-      "year": "2002",
-      "text": "Eileen Farrell, American soprano (born 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Jimmy Miller, American record producer and musician (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "A United States Air Force (USAF) F-16 aircraft collides with a USAF C-130 at Pope Air Force Base and then crashes, killing 24 United States Army soldiers on the ground alongside destroying a Starlifter by accident. This later became known as the Green Ramp disaster."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: Patrick Henry delivers his speech – \"Give me liberty or give me death!\" – at St. John's Episcopal Church, Richmond, Virginia."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Andrea Musacco, Italian footballer"
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Cindy Walker, American singer-songwriter and dancer (born 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Vasily Zaytsev, Russian captain (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Yevgeny Grishin, Russian speed skater (died 2005)"
-    },
-    {
-      "type": "Event",
       "year": "2008",
       "text": "Official opening of Rajiv Gandhi International Airport in Hyderabad, India."
     },
     {
       "type": "Event",
-      "year": "2001",
-      "text": "The Russian Mir space station is disposed of, breaking up in the atmosphere before falling into the southern Pacific Ocean near Fiji."
+      "year": "1980",
+      "text": "Archbishop Óscar Romero of El Salvador gives his famous speech appealing to men of the El Salvadoran armed forces to stop killing the Salvadorans."
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Marin Hinkle, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "The Lahore Resolution (Qarardad-e-Pakistan or Qarardad-e-Lahore) is put forward at the Annual General Convention of the All-India Muslim League."
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Louis Adamic, Slovenian-American author, translator and politician (died 1951)"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "President of Peru Pedro Pablo Kuczynski resigns from the presidency amid a mass corruption scandal before certain impeachment by the opposition-majority Congress of Peru."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Ayesha Curry, Canadian-American chef, author and television personality"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Bette Nesmith Graham, American inventor of Liquid Paper (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1839",
-      "text": "A massive earthquake destroys the former capital Inwa of the Konbaung dynasty, present-day Myanmar."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The First Battle of Kernstown, Virginia, marks the start of Stonewall Jackson's Valley Campaign. Although a Confederate defeat, the engagement distracts Federal efforts to capture Richmond."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Michael Nyman, English composer of minimalist music and pianist"
+      "year": "1958",
+      "text": "Hugh Grant, Scottish business executive"
     },
     {
       "type": "Birth",
@@ -278,13 +93,8 @@
     },
     {
       "type": "Event",
-      "year": "1965",
-      "text": "NASA launches Gemini 3, the United States' first two-man space flight (crew: Gus Grissom and John Young)."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Helene Hale, American politician (died 2013)"
+      "year": "2001",
+      "text": "The Russian Mir space station is disposed of, breaking up in the atmosphere before falling into the southern Pacific Ocean near Fiji."
     },
     {
       "type": "Birth",
@@ -292,14 +102,204 @@
       "text": "Nicholle Tom, American actress"
     },
     {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Rodney Mims Cook, Sr., American lieutenant and politician (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Marty Allen, American comedian and actor (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Keri Russell, American actress"
+    },
+    {
       "type": "Event",
-      "year": "1801",
-      "text": "Tsar Paul I of Russia is struck with a sword, then strangled, and finally trampled to death inside his bedroom at St. Michael's Castle."
+      "year": "1889",
+      "text": "The Ahmadiyya Muslim Community is established by Mirza Ghulam Ahmad in Qadian, British India."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "Aeroflot Flight 593 crashes into the Kuznetsk Alatau mountain, Kemerovo Oblast, Russia, killing 75."
+    },
+    {
+      "type": "Event",
+      "year": "1806",
+      "text": "After traveling through the Louisiana Purchase and reaching the Pacific Ocean, explorers Lewis and Clark and their Corps of Discovery begin their arduous journey home."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Philip Zimbardo, American psychologist and academic (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The first of The Nixon Interviews (12 will be recorded over four weeks) is videotaped with British journalist David Frost interviewing former United States President Richard Nixon about the Watergate scandal and the Nixon tapes."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The Lahore Resolution (Qarardad-e-Pakistan or Qarardad-e-Lahore) is put forward at the Annual General Convention of the All-India Muslim League."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Dellin Betances, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "The University of California is founded in Oakland, California when the Organic Act is signed into law."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Milbourne Christopher, American magician and author (died 1984)"
+    },
+    {
+      "type": "Event",
+      "year": "1857",
+      "text": "Elisha Otis's first elevator is installed at 488 Broadway New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Viktor Korchnoi, Russian chess player and author (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Yevdokiya Mekshilo, Russian skier (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Michael Haneke, Austrian director, producer and screenwriter"
     },
     {
       "type": "Event",
       "year": "1909",
       "text": "Theodore Roosevelt leaves New York for a post-presidency safari in Africa. The trip is sponsored by the Smithsonian Institution and National Geographic Society."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The First Battle of Kernstown, Virginia, marks the start of Stonewall Jackson's Valley Campaign. Although a Confederate defeat, the engagement distracts Federal efforts to capture Richmond."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "The Revolutionary United Front, with support from the special forces of Charles Taylor's National Patriotic Front of Liberia, invades Sierra Leone in an attempt to overthrow Joseph Saidu Momoh, sparking the 11-year Sierra Leone Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "Emilio Aguinaldo, only President of the First Philippine Republic, is captured at Palanan, Isabela by the forces of American General Frederick Funston."
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "A tornado outbreak kills more than 240 people in the central United States, while an ongoing flood in the Ohio River watershed was killing 650 people."
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "Signing of the Constitution of the Commonwealth of the Philippines."
+    },
+    {
+      "type": "Event",
+      "year": "1888",
+      "text": "In England, The Football League, the world's oldest professional association football league, meets for the first time."
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Cedric Gibbons, Irish-American art director and production designer (died 1960)"
+    },
+    {
+      "type": "Event",
+      "year": "625",
+      "text": "The Muslim army under Muhammad suffers a defeat against the Quraysh in the battle of Uhud."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Maurice Jones-Drew, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: Patrick Henry delivers his speech – \"Give me liberty or give me death!\" – at St. John's Episcopal Church, Richmond, Virginia."
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Sidney Hillman, Lithuanian-born American labor leader (died 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Gordon Hayward, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1400",
+      "text": "The Trần dynasty of Vietnam is deposed, after one hundred and seventy-five years of rule, by Hồ Quý Ly, a court official."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Robert Gallo, American physician and academic"
+    },
+    {
+      "type": "Death",
+      "year": "1884",
+      "text": "Henry C. Lord, American businessman (born 1824)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "NASA launches Gemini 3, the United States' first two-man space flight (crew: Gus Grissom and John Young)."
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "In Milan, Italy, Benito Mussolini founds his Fascist political movement."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Francesco Clemente, Italian painter and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "Tsar Paul I of Russia is struck with a sword, then strangled, and finally trampled to death inside his bedroom at St. Michael's Castle."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Kenneth Cole, American fashion designer, founded Kenneth Cole Productions"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "President of Peru Pedro Pablo Kuczynski resigns from the presidency amid a mass corruption scandal before certain impeachment by the opposition-majority Congress of Peru."
+    },
+    {
+      "type": "Event",
+      "year": "1839",
+      "text": "A massive earthquake destroys the former capital Inwa of the Konbaung dynasty, present-day Myanmar."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Perez Hilton, American blogger"
     }
   ],
   "source": "Wikipedia"
