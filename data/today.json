@@ -2,9 +2,59 @@
   "date": "2026-03-24",
   "items": [
     {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jim Parsons, American actor"
+    },
+    {
       "type": "Event",
-      "year": "1934",
-      "text": "The Tydings–McDuffie Act is passed by the United States Congress, allowing the Philippines to become a self-governing commonwealth."
+      "year": "2018",
+      "text": "Students across the United States stage the March for Our Lives demanding gun control in response to the Stoneman Douglas High School shooting."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Mike Adams, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Indian intervention in the Sri Lankan Civil War ends with the last ship of Indian Peace Keeping Force leaving Sri Lanka."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Anita L. Allen, American lawyer, philosopher, and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Ron Hainsey, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Bangladeshi President Abdus Sattar is deposed in a bloodless coup led by Army Chief Lieutenant general Hussain Muhammad Ershad, who suspends the Constitution and imposes martial law."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Murray Hamilton, American actor (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Annabella Sciorra, American actress"
+    },
+    {
+      "type": "Death",
+      "year": "1869",
+      "text": "Antoine-Henri Jomini, French-Russian general (born 1779)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Donna Pescow, American actress and director"
     },
     {
       "type": "Event",
@@ -12,9 +62,14 @@
       "text": "In Prince William Sound in Alaska, the Exxon Valdez spills 240,000 barrels (38,000 m3) of crude oil after running aground."
     },
     {
-      "type": "Event",
-      "year": "1900",
-      "text": "Mayor of New York City Robert Anderson Van Wyck breaks ground for a new underground \"Rapid Transit Railroad\" that would link Manhattan and Brooklyn."
+      "type": "Birth",
+      "year": "1927",
+      "text": "John Woodland Hastings, American biochemist and academic (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Peter Boyle, Scottish-Australian footballer and manager (died 2013)"
     },
     {
       "type": "Event",
@@ -24,32 +79,17 @@
     {
       "type": "Birth",
       "year": "1962",
-      "text": "Star Jones, American lawyer, journalist, and talk show host"
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "In Kraków, Tadeusz Kościuszko announces a general uprising against Imperial Russia and the Kingdom of Prussia, and assumes the powers of the Commander in Chief of all of the Polish forces."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Bangladeshi President Abdus Sattar is deposed in a bloodless coup led by Army Chief Lieutenant general Hussain Muhammad Ershad, who suspends the Constitution and imposes martial law."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Morarji Desai becomes the prime minister of India, the first prime minister not to belong to Indian National Congress."
+      "text": "Irina Meszynski, German discus thrower"
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "John Woodland Hastings, American biochemist and academic (died 2014)"
+      "year": "1998",
+      "text": "Ethel Cain, American singer-songwriter, record producer, and model"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Mike Woodson, American basketball player and coach"
+      "year": "1945",
+      "text": "Robert T. Bakker, American paleontologist and academic"
     },
     {
       "type": "Event",
@@ -57,239 +97,9 @@
       "text": "Great Britain passes the Quartering Act, which requires the Thirteen Colonies to house British troops."
     },
     {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Stephen De Staebler, American sculptor and educator (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Joseph Barbera, American animator, director, and producer, co-founded Hanna-Barbera (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Steve Karsay, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Pat Bradley, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Emmit King, American sprinter (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Norman Fell, American actor (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Tommy Hilfiger, American fashion designer, founded the Tommy Hilfiger Corporation"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Peter Jacobson, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Stephan Eberharter, Austrian skier"
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "In Argentina, the armed forces overthrow the constitutional government of President Isabel Perón and start a seven-year dictatorial period self-styled the National Reorganization Process."
-    },
-    {
-      "type": "Event",
-      "year": "1832",
-      "text": "In Hiram, Ohio, a group of men beat and tar and feather Mormon leader Joseph Smith."
-    },
-    {
-      "type": "Event",
-      "year": "1401",
-      "text": "Turco-Mongol emperor Timur sacks Damascus."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Steve McQueen, American actor and producer (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "Carnegie Steel Company is formed in New Jersey; its capitalization of $160 million is the largest to date."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Don Covay, American singer-songwriter (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "CJ Perry, American wrestler, manager, and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Kitty O'Neil, American stuntwoman (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Robert Carradine, American actor (died 2026)"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Bhutan officially becomes a democracy, with its first ever general election."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Students across the United States stage the March for Our Lives demanding gun control in response to the Stoneman Douglas High School shooting."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Jake Hager, American mixed martial artist and professional wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Michael Masser, American songwriter, composer and producer (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Aiga Grabuste, Latvian heptathlete"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Greg McCrary, American football player (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Keisha Castle-Hughes, Australian-New Zealand actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Judith Draxler, Austrian swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Richard Conte, American actor, singer, and director (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Dirk Hayhurst, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "A Chilean prospecting party led by José Díaz Gana discovers the silver ores of Caracoles in the Bolivian portion of Atacama Desert,  leading to the last of the Chilean silver rushes  and a diplomatic dispute over its taxation between Chile and Bolivia."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Myles Turner, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "1869",
-      "text": "Antoine-Henri Jomini, French-Russian general (born 1779)"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Indian intervention in the Sri Lankan Civil War ends with the last ship of Indian Peace Keeping Force leaving Sri Lanka."
-    },
-    {
       "type": "Event",
       "year": "2018",
       "text": "Syrian civil war: The Turkish Armed Forces (TAF) and Syrian National Army (SNA) take full control of Afrin District, marking the end of the Afrin offensive."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "A British Cabinet Mission arrives in India to discuss and plan for the transfer of power from the British Raj to Indian leadership."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Norris Hopper, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Mike Vanderjagt, Canadian-American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Gene Nelson, American actor, director, and screenwriter (died 1996)"
-    },
-    {
-      "type": "Death",
-      "year": "1950",
-      "text": "James Rudolph Garfield, American lawyer and politician, 23rd United States Secretary of the Interior (born 1865)"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Mitchell Johnson and Andrew Golden, aged 11 and 13 respectively, open fire upon teachers and students at Westside Middle School in Jonesboro, Arkansas; five people are killed and ten are wounded."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Peyton Manning, American football player and entrepreneur"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Patterson Hood, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "An EF4 tornado strikes the towns of Rolling Fork and Silver City, Mississippi, causing mass destruction."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Anita L. Allen, American lawyer, philosopher, and academic"
-    },
-    {
-      "type": "Death",
-      "year": "1971",
-      "text": "Arthur Metcalfe, Australian public servant (born 1895)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Alyson Hannigan, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Diann Roffe, American skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Donna Pescow, American actress and director"
     },
     {
       "type": "Birth",
@@ -298,8 +108,198 @@
     },
     {
       "type": "Event",
+      "year": "1832",
+      "text": "In Hiram, Ohio, a group of men beat and tar and feather Mormon leader Joseph Smith."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Riccardo Musetti, Italian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Vasily Smyslov, Russian chess player (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Dennis Erickson, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Diann Roffe, American skier"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "Mayor of New York City Robert Anderson Van Wyck breaks ground for a new underground \"Rapid Transit Railroad\" that would link Manhattan and Brooklyn."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "T. J. Ford, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "Carnegie Steel Company is formed in New Jersey; its capitalization of $160 million is the largest to date."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Morarji Desai becomes the prime minister of India, the first prime minister not to belong to Indian National Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Larry Wilson, American football player (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Steve McQueen, American actor and producer (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Lauren Bowles, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Mary Stolz, American author (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Lee Mendelson, American television producer (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Chris Bosh, American basketball player"
+    },
+    {
+      "type": "Event",
       "year": "1993",
       "text": "Comet Shoemaker–Levy 9 is discovered by Carolyn and Eugene Shoemaker, and David Levy at the Palomar Observatory in California."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Tig Notaro, American comedian and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Erica Kennedy, American journalist and author (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1794",
+      "text": "In Kraków, Tadeusz Kościuszko announces a general uprising against Imperial Russia and the Kingdom of Prussia, and assumes the powers of the Commander in Chief of all of the Polish forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Lawrence Ferlinghetti, American poet and publisher, co-founded City Lights Bookstore (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "A British Cabinet Mission arrives in India to discuss and plan for the transfer of power from the British Raj to Indian leadership."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Dean Jones, Australian cricketer and coach (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "The Tydings–McDuffie Act is passed by the United States Congress, allowing the Philippines to become a self-governing commonwealth."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Zyzz, Russian-Australian bodybuilder and internet personality (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "In Argentina, the armed forces overthrow the constitutional government of President Isabel Perón and start a seven-year dictatorial period self-styled the National Reorganization Process."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Mitchell Johnson and Andrew Golden, aged 11 and 13 respectively, open fire upon teachers and students at Westside Middle School in Jonesboro, Arkansas; five people are killed and ten are wounded."
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "An EF4 tornado strikes the towns of Rolling Fork and Silver City, Mississippi, causing mass destruction."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Judith Draxler, Austrian swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Sergey Klyugin, Russian high jumper"
+    },
+    {
+      "type": "Event",
+      "year": "1401",
+      "text": "Turco-Mongol emperor Timur sacks Damascus."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Bhutan officially becomes a democracy, with its first ever general election."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "A Chilean prospecting party led by José Díaz Gana discovers the silver ores of Caracoles in the Bolivian portion of Atacama Desert,  leading to the last of the Chilean silver rushes  and a diplomatic dispute over its taxation between Chile and Bolivia."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "R. Lee Ermey, American sergeant and actor (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Maxim Kuznetsov, Russian ice hockey player"
+    },
+    {
+      "type": "Death",
+      "year": "1993",
+      "text": "John Hersey, American journalist and author (born 1914)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Donald Hamilton, Swedish-American soldier and author (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Mike Woodson, American basketball player and coach"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Lou Whittaker, American mountaineer, mountain guide, and businessman (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Starlin Castro, American baseball player"
     }
   ],
   "source": "Wikipedia"
