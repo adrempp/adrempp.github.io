@@ -2,259 +2,24 @@
   "date": "2026-03-25",
   "items": [
     {
-      "type": "Death",
-      "year": "990",
-      "text": "Nicodemus of Mammola, Italian monk and saint"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Hoyt Axton, American singer-songwriter and actor (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Lark Voorhies, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Paul Michael Glaser, American actor and director"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "Coxey's Army, the first significant American protest march, departs Massillon, Ohio for Washington, D.C."
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "United States Customs seizes copies of Allen Ginsberg's poem \"Howl\" on obscenity grounds."
-    },
-    {
-      "type": "Death",
-      "year": "2021",
-      "text": "Beverly Cleary, American author (born 1916)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Bernard King, Australian actor and chef (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Casey Neistat, American YouTube personality"
-    },
-    {
-      "type": "Event",
-      "year": "1584",
-      "text": "Sir Walter Raleigh is granted a patent to colonize Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "708",
-      "text": "Election of Pope Constantine following the death of Pope Sisinnius. He would be the last pope to visit Constantinople until 1967."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Danica Patrick, American race car driver"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Reo Stakis, Cypriot-Scottish businessman, founded Stakis Hotels (died 2001)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "John F. Wiley, American lieutenant, football player, and coach (born 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Wes Santee, American runner (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "David Burge, American pianist, composer, and conductor (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Mitchell Watt, Australian long jumper"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a \"hunting and fishing retreat\", for $5,258.20 ($58,072 in 2025)."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Norm Duke, American bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Chuck Greenberg, American saxophonist, songwriter, and producer (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Binnie Barnes, English-American actress (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Bob Sura, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Sheryl Swoopes, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The Tetiev pogrom occurs in Ukraine, becoming the prototype of mass murder during the Holocaust."
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolutionary War – American Patriots conduct a Raid on Tybee Island, primarily seeking to capture runaway slaves who sought refuge with British forces stationed there."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "George Carstairs, Australian rugby league player (died 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Buzz Osborne, American musician"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "An explosion in a coal mine in Centralia, Illinois kills 111."
-    },
-    {
-      "type": "Event",
-      "year": "1931",
-      "text": "The Scottsboro Boys are arrested in Alabama and charged with rape."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Belarusian People's Republic is established."
-    },
-    {
-      "type": "Event",
-      "year": "1911",
-      "text": "In New York City, the Triangle Shirtwaist Factory fire kills 146 garment workers."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Stacy Dragila, American pole vaulter and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Katharine McPhee, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Dale Davis, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Doug Stanhope, American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Thom Loverro, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Big Sean, American rapper, singer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Tom Monaghan, American businessman, founded Domino's Pizza"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Ray Tanner, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Cecil Taylor, American pianist and composer (died 2018)"
-    },
-    {
       "type": "Event",
       "year": "1725",
       "text": "Bach's chorale cantata \"Wie schön leuchtet der Morgenstern, BWV 1\", is first performed on the Feast of the Annunciation, coinciding with Palm Sunday."
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Gene Shalit, American journalist and critic"
+      "year": "1934",
+      "text": "Karlheinz Schreiber, German-Canadian businessman"
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Aleksandr Puchkov, Russian hurdler"
+      "year": "1952",
+      "text": "Antanas Mockus, Colombian mathematician, philosopher, and politician, Mayor of Bogotá"
     },
     {
       "type": "Birth",
-      "year": "1978",
-      "text": "Teddy Lussi-Modeste, French film director, screenwriter and literature teacher"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: In Virginia during the Siege of Petersburg, Confederate forces temporarily capture Fort Stedman from the Union before being repulsed."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Georgian Orthodox Church restores its autocephaly abolished by Imperial Russia in 1811."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Bonnie Bedelia, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Syrian civil war: Following the completion of the Afrin offensive, the Syrian Democratic Forces (SDF) initiate an insurgency against the Turkish occupation of the Afrin District."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Bonnie Guitar, American singer-songwriter and guitarist (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "717",
-      "text": "Theodosius III resigns the throne to the Byzantine Empire to enter a monastery, allowing Leo III to take the throne and begin the Isaurian dynasty."
+      "year": "1967",
+      "text": "Matthew Barney, American sculptor and photographer"
     },
     {
       "type": "Birth",
@@ -263,28 +28,98 @@
     },
     {
       "type": "Birth",
-      "year": "1904",
-      "text": "Pete Johnson, American boogie-woogie and jazz pianist (died 1967)"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Protesters demanding a new election in Belarus, following the rigged 2006 Belarusian presidential election, clash with riot police. Opposition leader Aleksander Kozulin is among several protesters arrested."
+      "year": "1965",
+      "text": "Sarah Jessica Parker, American actress, producer, and designer"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Magnus Larsson, Swedish golfer"
+      "year": "1938",
+      "text": "Hoyt Axton, American singer-songwriter and actor (died 1999)"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Ryan Lewis, American music producer"
+      "year": "1942",
+      "text": "Robert J. Birgeneau, Canadian-American physicist"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Sue Klebold, American activist"
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "The first successful tornado forecast predicts that a tornado will strike Tinker Air Force Base, Oklahoma."
+      "year": "1894",
+      "text": "Coxey's Army, the first significant American protest march, departs Massillon, Ohio for Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "David Burge, American pianist, composer, and conductor (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War – American Patriots conduct a Raid on Tybee Island, primarily seeking to capture runaway slaves who sought refuge with British forces stationed there."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a \"hunting and fishing retreat\", for $5,258.20 ($58,072 in 2025)."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Erika Heynatz, Papua New Guinean-Australian model and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "An explosion in a coal mine in Centralia, Illinois kills 111."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Aly Michalka, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Katharine McPhee, American singer-songwriter and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Mike Aulby, American bowler"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Stacy Dragila, American pole vaulter and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Carl Kaufmann, American-German sprinter (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Usha Mehta, Gandhian and freedom fighter of India (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "717",
+      "text": "Theodosius III resigns the throne to the Byzantine Empire to enter a monastery, allowing Leo III to take the throne and begin the Isaurian dynasty."
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Amedee Reyburn, American swimmer and water polo player (died 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "708",
+      "text": "Election of Pope Constantine following the death of Pope Sisinnius. He would be the last pope to visit Constantinople until 1967."
     },
     {
       "type": "Event",
@@ -293,13 +128,178 @@
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Gloria Steinem, American feminist activist, co-founded the Women's Media Center"
+      "year": "1942",
+      "text": "Aretha Franklin, American singer-songwriter and pianist (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "United States Customs seizes copies of Allen Ginsberg's poem \"Howl\" on obscenity grounds."
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The Tetiev pogrom occurs in Ukraine, becoming the prototype of mass murder during the Holocaust."
+    },
+    {
+      "type": "Death",
+      "year": "1609",
+      "text": "Olaus Martini, Swedish archbishop (born 1557)"
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Justine Dufour-Lapointe, Canadian skier"
+      "year": "1971",
+      "text": "Sheryl Swoopes, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Cammi Granato, American ice hockey player and sportscaster"
+    },
+    {
+      "type": "Death",
+      "year": "1995",
+      "text": "James Samuel Coleman, American sociologist and academic (born 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Howard Cosell, American soldier, journalist, and author (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Protesters demanding a new election in Belarus, following the rigged 2006 Belarusian presidential election, clash with riot police. Opposition leader Aleksander Kozulin is among several protesters arrested."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Susie Bright, American journalist, author, and critic"
+    },
+    {
+      "type": "Event",
+      "year": "1584",
+      "text": "Sir Walter Raleigh is granted a patent to colonize Virginia."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "The first successful tornado forecast predicts that a tornado will strike Tinker Air Force Base, Oklahoma."
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: In Virginia during the Siege of Petersburg, Confederate forces temporarily capture Fort Stedman from the Union before being repulsed."
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "In New York City, the Triangle Shirtwaist Factory fire kills 146 garment workers."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Big Sean, American rapper, singer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Eileen Ford, American businesswoman, co-founded Ford Models (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Pete Johnson, American boogie-woogie and jazz pianist (died 1967)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Michael Stanley, American singer-songwriter and guitarist (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Casey Neistat, American YouTube personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Reo Stakis, Cypriot-Scottish businessman, founded Stakis Hotels (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Thom Loverro, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1881",
+      "text": "Patrick Henry Bruce, American painter and educator (died 1936)"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Georgian Orthodox Church restores its autocephaly abolished by Imperial Russia in 1811."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Paul Michael Glaser, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Michaela Dorfmeister, Austrian skier"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Mikey Madison, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Belarusian People's Republic is established."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Ryan Lewis, American music producer"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Syrian civil war: Following the completion of the Afrin offensive, the Syrian Democratic Forces (SDF) initiate an insurgency against the Turkish occupation of the Afrin District."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Ed Begley, American actor (died 1970)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Magnus Larsson, Swedish golfer"
+    },
+    {
+      "type": "Death",
+      "year": "1677",
+      "text": "Wenceslaus Hollar, Czech-English painter and etcher (born 1607)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "David Paquette, American-New Zealander pianist"
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "The Scottsboro Boys are arrested in Alabama and charged with rape."
     }
   ],
   "source": "Wikipedia"
