@@ -3,43 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "John Stockton, American basketball player and coach"
+      "year": "1953",
+      "text": "Lincoln Chafee, American academic and politician, 74th Governor of Rhode Island"
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "Sandra Day O'Connor, American lawyer and jurist (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Chips Rafferty, Australian actor (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "James Iha, American guitarist and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Vicki Lawrence, American actress, comedian, talk show host, and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Tennessee Williams, American playwright, and poet (died 1983)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Floriana Lima, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Von Miller, American football player"
+      "year": "1971",
+      "text": "Rennae Stubbs, Australian tennis player and sportscaster"
     },
     {
       "type": "Event",
@@ -48,128 +18,23 @@
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Yuri Gidzenko, Russian pilot and cosmonaut"
+      "year": "1987",
+      "text": "Jermichael Finley, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Anthony James Leggett, English-American physicist and academic, Nobel Prize laureate (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Tennessee Williams, American playwright, and poet (died 1983)"
     },
     {
       "type": "Event",
-      "year": "2017",
-      "text": "Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Edwin Turney, American businessman, co-founded Advanced Micro Devices (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Paul Bérenger, Mauritian politician, Prime Minister of Mauritius"
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "The German Social Democratic Party is founded in Poland."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Christian B. Anfinsen, American biochemist and academic, Nobel Prize laureate (died 1995)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Don Payne, American screenwriter and producer (born 1964)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Erica Jong, American novelist and poet"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "During the Algerian Civil War, the Oued Bouaicha massacre sees fifty-two people, mostly infants, killed with axes and knives."
-    },
-    {
-      "type": "Event",
-      "year": "1651",
-      "text": "The silver-loaded Spanish ship San José, pushed south by strong winds, is wrecked on the coast of southern Chile and its surviving crew members are killed by indigenous Cuncos."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Johnny Crawford, American actor and singer (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Jon English, English-Australian singer-songwriter and actor (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Strother Martin, American actor (died 1980)"
-    },
-    {
-      "type": "Death",
-      "year": "1973",
-      "text": "Johnny Drake, American football player (born 1916)"
-    },
-    {
-      "type": "Death",
-      "year": "1649",
-      "text": "John Winthrop, English lawyer and politician, 2nd Governor of the Massachusetts Bay Colony"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Curtis Sliwa, American talk show host and activist, founded Guardian Angels"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "James Andrew Harris, American chemist and academic (died 2000)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Trey Azagthoth, American guitarist, songwriter, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "The United States Army launches Explorer 3."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Anwar al-Sadat, Menachem Begin and Jimmy Carter sign the Egypt–Israel peace treaty in Washington, D.C."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Bob Elliott, American comedian, actor, and screenwriter (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Jimmy Howard, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces."
-    },
-    {
-      "type": "Event",
-      "year": "1896",
-      "text": "An explosion at the Brunner Mine near Greymouth, New Zealand, kills 65 coal miners in the country's worst industrial accident."
+      "year": "1244",
+      "text": "The crown of Aragon and the crown of Castile agree in the Treaty of Almizra on the limits of their respective expansion into al-Andalus."
     },
     {
       "type": "Birth",
@@ -178,28 +43,13 @@
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Nancy Pelosi, American lawyer and politician, 52nd Speaker of the United States House of Representatives"
+      "year": "1991",
+      "text": "Matt Davidson, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1942",
-      "text": "World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Carl Wieman, American physicist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Jason Maxwell, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Leroy Griffith, American businessman"
+      "year": "1998",
+      "text": "During the Algerian Civil War, the Oued Bouaicha massacre sees fifty-two people, mostly infants, killed with axes and knives."
     },
     {
       "type": "Birth",
@@ -208,43 +58,38 @@
     },
     {
       "type": "Birth",
+      "year": "1966",
+      "text": "Michael Imperioli, American actor and screenwriter"
+    },
+    {
+      "type": "Birth",
       "year": "1929",
       "text": "Edward Sorel, American illustrator and caricaturist"
     },
     {
+      "type": "Birth",
+      "year": "1925",
+      "text": "James Moody, American saxophonist and composer (died 2010)"
+    },
+    {
       "type": "Event",
-      "year": "1939",
-      "text": "Spanish Civil War: Nationalists begin their final offensive of the war."
+      "year": "2017",
+      "text": "Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption."
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Ulf Samuelsson, Swedish-American ice hockey player and coach"
+      "year": "1938",
+      "text": "Norman Ackroyd, English painter and illustrator"
     },
     {
       "type": "Event",
-      "year": "1830",
-      "text": "The Book of Mormon is published in Palmyra, New York."
+      "year": "1967",
+      "text": "Ten thousand people gather for one of many Central Park be-ins in New York City."
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "Social Democratic Party (UK) is founded as a party."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Alan Arkin, American actor (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Michael Imperioli, American actor and screenwriter"
+      "year": "1896",
+      "text": "An explosion at the Brunner Mine near Greymouth, New Zealand, kills 65 coal miners in the country's worst industrial accident."
     },
     {
       "type": "Event",
@@ -253,38 +98,83 @@
     },
     {
       "type": "Event",
-      "year": "1967",
-      "text": "Ten thousand people gather for one of many Central Park be-ins in New York City."
+      "year": "1915",
+      "text": "The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association."
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Matt Grevers, American swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Kenny Chesney, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Jörg Streli, Austrian architect"
+      "year": "1945",
+      "text": "Mikhail Voronin, Russian gymnast and coach (died 2004)"
     },
     {
       "type": "Birth",
       "year": "1971",
-      "text": "Rennae Stubbs, Australian tennis player and sportscaster"
+      "text": "Erick Morillo, Colombian-American disc jockey, record label owner, and music producer (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Edwin Turney, American businessman, co-founded Advanced Micro Devices (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Floriana Lima, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Larry Page, American computer scientist and businessman, co-founder of Google"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Ulf Samuelsson, Swedish-American ice hockey player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Jonathan Groff, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Von Miller, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Spanish Civil War: Nationalists begin their final offensive of the war."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C."
+    },
+    {
+      "type": "Death",
+      "year": "1885",
+      "text": "Anson Stager, American general and businessman, co-founded Western Union (born 1825)"
+    },
+    {
+      "type": "Death",
+      "year": "1932",
+      "text": "Henry M. Leland, American machinist, inventor, engineer, automotive entrepreneur and founder of Cadillac and Lincoln (born 1843)"
     },
     {
       "type": "Birth",
       "year": "1962",
-      "text": "Eric Allan Kramer, American-Canadian actor"
+      "text": "Yuri Gidzenko, Russian pilot and cosmonaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Christian B. Anfinsen, American biochemist and academic, Nobel Prize laureate (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "J. L. Austin, English philosopher and academic (died 1960)"
     },
     {
       "type": "Event",
@@ -293,13 +183,123 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Amy Smart, American actress and former model"
+      "year": "1962",
+      "text": "Kevin Seitzer, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Bianca Kajlich, American actress"
+    },
+    {
+      "type": "Death",
+      "year": "1776",
+      "text": "Samuel Ward, American politician, 31st and 33rd Governor of the Colony of Rhode Island and Providence Plantations (born 1725)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Trey Azagthoth, American guitarist, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Alan Silvestri, American composer and conductor"
     },
     {
       "type": "Event",
-      "year": "1244",
-      "text": "The crown of Aragon and the crown of Castile agree in the Treaty of Almizra on the limits of their respective expansion into al-Andalus."
+      "year": "1945",
+      "text": "World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Subhash Kak, Indian-American professor and author"
+    },
+    {
+      "type": "Event",
+      "year": "1651",
+      "text": "The silver-loaded Spanish ship San José, pushed south by strong winds, is wrecked on the coast of southern Chile and its surviving crew members are killed by indigenous Cuncos."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The United States Army launches Explorer 3."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Martin Bella, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1955",
+      "text": "Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Clive Palmer, Australian businessman and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The German Social Democratic Party is founded in Poland."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "John Stockton, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "2003",
+      "text": "Bhad Bhabie, American rapper and social media personality"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Social Democratic Party (UK) is founded as a party."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Martin Short, Canadian-American actor, screenwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Wayne Embry, American basketball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Anwar al-Sadat, Menachem Begin and Jimmy Carter sign the Egypt–Israel peace treaty in Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Alan Arkin, American actor (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Teddy Pendergrass, American singer-songwriter (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "2005",
+      "text": "Ella Anderson, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1830",
+      "text": "The Book of Mormon is published in Palmyra, New York."
     }
   ],
   "source": "Wikipedia"
