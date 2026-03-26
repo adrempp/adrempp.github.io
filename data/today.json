@@ -3,8 +3,43 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "Lincoln Chafee, American academic and politician, 74th Governor of Rhode Island"
+      "year": "1954",
+      "text": "Dorothy Porter, Australian poet and playwright (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Vicki Lawrence, American actress, comedian, talk show host, and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Ten thousand people gather for one of many Central Park be-ins in New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Eric Allan Kramer, American-Canadian actor"
+    },
+    {
+      "type": "Death",
+      "year": "1942",
+      "text": "Carolyn Wells, American novelist and poet (born 1862)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Social Democratic Party (UK) is founded as a party."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Nate Kaeding, American football player"
     },
     {
       "type": "Birth",
@@ -13,23 +48,13 @@
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "An Interflug Ilyushin Il-18 crashes at Quatro de Fevereiro Airport during a rejected takeoff, killing 10."
+      "year": "1945",
+      "text": "World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces."
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Jermichael Finley, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Anthony James Leggett, English-American physicist and academic, Nobel Prize laureate (died 2026)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Tennessee Williams, American playwright, and poet (died 1983)"
+      "year": "1966",
+      "text": "Michael Imperioli, American actor and screenwriter"
     },
     {
       "type": "Event",
@@ -37,14 +62,74 @@
       "text": "The crown of Aragon and the crown of Castile agree in the Treaty of Almizra on the limits of their respective expansion into al-Andalus."
     },
     {
+      "type": "Death",
+      "year": "1996",
+      "text": "David Packard, American engineer and businessman, co-founded Hewlett-Packard (born 1912)"
+    },
+    {
+      "type": "Event",
+      "year": "1344",
+      "text": "The Siege of Algeciras, one of the first European military engagements where gunpowder was used, comes to an end."
+    },
+    {
       "type": "Birth",
-      "year": "1937",
-      "text": "James Lee, Canadian businessman and politician, 26th Premier of Prince Edward Island (died 2023)"
+      "year": "1949",
+      "text": "Ernest Lee Thomas, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1830",
+      "text": "The Book of Mormon is published in Palmyra, New York."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Ulf Samuelsson, Swedish-American ice hockey player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Paige VanZant, American mixed martial artist and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Clive Palmer, Australian businessman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Leeza Gibbons, American talk show host and television personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Jimmy Howard, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Spanish Civil War: Nationalists begin their final offensive of the war."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Margaret Brennan, American journalist"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The German Social Democratic Party is founded in Poland."
     },
     {
       "type": "Birth",
       "year": "1991",
-      "text": "Matt Davidson, American baseball player"
+      "text": "Ramy Youssef, American actor and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Martin Bella, Australian rugby league player"
     },
     {
       "type": "Event",
@@ -54,132 +139,12 @@
     {
       "type": "Birth",
       "year": "1982",
-      "text": "Nate Kaeding, American football player"
+      "text": "Brendan Ryan, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Michael Imperioli, American actor and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Edward Sorel, American illustrator and caricaturist"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "James Moody, American saxophonist and composer (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Norman Ackroyd, English painter and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Ten thousand people gather for one of many Central Park be-ins in New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1896",
-      "text": "An explosion at the Brunner Mine near Greymouth, New Zealand, kills 65 coal miners in the country's worst industrial accident."
-    },
-    {
-      "type": "Event",
-      "year": "590",
-      "text": "Emperor Maurice proclaims his son Theodosius as co-emperor of the Byzantine Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Mikhail Voronin, Russian gymnast and coach (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Erick Morillo, Colombian-American disc jockey, record label owner, and music producer (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Edwin Turney, American businessman, co-founded Advanced Micro Devices (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Floriana Lima, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Larry Page, American computer scientist and businessman, co-founder of Google"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Ulf Samuelsson, Swedish-American ice hockey player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Jonathan Groff, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Von Miller, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Spanish Civil War: Nationalists begin their final offensive of the war."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C."
-    },
-    {
-      "type": "Death",
-      "year": "1885",
-      "text": "Anson Stager, American general and businessman, co-founded Western Union (born 1825)"
-    },
-    {
-      "type": "Death",
-      "year": "1932",
-      "text": "Henry M. Leland, American machinist, inventor, engineer, automotive entrepreneur and founder of Cadillac and Lincoln (born 1843)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Yuri Gidzenko, Russian pilot and cosmonaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Christian B. Anfinsen, American biochemist and academic, Nobel Prize laureate (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "J. L. Austin, English philosopher and academic (died 1960)"
-    },
-    {
-      "type": "Event",
-      "year": "1344",
-      "text": "The Siege of Algeciras, one of the first European military engagements where gunpowder was used, comes to an end."
+      "year": "1930",
+      "text": "Gregory Corso, American poet (died 2001)"
     },
     {
       "type": "Birth",
@@ -188,38 +153,43 @@
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Bianca Kajlich, American actress"
-    },
-    {
-      "type": "Death",
-      "year": "1776",
-      "text": "Samuel Ward, American politician, 31st and 33rd Governor of the Colony of Rhode Island and Providence Plantations (born 1725)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Trey Azagthoth, American guitarist, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Alan Silvestri, American composer and conductor"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces."
+      "year": "1938",
+      "text": "Norman Ackroyd, English painter and illustrator"
     },
     {
       "type": "Birth",
       "year": "1947",
-      "text": "Subhash Kak, Indian-American professor and author"
+      "text": "John Rowles, New Zealand-Australian singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Drew Mitchell, Australian rugby player"
     },
     {
       "type": "Event",
-      "year": "1651",
-      "text": "The silver-loaded Spanish ship San José, pushed south by strong winds, is wrecked on the coast of southern Chile and its surviving crew members are killed by indigenous Cuncos."
+      "year": "1982",
+      "text": "A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Graeme Rutjes, Australian-Dutch footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Vesta Roy, American politician, Governor of New Hampshire (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Sterling Hayden, American actor and author (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Mustafa Kalemli, Turkish physician and politician, Turkish Minister of the Interior"
     },
     {
       "type": "Event",
@@ -228,23 +198,18 @@
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Martin Bella, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four."
+      "year": "1996",
+      "text": "Zane Musgrove, New Zealand rugby league player"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Clive Palmer, Australian businessman and politician"
+      "year": "1973",
+      "text": "Larry Page, American computer scientist and businessman, co-founder of Google"
     },
     {
-      "type": "Event",
-      "year": "1922",
-      "text": "The German Social Democratic Party is founded in Poland."
+      "type": "Birth",
+      "year": "1971",
+      "text": "Erick Morillo, Colombian-American disc jockey, record label owner, and music producer (died 2020)"
     },
     {
       "type": "Event",
@@ -253,28 +218,8 @@
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "John Stockton, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Bhad Bhabie, American rapper and social media personality"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "Social Democratic Party (UK) is founded as a party."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Martin Short, Canadian-American actor, screenwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Wayne Embry, American basketball player and manager"
+      "year": "1923",
+      "text": "Bob Elliott, American comedian, actor, and screenwriter (died 2016)"
     },
     {
       "type": "Event",
@@ -283,23 +228,78 @@
     },
     {
       "type": "Birth",
+      "year": "1948",
+      "text": "Steven Tyler, American singer-songwriter and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Marcus Allen, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
       "year": "1934",
       "text": "Alan Arkin, American actor (died 2023)"
     },
     {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Teddy Pendergrass, American singer-songwriter (died 2010)"
+      "type": "Event",
+      "year": "1979",
+      "text": "An Interflug Ilyushin Il-18 crashes at Quatro de Fevereiro Airport during a rejected takeoff, killing 10."
     },
     {
       "type": "Birth",
-      "year": "2005",
-      "text": "Ella Anderson, American actress"
+      "year": "1947",
+      "text": "Subhash Kak, Indian-American professor and author"
+    },
+    {
+      "type": "Death",
+      "year": "1995",
+      "text": "Eazy-E, American rapper and producer (born 1964)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Strother Martin, American actor (died 1980)"
     },
     {
       "type": "Event",
-      "year": "1830",
-      "text": "The Book of Mormon is published in Palmyra, New York."
+      "year": "1651",
+      "text": "The silver-loaded Spanish ship San José, pushed south by strong winds, is wrecked on the coast of southern Chile and its surviving crew members are killed by indigenous Cuncos."
+    },
+    {
+      "type": "Event",
+      "year": "590",
+      "text": "Emperor Maurice proclaims his son Theodosius as co-emperor of the Byzantine Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1896",
+      "text": "An explosion at the Brunner Mine near Greymouth, New Zealand, kills 65 coal miners in the country's worst industrial accident."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Floriana Lima, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1955",
+      "text": "Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Leonard Nimoy, American actor (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "James Andrew Harris, American chemist and academic (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption."
     }
   ],
   "source": "Wikipedia"
