@@ -2,84 +2,14 @@
   "date": "2026-03-28",
   "items": [
     {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Paul Whiteman, American violinist, composer, and bandleader (died 1967)"
-    },
-    {
       "type": "Event",
-      "year": "364",
-      "text": "Roman Emperor Valentinian I appoints his brother Flavius Valens co-emperor."
+      "year": "1862",
+      "text": "American Civil War: In the Battle of Glorieta Pass, Union forces stop the Confederate invasion of the New Mexico Territory. The battle began on March 26."
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Ronnie Ray Smith, American sprinter (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Daniel Dennett, American philosopher and academic (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Christian Herter, American politician, United States Secretary of State (died 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1873",
-      "text": "John Geiger, American rower (died 1956)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Edward Anhalt, American screenwriter and producer (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "Civil rights movement: Over one hundred high school students conduct a sit-in protest in Rome, Georgia."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "General John J. Pershing, during World War I, cancels 42nd 'Rainbow' Division's orders to Rolampont for further training and diverted it to the occupy the Baccarat sector. Rainbow Division becomes \"the first American division to take over an entire sector on its own, which it held longer than any other American division-occupied sector alone for a period of three months\"."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: First day of the Battle of Cape Matapan in Greece between the navies of the United Kingdom and Australia, and the Royal Italian navy."
-    },
-    {
-      "type": "Death",
-      "year": "1923",
-      "text": "Charles Hubbard, American archer (born 1849)"
-    },
-    {
-      "type": "Event",
-      "year": "1795",
-      "text": "Partitions of Poland: The Duchy of Courland and Semigallia, a northern fief of the Polish–Lithuanian Commonwealth, ceases to exist and becomes part of Imperial Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Jay Livingston, American singer-songwriter (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Gussie Busch, American businessman (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Byron Scott, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Michael Plumb, American equestrian"
+      "year": "1832",
+      "text": "Henry D. Washburn, American politician and general (died 1871)"
     },
     {
       "type": "Event",
@@ -88,168 +18,8 @@
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "The British House of Commons passes a vote of no confidence against James Callaghan's government by one vote, precipitating a general election."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Matt Renshaw, English-Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Innokenty Smoktunovsky, Russian actor (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Henry Paulson, American banker and politician, 74th United States Secretary of the Treasury"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: In the Battle of Glorieta Pass, Union forces stop the Confederate invasion of the New Mexico Territory. The battle began on March 26."
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Rudolf Serkin, Czech-American pianist and educator (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Thad Jones, American trumpet player and composer (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Dianne Wiest, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1818",
-      "text": "Wade Hampton III, American general and politician, 77th Governor of South Carolina (died 1902)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Janice Lynde, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Vic Raschi, American baseball player and coach (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Simon Bazalgette, English businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "Cold War: The United States Department of State releases the Acheson–Lilienthal Report, outlining a plan for the international control of nuclear power."
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Nelson Algren, American novelist and short story writer (died 1981)"
-    },
-    {
-      "type": "Death",
-      "year": "1958",
-      "text": "W. C. Handy, American trumpet player and composer (born 1873)"
-    },
-    {
-      "type": "Death",
-      "year": "1870",
-      "text": "George Henry Thomas, American general (born 1816)"
-    },
-    {
-      "type": "Event",
-      "year": "1745",
-      "text": "War of the Austrian Succession: In the Battle of Vilshofen, Austrian forces defeat French forces."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "In a friendly fire incident, two American A-10 Thunderbolt II aircraft attack British tanks participating in the 2003 invasion of Iraq, killing one soldier."
-    },
-    {
-      "type": "Event",
       "year": "1939",
       "text": "Spanish Civil War: Generalissimo Francisco Franco conquers Madrid after a three-year siege."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Finnish Civil War: On the so-called \"Bloody Maundy Thursday of Tampere\", the Whites force the Reds to attack the city center, where the city's fiercest battles being fought in Kalevankangas with large casualties on both sides. During the same day, an explosion at the Red headquarters of Tampere kills several commanders."
-    },
-    {
-      "type": "Event",
-      "year": "1854",
-      "text": "Crimean War: France and Britain declare war on Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Jimmie Dodd, American actor and singer-songwriter (died 1964)"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: In the Battle of Valparaíso, two American naval vessels are captured by two Royal Navy vessels."
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Lance Morris, Australian cricketer"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "A coolant leak at the Three Mile Island's Unit 2 nuclear reactor outside Harrisburg, Pennsylvania leads to the core overheating and a partial meltdown."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Samuel Ramey, American opera singer"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "United States President George H. W. Bush posthumously awards Jesse Owens the Congressional Gold Medal."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Joey Maxim, American boxer and actor (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Max Strus, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Marlin Perkins, American zoologist and television host (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Ken Howard, American actor (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters."
-    },
-    {
-      "type": "Birth",
-      "year": "1811",
-      "text": "John Neumann, Czech-American bishop and saint (died 1860)"
     },
     {
       "type": "Event",
@@ -257,14 +27,9 @@
       "text": "After assassinating the Roman Emperor Pertinax, his Praetorian Guards auction off the throne to Didius Julianus."
     },
     {
-      "type": "Birth",
-      "year": "1912",
-      "text": "A. Bertram Chandler, English-Australian author (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Nasser Hussain, Indian-English cricketer and sportscaster"
+      "type": "Death",
+      "year": "1972",
+      "text": "Donie Bush, American baseball player, manager, and team owner (born 1887)"
     },
     {
       "type": "Birth",
@@ -272,14 +37,34 @@
       "text": "Keith Tkachuk, American ice hockey player"
     },
     {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Iris Chang, Chinese-American journalist and author (died 2004)"
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: First day of the Battle of Cape Matapan in Greece between the navies of the United Kingdom and Australia, and the Royal Italian navy."
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Tony Barber, English-Australian television host"
+      "year": "1990",
+      "text": "Laura Harrier, American actress and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Tom Brooks, Australian cricket umpire (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Grace Hartigan, American painter and educator (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "364",
+      "text": "Roman Emperor Valentinian I appoints his brother Flavius Valens co-emperor."
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Gussie Busch, American businessman (died 1989)"
     },
     {
       "type": "Birth",
@@ -288,8 +73,23 @@
     },
     {
       "type": "Birth",
-      "year": "1815",
-      "text": "Arsène Houssaye, French author and poet (died 1896)"
+      "year": "1930",
+      "text": "Robert Ashley, American composer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1854",
+      "text": "Crimean War: France and Britain declare war on Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Freddie Bartholomew, American actor (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Civil rights movement: Over one hundred high school students conduct a sit-in protest in Rome, Georgia."
     },
     {
       "type": "Event",
@@ -297,9 +97,209 @@
       "text": "The US Supreme Court hands down 5–3 decision in Stump v. Sparkman, a controversial case involving involuntary sterilization and judicial immunity."
     },
     {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Jordan McRae, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Donald Brown, American pianist and educator"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Finnish Civil War: On the so-called \"Bloody Maundy Thursday of Tampere\", the Whites force the Reds to attack the city center, where the city's fiercest battles being fought in Kalevankangas with large casualties on both sides. During the same day, an explosion at the Red headquarters of Tampere kills several commanders."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Daniel Dennett, American philosopher and academic (died 2024)"
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Charles Schepens, Belgian-American ophthalmologist and author (born 1912)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Everett Ruess, American explorer, poet, and painter (died 1934)"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Spyros Skouras, Greek-American businessman (died 1971)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Janice Lynde, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "A coolant leak at the Three Mile Island's Unit 2 nuclear reactor outside Harrisburg, Pennsylvania leads to the core overheating and a partial meltdown."
+    },
+    {
+      "type": "Death",
+      "year": "1881",
+      "text": "Modest Mussorgsky, Russian pianist and composer (born 1839)"
+    },
+    {
+      "type": "Birth",
+      "year": "1815",
+      "text": "Arsène Houssaye, French author and poet (died 1896)"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Cold War: The United States Department of State releases the Acheson–Lilienthal Report, outlining a plan for the international control of nuclear power."
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "A. Bertram Chandler, English-Australian author (died 1984)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Michael Plumb, American equestrian"
+    },
+    {
+      "type": "Birth",
+      "year": "1811",
+      "text": "John Neumann, Czech-American bishop and saint (died 1860)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Marina Raskova, Russian pilot and navigator (died 1943)"
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Spencer W. Kimball, American religious leader, 12th President of The Church of Jesus Christ of Latter-day Saints (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "United States President George H. W. Bush posthumously awards Jesse Owens the Congressional Gold Medal."
+    },
+    {
+      "type": "Event",
+      "year": "1745",
+      "text": "War of the Austrian Succession: In the Battle of Vilshofen, Austrian forces defeat French forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Luke Walton, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Ken Howard, American actor (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Rick Barry, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: In the Battle of Valparaíso, two American naval vessels are captured by two Royal Navy vessels."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Neville Bonner, Australian politician (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Frank Murkowski, American soldier, banker, and politician, 8th Governor of Alaska"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Josh Bray, American politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Dianne Wiest, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Simon Bazalgette, English businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Tony Barber, English-Australian television host"
+    },
+    {
+      "type": "Event",
+      "year": "1795",
+      "text": "Partitions of Poland: The Duchy of Courland and Semigallia, a northern fief of the Polish–Lithuanian Commonwealth, ceases to exist and becomes part of Imperial Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Lady Gaga, American singer-songwriter and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Paul C. Donnelly, American scientist and engineer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "In a friendly fire incident, two American A-10 Thunderbolt II aircraft attack British tanks participating in the 2003 invasion of Iraq, killing one soldier."
+    },
+    {
       "type": "Event",
       "year": "1969",
       "text": "Greek poet and Nobel Prize laureate Giorgos Seferis makes a famous statement on the BBC World Service opposing the junta in Greece."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Vic Raschi, American baseball player and coach (died 1988)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "General John J. Pershing, during World War I, cancels 42nd 'Rainbow' Division's orders to Rolampont for further training and diverted it to the occupy the Baccarat sector. Rainbow Division becomes \"the first American division to take over an entire sector on its own, which it held longer than any other American division-occupied sector alone for a period of three months\"."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters."
+    },
+    {
+      "type": "Birth",
+      "year": "1873",
+      "text": "John Geiger, American rower (died 1956)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Kate Gosselin, American television personality"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "The British House of Commons passes a vote of no confidence against James Callaghan's government by one vote, precipitating a general election."
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Buck Shaw, American football player and coach (died 1977)"
     }
   ],
   "source": "Wikipedia"
