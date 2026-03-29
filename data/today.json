@@ -3,28 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "William Clarke, American harmonica player (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Matt Olson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Arthur O'Connell, American actor (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Brooks Hansen, American novelist, screenwriter and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "The funeral of Yuri Gagarin, the first man in space, started in Moscow, with thousands of people in attendance."
+      "year": "1970",
+      "text": "J. A. Konrath, American author"
     },
     {
       "type": "Birth",
@@ -32,169 +12,49 @@
       "text": "Robert Gordon, American singer and actor (died 2022)"
     },
     {
+      "type": "Death",
+      "year": "2025",
+      "text": "Richard Chamberlain, American actor (born 1934)"
+    },
+    {
       "type": "Event",
-      "year": "1941",
-      "text": "The North American Regional Broadcasting Agreement goes into effect at 03:00 local time."
+      "year": "1968",
+      "text": "The funeral of Yuri Gagarin, the first man in space, started in Moscow, with thousands of people in attendance."
     },
     {
       "type": "Death",
       "year": "2024",
-      "text": "Louis Gossett Jr., American actor (born 1936)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Jennifer Capriati, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Sam Walton, American businessman, founded Walmart and Sam's Club (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Sam Loxton, Australian cricketer, footballer, and politician (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "King Gustav IV Adolf of Sweden abdicates after a coup d'état."
-    },
-    {
-      "type": "Event",
-      "year": "1879",
-      "text": "Anglo-Zulu War: Battle of Kambula: British forces defeat 20,000 Zulus."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "John A. Durkin, American lawyer and politician (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "Julius and Ethel Rosenberg are convicted of conspiracy to commit espionage."
-    },
-    {
-      "type": "Birth",
-      "year": "1853",
-      "text": "Elihu Thomson, English-American engineer and inventor (died 1937)"
-    },
-    {
-      "type": "Event",
-      "year": "1792",
-      "text": "King Gustav III of Sweden dies after being shot in the back at a midnight masquerade ball at Stockholm's Royal Opera 13 days earlier."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Richard Rodney Bennett, English-American composer and educator (died 2012)"
+      "text": "Gerry Conway, English folk and rock drummer/percussionist (born 1947)"
     },
     {
       "type": "Birth",
       "year": "1952",
-      "text": "Jo-Ann Mapson, American author"
+      "text": "Alec Wilkinson, American writer"
     },
     {
       "type": "Birth",
-      "year": "1735",
-      "text": "Johann Karl August Musäus, German author (died 1787)"
+      "year": "1954",
+      "text": "Mario Clark, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "Mexican–American War: United States forces led by General Winfield Scott take Veracruz after a siege."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Kurt Thomas, American gymnast (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Dwayne Harper, American football player"
     },
     {
       "type": "Event",
       "year": "1962",
       "text": "Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an 11+1⁄2 day constitutional crisis."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Eileen Heckart, American actress (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Howard Lindsay, American producer, playwright, librettist, director and actor (died 1968)"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Evelyn C. White, American writer and editor"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Chris Calloway, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "A Gulfstream III crashes on approach to Aspen/Pitkin County Airport in Aspen, Colorado. All 18 people on board are killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Wade Baldwin IV, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The Dow Jones Industrial Average closes above the 10,000 mark (10,006.78) for the first time, during the height of the dot-com bubble."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Vincent Gigante, American boxer and mobster (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "The Twenty-third Amendment to the United States Constitution is ratified, allowing residents of Washington, D.C., to vote in presidential elections."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "William Gurstelle, American writer and inventor"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "John Spenkelink, American murderer (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Michael Brecker, American saxophonist and composer (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Kathryn Tanner, American theologian"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: British Royal Navy and Royal Australian Navy forces defeat those of the Italian Regia Marina off the Peloponnesian coast of Greece in the Battle of Cape Matapan."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Scott Wilson, American actor (died 2018)"
-    },
-    {
-      "type": "Death",
-      "year": "1803",
-      "text": "Gottfried van Swieten, Dutch-Austrian librarian and diplomat (born 1733)"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan."
     },
     {
       "type": "Event",
@@ -203,13 +63,8 @@
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Bradford Tatum, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Michel Hazanavicius, French director, producer, and screenwriter"
+      "year": "1899",
+      "text": "Lavrentiy Beria, Georgian-Russian general and politician (died 1953)"
     },
     {
       "type": "Event",
@@ -218,18 +73,28 @@
     },
     {
       "type": "Event",
-      "year": "2010",
-      "text": "Two suicide bombers hit the Moscow Metro system at the peak of the morning rush hour, killing 40."
+      "year": "1941",
+      "text": "The North American Regional Broadcasting Agreement goes into effect at 03:00 local time."
     },
     {
-      "type": "Event",
-      "year": "1882",
-      "text": "The Knights of Columbus is established."
+      "type": "Birth",
+      "year": "1936",
+      "text": "John A. Durkin, American lawyer and politician (died 2012)"
     },
     {
-      "type": "Event",
-      "year": "1847",
-      "text": "Mexican–American War: United States forces led by General Winfield Scott take Veracruz after a siege."
+      "type": "Birth",
+      "year": "1986",
+      "text": "Lucas Elliot Eberl, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Arthur O'Connell, American actor (died 1981)"
+    },
+    {
+      "type": "Death",
+      "year": "2016",
+      "text": "Patty Duke, American actress (born 1946)"
     },
     {
       "type": "Event",
@@ -238,43 +103,58 @@
     },
     {
       "type": "Event",
-      "year": "1957",
-      "text": "The New York, Ontario and Western Railway makes its final run, the first major U.S. railroad to be abandoned in its entirety."
+      "year": "1792",
+      "text": "King Gustav III of Sweden dies after being shot in the back at a midnight masquerade ball at Stockholm's Royal Opera 13 days earlier."
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Pearl Bailey, American actress and singer (died 1990)"
+      "year": "1951",
+      "text": "David Cheriton, Canadian computer scientist, mathematician and businessman"
     },
     {
       "type": "Event",
-      "year": "1809",
-      "text": "At the Diet of Porvoo, Finland's four Estates pledge allegiance to Alexander I of Russia, commencing the secession of the Grand Duchy of Finland from Sweden."
-    },
-    {
-      "type": "Death",
-      "year": "2001",
-      "text": "John Lewis, American pianist and composer (born 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Elle Macpherson, Australian model and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Travis Childers, American businessman and politician"
+      "year": "1982",
+      "text": "The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982."
     },
     {
       "type": "Birth",
       "year": "1954",
-      "text": "Suzanna Sherry, American legal scholar"
+      "text": "Evelyn C. White, American writer and editor"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "The New York, Ontario and Western Railway makes its final run, the first major U.S. railroad to be abandoned in its entirety."
     },
     {
       "type": "Event",
       "year": "1974",
       "text": "NASA's Mariner 10 becomes the first space probe to fly by Mercury."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Sam Loxton, Australian cricketer, footballer, and politician (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "Julius and Ethel Rosenberg are convicted of conspiracy to commit espionage."
+    },
+    {
+      "type": "Birth",
+      "year": "1863",
+      "text": "Walter James, Australian politician, 5th Premier of Western Australia (died 1943)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Barbara Clare Foley, American author and educator"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: British Royal Navy and Royal Australian Navy forces defeat those of the Italian Regia Marina off the Peloponnesian coast of Greece in the Battle of Cape Matapan."
     },
     {
       "type": "Event",
@@ -283,13 +163,28 @@
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Elizabeth Hand, American author"
+      "year": "1956",
+      "text": "William Gurstelle, American writer and inventor"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Frank Bowe, American academic (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Pearl Bailey, American actress and singer (died 1990)"
     },
     {
       "type": "Event",
-      "year": "1982",
-      "text": "The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982."
+      "year": "2010",
+      "text": "Two suicide bombers hit the Moscow Metro system at the peak of the morning rush hour, killing 40."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Nick Ut, Vietnamese-American photographer"
     },
     {
       "type": "Event",
@@ -297,9 +192,114 @@
       "text": "Sunbeam 1000hp breaks the land speed record at Daytona Beach, Florida."
     },
     {
+      "type": "Event",
+      "year": "2001",
+      "text": "A Gulfstream III crashes on approach to Aspen/Pitkin County Airport in Aspen, Colorado. All 18 people on board are killed."
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "At the Diet of Porvoo, Finland's four Estates pledge allegiance to Alexander I of Russia, commencing the secession of the Grand Duchy of Finland from Sweden."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Brian Jordan, American baseball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Michael Brecker, American saxophonist and composer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Eric Idle, English actor, comedian, musician and writer"
+    },
+    {
+      "type": "Event",
+      "year": "1879",
+      "text": "Anglo-Zulu War: Battle of Kambula: British forces defeat 20,000 Zulus."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "The Twenty-third Amendment to the United States Constitution is ratified, allowing residents of Washington, D.C., to vote in presidential elections."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Aleksei Gubarev, Russian general, pilot and cosmonaut (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Jo Nesbø, Norwegian writer, musician and football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "PJ Morton, American musician, singer, songwriter and record producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Hamzah bin Hussein, Jordanian prince"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Nouriel Roubini, Iranian-American economic consultant, economist and writer"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis."
+    },
+    {
+      "type": "Event",
+      "year": "1882",
+      "text": "The Knights of Columbus is established."
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "King Gustav IV Adolf of Sweden abdicates after a coup d'état."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Vincent Gigante, American boxer and mobster (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "The Dow Jones Industrial Average closes above the 10,000 mark (10,006.78) for the first time, during the height of the dot-com bubble."
+    },
+    {
       "type": "Birth",
       "year": "1951",
-      "text": "Nick Ut, Vietnamese-American photographer"
+      "text": "William Clarke, American harmonica player (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Billy Thorpe, English-Australian singer-songwriter, guitarist, and producer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Nina Riggs, American writer and poet (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Martha A. Sandweiss, American historian"
     }
   ],
   "source": "Wikipedia"
