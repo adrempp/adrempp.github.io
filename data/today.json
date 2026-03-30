@@ -3,18 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "2023",
-      "text": "Donald Trump becomes the first former United States president to be indicted by a grand jury."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Wally Grout, Australian cricketer (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Anastasia Potapova, Russian tennis player"
+      "year": "1976",
+      "text": "Israeli-Palestinian conflict: in the first organized response against Israeli policies by a Palestinian collective since 1948, Palestinians create the first Land Day."
     },
     {
       "type": "Birth",
@@ -23,198 +13,8 @@
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Colin Egar, Australian cricket umpire (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "Ether anesthesia is used for the first time, in an operation by the American surgeon Dr. Crawford Long."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Gordon Mumma, American composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Kareem Streete-Thompson, Caymanian-American long jumper"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Ty Conklin, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Tracy Chapman, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Rolf Harris, Australian singer-songwriter (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "The Single Convention on Narcotic Drugs is signed in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Brooke Astor, American socialite and philanthropist (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: A car bomb explodes in front of the United States Embassy, Saigon, killing 22 and wounding 183 others."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Brian Wilshire, Australian radio host"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Soviet forces invade Austria and capture Vienna. Polish and Soviet forces liberate Danzig."
-    },
-    {
-      "type": "Birth",
-      "year": "1820",
-      "text": "James Whyte, Scottish-Australian politician, 6th Premier of Tasmania (died 1882)"
-    },
-    {
-      "type": "Event",
-      "year": "1296",
-      "text": "Edward I sacks Berwick-upon-Tweed, during armed conflict between Scotland and England."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jammal Brown, American football player"
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Robert Creeley, American novelist, essayist, and poet (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Sonny Boy Williamson I, American singer-songwriter and harmonica player (died 1948)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Doug Wickenheiser, Canadian-American ice hockey player (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Richard Dysart, American actor (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "MC Hammer, American rapper and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Norah Jones, American singer-songwriter and pianist"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Richard Helms, American soldier and diplomat, 8th Director of Central Intelligence (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Leonid Voloshin, Russian triple jumper"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "Cold War: A riot breaks out in Austurvöllur square in Reykjavík, when Iceland joins NATO."
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "U.S. President Ronald Reagan is shot in the chest outside a Washington, D.C., hotel by John Hinckley Jr.; three others are wounded in the same incident."
-    },
-    {
-      "type": "Death",
-      "year": "1985",
-      "text": "Harold Peary, American actor and singer (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Mark Consuelos, American actor and television personality"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Klaus Schwab, German economist and engineer, founded the World Economic Forum"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Texas is readmitted to the United States Congress following Reconstruction."
-    },
-    {
-      "type": "Birth",
-      "year": "1875",
-      "text": "Thomas Xenakis, Greek-American gymnast (died 1942)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Samantha Stosur, Australian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Jerry Lucas, American basketball player and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Ingvar Kamprad, Swedish businessman, founded IKEA (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1867",
-      "text": "Alaska is purchased from Russia for $7.2 million, about two cents/acre ($4.19/km2), by United States Secretary of State William H. Seward."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Bill Johnson, American skier (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "McGeorge Bundy, American intelligence officer and diplomat, 6th United States National Security Advisor (died 1996)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Daniel Hoffman, American poet and academic (born 1923)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Janet Browne, English-American historian and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Space Shuttle program: STS-3 mission is completed with the landing of Columbia at White Sands Missile Range, New Mexico."
+      "year": "1989",
+      "text": "João Sousa, Portuguese tennis player"
     },
     {
       "type": "Birth",
@@ -222,49 +22,19 @@
       "text": "Jay Traynor, American pop and doo-wop singer (died 2014)"
     },
     {
-      "type": "Event",
-      "year": "1885",
-      "text": "The Battle for Kushka triggers the Panjdeh Incident which nearly gives rise to war between the Russian and British Empires."
+      "type": "Birth",
+      "year": "1934",
+      "text": "Hans Hollein, Austrian architect and academic, designed Haas House (died 2014)"
     },
     {
       "type": "Birth",
-      "year": "1907",
-      "text": "Friedrich August Freiherr von der Heydte, German general (died 1994)"
+      "year": "1994",
+      "text": "Alex Bregman, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Ryan Noda, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Will Matthews, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Warren Beatty, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Joy Ridderhof, American missionary (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1855",
-      "text": "Origins of the American Civil War: \"Border Ruffians\" from Missouri invade Kansas and force election of a pro-slavery legislature."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Zay Jones, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1822",
-      "text": "The Florida Territory is created in the United States."
+      "year": "1935",
+      "text": "Willie Galimore, American football player (died 1964)"
     },
     {
       "type": "Birth",
@@ -273,18 +43,243 @@
     },
     {
       "type": "Event",
+      "year": "1949",
+      "text": "Cold War: A riot breaks out in Austurvöllur square in Reykjavík, when Iceland joins NATO."
+    },
+    {
+      "type": "Event",
+      "year": "1885",
+      "text": "The Battle for Kushka triggers the Panjdeh Incident which nearly gives rise to war between the Russian and British Empires."
+    },
+    {
+      "type": "Birth",
+      "year": "1863",
+      "text": "Mary Calkins, American philosopher and psychologist (died 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Colton Herta, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Jerry Lucas, American basketball player and educator"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Chance Perdomo, British-American actor (born 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Warren Beatty, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "MC Hammer, American rapper and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Klaus Schwab, German economist and engineer, founded the World Economic Forum"
+    },
+    {
+      "type": "Event",
+      "year": "1855",
+      "text": "Origins of the American Civil War: \"Border Ruffians\" from Missouri invade Kansas and force election of a pro-slavery legislature."
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Anastasia Potapova, Russian tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Texas is readmitted to the United States Congress following Reconstruction."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Joe Ruby, American animator (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Martin Love, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Gordon Mumma, American composer"
+    },
+    {
+      "type": "Event",
+      "year": "1867",
+      "text": "Alaska is purchased from Russia for $7.2 million, about two cents/acre ($4.19/km2), by United States Secretary of State William H. Seward."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "John Barnhill, American basketball player and coach (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Grady Little, American baseball player, coach, and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Space Shuttle program: STS-3 mission is completed with the landing of Columbia at White Sands Missile Range, New Mexico."
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Brooke Astor, American socialite and philanthropist (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Ryan Noda, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Bob Smith, American soldier and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Colin Egar, Australian cricket umpire (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Troy Bayliss, Australian motorcycle racer"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Donald Trump becomes the first former United States president to be indicted by a grand jury."
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "U.S. President Ronald Reagan is shot in the chest outside a Washington, D.C., hotel by John Hinckley Jr.; three others are wounded in the same incident."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Sonny Boy Williamson I, American singer-songwriter and harmonica player (died 1948)"
+    },
+    {
+      "type": "Death",
+      "year": "2003",
+      "text": "Michael Jeter, American actor (born 1952)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Richard Sherman, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Jim \"Dandy\" Mangrum, American rock singer"
+    },
+    {
+      "type": "Event",
+      "year": "1842",
+      "text": "Ether anesthesia is used for the first time, in an operation by the American surgeon Dr. Crawford Long."
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Vietnam War: A car bomb explodes in front of the United States Embassy, Saigon, killing 22 and wounding 183 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Ty Conklin, American ice hockey player"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Leonid Shebarshin, Russian KGB officer (born 1935)"
+    },
+    {
+      "type": "Event",
+      "year": "1296",
+      "text": "Edward I sacks Berwick-upon-Tweed, during armed conflict between Scotland and England."
+    },
+    {
+      "type": "Event",
       "year": "1818",
       "text": "Physicist Augustin Fresnel reads a memoir on optical rotation to the French Academy of Sciences, reporting that when polarized light is \"depolarized\" by a Fresnel rhomb, its properties are preserved in any subsequent passage through an optically-rotating crystal or liquid."
     },
     {
       "type": "Event",
-      "year": "1976",
-      "text": "Israeli-Palestinian conflict: in the first organized response against Israeli policies by a Palestinian collective since 1948, Palestinians create the first Land Day."
+      "year": "1822",
+      "text": "The Florida Territory is created in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "The Single Convention on Narcotic Drugs is signed in New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Soviet forces invade Austria and capture Vienna. Polish and Soviet forces liberate Danzig."
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Paul Reiser, American actor and comedian"
+      "year": "1940",
+      "text": "David Earle Bailey, American Episcopal priest (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Zay Jones, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Cyclone Glenda, one of the strongest tropical cyclones in the Australian region makes landfall near Onslow, Western Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Samantha Stosur, Australian tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Kareem Streete-Thompson, Caymanian-American long jumper"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Paul Crouch, American broadcaster, co-founded the Trinity Broadcasting Network (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1864",
+      "text": "Franz Oppenheimer, German-American sociologist and economist (died 1943)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Norah Jones, American singer-songwriter and pianist"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Trent Barreta, American wrestler"
     },
     {
       "type": "Birth",
@@ -293,13 +288,18 @@
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Joey Sindelar, American golfer"
+      "year": "1937",
+      "text": "Ian MacLaurin, Baron MacLaurin of Knebworth, English businessman"
     },
     {
-      "type": "Event",
-      "year": "2006",
-      "text": "Cyclone Glenda, one of the strongest tropical cyclones in the Australian region makes landfall near Onslow, Western Australia."
+      "type": "Birth",
+      "year": "1973",
+      "text": "Adam Goldstein, American keyboard player, DJ, and producer (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Dmitry Volkov, Russian swimmer (died 2025)"
     }
   ],
   "source": "Wikipedia"
