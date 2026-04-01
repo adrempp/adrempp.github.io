@@ -3,38 +3,48 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "William Manchester, American historian and author (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Jeff Porcaro, American drummer, songwriter, and producer (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Brad Meltzer, American author, screenwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Cicely Courtneidge, Australian-English actress (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Brook Lopez, American basketball player"
+      "year": "1929",
+      "text": "Jonathan Haze, American actor, producer, screenwriter, and production manager (died 2024)"
     },
     {
       "type": "Event",
-      "year": "1944",
-      "text": "World War II: Navigation errors lead to an accidental American bombing of the Swiss city of Schaffhausen."
+      "year": "2001",
+      "text": "An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained."
     },
     {
-      "type": "Death",
-      "year": "1924",
-      "text": "Stan Rowley, Australian sprinter (born 1876)"
+      "type": "Birth",
+      "year": "1898",
+      "text": "William James Sidis, Ukrainian-Russian Jewish American mathematician, anthropologist, and historian (died 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Mark Shulman, American author"
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Stanislaus Zbyszko, Polish wrestler and strongman (died 1967)"
+    },
+    {
+      "type": "Event",
+      "year": "1833",
+      "text": "The Convention of 1833, a political gathering of settlers in Mexican Texas to help draft a series of petitions to the Mexican government, begins in San Felipe de Austin."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "Chinese Civil War: The Chinese Communist Party holds unsuccessful peace talks with the Nationalist Party in Beijing, after three years of fighting."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Peter Collinson, English-American director and producer (died 1980)"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "United States President Dwight D. Eisenhower authorizes the creation of the United States Air Force Academy in Colorado Springs, Colorado."
     },
     {
       "type": "Event",
@@ -47,34 +57,99 @@
       "text": "Etan Thomas, American basketball player"
     },
     {
-      "type": "Event",
-      "year": "1833",
-      "text": "The Convention of 1833, a political gathering of settlers in Mexican Texas to help draft a series of petitions to the Mexican government, begins in San Felipe de Austin."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Iran becomes an Islamic republic by a 99% vote, officially overthrowing the Shah."
+      "type": "Birth",
+      "year": "1852",
+      "text": "Edwin Austin Abbey, American painter and illustrator (died 1911)"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "D. Boon, American singer and musician (died 1985)"
+      "year": "1873",
+      "text": "Sergei Rachmaninoff, Russian pianist, composer, and conductor (died 1943)"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Bijou Phillips, American actress and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Gianluca Musacci, Italian footballer"
+      "year": "1917",
+      "text": "Melville Shavelson, American director, producer, and screenwriter (died 2007)"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "World War II: The Tenth United States Army attacks the Thirty-Second Japanese Army on Okinawa."
+      "year": "1933",
+      "text": "The recently elected Nazis under Julius Streicher organize a one-day boycott of all Jewish-owned businesses in Germany, ushering in a series of anti-Semitic acts."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Julia Fischer, German discus thrower"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "King Combs, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1883",
+      "text": "Laurette Taylor, Irish-American actress (died 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Jeff Porcaro, American drummer, songwriter, and producer (died 1992)"
+    },
+    {
+      "type": "Death",
+      "year": "1205",
+      "text": "Amalric II, king of Cyprus and Jerusalem"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: Navigation errors lead to an accidental American bombing of the Swiss city of Schaffhausen."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Whittaker Chambers, American journalist and spy (died 1961)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Rachel Maddow, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "David Gilliland, American race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "The 8.6 Mw  Aleutian Islands earthquake shakes the Aleutian Islands with a maximum Mercalli intensity of VI (Strong). A destructive tsunami reaches the Hawaiian Islands resulting in dozens of deaths, mostly in Hilo, Hawaii."
+    },
+    {
+      "type": "Event",
+      "year": "1955",
+      "text": "The EOKA rebellion against the British Empire begins in Cyprus, with the goal of unifying with Greece."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Spanish Civil War: Generalísimo Francisco Franco of the Spanish State announces the end of the Spanish Civil War, when the last of the Republican forces surrender."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Cyril Karabus, South African paediatric oncologist"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Bangladesh Liberation War: The Pakistan Army massacre more than a thousand people in Keraniganj Upazila, Bangladesh."
     },
     {
       "type": "Event",
@@ -84,102 +159,17 @@
     {
       "type": "Event",
       "year": "2001",
-      "text": "An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Larry McDonald, American physician and politician (died 1983)"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The recently elected Nazis under Julius Streicher organize a one-day boycott of all Jewish-owned businesses in Germany, ushering in a series of anti-Semitic acts."
-    },
-    {
-      "type": "Birth",
-      "year": "1834",
-      "text": "James Fisk, American businessman (died 1872)"
-    },
-    {
-      "type": "Birth",
-      "year": "1823",
-      "text": "Simon Bolivar Buckner, American general and politician, 30th Governor of Kentucky (died 1891)"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: Union troops led by Philip Sheridan decisively defeat Confederate troops led by George Pickett, cutting the Army of Northern Virginia's last supply line during the Siege of Petersburg."
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "The EOKA rebellion against the British Empire begins in Cyprus, with the goal of unifying with Greece."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Christian Finnegan, American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Wallace Beery, American actor (died 1949)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Whittaker Chambers, American journalist and spy (died 1961)"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Jordan Charney, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "527",
-      "text": "Byzantine Emperor Justin I names his nephew Justinian I as co-ruler and successor to the throne."
-    },
-    {
-      "type": "Death",
-      "year": "1950",
-      "text": "Charles R. Drew, American physician and surgeon (born 1904)"
+      "text": "Former President of Federal Republic of Yugoslavia Slobodan Milošević surrenders to police special forces, to be tried on war crimes charges."
     },
     {
       "type": "Birth",
       "year": "1998",
-      "text": "King Combs, American rapper"
+      "text": "Mitchell Robinson, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Phil Niekro, American baseball player and manager (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "Stanislaus Zbyszko, Polish wrestler and strongman (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Hillary Scott, American country singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Bangladesh Liberation War: The Pakistan Army massacre more than a thousand people in Keraniganj Upazila, Bangladesh."
-    },
-    {
-      "type": "Death",
-      "year": "1890",
-      "text": "David Wilber, American politician (born 1820)"
+      "year": "1969",
+      "text": "Lev Lobodin, Ukrainian-Russian decathlete"
     },
     {
       "type": "Birth",
@@ -187,94 +177,24 @@
       "text": "Sean Taylor, American football player (died 2007)"
     },
     {
-      "type": "Event",
-      "year": "1949",
-      "text": "Chinese Civil War: The Chinese Communist Party holds unsuccessful peace talks with the Nationalist Party in Beijing, after three years of fighting."
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013."
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "In New York City, the United States House of Representatives achieves its first quorum and elects Frederick Muhlenberg of Pennsylvania as its first Speaker."
+      "type": "Birth",
+      "year": "1952",
+      "text": "Annette O'Toole, American actress"
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Denise Nickerson, American actress (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "Former President of Federal Republic of Yugoslavia Slobodan Milošević surrenders to police special forces, to be tried on war crimes charges."
+      "year": "1922",
+      "text": "William Manchester, American historian and author (died 2004)"
     },
     {
       "type": "Birth",
-      "year": "1911",
-      "text": "Augusta Braxton Baker, African American librarian (died 1998)"
+      "year": "1942",
+      "text": "Richard D. Wolff, American economist and academic"
     },
     {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Jesse Tobias, American guitarist and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Julia Fischer, German discus thrower"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Spanish Civil War: Generalísimo Francisco Franco of the Spanish State announces the end of the Spanish Civil War, when the last of the Republican forces surrender."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Rachel Maddow, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Samuel Alito, American lawyer and jurist, Associate Justice of the Supreme Court of the United States"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Melville Shavelson, American director, producer, and screenwriter (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1852",
-      "text": "Edwin Austin Abbey, American painter and illustrator (died 1911)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Joseph Murray, American surgeon and soldier, Nobel Prize laureate (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "William James Sidis, Ukrainian-Russian Jewish American mathematician, anthropologist, and historian (died 1944)"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The 8.6 Mw  Aleutian Islands earthquake shakes the Aleutian Islands with a maximum Mercalli intensity of VI (Strong). A destructive tsunami reaches the Hawaiian Islands resulting in dozens of deaths, mostly in Hilo, Hawaii."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "Fântâna Albă massacre: Between two hundred and two thousand Romanian civilians are killed by Soviet Border Troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Peter Collinson, English-American director and producer (died 1980)"
+      "type": "Death",
+      "year": "1965",
+      "text": "Helena Rubinstein, Polish-American businesswoman (born 1870)"
     },
     {
       "type": "Event",
@@ -283,23 +203,103 @@
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Randy Orton, American wrestler"
+      "year": "1955",
+      "text": "Don Hasselbeck, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Vitor Belfort, Brazilian-American boxer and mixed martial artist"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: Union troops led by Philip Sheridan decisively defeat Confederate troops led by George Pickett, cutting the Army of Northern Virginia's last supply line during the Siege of Petersburg."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Gianluca Musacci, Italian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Wallace Beery, American actor (died 1949)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Debbie Reynolds, American actress, singer, and dancer (died 2016)"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Lionel Bowen, Australian soldier, lawyer, and politician, Deputy Prime Minister of Australia (born 1922)"
     },
     {
       "type": "Birth",
       "year": "1927",
-      "text": "Ferenc Puskás, Hungarian footballer and manager (died 2006)"
+      "text": "Amos Milburn, American R&B singer-songwriter and pianist (died 1980)"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Nicola Roxon, Australian lawyer and politician, 34th Attorney-General for Australia"
+      "year": "1961",
+      "text": "Susan Boyle, Scottish singer"
     },
     {
       "type": "Event",
-      "year": "1954",
-      "text": "United States President Dwight D. Eisenhower authorizes the creation of the United States Air Force Academy in Colorado Springs, Colorado."
+      "year": "2016",
+      "text": "The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Vladimir Posner, French-American journalist and radio host"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Iran becomes an Islamic republic by a 99% vote, officially overthrowing the Shah."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Harry Carney, American saxophonist and clarinet player (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "John Abizaid, American general"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "In New York City, the United States House of Representatives achieves its first quorum and elects Frederick Muhlenberg of Pennsylvania as its first Speaker."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Abner Biberman, American actor, director, and screenwriter (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "D. Boon, American singer and musician (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "Fântâna Albă massacre: Between two hundred and two thousand Romanian civilians are killed by Soviet Border Troops."
+    },
+    {
+      "type": "Event",
+      "year": "527",
+      "text": "Byzantine Emperor Justin I names his nephew Justinian I as co-ruler and successor to the throne."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The Tenth United States Army attacks the Thirty-Second Japanese Army on Okinawa."
     }
   ],
   "source": "Wikipedia"
