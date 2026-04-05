@@ -2,79 +2,9 @@
   "date": "2026-04-05",
   "items": [
     {
-      "type": "Death",
-      "year": "2005",
-      "text": "Robert Borg, American military officer and equestrian (born 1913)"
-    },
-    {
       "type": "Birth",
-      "year": "1993",
-      "text": "Maya DiRado, American swimmer"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Barney McKenna, Irish musician (born 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Fyodor Kudryashov, Russian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Dominik Mysterio, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Nima Arkani-Hamed, American-Canadian theoretical physicist"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Twenty-nine coal miners are killed in an explosion at the Upper Big Branch Mine in West Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "A fire in a hospital in Effingham, Illinois, kills 77 people and leads to nationwide fire code improvements in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1902",
-      "text": "A stand box collapses at Ibrox Park (now Ibrox Stadium) in Glasgow, Scotland, which led to the deaths of 25 and injuries to more than 500 supporters during an international association football match between Scotland and England."
-    },
-    {
-      "type": "Event",
-      "year": "1614",
-      "text": "In Virginia, Native American Pocahontas marries English colonist John Rolfe."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Günther Weidlinger, Austrian long-distance runner"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Peter Penz, Austrian luger"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Alexei Glukhov, Russian ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Matt Bonner, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Spanish Civil War: Two days after the Nationalist army occupied the Catalan city of Lleida, dictator Francisco Franco decrees the abolition of the Generalitat (the autonomous government of Catalonia), the self-government granted by the Republic, and the official status of the Catalan language."
+      "year": "1986",
+      "text": "Anna Sophia Berglund, American model and actress"
     },
     {
       "type": "Birth",
@@ -83,18 +13,278 @@
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Krista Allen, American actress"
+      "year": "1984",
+      "text": "Dmitry Kozonchuk, Russian cyclist"
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "A fire in a hospital in Effingham, Illinois, kills 77 people and leads to nationwide fire code improvements in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard including Sen. John Tower and astronaut Sonny Carter."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Hayley Atwell, English-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "Cold War: Ethel and Julius Rosenberg are sentenced to death for spying for the Soviet Union."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Gleb Rassadkin, Belarusian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Natascha Ragosina, Russian boxer"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Maya DiRado, American swimmer"
+    },
+    {
+      "type": "Death",
+      "year": "1891",
+      "text": "Johann Hermann Bauer, Austrian chess master (born 1861)"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The American Birth Control League, forerunner of Planned Parenthood, is incorporated."
     },
     {
       "type": "Birth",
       "year": "1980",
-      "text": "Rasmus Quist Hansen, Danish rower"
+      "text": "Matt Bonner, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Laura Feiersinger, Austrian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Justin Holiday, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Brendan Cannon, Australian rugby player"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Kelly Pavlik, American boxer"
+    },
+    {
+      "type": "Death",
+      "year": "1972",
+      "text": "Isabel Jewell, American actress and singer (born 1907)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Bobby Miller, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Shammond Williams, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Patrick Dangerfield, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Stephen Jackson, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1621",
+      "text": "The Mayflower sets sail from Plymouth, Massachusetts on a return trip to England."
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Tupelo–Gainesville tornado outbreak: An F5 tornado kills 233 in Tupelo, Mississippi."
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Spanish Civil War: Two days after the Nationalist army occupied the Catalan city of Lleida, dictator Francisco Franco decrees the abolition of the Generalitat (the autonomous government of Catalonia), the self-government granted by the Republic, and the official status of the Catalan language."
+    },
+    {
+      "type": "Event",
+      "year": "1614",
+      "text": "In Virginia, Native American Pocahontas marries English colonist John Rolfe."
+    },
+    {
+      "type": "Event",
+      "year": "1902",
+      "text": "A stand box collapses at Ibrox Park (now Ibrox Stadium) in Glasgow, Scotland, which led to the deaths of 25 and injuries to more than 500 supporters during an international association football match between Scotland and England."
+    },
+    {
+      "type": "Event",
+      "year": "1795",
+      "text": "Peace of Basel between France and Prussia is made."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The US Supreme Court rules that congressional legislation that diminished the size of the Sioux people's reservation thereby destroyed the tribe's jurisdictional authority over the area in Rosebud Sioux Tribe v. Kneip."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Quade Cooper, New Zealand-Australian rugby player and boxer"
+    },
+    {
+      "type": "Event",
+      "year": "1242",
+      "text": "During the Battle on the Ice of Lake Peipus, Russian forces, led by Alexander Nevsky, rebuff an invasion attempt by the Teutonic Knights."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Dante Wesley, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "Carrie, the first novel by American author Stephen King, is published for the first time with a print run of 30,000 copies."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Twenty-nine coal miners are killed in an explosion at the Upper Big Branch Mine in West Virginia."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Josh Boone, American screenwriter and director"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "The People's Armed Police is officially founded"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Alberto Fujimori, president of Peru, dissolves the Peruvian congress by military force."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Agents with the U.S. Immigration and Customs Enforcement raid a slaughterhouse in Tennessee, detaining nearly 100 undocumented Hispanic workers in one of the largest workplace raids in the history of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Élodie Bouchez, French-American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Oleg Khodkov, Russian handball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Mateusz Bieniek, Polish volleyball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Scottie Wilbekin, American-Turkish basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Matthew Emmons, American rifle shooter"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Fyodor Kudryashov, Russian footballer"
     },
     {
       "type": "Event",
       "year": "1792",
       "text": "United States President George Washington exercises his authority to veto a bill, the first time this power is used in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Sterling K. Brown, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: United States Army Air Forces bomber aircraft accidentally cause more than 900 civilian deaths, including 209 children, and 1,300 wounded among the civilian population of the Belgian town of Mortsel. Their target was the Erla factory 1 kilometre (0.62 mi) from the residential area hit."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "U.S. President Franklin D. Roosevelt signs two executive orders: 6101 to establish the Civilian Conservation Corps, and 6102 \"forbidding the Hoarding of Gold Coin, Gold Bullion, and Gold Certificates\" by U.S. citizens."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Matt Pickens, American soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Peter Penz, Austrian luger"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Shikha Uberoi, Indian-American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Pharrell Williams, American singer, songwriter and rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Michael A. Monsoor, American sailor, Medal of Honor recipient (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Up to 50 people are killed and another 100 injured in two militant suicide bombings and attacks in Khyber Pakhtunkhwa province of Pakistan: the first on an Awami National Party rally in Timergara; the second on the U.S. Consulate in Peshawar."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Battle of Yorktown begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Marshall Allman, American actor"
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Gene Pitney, American singer-songwriter (born 1940)"
     },
     {
       "type": "Birth",
@@ -108,198 +298,8 @@
     },
     {
       "type": "Event",
-      "year": "1936",
-      "text": "Tupelo–Gainesville tornado outbreak: An F5 tornado kills 233 in Tupelo, Mississippi."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: United States Army Air Forces bomber aircraft accidentally cause more than 900 civilian deaths, including 209 children, and 1,300 wounded among the civilian population of the Belgian town of Mortsel. Their target was the Erla factory 1 kilometre (0.62 mi) from the residential area hit."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "The US Supreme Court rules that congressional legislation that diminished the size of the Sioux people's reservation thereby destroyed the tribe's jurisdictional authority over the area in Rosebud Sioux Tribe v. Kneip."
-    },
-    {
-      "type": "Event",
-      "year": "1242",
-      "text": "During the Battle on the Ice of Lake Peipus, Russian forces, led by Alexander Nevsky, rebuff an invasion attempt by the Teutonic Knights."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Charlotte Flair, American wrestler, author and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1795",
-      "text": "Peace of Basel between France and Prussia is made."
-    },
-    {
-      "type": "Event",
       "year": "1932",
       "text": "Dominion of Newfoundland: Ten thousand rioters seize the Colonial Building leading to the end of self-government."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The People's Armed Police is officially founded"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Kelly Pavlik, American boxer"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Trevor Marsicano, American speed skater"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Pharrell Williams, American singer, songwriter and rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Hayley Atwell, English-American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1621",
-      "text": "The Mayflower sets sail from Plymouth, Massachusetts on a return trip to England."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Bobby Miller, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Natascha Ragosina, Russian boxer"
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "The American Birth Control League, forerunner of Planned Parenthood, is incorporated."
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "Cold War: Ethel and Julius Rosenberg are sentenced to death for spying for the Soviet Union."
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Paul O'Neill, American rock composer and producer (born 1956)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard including Sen. John Tower and astronaut Sonny Carter."
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "U.S. President Franklin D. Roosevelt signs two executive orders: 6101 to establish the Civilian Conservation Corps, and 6102 \"forbidding the Hoarding of Gold Coin, Gold Bullion, and Gold Certificates\" by U.S. citizens."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Shikha Uberoi, Indian-American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Laura Feiersinger, Austrian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Quade Cooper, New Zealand-Australian rugby player and boxer"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The Battle of Yorktown begins."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Alberto Fujimori, president of Peru, dissolves the Peruvian congress by military force."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Patrick Dangerfield, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Josh Boone, American screenwriter and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Justin Holiday, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Up to 50 people are killed and another 100 injured in two militant suicide bombings and attacks in Khyber Pakhtunkhwa province of Pakistan: the first on an Awami National Party rally in Timergara; the second on the U.S. Consulate in Peshawar."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Austin Berry, Costa Rican footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Dante Wesley, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Anton Kokorin, Russian sprint athlete"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Vyacheslav Voronin, Russian high jumper"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Matthew Emmons, American rifle shooter"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Carrie, the first novel by American author Stephen King, is published for the first time with a print run of 30,000 copies."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Paul Okon, Australian footballer and manager"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Agents with the U.S. Immigration and Customs Enforcement raid a slaughterhouse in Tennessee, detaining nearly 100 undocumented Hispanic workers in one of the largest workplace raids in the history of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Alisha Glass, American ex-indoor volleyball player"
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Tetairoa McMillan, American football player"
     }
   ],
   "source": "Wikipedia"
