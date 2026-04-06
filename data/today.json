@@ -3,68 +3,28 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Barry Levinson, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "-46",
-      "text": "Julius Caesar defeats Caecilius Metellus Scipio and Marcus Porcius Cato (Cato the Younger) at the Battle of Thapsus."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Christopher Franke, German-American drummer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Sterling Sharpe, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Tom C. Korologos, American journalist and diplomat, United States Ambassador to Belgium (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Launch of Early Bird, the first commercial communications satellite to be placed in geosynchronous orbit."
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Anita Borg, American computer scientist and educator; founded Anita Borg Institute for Women and Technology (born 1949)"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Randy Weston, American jazz pianist and composer (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "In Greene County, Tennessee, the Lillelid murders occur."
-    },
-    {
-      "type": "Birth",
       "year": "1985",
       "text": "Sinqua Walls, American basketball player and actor"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Leigh Adams, Australian footballer"
+      "year": "1969",
+      "text": "Philipp Peter, Austrian race car driver"
     },
     {
-      "type": "Event",
-      "year": "1974",
-      "text": "The first California Jam festival takes place at the Ontario Motor Speedway in Ontario, California. Co-headlined by Deep Purple and Emerson, Lake & Palmer. The festival set what were then records for the loudest amplification system ever installed, the highest paid attendance, and highest gross in history."
+      "type": "Birth",
+      "year": "1981",
+      "text": "Alex Suarez, American bass player"
     },
     {
-      "type": "Event",
-      "year": "1968",
-      "text": "In the downtown district of Richmond, Indiana, a double explosion kills 41 and injures 150."
+      "type": "Birth",
+      "year": "1976",
+      "text": "Chris Hoke, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Guy Peellaert, Belgian painter, illustrator, and photographer (died 2008)"
     },
     {
       "type": "Event",
@@ -73,8 +33,33 @@
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Ivan Dixon, American actor, director, and producer (died 2008)"
+      "year": "1976",
+      "text": "Candace Cameron Bure, American actress and talk show panelist"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Tom C. Korologos, American journalist and diplomat, United States Ambassador to Belgium (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Sergio Franchi, Italian-American singer and actor (died 1990)"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "In Greene County, Tennessee, the Lillelid murders occur."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "André Previn, American pianist, composer, and conductor (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Warren Haynes, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
@@ -82,9 +67,69 @@
       "text": "The Grand Army of the Republic, an American patriotic organization composed of Union veterans of the American Civil War, is founded. It lasts until 1956."
     },
     {
+      "type": "Death",
+      "year": "2025",
+      "text": "Jay North, American actor (born 1951)"
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "Capital Airlines Flight 67 crashes in Tittabawassee Township, Michigan, near Freeland Tri-City Airport, killing 47."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The American League of Major League Baseball begins using the designated hitter."
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Tupelo–Gainesville tornado outbreak: Another tornado from the same storm system as the Tupelo tornado hits Gainesville, Georgia, killing 203."
+    },
+    {
       "type": "Birth",
-      "year": "1969",
-      "text": "Bison Dele, American basketball player (died 2002)"
+      "year": "1984",
+      "text": "Max Bemis, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Billy Dee Williams, American actor, singer, and writer"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Phil Austin, American comedian, actor, and screenwriter (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1830",
+      "text": "Church of Christ, the original church of the Latter Day Saint movement, is organized by Joseph Smith and others at either Fayette or Manchester, New York."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Battle of Shiloh begins: In Tennessee, forces under Union General Ulysses S. Grant meet Confederate troops led by General Albert Sidney Johnston."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Archon Fung, American political scientist, author, and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1808",
+      "text": "John Jacob Astor incorporates the American Fur Company, that would eventually make him America's first millionaire."
+    },
+    {
+      "type": "Death",
+      "year": "1899",
+      "text": "Alvan Wentworth Chapman, American physician and botanist (born 1809)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "Finnish Civil War: The battle of Tampere ends."
     },
     {
       "type": "Event",
@@ -93,8 +138,23 @@
     },
     {
       "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The Battle of Shiloh begins: In Tennessee, forces under Union General Ulysses S. Grant meet Confederate troops led by General Albert Sidney Johnston."
+      "year": "1929",
+      "text": "Huey P. Long, Governor of Louisiana, is impeached by the Louisiana House of Representatives."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "A bus carrying the Humboldt Broncos junior ice hockey team collides with a semi-truck in Saskatchewan, Canada, killing 16 people and injuring 13 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Jack Cover, American pilot and physicist, invented the Taser gun (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Dickey Simpkins, American basketball player and sportscaster"
     },
     {
       "type": "Event",
@@ -103,13 +163,88 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Spencer Wells, American geneticist and anthropologist"
+      "year": "1931",
+      "text": "Ram Dass, American author and educator (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "World War I: The United States declares war on Germany."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Hal Gill, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Bert Blyleven, Dutch-American baseball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "-46",
+      "text": "Julius Caesar defeats Caecilius Metellus Scipio and Marcus Porcius Cato (Cato the Younger) at the Battle of Thapsus."
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: The Battle of Sailor's Creek: Confederate General Robert E. Lee's Army of Northern Virginia fights and loses its last major battle while in retreat from Richmond, Virginia, during the Appomattox Campaign."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Myleene Klass, Austrian/Filipino-English singer, pianist, and model"
+    },
+    {
+      "type": "Event",
+      "year": "1841",
+      "text": "U.S. President John Tyler is sworn in, two days after having become president upon William Henry Harrison's death."
     },
     {
       "type": "Event",
       "year": "1896",
       "text": "In Athens, the opening of the first modern Olympic Games is celebrated, 1,500 years after the original games are banned by Roman emperor Theodosius I."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Charlie McDermott, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1926",
+      "text": "Varney Airlines makes its first commercial flight (Varney is the root company of United Airlines)."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Angeliki Laiou, Greek-American Byzantinist and politician (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "U.S. military launches 59 Tomahawk cruise missiles at an air base in Syria. Russia describes the strikes as an \"aggression\", adding they significantly damage US-Russia ties."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Blaine Neal, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1676",
+      "text": "John Winthrop the Younger, English politician, 1st Governor of Connecticut (born 1606)"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: Ships of the Continental Navy fail in their attempt to capture a Royal Navy dispatch boat."
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "The first California Jam festival takes place at the Ontario Motor Speedway in Ontario, California. Co-headlined by Deep Purple and Emerson, Lake & Palmer. The festival set what were then records for the loudest amplification system ever installed, the highest paid attendance, and highest gross in history."
     },
     {
       "type": "Event",
@@ -122,9 +257,24 @@
       "text": "Don Prudhomme, American race car driver and manager"
     },
     {
+      "type": "Event",
+      "year": "1965",
+      "text": "Launch of Early Bird, the first commercial communications satellite to be placed in geosynchronous orbit."
+    },
+    {
       "type": "Birth",
-      "year": "1941",
-      "text": "Phil Austin, American comedian, actor, and screenwriter (died 2015)"
+      "year": "1978",
+      "text": "Imani Coppola, American singer-songwriter and violinist"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "In the downtown district of Richmond, Indiana, a double explosion kills 41 and injures 150."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Paul Rudd, American actor"
     },
     {
       "type": "Event",
@@ -133,18 +283,8 @@
     },
     {
       "type": "Event",
-      "year": "1958",
-      "text": "Capital Airlines Flight 67 crashes in Tittabawassee Township, Michigan, near Freeland Tri-City Airport, killing 47."
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: The Battle of Sailor's Creek: Confederate General Robert E. Lee's Army of Northern Virginia fights and loses its last major battle while in retreat from Richmond, Virginia, during the Appomattox Campaign."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Black Francis, American singer-songwriter and guitarist"
+      "year": "1909",
+      "text": "Robert Peary and Matthew Henson become the first people to reach the North Pole; Peary's claim has been disputed because of failings in his navigational ability."
     },
     {
       "type": "Event",
@@ -153,153 +293,13 @@
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Gerry Mulligan, American saxophonist, clarinet player, and composer (died 1996)"
-    },
-    {
-      "type": "Birth",
       "year": "1990",
-      "text": "Charlie McDermott, American actor"
+      "text": "Lachlan Coote, Australian rugby league player"
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Ram Dass, American author and educator (died 2019)"
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Greer Garson, English-American actress (born 1904)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Hal Gill, American ice hockey player"
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "David Bloom, American journalist (born 1963)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "U.S. military launches 59 Tomahawk cruise missiles at an air base in Syria. Russia describes the strikes as an \"aggression\", adding they significantly damage US-Russia ties."
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "Robert Peary and Matthew Henson become the first people to reach the North Pole; Peary's claim has been disputed because of failings in his navigational ability."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Mitchell Melton, American lawyer and politician (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Roy Thinnes, American television and film actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Chris Hoke, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Finnish Civil War: The battle of Tampere ends."
-    },
-    {
-      "type": "Event",
-      "year": "1926",
-      "text": "Varney Airlines makes its first commercial flight (Varney is the root company of United Airlines)."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "A bus carrying the Humboldt Broncos junior ice hockey team collides with a semi-truck in Saskatchewan, Canada, killing 16 people and injuring 13 others."
-    },
-    {
-      "type": "Event",
-      "year": "1929",
-      "text": "Huey P. Long, Governor of Louisiana, is impeached by the Louisiana House of Representatives."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The American League of Major League Baseball begins using the designated hitter."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "John Ratzenberger, American actor and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Peyton List, American actress and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Philipp Peter, Austrian race car driver"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Tupelo–Gainesville tornado outbreak: Another tornado from the same storm system as the Tupelo tornado hits Gainesville, Georgia, killing 203."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "World War I: The United States declares war on Germany."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Guy Peellaert, Belgian painter, illustrator, and photographer (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolutionary War: Ships of the Continental Navy fail in their attempt to capture a Royal Navy dispatch boat."
-    },
-    {
-      "type": "Event",
-      "year": "1830",
-      "text": "Church of Christ, the original church of the Latter Day Saint movement, is organized by Joseph Smith and others at either Fayette or Manchester, New York."
-    },
-    {
-      "type": "Event",
-      "year": "1841",
-      "text": "U.S. President John Tyler is sworn in, two days after having become president upon William Henry Harrison's death."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Archon Fung, American political scientist, author, and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Young Man Kang, South Korean-American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "John Jacob Astor incorporates the American Fur Company, that would eventually make him America's first millionaire."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Paul Rudd, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Joi Lansing, American model, actress and nightclub singer (died 1972)"
+      "year": "1950",
+      "text": "Cleo Odzer, American anthropologist and author (died 2001)"
     }
   ],
   "source": "Wikipedia"
