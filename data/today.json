@@ -2,29 +2,39 @@
   "date": "2026-04-07",
   "items": [
     {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Ricky Watters, American football player"
+    },
+    {
       "type": "Event",
-      "year": "1798",
-      "text": "The Mississippi Territory is organized from disputed territory claimed by both the United States and the Spanish Empire. It is expanded in 1804 and again in 1812."
+      "year": "1939",
+      "text": "Benito Mussolini declares an Italian protectorate over Albania and forces King Zog I into exile."
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Gerry Cottle, English circus owner (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "COVID-19 pandemic: The Centers for Disease Control and Prevention announces that the SARS-CoV-2 Alpha variant has become the dominant strain of COVID-19 in the United States."
+      "year": "1927",
+      "text": "Babatunde Olatunji, Nigerian-American drummer, educator, and activist (died 2003)"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Patricia Bennett, American singer"
+      "year": "1958",
+      "text": "Brian Haner, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
-      "year": "1922",
-      "text": "Teapot Dome scandal: United States Secretary of the Interior Albert B. Fall leases federal petroleum reserves to private oil companies on excessively generous terms."
+      "year": "1927",
+      "text": "AT&T engineer Herbert Ives transmits the first long-distance public television broadcast (from Washington, D.C., to New York City, displaying the image of Commerce Secretary Herbert Hoover)."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Cornelia Frances, English-Australian actress (died 2018)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Les Blank, American director and producer (born 1935)"
     },
     {
       "type": "Birth",
@@ -33,108 +43,43 @@
     },
     {
       "type": "Event",
-      "year": "2011",
-      "text": "The Israel Defense Forces use their Iron Dome missile system to successfully intercept a BM-21 Grad launched from Gaza, marking the first short-range missile intercept ever."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Spencer Dryden, American drummer (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "James Di Pasquale, American composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Tim Cochran, American mathematician and academic (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The Soviet Union annexes East Prussia as the Kaliningrad Oblast of the Russian Soviet Federative Socialist Republic."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Member of Parliament and suspected spy John Stonehouse resigns from the Labour Party after being arrested for faking his own death."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Janis Ian, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Christopher Darden, American lawyer and author"
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "United States President Dwight D. Eisenhower gives his \"domino theory\" speech during a news conference."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Vanessa Olivarez, American singer-songwriter, and actress"
-    },
-    {
-      "type": "Death",
-      "year": "1804",
-      "text": "Toussaint Louverture, Haitian general (born 1743)"
-    },
-    {
-      "type": "Event",
-      "year": "1805",
-      "text": "Lewis and Clark Expedition: The Corps of Discovery breaks camp among the Mandan tribe and resumes its journey West along the Missouri River."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Benito Mussolini declares an Italian protectorate over Albania and forces King Zog I into exile."
-    },
-    {
-      "type": "Event",
       "year": "1983",
       "text": "During STS-6, astronauts Story Musgrave and Don Peterson perform the first Space Shuttle spacewalk."
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Francis Ford Coppola, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Death",
-      "year": "30",
-      "text": "Jesus Christ (possible date of the crucifixion) (born circa 4 BC)"
+      "year": "1986",
+      "text": "Brooke Brodack, American comedian"
     },
     {
       "type": "Event",
-      "year": "2022",
-      "text": "Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice."
+      "year": "1926",
+      "text": "Violet Gibson attempts to assassinate Italian Prime Minister Benito Mussolini."
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "Teapot Dome scandal: United States Secretary of the Interior Albert B. Fall leases federal petroleum reserves to private oil companies on excessively generous terms."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Union's Army of the Tennessee and the Army of the Ohio defeat the Confederate Army of Mississippi near Shiloh, Tennessee."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Jamar Smith, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Bobby Doerr, American baseball player and coach (died 2017)"
     },
     {
       "type": "Event",
       "year": "2018",
-      "text": "Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the \"Car-Wash Operation\". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Benito Mussolini invades Albania."
-    },
-    {
-      "type": "Event",
-      "year": "529",
-      "text": "First Corpus Juris Civilis, a fundamental work in jurisprudence, is issued by Eastern Roman Emperor Justinian I."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Stan Winston, American special effects designer and makeup artist (died 2008)"
+      "text": "Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War."
     },
     {
       "type": "Event",
@@ -143,8 +88,93 @@
     },
     {
       "type": "Event",
-      "year": "1927",
-      "text": "AT&T engineer Herbert Ives transmits the first long-distance public television broadcast (from Washington, D.C., to New York City, displaying the image of Commerce Secretary Herbert Hoover)."
+      "year": "1940",
+      "text": "Booker T. Washington becomes the first African American to be depicted on a United States postage stamp."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Gary Kellgren, American record producer, co-founded Record Plant (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Lilia Osterloh, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Bobby Bare, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Aaron Lohr, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Representatives of the National Congress of American Indians testify before members of the US Senate in Washington, D.C., against the termination of the Colville tribe."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "United States President Dwight D. Eisenhower gives his \"domino theory\" speech during a news conference."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The National Football League makes helmets mandatory."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "James Garner, American actor, singer, and producer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "During the Iran hostage crisis, the United States severs relations with Iran."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust in Ukraine: In Terebovlia, Germans order 1,100 Jews to undress and march through the city to the nearby village of Plebanivka, where they are shot and buried in ditches."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Johannes Mario Simmel, Austrian-English author and screenwriter (died 2009)"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "David E. Pergrin, American colonel and engineer (born 1917)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Brett Whiteley, Australian painter (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "COVID-19 pandemic: The Centers for Disease Control and Prevention announces that the SARS-CoV-2 Alpha variant has become the dominant strain of COVID-19 in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Vasiliy Sokov, Russian triple jumper"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "Mount Vesuvius erupts and devastates Naples."
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "First Chechen War: Russian paramilitary troops begin a massacre of civilians in Samashki, Chechnya."
     },
     {
       "type": "Event",
@@ -157,69 +187,34 @@
       "text": "Prohibition in the United States is repealed for beer of no more than 3.2% alcohol by weight, eight months before the ratification of the Twenty-first Amendment to the United States Constitution. (Now  celebrated as National Beer Day in the United States.)"
     },
     {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Dave Johnson, American decathlete and educator"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Kevin Alejandro, American actor and producer"
+    },
+    {
       "type": "Event",
       "year": "1945",
       "text": "World War II: The Imperial Japanese Navy battleship Yamato, one of the two largest ever constructed, is sunk by United States Navy aircraft during Operation Ten-Go."
     },
     {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Lilia Osterloh, American tennis player"
+      "type": "Event",
+      "year": "1798",
+      "text": "The Mississippi Territory is organized from disputed territory claimed by both the United States and the Spanish Empire. It is expanded in 1804 and again in 1812."
     },
     {
       "type": "Event",
-      "year": "1965",
-      "text": "Representatives of the National Congress of American Indians testify before members of the US Senate in Washington, D.C., against the termination of the Colville tribe."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Brett Whiteley, Australian painter (died 1992)"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Mount Vesuvius erupts and devastates Naples."
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "Settlers establish Marietta, Ohio, the first permanent settlement created by U.S. citizens in the recently organized Northwest Territory."
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "U.S. President Donald Trump orders the 2017 Shayrat missile strike against Syria in retaliation for the Khan Shaykhun chemical attack."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The Union's Army of the Tennessee and the Army of the Ohio defeat the Confederate Army of Mississippi near Shiloh, Tennessee."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Freddie Hubbard, American trumpet player and composer (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Yves Rocher, French businessman, founded the Yves Rocher Company (died 2009)"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Stan Freberg, American puppeteer, voice actor, and singer (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Santa Barraza, American mixed media artist"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "First Chechen War: Russian paramilitary troops begin a massacre of civilians in Samashki, Chechnya."
+      "year": "529",
+      "text": "First Corpus Juris Civilis, a fundamental work in jurisprudence, is issued by Eastern Roman Emperor Justinian I."
     },
     {
       "type": "Event",
@@ -233,73 +228,78 @@
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Emerson Hyndman, American international soccer player"
+      "year": "1941",
+      "text": "Peter Fluck, English puppet maker and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Ravi Shankar, Indian-American sitar player and composer (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Alan J. Pakula, American director, producer, and screenwriter (died 1998)"
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "The National Football League makes helmets mandatory."
+      "year": "1788",
+      "text": "Settlers establish Marietta, Ohio, the first permanent settlement created by U.S. citizens in the recently organized Northwest Territory."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Brett Tomko, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1926",
-      "text": "Violet Gibson attempts to assassinate Italian Prime Minister Benito Mussolini."
+      "year": "1976",
+      "text": "Member of Parliament and suspected spy John Stonehouse resigns from the Labour Party after being arrested for faking his own death."
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Zeituni Onyango, Kenyan-American computer programmer (born 1952)"
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Hamish Davidson, Australian musician"
+      "year": "1953",
+      "text": "Santa Barraza, American mixed media artist"
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Wayne Rogers, American actor, investor, and producer (died 2015)"
+      "year": "1963",
+      "text": "Nick Herbert, English businessman and politician, Minister for Policing"
     },
     {
-      "type": "Birth",
+      "type": "Event",
+      "year": "2017",
+      "text": "U.S. President Donald Trump orders the 2017 Shayrat missile strike against Syria in retaliation for the Khan Shaykhun chemical attack."
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "The Israel Defense Forces use their Iron Dome missile system to successfully intercept a BM-21 Grad launched from Gaza, marking the first short-range missile intercept ever."
+    },
+    {
+      "type": "Event",
       "year": "1946",
-      "text": "Robert Metcalfe, American engineer and entrepreneur"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Mongo Santamaría, Cuban-American drummer (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Bobby Doerr, American baseball player and coach (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Russell Crowe, New Zealand-Australian actor"
+      "text": "The Soviet Union annexes East Prussia as the Kaliningrad Oblast of the Russian Soviet Federative Socialist Republic."
     },
     {
       "type": "Event",
-      "year": "1940",
-      "text": "Booker T. Washington becomes the first African American to be depicted on a United States postage stamp."
+      "year": "1805",
+      "text": "Lewis and Clark Expedition: The Corps of Discovery breaks camp among the Mandan tribe and resumes its journey West along the Missouri River."
     },
     {
       "type": "Event",
       "year": "2018",
-      "text": "Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Marilyn Friedman, American philosopher and academic"
+      "text": "Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the \"Car-Wash Operation\". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court."
     },
     {
       "type": "Event",
-      "year": "1980",
-      "text": "During the Iran hostage crisis, the United States severs relations with Iran."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust in Ukraine: In Terebovlia, Germans order 1,100 Jews to undress and march through the city to the nearby village of Plebanivka, where they are shot and buried in ditches."
+      "year": "1939",
+      "text": "Benito Mussolini invades Albania."
     }
   ],
   "source": "Wikipedia"
