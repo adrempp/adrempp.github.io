@@ -2,39 +2,34 @@
   "date": "2026-04-08",
   "items": [
     {
+      "type": "Event",
+      "year": "2010",
+      "text": "U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty."
+    },
+    {
       "type": "Birth",
-      "year": "1912",
-      "text": "Sonja Henie, Norwegian-American figure skater and actress (died 1969)"
+      "year": "1923",
+      "text": "George Fisher, American cartoonist (died 2003)"
     },
     {
       "type": "Event",
-      "year": "1812",
-      "text": "Czar Alexander I, the Russian Emperor and the Grand Duke of Finland, officially announces the transfer of the status of the Finnish capital from Turku to Helsinki."
+      "year": "1250",
+      "text": "Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Larry Norman, American singer-songwriter, and producer (died 2008)"
+    },
+    {
+      "type": "Death",
+      "year": "1993",
+      "text": "Marian Anderson, American operatic singer (born 1897)"
     },
     {
       "type": "Birth",
       "year": "1963",
-      "text": "Dean Norris, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1886",
-      "text": "William Ewart Gladstone introduces the first Irish Home Rule Bill into the British House of Commons."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Toutai Kefu, Tongan-Australian rugby player"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "A solar eclipse occurs, visible over areas of the Pacific Ocean and Latin American countries such as Costa Rica, Panama, Colombia and Venezuela."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Ollie Mitchell, American trumpet player and bandleader (died 2013)"
+      "text": "Terry Porter, American basketball player and coach"
     },
     {
       "type": "Birth",
@@ -43,43 +38,13 @@
     },
     {
       "type": "Birth",
-      "year": "2002",
-      "text": "Skai Jackson, American actress"
+      "year": "1954",
+      "text": "G.V. Loganathan, Indian-American engineer and academic (died 2007)"
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Miller Farr, American football player (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "A team of computer manufacturers, users, and university people led by Grace Hopper meets to discuss the creation of a new programming language that would be called COBOL."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Oscar Zeta Acosta, American lawyer and politician (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "1895",
-      "text": "In Pollock v. Farmers' Loan & Trust Co. the Supreme Court of the United States declares unapportioned income tax to be unconstitutional."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights."
-    },
-    {
-      "type": "Event",
-      "year": "1832",
-      "text": "Black Hawk War: Around 300 United States 6th Infantry troops leave St. Louis, Missouri to fight the Sauk Native Americans."
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty."
+      "year": "1926",
+      "text": "Shecky Greene, American comedian (died 2023)"
     },
     {
       "type": "Birth",
@@ -88,73 +53,28 @@
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Michael Bennett, American dancer, choreographer, and director (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Jeremy Hellickson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Odd Nerdrum, Swedish-Norwegian painter and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Biz Markie, American rapper, producer, and actor (died 2021)"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Claire Trevor, American actress (born 1910)"
+      "year": "1992",
+      "text": "Jeff McNeil, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1975",
-      "text": "Voyageurs National Park is established by the U.S. Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1820",
-      "text": "The Venus de Milo is discovered on the Aegean island of Milos."
+      "year": "1959",
+      "text": "A team of computer manufacturers, users, and university people led by Grace Hopper meets to discuss the creation of a new programming language that would be called COBOL."
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Nnedi Okorafor, Nigerian-American author and educator"
+      "year": "1955",
+      "text": "David Wu, Taiwanese-American lawyer and politician"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "John Schneider, American actor and country singer"
+      "year": "1909",
+      "text": "John Fante, American author and screenwriter (died 1983)"
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Kumar Gandharva, Hindustani classical singer (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Donita Sparks, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "James Lockhart, American scholar of colonial Latin America, especially Nahua peoples (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "2013",
-      "text": "Big Justice, American social media personality"
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "Austro-Prussian War: Italy and Prussia sign a secret alliance against the Austrian Empire."
+      "year": "1949",
+      "text": "Brenda Russell, African-American-Canadian singer-songwriter and keyboard player"
     },
     {
       "type": "Birth",
@@ -163,8 +83,148 @@
     },
     {
       "type": "Birth",
-      "year": "1999",
-      "text": "CeeDee Lamb, American football player"
+      "year": "1946",
+      "text": "Tim Thomerson, American actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Frédérick Bousquet, French swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Katee Sackhoff, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "BOAC Flight 712 catches fire shortly after takeoff. As a result of her actions in the accident, Barbara Jane Harrison is awarded a posthumous George Cross, the only GC awarded to a woman in peacetime."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Roquan Smith, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Tracy Grammer, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Sonja Henie, Norwegian-American figure skater and actress (died 1969)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Taran Noah Smith, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1820",
+      "text": "The Venus de Milo is discovered on the Aegean island of Milos."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Fred Ebb, American lyricist (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Steven Blaney, Canadian businessman and politician, 5th Canadian Minister of Public Safety"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Winifred Asprey, American mathematician and computer scientist (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "Czar Alexander I, the Russian Emperor and the Grand Duke of Finland, officially announces the transfer of the status of the Finnish capital from Turku to Helsinki."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Oscar Zeta Acosta, American lawyer and politician (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Chris Kyle, American sniper and memoirist (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "Austro-Prussian War: Italy and Prussia sign a secret alliance against the Austrian Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "John Gavin, American actor and diplomat, United States Ambassador to Mexico (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Izzy Stradlin, American guitarist and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1895",
+      "text": "In Pollock v. Farmers' Loan & Trust Co. the Supreme Court of the United States declares unapportioned income tax to be unconstitutional."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "A solar eclipse occurs, visible over areas of the Pacific Ocean and Latin American countries such as Costa Rica, Panama, Colombia and Venezuela."
+    },
+    {
+      "type": "Event",
+      "year": "1832",
+      "text": "Black Hawk War: Around 300 United States 6th Infantry troops leave St. Louis, Missouri to fight the Sauk Native Americans."
+    },
+    {
+      "type": "Event",
+      "year": "1139",
+      "text": "Roger II of Sicily is excommunicated by Innocent II for supporting Anacletus II as pope for seven years, even though Roger had already publicly recognized Innocent's claim to the papacy."
+    },
+    {
+      "type": "Event",
+      "year": "217",
+      "text": "Roman emperor Caracalla is assassinated and is succeeded by his Praetorian Guard prefect, Marcus Opellius Macrinus."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Betty Ford, American wife of Gerald Ford, 40th First Lady of the United States (died 2011)"
+    },
+    {
+      "type": "Death",
+      "year": "2009",
+      "text": "Richard de Mille, American Scientologist, author, investigative journalist, and psychologist (born 1922)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Donita Sparks, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Derrick Walker, Scottish businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Biz Markie, American rapper, producer, and actor (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Bernt Haas, Austrian-Swiss footballer"
     },
     {
       "type": "Event",
@@ -174,47 +234,62 @@
     {
       "type": "Birth",
       "year": "1917",
-      "text": "Winifred Asprey, American mathematician and computer scientist (died 2007)"
+      "text": "Lloyd Bott, Australian public servant (died 2004)"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Manuel Ortega, Austrian singer"
+      "year": "1943",
+      "text": "Chris Orr, English painter and illustrator"
     },
     {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Timo Pérez, Dominican-American baseball player"
+      "type": "Event",
+      "year": "1886",
+      "text": "William Ewart Gladstone introduces the first Irish Home Rule Bill into the British House of Commons."
     },
     {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Saygrace, Australian singer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Emma Caulfield, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Josh Chudleigh, Australian rugby league player"
+      "type": "Death",
+      "year": "2024",
+      "text": "Keith Barnes, Welsh-Australian rugby league player and coach (born 1934)"
     },
     {
       "type": "Birth",
       "year": "1954",
-      "text": "G.V. Loganathan, Indian-American engineer and academic (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1250",
-      "text": "Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur."
+      "text": "Gary Carter, American baseball player and coach (died 2012)"
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Darren Jessee, American singer-songwriter and drummer"
+      "year": "1912",
+      "text": "Alois Brunner, Austrian-German SS officer (died 2001 or 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Sara Northrup Hollister, American occultist (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights."
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Skai Jackson, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Lavinia Valbonesi, Ecuadorian nutritionist, businesswoman and First Lady of Ecuador"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Voyageurs National Park is established by the U.S. Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Trina Schart Hyman, American author and illustrator (died 2004)"
     },
     {
       "type": "Event",
@@ -223,83 +298,8 @@
     },
     {
       "type": "Birth",
-      "year": "1904",
-      "text": "Hirsch Jacobs, American horse trainer (died 1970)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Richard Hatch, American reality contestant"
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Mick Young, Australian politician (born 1936)"
-    },
-    {
-      "type": "Death",
-      "year": "2022",
-      "text": "Mimi Reinhardt, Jewish Austrian secretary (born 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "James Herbert, English author and illustrator (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "John Gavin, American actor and diplomat, United States Ambassador to Mexico (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1139",
-      "text": "Roger II of Sicily is excommunicated by Innocent II for supporting Anacletus II as pope for seven years, even though Roger had already publicly recognized Innocent's claim to the papacy."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Paul Gray, American bass player and songwriter (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "217",
-      "text": "Roman emperor Caracalla is assassinated and is succeeded by his Praetorian Guard prefect, Marcus Opellius Macrinus."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Derrick Walker, Scottish businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Katee Sackhoff, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Roquan Smith, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Barbara Kingsolver, American novelist, essayist and poet"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "BOAC Flight 712 catches fire shortly after takeoff. As a result of her actions in the accident, Barbara Jane Harrison is awarded a posthumous George Cross, the only GC awarded to a woman in peacetime."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Catfish Hunter, American baseball player (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Sara Northrup Hollister, American occultist (died 1997)"
+      "year": "1938",
+      "text": "Mary W. Gray, American mathematician, statistician, and lawyer"
     }
   ],
   "source": "Wikipedia"
