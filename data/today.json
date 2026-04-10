@@ -2,19 +2,34 @@
   "date": "2026-04-10",
   "items": [
     {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Kevin Berry, Australian swimmer (died 2006)"
+    },
+    {
       "type": "Event",
       "year": "1821",
       "text": "Patriarch Gregory V of Constantinople is hanged by the Ottoman government from the main gate of the Patriarchate and his body is thrown into the Bosphorus."
     },
     {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Haley Joel Osment, American actor"
+      "type": "Event",
+      "year": "1919",
+      "text": "The Third Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Huliaipole."
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis."
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Jeremy Barrett, American figure skater"
+      "year": "1953",
+      "text": "David Moorcroft, English runner and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Christopher Simmons, Canadian-American graphic designer, author, and academic"
     },
     {
       "type": "Death",
@@ -23,153 +38,8 @@
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Stuart Dybek,  American novelist, short story writer, and poet"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: A day after his surrender to Union forces, Confederate General Robert E. Lee addresses his troops for the last time."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Arnold Orville Beckman, American chemist, inventor, and philanthropist (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Steve Glasson, Australian lawn bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Chaz Mostert, Australian racing driver"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "Allied forces under the Duke of Wellington attack Toulouse held by Marshall Soult, driving out the French after fierce fighting."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Mandy Moore, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "David Rovics, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "The Russian city of Tsaritsyn was renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people."
-    },
-    {
-      "type": "Event",
-      "year": "1872",
-      "text": "The first Arbor Day is celebrated in Nebraska."
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Otto Steinböck, Austrian zoologist (died 1969)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "John A. Bennett, American soldier (died 1961)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Q-Tip, American rapper, producer, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Robert Burns Woodward, American chemist and academic, Nobel Prize laureate (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "David Moorcroft, English runner and businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea."
-    },
-    {
-      "type": "Event",
-      "year": "1741",
-      "text": "War of the Austrian Succession: Prussia gains control of Silesia at the Battle of Mollwitz."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Vietnam War: For the first time since November 1967, American B-52 bombers reportedly begin bombing North Vietnam."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "John M. Ford, American author and poet (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Katrina Leskanich, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Polish Air Force Tu-154M crashes near Smolensk, Russia, killing 96 people, including Polish President Lech Kaczyński, his wife, and dozens of other senior officials and dignitaries."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Mark Jones, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Corey Kluber, American baseball pitcher"
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The Third Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Huliaipole."
-    },
-    {
-      "type": "Death",
-      "year": "1965",
-      "text": "Linda Darnell, American actress (born 1923)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "David Halberstam, American journalist and author (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1816",
-      "text": "The Federal government of the United States approves the creation of the Second Bank of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Sheb Wooley, American singer-songwriter and actor (died 2003)"
+      "year": "1946",
+      "text": "David Angell, American screenwriter and producer (died 2001)"
     },
     {
       "type": "Event",
@@ -178,13 +48,23 @@
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "Leo Vroman, Dutch-American hematologist, poet, and illustrator (died 2014)"
+      "year": "1911",
+      "text": "Martin Denny, American pianist and composer (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "John M. Ford, American author and poet (died 2006)"
     },
     {
       "type": "Event",
-      "year": "1866",
-      "text": "The American Society for the Prevention of Cruelty to Animals (ASPCA) is founded in New York City by Henry Bergh."
+      "year": "1972",
+      "text": "Vietnam War: For the first time since November 1967, American B-52 bombers reportedly begin bombing North Vietnam."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Babyface, American singer-songwriter and producer"
     },
     {
       "type": "Event",
@@ -192,39 +72,9 @@
       "text": "Nestorius becomes the Patriarch of Constantinople."
     },
     {
-      "type": "Event",
-      "year": "2009",
-      "text": "President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis."
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship."
-    },
-    {
       "type": "Birth",
-      "year": "1941",
-      "text": "Chrysostomos II of Cyprus, (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1796",
-      "text": "War of the First Coalition: A surprise Austrian attack at the Battle of Voltri marks the beginning of the Italian Campaign of 1796-1797, the decisive campaign under Napoleon Bonaparte that will end the war a year later."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Anne Lamott, American author and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Kevin Berry, Australian swimmer (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Barkhad Abdi, Somali-American actor and director"
+      "year": "1988",
+      "text": "Chris Heston, American baseball pitcher"
     },
     {
       "type": "Event",
@@ -233,43 +83,13 @@
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Peter Hollingworth, Australian bishop, 23rd Governor General of Australia"
-    },
-    {
-      "type": "Death",
-      "year": "1997",
-      "text": "Michael Dorris, American author and academic (born 1945)"
+      "year": "1962",
+      "text": "Steve Tasker, American football player and sportscaster"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Steve Bisciotti, American businessman, co-founded Allegis Group"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Terry Teagle, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Rokusuke Ei, Japanese composer and author (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Kasey Kahne, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Bernardo Houssay, Argentinian physiologist and academic, Nobel Prize laureate (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Yefim Bronfman, Uzbek-American pianist"
+      "year": "1979",
+      "text": "Kenyon Coleman, American football player"
     },
     {
       "type": "Event",
@@ -277,19 +97,189 @@
       "text": "Napoleonic Wars: The War of the Fifth Coalition begins when forces of the Austrian Empire invade Bavaria."
     },
     {
+      "type": "Event",
+      "year": "1925",
+      "text": "The Russian city of Tsaritsyn was renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Michael Pitt, American actor, model and musician"
+    },
+    {
+      "type": "Event",
+      "year": "1872",
+      "text": "The first Arbor Day is celebrated in Nebraska."
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Bernardo Houssay, Argentinian physiologist and academic, Nobel Prize laureate (died 1971)"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Polish Air Force Tu-154M crashes near Smolensk, Russia, killing 96 people, including Polish President Lech Kaczyński, his wife, and dozens of other senior officials and dignitaries."
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Steve Anderson, American hurdler (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Jane Kean, American actress and singer (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Al Lucas, American football player (born 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Faustina Agolley, Australian television host"
+    },
+    {
+      "type": "Event",
+      "year": "1796",
+      "text": "War of the First Coalition: A surprise Austrian attack at the Battle of Voltri marks the beginning of the Italian Campaign of 1796-1797, the decisive campaign under Napoleon Bonaparte that will end the war a year later."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Jack Buchanan, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Margaret Clapp, American scholar and academic (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Steve Glasson, Australian lawn bowler"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "The American Society for the Prevention of Cruelty to Animals (ASPCA) is founded in New York City by Henry Bergh."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Charlie Culberson, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "O. J. Simpson, American football player, actor, and broadcaster (born 1947)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Tim Alexander, American drummer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Haley Joel Osment, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "Allied forces under the Duke of Wellington attack Toulouse held by Marshall Soult, driving out the French after fierce fighting."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Stefan Heym, German-American soldier and author (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Boris Kidrič, Austrian-Slovenian politician, 1st Prime Minister of Slovenia (died 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Rachel Corrie, American author and activist (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Mark Jones, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "David A. Adler, American author and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Robert Burns Woodward, American chemist and academic, Nobel Prize laureate (died 1979)"
+    },
+    {
+      "type": "Event",
+      "year": "1816",
+      "text": "The Federal government of the United States approves the creation of the Second Bank of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "David Helvarg, American journalist and activist"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Bella Akhmadulina, Soviet and Russian poet, short story writer, and translator (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Mike Rinder, Australian-American former Scientologist, critic (died 2025)"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: A day after his surrender to Union forces, Confederate General Robert E. Lee addresses his troops for the last time."
+    },
+    {
       "type": "Birth",
       "year": "1919",
       "text": "John Houbolt, American engineer and academic (died 2014)"
     },
     {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Johnny Hayes, American runner and trainer (died 1965)"
+      "type": "Event",
+      "year": "1741",
+      "text": "War of the Austrian Succession: Prussia gains control of Silesia at the Battle of Mollwitz."
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Kenneth Noland, American soldier and painter (died 2010)"
+      "year": "1957",
+      "text": "Aliko Dangote, Nigerian businessman, founded Dangote Group"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Anne Lamott, American author and educator"
     },
     {
       "type": "Event",
@@ -298,8 +288,18 @@
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos."
+      "year": "2016",
+      "text": "The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Leo Vroman, Dutch-American hematologist, poet, and illustrator (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea."
     }
   ],
   "source": "Wikipedia"
