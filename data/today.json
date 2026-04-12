@@ -3,218 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Michael Jackson, American football player and politician (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Ed O'Neill, American actor and comedian"
-    },
-    {
-      "type": "Event",
-      "year": "467",
-      "text": "Anthemius is elevated to Emperor of the Western Roman Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Ralph Wiley, American journalist (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "One day after its enactment by the Congress, President William McKinley signs the Foraker Act into law, giving Puerto Rico limited self-rule."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Robin Walker, English businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Curtis Turner, American race car driver (died 1970)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Robert Lee Scott, Jr., American pilot and general (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of Fort Pillow: Confederate forces kill most of the African American soldiers that surrendered at Fort Pillow, Tennessee."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Scott Turow, American lawyer and author"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Mukhran Machavariani, Georgian poet and educator (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Alvin Sargent, American screenwriter (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Ann Miller, American actress, singer, and dancer (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Flavio Briatore, Italian businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Harold Washington is elected as the first black mayor of Chicago."
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: Mobile, Alabama, falls to the Union Army."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.[citation needed]"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Igor Volk, Ukrainian-Russian colonel, pilot, and astronaut (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "Zimbabwe officially abandons the Zimbabwean dollar as its official currency."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "John Landy, Australian runner and politician, 26th Governor of Victoria (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Antonio Osuna, Mexican-American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "United States President Bill Clinton is cited for contempt of court for giving \"intentionally false statements\" in a civil lawsuit; he is later fined and disbarred."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 80 kilometres from Berlin."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "David Thirdkill, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1831",
-      "text": "Soldiers marching on the Broughton Suspension Bridge in Manchester, England, cause it to collapse."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Resort Paris."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Brendon Urie, American singer, songwriter, musician and multi-instrumentalist"
-    },
-    {
-      "type": "Event",
-      "year": "1204",
-      "text": "The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day."
-    },
-    {
-      "type": "Event",
-      "year": "1796",
-      "text": "War of the First Coalition: Napoleon Bonaparte wins his first victory as an army commander at the Battle of Montenotte, splitting the Austrian and Piedmontese armies away from each other, and marking the beginning of the Piedmontese surrender in the war."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Bryan Fletcher, Australian rugby league player and sportscaster"
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Robert MacNeil, Canadian-American journalist and author (born 1931)"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Jim Gary's \"Twentieth Century Dinosaurs\" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Nobuhiko Takada, Japanese mixed martial artist and wrestler, founded Hustle"
-    },
-    {
-      "type": "Event",
-      "year": "1782",
-      "text": "American Revolution: A Royal Navy fleet led by Admiral George Rodney defeats a French fleet led by the Comte de Grasse at the Battle of the Saintes off Dominica in the Caribbean Sea."
-    },
-    {
-      "type": "Event",
-      "year": "1910",
-      "text": "SMS Zrínyi, one of the last pre-dreadnought battleships built by the Austro-Hungarian Navy, is launched."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Charles Mann, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Glenn Rogers, Australian-Scottish cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Felix de Weldon, Austrian-American sculptor, designed the Marine Corps War Memorial (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Battle of Fort Sumter. The war begins with Confederate forces firing on Fort Sumter, in the harbor of Charleston, South Carolina."
+      "year": "1988",
+      "text": "Jessie James Decker, American singer-songwriter"
     },
     {
       "type": "Birth",
@@ -223,23 +13,8 @@
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Magnus Pääjärvi, Swedish ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "627",
-      "text": "King Edwin of Northumbria is converted to Christianity by Paulinus, Bishop of York."
-    },
-    {
-      "type": "Death",
-      "year": "434",
-      "text": "Maximianus, archbishop of Constantinople"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Keiko Fukuda, Japanese-American martial artist (died 2013)"
+      "year": "1994",
+      "text": "Saoirse Ronan, American-born Irish actress"
     },
     {
       "type": "Birth",
@@ -247,29 +22,84 @@
       "text": "Benjamin Libet, American neuropsychologist and academic (died 2007)"
     },
     {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Frank Dilio, Canadian businessman (died 1997)"
+      "type": "Event",
+      "year": "1204",
+      "text": "The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day."
     },
     {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Amy Ray, American folk-rock singer-songwriter, musician, and music producer"
+      "type": "Event",
+      "year": "1999",
+      "text": "During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people."
     },
     {
       "type": "Birth",
       "year": "1930",
-      "text": "Manuel Neri, American sculptor and painter (died 2021)"
+      "text": "John Landy, Australian runner and politician, 26th Governor of Victoria (died 2022)"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Johnny Raper, Australian rugby league player and coach (died 2022)"
+      "year": "1916",
+      "text": "Russell Garcia, American-New Zealand composer and conductor (died 2011)"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Brennan Boesch, American baseball player"
+      "year": "1976",
+      "text": "Brad Miller, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1910",
+      "text": "SMS Zrínyi, one of the last pre-dreadnought battleships built by the Austro-Hungarian Navy, is launched."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Tanino Liberatore, Italian author and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Felix de Weldon, Austrian-American sculptor, designed the Marine Corps War Memorial (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "627",
+      "text": "King Edwin of Northumbria is converted to Christianity by Paulinus, Bishop of York."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Beverly Cleary, American author (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Greg Child, Australian mountaineer and author"
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.[citation needed]"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Ryan Kisor, American trumpet player and composer"
+    },
+    {
+      "type": "Event",
+      "year": "1831",
+      "text": "Soldiers marching on the Broughton Suspension Bridge in Manchester, England, cause it to collapse."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Nobuhiko Takada, Japanese mixed martial artist and wrestler, founded Hustle"
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed."
     },
     {
       "type": "Event",
@@ -277,9 +107,124 @@
       "text": "American Revolution: With the Halifax Resolves, the North Carolina Provincial Congress authorizes its Congressional delegation to vote for independence from Britain."
     },
     {
+      "type": "Event",
+      "year": "1992",
+      "text": "The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Resort Paris."
+    },
+    {
       "type": "Birth",
-      "year": "1940",
-      "text": "Woodie Fryman, American baseball player (died 2011)"
+      "year": "1939",
+      "text": "Johnny Raper, Australian rugby league player and coach (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Harold Washington is elected as the first black mayor of Chicago."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Tama Janowitz, American novelist and short story writer"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: Mobile, Alabama, falls to the Union Army."
+    },
+    {
+      "type": "Event",
+      "year": "467",
+      "text": "Anthemius is elevated to Emperor of the Western Roman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 80 kilometres from Berlin."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Andy Garcia, Cuban-American actor, director, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Steve Stevaert, Belgian businessman and politician (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Evelyn Berezin, American computer scientist and engineer (died 2018)"
+    },
+    {
+      "type": "Death",
+      "year": "1943",
+      "text": "Viktor Puskar, Estonian colonel (born 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Jelena Dokic, Serbian-Australian tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Wayne Northrop, American actor (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Reuben Gant, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Yuriy Borzakovskiy, Russian runner"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Battle of Fort Pillow: Confederate forces kill most of the African American soldiers that surrendered at Fort Pillow, Tennessee."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Ann Miller, American actress, singer, and dancer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Tom Clancy, American historian and author (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "Zimbabwe officially abandons the Zimbabwean dollar as its official currency."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Michael Jackson, American football player and politician (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Battle of Fort Sumter. The war begins with Confederate forces firing on Fort Sumter, in the harbor of Charleston, South Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "United States President Bill Clinton is cited for contempt of court for giving \"intentionally false statements\" in a civil lawsuit; he is later fined and disbarred."
     },
     {
       "type": "Event",
@@ -292,14 +237,69 @@
       "text": "Rocksprings, Texas is hit by an F5 tornado that destroys 235 of the 247 buildings in the town, kills 72 townspeople, and injures 205; third deadliest tornado in Texas history."
     },
     {
-      "type": "Death",
-      "year": "1933",
-      "text": "Adelbert Ames, American general and politician, 30th Governor of Mississippi (born 1835)"
+      "type": "Birth",
+      "year": "1966",
+      "text": "Lorenzo White, American football player"
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Kaitlyn Weaver, Canadian-American ice dancer"
+      "year": "1925",
+      "text": "Ned Miller, American country music singer and songwriter (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "One day after its enactment by the Congress, President William McKinley signs the Foraker Act into law, giving Puerto Rico limited self-rule."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Keiko Fukuda, Japanese-American martial artist (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Jim Gary's \"Twentieth Century Dinosaurs\" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there."
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Frank Dilio, Canadian businessman (died 1997)"
+    },
+    {
+      "type": "Death",
+      "year": "2021",
+      "text": "Joseph Siravo, American actor and producer (born 1955)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Robert Byrne, American chess player and author (born 1928)"
+    },
+    {
+      "type": "Event",
+      "year": "1782",
+      "text": "American Revolution: A Royal Navy fleet led by Admiral George Rodney defeats a French fleet led by the Comte de Grasse at the Battle of the Saintes off Dominica in the Caribbean Sea."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Claire Danes, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1796",
+      "text": "War of the First Coalition: Napoleon Bonaparte wins his first victory as an army commander at the Battle of Montenotte, splitting the Austrian and Piedmontese armies away from each other, and marking the beginning of the Piedmontese surrender in the war."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "J. Scott Campbell, American author and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Armen Alchian, American economist and academic (died 2013)"
     }
   ],
   "source": "Wikipedia"
