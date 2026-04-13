@@ -3,238 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "1941",
-      "text": "A pact of neutrality between the USSR and Japan is signed."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Sorcha Boru, American potter and ceramic sculptor (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "David Robinson, English businessman and philanthropist (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Sam Bush, American mandolinist"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Ruby Puryear Hearn, African-American biophysicist"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: Raleigh, North Carolina is occupied by Union forces."
-    },
-    {
-      "type": "Event",
-      "year": "1612",
-      "text": "Samurai Miyamoto Musashi defeats Sasaki Kojirō in a duel at Funajima island."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Jean-Marc Reiser, French author and illustrator (died 1983)"
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "Lajos Kossuth presents the Hungarian Declaration of Independence in a closed session of the National Assembly."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Three people are killed in a shooting in Overland Park, Kansas."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "The United States launches Transit 1-B, the world's first satellite navigation system."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Dan Campbell, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Lanford Wilson, American playwright, co-founded the Circle Repertory Company (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "The house of Jack Teixeira is raided in an investigation into leaked Pentagon documents; he is arrested on the same day."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Marguerite Henry, American author (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Jefferson Memorial is dedicated in Washington, D.C., on the 200th anniversary of President Thomas Jefferson's birth."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Tiger Woods becomes the youngest golfer to win the Masters Tournament."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Madalyn Murray O'Hair, American activist, founded American Atheists (died 1995)"
-    },
-    {
-      "type": "Death",
-      "year": "1878",
-      "text": "Bezalel HaKohen, Russian rabbi (born 1820)"
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "Rory McIlroy wins the Masters Tournament, becoming just the sixth person to complete the Grand Slam in golf."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration."
-    },
-    {
-      "type": "Event",
       "year": "1943",
       "text": "World War II: The discovery of mass graves of Polish prisoners of war killed by Soviet forces in the Katyń Forest Massacre is announced, causing a diplomatic rift between the Polish government-in-exile in London and the Soviet Union, which denies responsibility."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Union forces surrender Fort Sumter to Confederate forces."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Dave Albritton, American high jumper and coach (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1873",
-      "text": "The Colfax massacre: More than 60 to 150 black men are murdered in Colfax, Louisiana, while surrendering to a mob of former Confederate soldiers and members of the Ku Klux Klan."
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: American forces are ambushed and defeated in the Battle of Bound Brook, New Jersey."
-    },
-    {
-      "type": "Event",
-      "year": "1055",
-      "text": "Election of Pope Victor II following the death of Pope Leo IX in the previous year."
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Alan Jones, Australian rugby coach and radio host"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Glenn Howerton, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "CIA director Allen Dulles launches the mind-control program Project MKUltra."
-    },
-    {
-      "type": "Birth",
-      "year": "1780",
-      "text": "Alexander Mitchell, Irish engineer, invented the Screw-pile lighthouse (died 1868)"
-    },
-    {
-      "type": "Event",
-      "year": "1613",
-      "text": "Samuel Argall, having captured Pocahontas in Passapatanzy, Virginia, sets off with her to Jamestown with the intention of exchanging her for English prisoners held by her father."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "At 10:08 PM EST an oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed \"Odyssey\") while en route to the Moon."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Kermit Tyler, American lieutenant and pilot (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "At the Academy Awards, Sidney Poitier becomes the first African-American man to win the Best Actor award for the 1963 film Lilies of the Field."
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "The New York City Metropolitan Museum of Art is founded."
-    },
-    {
-      "type": "Birth",
-      "year": "1851",
-      "text": "Robert Abbe, American surgeon and radiologist (died 1928)"
-    },
-    {
-      "type": "Death",
-      "year": "1975",
-      "text": "Larry Parks, American actor and singer (born 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Howard Keel, American actor and singer (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Harold Stassen, American lawyer and politician, 25th Governor of Minnesota (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1204",
-      "text": "Constantinople falls to the Crusaders of the Fourth Crusade, temporarily ending the Byzantine Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Jean-Louis Lévesque, Canadian businessman and philanthropist (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1808",
-      "text": "Antonio Meucci, Italian-American engineer (died 1889)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Garry Kasparov, Russian chess player and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Christopher Hitchens, English-American essayist, literary critic, and journalist (died 2011)"
     },
     {
       "type": "Birth",
@@ -243,8 +13,53 @@
     },
     {
       "type": "Birth",
+      "year": "1971",
+      "text": "Danie Mellor, Australian painter and sculptor"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "A pact of neutrality between the USSR and Japan is signed."
+    },
+    {
+      "type": "Event",
+      "year": "1613",
+      "text": "Samuel Argall, having captured Pocahontas in Passapatanzy, Virginia, sets off with her to Jamestown with the intention of exchanging her for English prisoners held by her father."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Dana Barros, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Bud Freeman, American saxophonist, composer, and bandleader (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1780",
+      "text": "Alexander Mitchell, Irish engineer, invented the Screw-pile lighthouse (died 1868)"
+    },
+    {
+      "type": "Birth",
       "year": "1951",
       "text": "Max Weinberg, American musician and bandleader"
+    },
+    {
+      "type": "Birth",
+      "year": "1854",
+      "text": "Lucy Craft Laney, American founder of the Haines Normal and Industrial School, Augusta, Georgia (died 1933)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Dave Albritton, American high jumper and coach (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Peabo Bryson, American singer"
     },
     {
       "type": "Event",
@@ -253,28 +68,53 @@
     },
     {
       "type": "Birth",
+      "year": "1879",
+      "text": "Oswald Bruce Cooper, American type designer, lettering artist, graphic designer, and educator (died 1940)"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The United States launches Transit 1-B, the world's first satellite navigation system."
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Edward Bruce, American lawyer and painter (died 1943)"
+    },
+    {
+      "type": "Birth",
       "year": "1947",
       "text": "Rae Armantrout, American poet and academic"
     },
     {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Josh Gordon, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1854",
-      "text": "Lucy Craft Laney, American founder of the Haines Normal and Industrial School, Augusta, Georgia (died 1933)"
+      "type": "Event",
+      "year": "1953",
+      "text": "CIA director Allen Dulles launches the mind-control program Project MKUltra."
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "In an ambush, 78 Jewish doctors, nurses and medical students from Hadassah Hospital, and a British soldier, are massacred by Arabs in Sheikh Jarrah. This event came to be known as the Hadassah medical convoy massacre."
+      "year": "1055",
+      "text": "Election of Pope Victor II following the death of Pope Leo IX in the previous year."
     },
     {
       "type": "Event",
-      "year": "1175",
-      "text": "Saladin routs his Muslim opponents, the Zengids, in the battle of the Horns of Hama, consolidating his control over Syria except for Aleppo."
+      "year": "1204",
+      "text": "Constantinople falls to the Crusaders of the Fourth Crusade, temporarily ending the Byzantine Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Union forces surrender Fort Sumter to Confederate forces."
     },
     {
       "type": "Birth",
@@ -282,24 +122,184 @@
       "text": "Harold Osborn, American high jumper and decathlete (died 1975)"
     },
     {
+      "type": "Event",
+      "year": "1777",
+      "text": "American Revolutionary War: American forces are ambushed and defeated in the Battle of Bound Brook, New Jersey."
+    },
+    {
+      "type": "Event",
+      "year": "1612",
+      "text": "Samurai Miyamoto Musashi defeats Sasaki Kojirō in a duel at Funajima island."
+    },
+    {
       "type": "Birth",
-      "year": "1977",
-      "text": "Margus Tsahkna, Estonian lawyer and politician"
+      "year": "1950",
+      "text": "William Sadler, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Al Green, American singer-songwriter, producer, and pastor"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "At 10:08 PM EST an oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed \"Odyssey\") while en route to the Moon."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Jefferson Memorial is dedicated in Washington, D.C., on the 200th anniversary of President Thomas Jefferson's birth."
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Three people are killed in a shooting in Overland Park, Kansas."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Jack T. Chick, American author, illustrator, and publisher (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Seamus Heaney, Irish poet and playwright, Nobel Prize laureate (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "In an ambush, 78 Jewish doctors, nurses and medical students from Hadassah Hospital, and a British soldier, are massacred by Arabs in Sheikh Jarrah. This event came to be known as the Hadassah medical convoy massacre."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Don Adams, American actor and director (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Robert Orville Anderson, American businessman, founded Atlantic Richfield Oil Co. (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "The New York City Metropolitan Museum of Art is founded."
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "Lajos Kossuth presents the Hungarian Declaration of Independence in a closed session of the National Assembly."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "At the Academy Awards, Sidney Poitier becomes the first African-American man to win the Best Actor award for the 1963 film Lilies of the Field."
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Alfred Mosher Butts, American architect and game designer, created Scrabble (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "Maurice Buckley, Australian sergeant, Victoria Cross recipient (died 1921)"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: Raleigh, North Carolina is occupied by Union forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "Nella Larsen, Danish/African-American nurse, librarian, and author (died 1964)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Sam Bush, American mandolinist"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "The house of Jack Teixeira is raided in an investigation into leaked Pentagon documents; he is arrested on the same day."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Ruby Puryear Hearn, African-American biophysicist"
     },
     {
       "type": "Death",
-      "year": "1973",
-      "text": "Henry Darger, American janitor and author (born 1892)"
+      "year": "2024",
+      "text": "Faith Ringgold, American artist and author (born 1930)"
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "Rory McIlroy wins the Masters Tournament, becoming just the sixth person to complete the Grand Slam in golf."
+    },
+    {
+      "type": "Event",
+      "year": "1175",
+      "text": "Saladin routs his Muslim opponents, the Zengids, in the battle of the Horns of Hama, consolidating his control over Syria except for Aleppo."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Tiger Woods becomes the youngest golfer to win the Masters Tournament."
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Judy Nunn, Australian actress and author"
+      "year": "1885",
+      "text": "Vean Gregg, American baseball player (died 1964)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "John Spencer-Churchill, 11th Duke of Marlborough, English businessman (died 2014)"
+      "year": "1889",
+      "text": "Herbert Yardley, American cryptologist and author (died 1958)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Garry Kasparov, Russian chess player and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Marguerite Henry, American author (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "John Middendorf, American mountain climber (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Allison Williams, American actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1873",
+      "text": "The Colfax massacre: More than 60 to 150 black men are murdered in Colfax, Louisiana, while surrendering to a mob of former Confederate soldiers and members of the Ku Klux Klan."
+    },
+    {
+      "type": "Death",
+      "year": "1993",
+      "text": "Wallace Stegner, American novelist, short story writer, and essayist (born 1909)"
+    },
+    {
+      "type": "Death",
+      "year": "1890",
+      "text": "Samuel J. Randall, American captain, lawyer, and politician, 33rd Speaker of the United States House of Representatives (born 1828)"
     }
   ],
   "source": "Wikipedia"
