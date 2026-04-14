@@ -2,24 +2,14 @@
   "date": "2026-04-14",
   "items": [
     {
-      "type": "Event",
-      "year": "1865",
-      "text": "William H. Seward, the U.S. Secretary of State, and his family are attacked at home by Lewis Powell."
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "The Pan-American Union is founded by the First International Conference of American States in Washington, D.C."
+      "type": "Birth",
+      "year": "1917",
+      "text": "Marvin Miller, American baseball executive (died 2012)"
     },
     {
       "type": "Birth",
-      "year": "1892",
-      "text": "Claire Windsor, American actress (died 1972)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "The Republic of Georgia introduces the post of President following its declaration of independence from the Soviet Union."
+      "year": "1882",
+      "text": "Moritz Schlick, German-Austrian physicist and philosopher (died 1936)"
     },
     {
       "type": "Birth",
@@ -28,13 +18,23 @@
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Susan Cunliffe-Lister, Baroness Masham of Ilton, English table tennis player, swimmer, and politician (died 2023)"
+      "year": "1965",
+      "text": "Tom Dey, American director and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1890",
+      "text": "The Pan-American Union is founded by the First International Conference of American States in Washington, D.C."
     },
     {
       "type": "Birth",
-      "year": "2000",
-      "text": "Patrick Surtain II, American football player"
+      "year": "1929",
+      "text": "Inez Andrews, African-American singer-songwriter (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Kenny Aaronson, American bass player"
     },
     {
       "type": "Event",
@@ -43,158 +43,23 @@
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Boris Strugatsky, Russian author (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Nadine Faustin-Parker, Haitian hurdler"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985."
-    },
-    {
-      "type": "Death",
-      "year": "1935",
-      "text": "Emmy Noether, German-American mathematician and academic (born 1882)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "The USS Samuel B. Roberts strikes a mine in the Persian Gulf during Operation Earnest Will."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Thomas Schelling, American economist and academic, Nobel Prize laureate (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas."
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "The Oregon Supreme Court nullifies marriage licenses issued to same-sex couples a year earlier by Multnomah County."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Bobbi Brown, American make-up artist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "The first ever commercial motion picture house opens in New York City, United States. It uses ten Kinetoscopes, devices for peep-show viewing of films."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Two bombs detonate at a bus station in Nyanya, Nigeria, killing at least 88 people and injuring hundreds. Boko Haram claims responsibility."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Nate Fox, American basketball player (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Julia Zemiro, French-Australian actress, comedian, singer and writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Luke Priddis, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Dave Gibbons, English author and illustrator"
-    },
-    {
-      "type": "Death",
-      "year": "1925",
-      "text": "John Singer Sargent, American painter (born 1856)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Cameron Parker, Scottish businessman and politician, Lord Lieutenant of Renfrewshire"
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Ollie Johnston, American animator and voice actor (born 1912)"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "2022 Russian invasion of Ukraine: The Russian warship Moskva sinks."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Greg Maddux, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "The Society for the Relief of Free Negroes Unlawfully Held in Bondage, the first abolition society in North America, is organized in Philadelphia by Benjamin Franklin and Benjamin Rush."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Kyle Farnsworth, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1882",
-      "text": "Moritz Schlick, German-Austrian physicist and philosopher (died 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "Muslims in the Ottoman Empire begin a massacre of Armenians in Adana."
-    },
-    {
-      "type": "Birth",
-      "year": "1891",
-      "text": "B. R. Ambedkar, Indian economist, jurist, and politician, 1st Indian Minister of Law and Justice (died 1956)"
-    },
-    {
-      "type": "Event",
-      "year": "1881",
-      "text": "The Four Dead in Five Seconds Gunfight occurs in El Paso, Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Bradford Dillman, American actor and author (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Katsuhiro Otomo, Japanese director, screenwriter, and illustrator"
-    },
-    {
-      "type": "Birth",
       "year": "1977",
       "text": "Sarah Michelle Gellar, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Erwin Hoffer, Austrian footballer"
+    },
+    {
+      "type": "Death",
+      "year": "1682",
+      "text": "Avvakum, Russian priest and saint (born 1620)"
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Claire Windsor, American actress (died 1972)"
     },
     {
       "type": "Event",
@@ -203,28 +68,23 @@
     },
     {
       "type": "Event",
-      "year": "1849",
-      "text": "Hungary declares itself independent of Austria with Lajos Kossuth as its leader."
+      "year": "1944",
+      "text": "Bombay explosion: A massive explosion in Bombay harbor kills at least 800 and causes economic damage valued at 20 million pounds."
     },
     {
       "type": "Event",
-      "year": "1816",
-      "text": "Bussa, a slave in British-ruled Barbados, leads a slave rebellion, for which he is remembered as the country's first national hero."
+      "year": "-43",
+      "text": "Legions loyal to the Roman Senate, commanded by Gaius Pansa, defeat the forces of Mark Antony in the Battle of Forum Gallorum."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "William Obeng, Ghanaian-American football player"
+      "year": "1957",
+      "text": "Bobbi Brown, American make-up artist and author"
     },
     {
       "type": "Birth",
-      "year": "1892",
-      "text": "V. Gordon Childe, Australian archaeologist and philologist (died 1957)"
-    },
-    {
-      "type": "Event",
-      "year": "69",
-      "text": "Vitellius, commanding Rhine-based armies, defeats Roman emperor Otho in the First Battle of Bedriacum to take power over Rome."
+      "year": "1960",
+      "text": "Tina Rosenberg, American journalist and author"
     },
     {
       "type": "Birth",
@@ -233,53 +93,33 @@
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Mary Healy, American actress and singer (died 2015)"
+      "year": "1921",
+      "text": "Thomas Schelling, American economist and academic, Nobel Prize laureate (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Martyn LeNoble, Dutch-American bass player"
     },
     {
       "type": "Event",
       "year": "1999",
-      "text": "A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history."
+      "text": "NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed."
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Erwin Hoffer, Austrian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Kenny Aaronson, American bass player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Audrey Long, American actress (died 2014)"
+      "year": "1964",
+      "text": "Jim Grabb, American tennis player"
     },
     {
       "type": "Event",
-      "year": "1908",
-      "text": "Hauser Dam, a steel dam on the Missouri River in Montana, fails, sending a surge of water 25 to 30 feet (7.6 to 9.1 m) high downstream."
+      "year": "1988",
+      "text": "The USS Samuel B. Roberts strikes a mine in the Persian Gulf during Operation Earnest Will."
     },
     {
       "type": "Event",
-      "year": "1865",
-      "text": "U.S. President Abraham Lincoln is shot in Ford's Theatre by John Wilkes Booth; Lincoln dies the following day."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "David Miller, American tenor"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Tbilisi demonstrations: Thousands of Georgians demonstrate against Soviet attempts to change the constitutional status of the Georgian language."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "Bombay explosion: A massive explosion in Bombay harbor kills at least 800 and causes economic damage valued at 20 million pounds."
+      "year": "1935",
+      "text": "The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas."
     },
     {
       "type": "Event",
@@ -288,8 +128,38 @@
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Michael Baze, American jockey (died 2011)"
+      "year": "1977",
+      "text": "Rob McElhenney, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Bob Massie, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "Hauser Dam, a steel dam on the Missouri River in Montana, fails, sending a surge of water 25 to 30 feet (7.6 to 9.1 m) high downstream."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Julia Zemiro, French-Australian actress, comedian, singer and writer"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Efi Arazi, Israeli businessman, founded the Scailex Corporation (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1816",
+      "text": "Bussa, a slave in British-ruled Barbados, leads a slave rebellion, for which he is remembered as the country's first national hero."
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "Hungary declares itself independent of Austria with Lajos Kossuth as its leader."
     },
     {
       "type": "Birth",
@@ -297,9 +167,139 @@
       "text": "Ralph Willis, Australian politician"
     },
     {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Mary Healy, American actress and singer (died 2015)"
+    },
+    {
       "type": "Event",
-      "year": "-43",
-      "text": "Legions loyal to the Roman Senate, commanded by Gaius Pansa, defeat the forces of Mark Antony in the Battle of Forum Gallorum."
+      "year": "2022",
+      "text": "2022 Russian invasion of Ukraine: The Russian warship Moskva sinks."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "The Society for the Relief of Free Negroes Unlawfully Held in Bondage, the first abolition society in North America, is organized in Philadelphia by Benjamin Franklin and Benjamin Rush."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "William Obeng, Ghanaian-American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "Tbilisi demonstrations: Thousands of Georgians demonstrate against Soviet attempts to change the constitutional status of the Georgian language."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "The Republic of Georgia introduces the post of President following its declaration of independence from the Soviet Union."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Brad Ausmus, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Two bombs detonate at a bus station in Nyanya, Nigeria, killing at least 88 people and injuring hundreds. Boko Haram claims responsibility."
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "William H. Seward, the U.S. Secretary of State, and his family are attacked at home by Lewis Powell."
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "Muslims in the Ottoman Empire begin a massacre of Armenians in Adana."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "The Oregon Supreme Court nullifies marriage licenses issued to same-sex couples a year earlier by Multnomah County."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Jeff Andretti, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Don Willesee, Australian telegraphist and politician, 29th Australian Minister for Foreign Affairs (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "The first ever commercial motion picture house opens in New York City, United States. It uses ten Kinetoscopes, devices for peep-show viewing of films."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Bobby Nichols, American golfer"
+    },
+    {
+      "type": "Event",
+      "year": "69",
+      "text": "Vitellius, commanding Rhine-based armies, defeats Roman emperor Otho in the First Battle of Bedriacum to take power over Rome."
+    },
+    {
+      "type": "Event",
+      "year": "1881",
+      "text": "The Four Dead in Five Seconds Gunfight occurs in El Paso, Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Arlene Martel, American actress and singer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "U.S. President Abraham Lincoln is shot in Ford's Theatre by John Wilkes Booth; Lincoln dies the following day."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Tyler Thigpen, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "1910",
+      "text": "Mikhail Vrubel, Russian painter and sculptor (born 1856)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Shorty Rogers, American trumpet player and composer (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Joseph Ruskin, American actor and producer (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "2022",
+      "text": "Orlando Julius, Nigerian saxophonist, singer (born 1943)"
     }
   ],
   "source": "Wikipedia"
