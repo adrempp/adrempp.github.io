@@ -1,305 +1,305 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "items": [
     {
       "type": "Birth",
-      "year": "1995",
-      "text": "Baker Mayfield, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "The first ever commercial motion picture house opens in New York City, United States. It uses ten Kinetoscopes, devices for peep-show viewing of films."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Adrien Brody, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "Hauser Dam, a steel dam on the Missouri River in Montana, fails, sending a surge of water 25 to 30 feet (7.6 to 9.1 m) high downstream."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Anna DeForge, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Avner Dorman, Israeli-American composer and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Carlos Pérez, Dominican-American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "William H. Seward, the U.S. Secretary of State, and his family are attacked at home by Lewis Powell."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Rebecca DiPietro, American wrestler and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "V. Gordon Childe, Australian archaeologist and philologist (died 1957)"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "The Society for the Relief of Free Negroes Unlawfully Held in Bondage, the first abolition society in North America, is organized in Philadelphia by Benjamin Franklin and Benjamin Rush."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Francis Collins, American physician and geneticist"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "The Oregon Supreme Court nullifies marriage licenses issued to same-sex couples a year earlier by Multnomah County."
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "U.S. President Abraham Lincoln is shot in Ford's Theatre by John Wilkes Booth; Lincoln dies the following day."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history."
-    },
-    {
-      "type": "Death",
-      "year": "1951",
-      "text": "Al Christie, Canadian-American director, producer, and screenwriter (born 1881)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "David Justice, American baseball player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "Hungary declares itself independent of Austria with Lajos Kossuth as its leader."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Mikhail Pletnev, Russian pianist, composer, and conductor"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Brad Garrett, American actor and comedian"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Arnold Burns, American lawyer and politician, 21st United States Deputy Attorney General (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Ruth Svedberg, Swedish discus thrower and triathlete (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Brad Ausmus, American baseball player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Kenny Aaronson, American bass player"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Tbilisi demonstrations: Thousands of Georgians demonstrate against Soviet attempts to change the constitutional status of the Georgian language."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Joe Haden, American football player"
+      "year": "1972",
+      "text": "Lou Romano, American animator and voice actor"
     },
     {
       "type": "Birth",
       "year": "1937",
-      "text": "Sepp Mayerl, Austrian mountaineer (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Tina Rosenberg, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Tom Dey, American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "-43",
-      "text": "Legions loyal to the Roman Senate, commanded by Gaius Pansa, defeat the forces of Mark Antony in the Battle of Forum Gallorum."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Loretta Lynn, American singer-songwriter and musician (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985."
-    },
-    {
-      "type": "Event",
-      "year": "1816",
-      "text": "Bussa, a slave in British-ruled Barbados, leads a slave rebellion, for which he is remembered as the country's first national hero."
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "2022 Russian invasion of Ukraine: The Russian warship Moskva sinks."
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "The first meeting of the Azusa Street Revival, which will launch Pentecostalism as a worldwide movement, is held in Los Angeles."
+      "text": "Bob Luman, American singer-songwriter and guitarist (died 1978)"
     },
     {
       "type": "Death",
-      "year": "2013",
-      "text": "Efi Arazi, Israeli businessman, founded the Scailex Corporation (born 1937)"
+      "year": "2012",
+      "text": "Paul Bogart, American director and producer (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Elizabeth Catlett, African-American sculptor and illustrator (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Tim Corcoran, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "During the Cambodian Civil War, massacre of the Vietnamese minority results in 800 bodies flowing down the Mekong river into South Vietnam."
+    },
+    {
+      "type": "Event",
+      "year": "1955",
+      "text": "McDonald's restaurant dates its founding to the opening of a franchised restaurant by Ray Kroc, in Des Plaines, Illinois."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Jeremy McGovern, Australian rules football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Robert Edison Fulton Jr., American inventor and adventurer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Pete Rouse, American politician, White House Chief of Staff"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Tom Kane, American voice actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Chris Tillman, American baseball pitcher"
+    },
+    {
+      "type": "Event",
+      "year": "1715",
+      "text": "The Pocotaligo Massacre triggers the start of the Yamasee War in colonial South Carolina."
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Byron White, American football player, lawyer, and jurist, Associate Justice of the Supreme Court (born 1917)"
+    },
+    {
+      "type": "Event",
+      "year": "1642",
+      "text": "Irish Confederate Wars: A Confederate Irish militia is routed in the Battle of Kilrush when it attempts to halt the progress of a Royalist Army."
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's color line."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "John L. Phillips, American captain and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Marsha Ivins, American engineer and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Adrian Cadbury, English rower and businessman (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Milton Bradley, American baseball player"
     },
     {
       "type": "Event",
       "year": "2014",
-      "text": "Two bombs detonate at a bus station in Nyanya, Nigeria, killing at least 88 people and injuring hundreds. Boko Haram claims responsibility."
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "The USS Samuel B. Roberts strikes a mine in the Persian Gulf during Operation Earnest Will."
+      "text": "In the worst massacre of the South Sudanese Civil War, more than 400 civilians are gunned down after seeking refuge in houses of worship as well as hospitals."
     },
     {
       "type": "Birth",
-      "year": "1997",
-      "text": "D. J. Moore, American football player"
+      "year": "1961",
+      "text": "Dawn Wright, American geographer and oceanographer"
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Marc Platt, American producer"
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "The Pan-American Union is founded by the First International Conference of American States in Washington, D.C."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "The Republic of Georgia introduces the post of President following its declaration of independence from the Soviet Union."
+      "year": "1951",
+      "text": "Heloise, American journalist and author"
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Nadine Faustin-Parker, Haitian hurdler"
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Claire Windsor, American actress (died 1972)"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Georgie Friedrichs, Australian rugby sevens player"
+      "year": "1989",
+      "text": "Darren Nicholls, Australian rugby league player"
     },
     {
       "type": "Event",
-      "year": "1999",
-      "text": "NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed."
+      "year": "2021",
+      "text": "A mass shooting occurs at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven."
     },
     {
       "type": "Event",
-      "year": "1881",
-      "text": "The Four Dead in Five Seconds Gunfight occurs in El Paso, Texas."
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "Muslims in the Ottoman Empire begin a massacre of Armenians in Adana."
+      "year": "1817",
+      "text": "Thomas Hopkins Gallaudet and Laurent Clerc found the American School for the Deaf (then called the Connecticut Asylum for the Education and Instruction of Deaf and Dumb Persons), the first American school for deaf students, in Hartford, Connecticut."
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Win Butler, American-Canadian singer-songwriter and guitarist"
+      "year": "1994",
+      "text": "Brodie Grundy, Australian rules football player"
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Marvin Miller, American baseball executive (died 2012)"
+      "year": "1943",
+      "text": "Hugh Thompson, Jr., American soldier and pilot (died 2006)"
     },
     {
       "type": "Event",
-      "year": "1944",
-      "text": "Bombay explosion: A massive explosion in Bombay harbor kills at least 800 and causes economic damage valued at 20 million pounds."
+      "year": "1920",
+      "text": "Two security guards are murdered during a robbery in South Braintree, Massachusetts. Anarchists Sacco and Vanzetti would be convicted of and executed for the crime, amid much controversy."
     },
     {
       "type": "Death",
-      "year": "1935",
-      "text": "Emmy Noether, German-American mathematician and academic (born 1882)"
+      "year": "2010",
+      "text": "Jack Herer, American author and activist (born 1939)"
     },
     {
       "type": "Event",
-      "year": "69",
-      "text": "Vitellius, commanding Rhine-based armies, defeats Roman emperor Otho in the First Battle of Bedriacum to take power over Rome."
+      "year": "1960",
+      "text": "At Shaw University in Raleigh, North Carolina, Ella Baker leads a conference that results in the creation of the Student Nonviolent Coordinating Committee, one of the principal organizations of the civil rights movement in the 1960s."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Nikoloz Tskitishvili, Georgian basketball player"
+      "year": "1947",
+      "text": "Lois Chiles, American model and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "President Abraham Lincoln dies after being shot the previous evening by actor John Wilkes Booth. Three hours later, Vice President Andrew Johnson is sworn in as president."
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Dave Gibbons, English author and illustrator"
+      "year": "1974",
+      "text": "Mike Quinn, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Cam Janssen, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Douglas Spain, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The United States launches Operation El Dorado Canyon, its bombing raids against Libyan targets in response to a discotheque bombing in West Germany that killed two U.S. servicemen."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "The EC-121 shootdown incident: North Korea shoots down a United States Navy aircraft over the Sea of Japan, killing all 31 on board."
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Racially motivated Nihon Shōgakkō fire lit by a serial arsonist kills 10 children in Sacramento, California."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Hillsborough disaster: A human crush occurs at Hillsborough Stadium, home of Sheffield Wednesday, in the FA Cup Semi-final, resulting in the deaths of 97 Liverpool fans."
     },
     {
       "type": "Event",
       "year": "2002",
-      "text": "Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military."
-    },
-    {
-      "type": "Event",
-      "year": "1205",
-      "text": "Combined Bulgarian and Cuman army under Kalojan ambushes and defeats forces of the Latin Empire of Constantinople in the Battle of Adrianople."
+      "text": "Air China Flight 129 crashes on approach to Gimhae International Airport in Busan, South Korea, killing 129 people."
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Katsuhiro Otomo, Japanese director, screenwriter, and illustrator"
+      "year": "1912",
+      "text": "William Congdon, American-Italian painter and sculptor (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Alberto Breccia, Uruguayan-Argentinian author and illustrator (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "Philippine–American War: Filipino guerrillas launch a surprise attack on U.S. infantry and begin a four-day siege of Catubig, Philippines."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Georgy Beregovoy, Ukrainian-Russian general, pilot, and astronaut (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Dara Torres, American swimmer and journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Antonio Cromartie, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Robert DePugh, American activist, founded the Minutemen (an anti-Communist organization) (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Patrick Carney, American drummer, musician, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "U.S. Senator John B. Kendrick of Wyoming introduces a resolution calling for an investigation of a secret land deal, which leads to the discovery of the Teapot Dome scandal."
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Arshile Gorky, Armenian-American painter and illustrator (died 1948)"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "The cathedral of Notre-Dame de Paris in France is seriously damaged by a large fire."
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Insulin becomes generally available for use by people with diabetes."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Michael Kamen, American composer and conductor (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1632",
+      "text": "Battle of Rain: Swedes under Gustavus Adolphus defeat the Holy Roman Empire during the Thirty Years' War."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Jason Sehorn, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "President Abraham Lincoln calls for 75,000 militiamen to quell the insurrection that soon became the American Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Two bombs explode near the finish line at the Boston Marathon in Boston, Massachusetts, killing three people and injuring over 500 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Susanne Bier, Danish director and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Lee Kernaghan, Australian singer-songwriter and guitarist"
     }
   ],
   "source": "Wikipedia"
