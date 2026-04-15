@@ -3,193 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Kym Gyngell, Australian actor, comedian, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "Racially motivated Nihon Shōgakkō fire lit by a serial arsonist kills 10 children in Sacramento, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Tim Thomas, American ice hockey player"
+      "year": "1940",
+      "text": "Robert Walker, American actor (died 2019)"
     },
     {
       "type": "Birth",
       "year": "1948",
-      "text": "Phil Mogg, English singer-songwriter and musician"
+      "text": "Michael Kamen, American composer and conductor (died 2003)"
     },
     {
       "type": "Event",
       "year": "1989",
       "text": "Hillsborough disaster: A human crush occurs at Hillsborough Stadium, home of Sheffield Wednesday, in the FA Cup Semi-final, resulting in the deaths of 97 Liverpool fans."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Robert Mills, American physicist and academic (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Brian Pothier, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Walt Hazzard, American basketball player and coach (died 2011)"
-    },
-    {
-      "type": "Death",
-      "year": "2002",
-      "text": "Damon Knight, American author and critic (born 1922)"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "The EC-121 shootdown incident: North Korea shoots down a United States Navy aircraft over the Sea of Japan, killing all 31 on board."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Tim Corcoran, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Harold Washington, American lawyer and politician, 51st Mayor of Chicago (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Amy Wright, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Alberto Breccia, Uruguayan-Argentinian author and illustrator (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Thomas Szasz, Hungarian-American psychiatrist and academic (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Kevin Stevens, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "President Abraham Lincoln calls for 75,000 militiamen to quell the insurrection that soon became the American Civil War."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "During the Cambodian Civil War, massacre of the Vietnamese minority results in 800 bodies flowing down the Mekong river into South Vietnam."
-    },
-    {
-      "type": "Death",
-      "year": "1998",
-      "text": "William Congdon, American-Italian painter and sculptor (born 1912)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "A mass shooting occurs at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Darren Nicholls, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Carol W. Greider, American molecular biologist"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Alla Pugacheva, Russian singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Susanne Bier, Danish director and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's color line."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Helene Hanff, American author and screenwriter (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Linda Bloodworth-Thomason, American screenwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Hugh Thompson, Jr., American soldier and pilot (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Robert DePugh, American activist, founded the Minutemen (an anti-Communist organization) (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Glenn Shadix, American actor, (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "McDonald's restaurant dates its founding to the opening of a franchised restaurant by Ray Kroc, in Des Plaines, Illinois."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "In the worst massacre of the South Sudanese Civil War, more than 400 civilians are gunned down after seeking refuge in houses of worship as well as hospitals."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Adrian Cadbury, English rower and businessman (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Mike Quinn, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Alfred S. Bloomingdale, American businessman (died 1982)"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "At Shaw University in Raleigh, North Carolina, Ella Baker leads a conference that results in the creation of the Student Nonviolent Coordinating Committee, one of the principal organizations of the civil rights movement in the 1960s."
-    },
-    {
-      "type": "Event",
-      "year": "1817",
-      "text": "Thomas Hopkins Gallaudet and Laurent Clerc found the American School for the Deaf (then called the Connecticut Asylum for the Education and Instruction of Deaf and Dumb Persons), the first American school for deaf students, in Hartford, Connecticut."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "The United States launches Operation El Dorado Canyon, its bombing raids against Libyan targets in response to a discotheque bombing in West Germany that killed two U.S. servicemen."
     },
     {
       "type": "Event",
@@ -199,12 +24,87 @@
     {
       "type": "Event",
       "year": "1923",
-      "text": "Insulin becomes generally available for use by people with diabetes."
+      "text": "Racially motivated Nihon Shōgakkō fire lit by a serial arsonist kills 10 children in Sacramento, California."
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Mott Green, American businessman (died 2013)"
+      "year": "1947",
+      "text": "Lois Chiles, American model and actress"
+    },
+    {
+      "type": "Death",
+      "year": "1865",
+      "text": "Abraham Lincoln, 16th President of the United States (born 1809)"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "The EC-121 shootdown incident: North Korea shoots down a United States Navy aircraft over the Sea of Japan, killing all 31 on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Dara Torres, American swimmer and journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Angelo DiGeorge, American physician and endocrinologist (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Marsha Ivins, American engineer and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Anthony Green, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Antonio Cromartie, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Willie Mason, New Zealand-Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1632",
+      "text": "Battle of Rain: Swedes under Gustavus Adolphus defeat the Holy Roman Empire during the Thirty Years' War."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "A mass shooting occurs at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Kenneth Lay, American businessman and criminal (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Bob Luman, American singer-songwriter and guitarist (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Robert Edison Fulton Jr., American inventor and adventurer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Kevin Stevens, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Brian Pothier, American ice hockey player"
     },
     {
       "type": "Event",
@@ -213,33 +113,48 @@
     },
     {
       "type": "Event",
-      "year": "1715",
-      "text": "The Pocotaligo Massacre triggers the start of the Yamasee War in colonial South Carolina."
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "Philippine–American War: Filipino guerrillas launch a surprise attack on U.S. infantry and begin a four-day siege of Catubig, Philippines."
-    },
-    {
-      "type": "Event",
-      "year": "1632",
-      "text": "Battle of Rain: Swedes under Gustavus Adolphus defeat the Holy Roman Empire during the Thirty Years' War."
+      "year": "1642",
+      "text": "Irish Confederate Wars: A Confederate Irish militia is routed in the Battle of Kilrush when it attempts to halt the progress of a Royalist Army."
     },
     {
       "type": "Birth",
-      "year": "1997",
-      "text": "Ashleigh Gardner, Australian cricketer"
+      "year": "1957",
+      "text": "Evelyn Ashford, American runner and coach"
     },
     {
-      "type": "Event",
-      "year": "2013",
-      "text": "Two bombs explode near the finish line at the Boston Marathon in Boston, Massachusetts, killing three people and injuring over 500 others."
+      "type": "Death",
+      "year": "1963",
+      "text": "Edward Greeves, Jr., Australian footballer (born 1903)"
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Cam Janssen, American ice hockey player"
+      "year": "1978",
+      "text": "Luis Fonsi, Puerto Rican-American singer-songwriter and dancer"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Michael Cooper, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Avital Ronell, Czech-American philosopher and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Jason Sehorn, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Cristina Husmark Pehrsson, Swedish nurse and politician, Swedish Minister for Social Security"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "President Abraham Lincoln calls for 75,000 militiamen to quell the insurrection that soon became the American Civil War."
     },
     {
       "type": "Birth",
@@ -247,44 +162,19 @@
       "text": "Arshile Gorky, Armenian-American painter and illustrator (died 1948)"
     },
     {
-      "type": "Event",
-      "year": "1865",
-      "text": "President Abraham Lincoln dies after being shot the previous evening by actor John Wilkes Booth. Three hours later, Vice President Andrew Johnson is sworn in as president."
-    },
-    {
       "type": "Birth",
-      "year": "1922",
-      "text": "Donn F. Draeger, American martial arts practitioner (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Howard Berman, American lawyer and politician"
+      "year": "1974",
+      "text": "Douglas Spain, American actor, director, and producer"
     },
     {
       "type": "Event",
-      "year": "1642",
-      "text": "Irish Confederate Wars: A Confederate Irish militia is routed in the Battle of Kilrush when it attempts to halt the progress of a Royalist Army."
+      "year": "1955",
+      "text": "McDonald's restaurant dates its founding to the opening of a franchised restaurant by Ray Kroc, in Des Plaines, Illinois."
     },
     {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Lita Grey, American actress (died 1995)"
-    },
-    {
-      "type": "Death",
-      "year": "1942",
-      "text": "Robert Musil, Austrian-Swiss author and playwright (born 1880)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Robert W. Gore, American engineer and businessman, co-inventor of Gore-Tex (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Francis X. DiLorenzo, American bishop (died 2017)"
+      "type": "Event",
+      "year": "1947",
+      "text": "Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's color line."
     },
     {
       "type": "Event",
@@ -293,13 +183,123 @@
     },
     {
       "type": "Event",
+      "year": "1970",
+      "text": "During the Cambodian Civil War, massacre of the Vietnamese minority results in 800 bodies flowing down the Mekong river into South Vietnam."
+    },
+    {
+      "type": "Event",
+      "year": "1715",
+      "text": "The Pocotaligo Massacre triggers the start of the Yamasee War in colonial South Carolina."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Chris Stapleton, American country singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Two bombs explode near the finish line at the Boston Marathon in Boston, Massachusetts, killing three people and injuring over 500 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Harold Washington, American lawyer and politician, 51st Mayor of Chicago (died 1987)"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "Philippine–American War: Filipino guerrillas launch a surprise attack on U.S. infantry and begin a four-day siege of Catubig, Philippines."
+    },
+    {
+      "type": "Death",
+      "year": "2004",
+      "text": "Mitsuteru Yokoyama, Japanese illustrator (born 1934)"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The United States launches Operation El Dorado Canyon, its bombing raids against Libyan targets in response to a discotheque bombing in West Germany that killed two U.S. servicemen."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Elmer Gedeon, American baseball player and bomber pilot (died 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Donn F. Draeger, American martial arts practitioner (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Susanne Bier, Danish director and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Insulin becomes generally available for use by people with diabetes."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Robert DePugh, American activist, founded the Minutemen (an anti-Communist organization) (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "John L. Phillips, American captain and astronaut"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "In the worst massacre of the South Sudanese Civil War, more than 400 civilians are gunned down after seeking refuge in houses of worship as well as hospitals."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Elizabeth Catlett, African-American sculptor and illustrator (died 2012)"
+    },
+    {
+      "type": "Event",
       "year": "1920",
       "text": "Two security guards are murdered during a robbery in South Braintree, Massachusetts. Anarchists Sacco and Vanzetti would be convicted of and executed for the crime, amid much controversy."
     },
     {
+      "type": "Event",
+      "year": "1865",
+      "text": "President Abraham Lincoln dies after being shot the previous evening by actor John Wilkes Booth. Three hours later, Vice President Andrew Johnson is sworn in as president."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "At Shaw University in Raleigh, North Carolina, Ella Baker leads a conference that results in the creation of the Student Nonviolent Coordinating Committee, one of the principal organizations of the civil rights movement in the 1960s."
+    },
+    {
       "type": "Birth",
-      "year": "1984",
-      "text": "Antonio Cromartie, American football player"
+      "year": "1961",
+      "text": "Carol W. Greider, American molecular biologist"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Dawn Wright, American geographer and oceanographer"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Howard Berman, American lawyer and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Amy Wright, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1817",
+      "text": "Thomas Hopkins Gallaudet and Laurent Clerc found the American School for the Deaf (then called the Connecticut Asylum for the Education and Instruction of Deaf and Dumb Persons), the first American school for deaf students, in Hartford, Connecticut."
     }
   ],
   "source": "Wikipedia"
