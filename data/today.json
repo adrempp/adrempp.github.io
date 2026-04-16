@@ -3,178 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Johnnie Lewis, Liberian lawyer and politician, 18th Chief Justice of Liberia (died 2015)"
+      "year": "1910",
+      "text": "Berton Roueché, American journalist and author (died 1994)"
     },
     {
       "type": "Event",
-      "year": "1963",
-      "text": "U.S. civil rights campaigner Dr. Martin Luther King Jr. writes his open letter from Birmingham Jail, sometimes known as \"The Negro Is Your Brother\", while incarcerated in Birmingham, Alabama, for protesting against segregation."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Marié Digby, American singer-songwriter, guitarist, and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Peter Ustinov, English actor, director, producer, and screenwriter (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Selena, American singer-songwriter, actress, and fashion designer (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Reggie Jackson, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "682",
-      "text": "Pope Leo II is elected head of the Catholic Church, although he will not be consecrated until 17 August."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Walt Williams, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Lawrence N. Guarino, American colonel (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Conchita Martínez, Spanish-American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "George Steele, American wrestler and actor (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Battle at Lee's Mills in Virginia."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "John Watkins, Australian cricketer"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Russian Revolution: Vladimir Lenin returns to Petrograd, Russia, from exile in Switzerland."
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Sadie Sink, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Barrie Unsworth, Australian politician, 36th Premier of New South Wales"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Arch A. Moore Jr., American sergeant, lawyer, and politician, 28th Governor of West Virginia (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "556",
-      "text": "Pope Pelagius I is consecrated following Imperial approval by Emperor Justinian I."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Perry Botkin Jr., American composer, arranger and musician (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Joseph-Armand Bombardier, Canadian inventor and businessman, founded Bombardier Inc. (died 1964)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Robert Stigwood, Australian producer and manager (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Akon, Senegalese-American singer, rapper and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: The Nazi-affiliated Ustaše is put in charge of the Independent State of Croatia by the Axis powers after Operation 25 is effected."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "The New York Times and The New Yorker win the Pulitzer Prize for Public Service for breaking news of the Harvey Weinstein sexual abuse scandal."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Henry Mancini, American composer and conductor (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "India and Bangladesh begin a five-day border conflict, but are unable to resolve the disputes about their border."
-    },
-    {
-      "type": "Event",
-      "year": "1881",
-      "text": "In Dodge City, Kansas, Bat Masterson fights his last gun battle."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Sir Frank Williams, English businessman, founded the Williams F1 Racing Team (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Kelli O'Hara, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Virginia Tech shooting: Seung-Hui Cho murders 32 people and injures 17 before committing suicide."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jon Cryer, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Michalis Dorizas, Greek-American football player and javelin thrower (died 1957)"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Gertrude Chandler Warner, American author and educator (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Dusty Springfield, English singer and record producer (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Chance the Rapper, American rapper"
+      "year": "1947",
+      "text": "Bernard Baruch first applies the term \"Cold War\" to describe the relationship between the United States and the Soviet Union."
     },
     {
       "type": "Event",
@@ -182,19 +17,49 @@
       "text": "Polish–Lithuanian War: The Polish Army launches the Vilna offensive to capture Vilnius in modern Lithuania."
     },
     {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Allan Segal, American director and producer (died 2012)"
+      "type": "Event",
+      "year": "1818",
+      "text": "The United States Senate ratifies the Rush–Bagot Treaty, limiting naval armaments on the Great Lakes and Lake Champlain."
     },
     {
       "type": "Birth",
-      "year": "1893",
-      "text": "John Norton, American hurdler (died 1979)"
+      "year": "1924",
+      "text": "Henry Mancini, American composer and conductor (died 1994)"
     },
     {
-      "type": "Death",
-      "year": "2013",
-      "text": "Pat Summerall, American football player and sportscaster (born 1930)"
+      "type": "Birth",
+      "year": "1923",
+      "text": "Warren Barker, American composer (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Nate Diaz, American mixed martial artist"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Kyle Okposo, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Tony McQuay, American sprinter"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The U.S. Supreme Court rules in the Baze v. Rees decision that execution by lethal injection does not violate the Eighth Amendment ban against cruel and unusual punishment."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Herbie Mann, American flute player and composer (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "T Lavitz, American keyboard player, composer, and producer (died 2010)"
     },
     {
       "type": "Event",
@@ -207,49 +72,24 @@
       "text": "French Revolutionary Wars: The Battle of Mount Tabor: Napoleon drives Ottoman Turks across the River Jordan near Acre."
     },
     {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Paul Waner, American baseball player and manager (died 1965)"
-    },
-    {
       "type": "Event",
-      "year": "1818",
-      "text": "The United States Senate ratifies the Rush–Bagot Treaty, limiting naval armaments on the Great Lakes and Lake Champlain."
+      "year": "2007",
+      "text": "Virginia Tech shooting: Seung-Hui Cho murders 32 people and injures 17 before committing suicide."
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "John Bowe, Australian racing driver"
+      "year": "1930",
+      "text": "Doug Beasy, Australian footballer and educator (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Reg Alcock, Canadian businessman and politician, 17th Canadian President of the Treasury Board (died 2011)"
     },
     {
       "type": "Event",
       "year": "1862",
-      "text": "American Civil War: The District of Columbia Compensated Emancipation Act, a bill ending slavery in the District of Columbia, becomes law."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "Bernard Baruch first applies the term \"Cold War\" to describe the relationship between the United States and the Soviet Union."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "The U.S. Supreme Court rules in the Baze v. Rees decision that execution by lethal injection does not violate the Eighth Amendment ban against cruel and unusual punishment."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "King George VI awards the George Cross to the people of Malta in appreciation of their heroism."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "An explosion on board a freighter in port causes Texas City in the state of Texas, United States, to catch fire, killing almost 600 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Fernando Viña, American baseball player and sportscaster"
+      "text": "American Civil War: Battle at Lee's Mills in Virginia."
     },
     {
       "type": "Event",
@@ -257,24 +97,109 @@
       "text": "Natural Bridges National Monument is established in Utah."
     },
     {
-      "type": "Death",
-      "year": "2013",
-      "text": "Pedro Ramírez Vázquez, Mexican architect, designed the Tijuana Cultural Center and National Museum of Anthropology (born 1919)"
-    },
-    {
-      "type": "Event",
-      "year": "1746",
-      "text": "The Battle of Culloden is fought between the French-supported Jacobites and the British Hanoverian forces commanded by William Augustus, Duke of Cumberland, in Scotland."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz)."
+      "type": "Birth",
+      "year": "1972",
+      "text": "Tracy K. Smith, American poet and educator"
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "John Hodiak, American actor (died 1955)"
+      "year": "1937",
+      "text": "George Steele, American wrestler and actor (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Ellen Barkin, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Rich Rollins, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Maury Meyers, American lawyer and politician (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "King George VI awards the George Cross to the people of Malta in appreciation of their heroism."
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Bob Graham, American lawyer, author, and politician, 38th governor of Florida (born 1936)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "India and Bangladesh begin a five-day border conflict, but are unable to resolve the disputes about their border."
+    },
+    {
+      "type": "Event",
+      "year": "1910",
+      "text": "The oldest existing indoor ice hockey arena still used for the sport in the 21st century, Boston Arena, opens for the first time."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: The Nazi-affiliated Ustaše is put in charge of the Independent State of Croatia by the Axis powers after Operation 25 is effected."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Colleen Hewett, Australian singer and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Anna Dello Russo, Italian journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "Dorothy P. Lathrop, American author and illustrator (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Taylor Townsend, American tennis player"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Robert Urich, American actor (born 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Polly Adler, Russian-American madam and author (died 1962)"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "Russian Revolution: Vladimir Lenin returns to Petrograd, Russia, from exile in Switzerland."
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Apollo program: The launch of Apollo 16 from Cape Canaveral, Florida."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "U.S. civil rights campaigner Dr. Martin Luther King Jr. writes his open letter from Birmingham Jail, sometimes known as \"The Negro Is Your Brother\", while incarcerated in Birmingham, Alabama, for protesting against segregation."
+    },
+    {
+      "type": "Event",
+      "year": "1881",
+      "text": "In Dodge City, Kansas, Bat Masterson fights his last gun battle."
+    },
+    {
+      "type": "Event",
+      "year": "556",
+      "text": "Pope Pelagius I is consecrated following Imperial approval by Emperor Justinian I."
     },
     {
       "type": "Event",
@@ -283,23 +208,98 @@
     },
     {
       "type": "Event",
-      "year": "1972",
-      "text": "Apollo program: The launch of Apollo 16 from Cape Canaveral, Florida."
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Sol Saks, American screenwriter and producer (born 1910)"
-    },
-    {
-      "type": "Event",
-      "year": "1910",
-      "text": "The oldest existing indoor ice hockey arena still used for the sport in the 21st century, Boston Arena, opens for the first time."
+      "year": "682",
+      "text": "Pope Leo II is elected head of the Catholic Church, although he will not be consecrated until 17 August."
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Tucker Fredricks, American speed skater"
+      "year": "1946",
+      "text": "Margot Adler, American journalist and author (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Ed Townsend, American singer-songwriter and producer (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "John Norton, American hurdler (died 1979)"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Frits Philips, Dutch businessman (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "The New York Times and The New Yorker win the Pulitzer Prize for Public Service for breaking news of the Harvey Weinstein sexual abuse scandal."
+    },
+    {
+      "type": "Death",
+      "year": "1937",
+      "text": "Jay Johnson Morrow, American military engineer and politician, third Governor of the Panama Canal Zone (born 1870)"
+    },
+    {
+      "type": "Birth",
+      "year": "1882",
+      "text": "Seth Bingham, American organist and composer (died 1972)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Jimmy Osmond, American singer"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The District of Columbia Compensated Emancipation Act, a bill ending slavery in the District of Columbia, becomes law."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Conchita Martínez, Spanish-American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Peter Ustinov, English actor, director, producer, and screenwriter (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1746",
+      "text": "The Battle of Culloden is fought between the French-supported Jacobites and the British Hanoverian forces commanded by William Augustus, Duke of Cumberland, in Scotland."
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Paul Waner, American baseball player and manager (died 1965)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Marié Digby, American singer-songwriter, guitarist, and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Germaine Guèvremont, Canadian journalist and author (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "David Graf, American actor (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "An explosion on board a freighter in port causes Texas City in the state of Texas, United States, to catch fire, killing almost 600 people."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz)."
     }
   ],
   "source": "Wikipedia"
