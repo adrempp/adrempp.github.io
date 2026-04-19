@@ -2,219 +2,14 @@
   "date": "2026-04-19",
   "items": [
     {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Bernie Worrell, American keyboard player and songwriter (died 2016)"
-    },
-    {
       "type": "Death",
-      "year": "2024",
-      "text": "Daniel Dennett, American philosopher and author (born 1942)"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: The war begins during the Battles of Lexington and Concord with a victory of American minutemen and other militia over British forces, later referred to as the \"shot heard round the world\"."
-    },
-    {
-      "type": "Event",
-      "year": "1818",
-      "text": "French physicist Augustin Fresnel signs his preliminary \"Note on the Theory of Diffraction\" (deposited on the following day). The document ends with what we now call the Fresnel integrals."
+      "year": "1950",
+      "text": "Ernst Robert Curtius, French-German philologist and scholar (born 1886)"
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Marvin Mandel, American lawyer and politician, 56th Governor of Maryland (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Samuel C. Morrison, Jr., Liberian-American journalist, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "65",
-      "text": "The freedman Milichus betrays Piso's plot to kill the Emperor Nero and all of the conspirators are arrested."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "The 51-day FBI siege of the Branch Davidian building in Waco, Texas, US, ends when a fire breaks out. Seventy-six Davidians, including 18 children under age 10, died in the fire."
-    },
-    {
-      "type": "Birth",
-      "year": "1721",
-      "text": "Roger Sherman, American lawyer and politician (died 1793)"
-    },
-    {
-      "type": "Event",
-      "year": "1903",
-      "text": "The Kishinev pogrom in Kishinev (Bessarabia) begins, forcing tens of thousands of Jews to later seek refuge in Palestine and the Western world."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Oklahoma City bombing: The Alfred P. Murrah Federal Building in Oklahoma City, US, is bombed, killing 168 people including 19 children under the age of six."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Kate Hudson, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Loren Gray, American singer and internet personality"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Baltimore riot of 1861: A pro-Secession mob in Baltimore attacks United States Army troops marching through the city."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Mukesh Ambani, Indian businessman, chairman of Reliance Industries"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "A gun turret explodes on the USS Iowa, killing 47 sailors."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Madeleine Peyroux, American French jazz and blues singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Suge Knight, American record executive"
-    },
-    {
-      "type": "Event",
-      "year": "1713",
-      "text": "With no living male heirs, Charles VI, Holy Roman Emperor, issues the Pragmatic Sanction of 1713 to ensure that Habsburg lands and the Austrian throne would be inheritable by a female; his daughter and successor, Maria Theresa, was not born until 1717."
-    },
-    {
-      "type": "Birth",
-      "year": "1734",
-      "text": "Karl von Ordóñez, Austrian violinist and composer (died 1786)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Alexis Korner, British blues musician and radio broadcaster (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "An Austrian corps is defeated by the forces of the Duchy of Warsaw in the Battle of Raszyn, part of the struggles of the Fifth Coalition. On the same day the Austrian main army is defeated by a First French Empire Corps led by Louis-Nicolas Davout at the Battle of Teugen-Hausen in Bavaria, part of a four-day campaign that ended in a French victory."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Michelle Feldman, American bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Sebastian Kris, Australian-NewZealand rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Richard Garwin, American physicist (died 2025)"
-    },
-    {
-      "type": "Death",
-      "year": "1926",
-      "text": "Alexander Alexandrovich Chuprov, Russian-Swiss statistician and theorist (born 1874)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Sol Kaplan, American pianist and composer (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Boston Marathon bombing suspect Tamerlan Tsarnaev is killed in a shootout with police. His brother Dzhokhar is later captured hiding in a boat inside a backyard in the suburb of Watertown."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Dickie Goodman, American singer-songwriter and producer (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Richard von Mises, Austrian-American mathematician and physicist (died 1953)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Jason Gillespie, Australian cricketer and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1831",
-      "text": "Mary Louise Booth, American writer, editor and translator (died 1889)"
-    },
-    {
-      "type": "Event",
-      "year": "1506",
-      "text": "The Lisbon Massacre begins, in which about two thousand Jews who had been forcibly converted to Christianity are slaughtered by Portuguese Catholics."
-    },
-    {
-      "type": "Death",
-      "year": "1321",
-      "text": "Gerasimus I, patriarch of Constantinople"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: Following the Battles of Lexington and Concord, the Siege of Boston begins with American militias blocking land access to the British-held city."
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Eliot Ness, American law enforcement agent (died 1957)"
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "A violent F5 tornado strikes around Brownwood, Texas, injuring 11 people. Two people were thrown at least 1,000 yards (910 m) by the tornado and survived uninjured."
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "George O'Brien, American actor (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1793",
-      "text": "Ferdinand I of Austria (died 1875)"
-    },
-    {
-      "type": "Birth",
-      "year": "1787",
-      "text": "Deaf Smith, American soldier (died 1837)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Bobby Russell, American singer-songwriter (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Leon Henkin, American logician (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1613",
-      "text": "Christoph Bach, German musician (died 1661)"
+      "year": "1964",
+      "text": "Kim Weaver, American astrophysicist, astronomer, and academic"
     },
     {
       "type": "Birth",
@@ -223,38 +18,33 @@
     },
     {
       "type": "Birth",
-      "year": "2016",
-      "text": "The Rizzler, American internet personality"
+      "year": "1941",
+      "text": "Bobby Russell, American singer-songwriter (died 1992)"
     },
     {
       "type": "Event",
-      "year": "1770",
-      "text": "Captain James Cook, still holding the rank of lieutenant, sights the eastern coast of what is now Australia."
+      "year": "1818",
+      "text": "French physicist Augustin Fresnel signs his preliminary \"Note on the Theory of Diffraction\" (deposited on the following day). The document ends with what we now call the Fresnel integrals."
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Daniel Dennett, American philosopher and author (born 1942)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "The 51-day FBI siege of the Branch Davidian building in Waco, Texas, US, ends when a fire breaks out. Seventy-six Davidians, including 18 children under age 10, died in the fire."
     },
     {
       "type": "Birth",
-      "year": "2003",
-      "text": "Jackson Merrill, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1782",
-      "text": "John Adams secures Dutch recognition of the United States as an independent government. The house which he had purchased in The Hague becomes the first American embassy."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The Portuguese Socialist Party is founded in the German town of Bad Münstereifel."
-    },
-    {
-      "type": "Event",
-      "year": "531",
-      "text": "Battle of Callinicum: A Byzantine army under Belisarius is defeated by the Persians at Raqqa (northern Syria)."
+      "year": "1883",
+      "text": "Henry Jameson, American soccer player (died 1938)"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Kim Weaver, American astrophysicist, astronomer, and academic"
+      "year": "1960",
+      "text": "Frank Viola, American baseball player and coach"
     },
     {
       "type": "Event",
@@ -262,9 +52,194 @@
       "text": "Colo-Colo, the most successful and popular soccer football team in the South American nation of Chile, was founded at the El Llano Stadium in San Miguel, Santiago, by footballer David Arellano and some of his teammates who had also left the Deportes Magallanes club."
     },
     {
+      "type": "Event",
+      "year": "1973",
+      "text": "The Portuguese Socialist Party is founded in the German town of Bad Münstereifel."
+    },
+    {
       "type": "Birth",
-      "year": "1978",
-      "text": "Amanda Sage, American-Austrian painter and educator"
+      "year": "1976",
+      "text": "Michelle Feldman, American bowler"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Candace Parker, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1734",
+      "text": "Karl von Ordóñez, Austrian violinist and composer (died 1786)"
+    },
+    {
+      "type": "Birth",
+      "year": "1831",
+      "text": "Mary Louise Booth, American writer, editor and translator (died 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Stanley Fish, American theorist, author, and scholar"
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "Two hundred ATF and FBI agents lay siege to the compound of the white supremacist survivalist group The Covenant, the Sword, and the Arm of the Lord in Arkansas; the CSA surrenders two days later."
+    },
+    {
+      "type": "Event",
+      "year": "1506",
+      "text": "The Lisbon Massacre begins, in which about two thousand Jews who had been forcibly converted to Christianity are slaughtered by Portuguese Catholics."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Elinor Donahue, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Boston Marathon bombing suspect Tamerlan Tsarnaev is killed in a shootout with police. His brother Dzhokhar is later captured hiding in a boat inside a backyard in the suburb of Watertown."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: Following the Battles of Lexington and Concord, the Siege of Boston begins with American militias blocking land access to the British-held city."
+    },
+    {
+      "type": "Birth",
+      "year": "1806",
+      "text": "Sarah Bagley, American labor organizer (died 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Maria Sharapova, Russian tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Glenn T. Seaborg, American chemist and academic, Nobel Prize laureate (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "65",
+      "text": "The freedman Milichus betrays Piso's plot to kill the Emperor Nero and all of the conspirators are arrested."
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Oklahoma City bombing: The Alfred P. Murrah Federal Building in Oklahoma City, US, is bombed, killing 168 people including 19 children under the age of six."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "A gun turret explodes on the USS Iowa, killing 47 sailors."
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Peter de Noronha, Indian businessman and philanthropist (died 1970)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Bernie Worrell, American keyboard player and songwriter (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Eliot Ness, American law enforcement agent (died 1957)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "James Heckman, American economist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: The war begins during the Battles of Lexington and Concord with a victory of American minutemen and other militia over British forces, later referred to as the \"shot heard round the world\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Clay Shaw, American accountant, judge, and politician (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Richard Garwin, American physicist (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Rhea Silberta, American Yiddish songwriter and singing teacher (died 1959)"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "A violent F5 tornado strikes around Brownwood, Texas, injuring 11 people. Two people were thrown at least 1,000 yards (910 m) by the tornado and survived uninjured."
+    },
+    {
+      "type": "Birth",
+      "year": "1877",
+      "text": "Ole Evinrude, Norwegian-American engineer, invented the outboard motor (died 1934)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Kate Hudson, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "Advance Australia Fair is proclaimed as Australia's national anthem, and green and gold as the national colours."
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Baltimore riot of 1861: A pro-Secession mob in Baltimore attacks United States Army troops marching through the city."
+    },
+    {
+      "type": "Event",
+      "year": "1782",
+      "text": "John Adams secures Dutch recognition of the United States as an independent government. The house which he had purchased in The Hague becomes the first American embassy."
+    },
+    {
+      "type": "Birth",
+      "year": "2016",
+      "text": "The Rizzler, American internet personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Joe Mauer, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Justin Francis Rigali, American cardinal"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "An Austrian corps is defeated by the forces of the Duchy of Warsaw in the Battle of Raszyn, part of the struggles of the Fifth Coalition. On the same day the Austrian main army is defeated by a First French Empire Corps led by Louis-Nicolas Davout at the Battle of Teugen-Hausen in Bavaria, part of a four-day campaign that ended in a French victory."
+    },
+    {
+      "type": "Birth",
+      "year": "1613",
+      "text": "Christoph Bach, German musician (died 1661)"
+    },
+    {
+      "type": "Event",
+      "year": "1713",
+      "text": "With no living male heirs, Charles VI, Holy Roman Emperor, issues the Pragmatic Sanction of 1713 to ensure that Habsburg lands and the Austrian throne would be inheritable by a female; his daughter and successor, Maria Theresa, was not born until 1717."
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "The Kishinev pogrom in Kishinev (Bessarabia) begins, forcing tens of thousands of Jews to later seek refuge in Palestine and the Western world."
     },
     {
       "type": "Event",
@@ -273,13 +248,38 @@
     },
     {
       "type": "Birth",
-      "year": "1883",
-      "text": "Henry Jameson, American soccer player (died 1938)"
+      "year": "1978",
+      "text": "James Franco, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Veniamin Kaverin, Russian author and screenwriter (died 1989)"
     },
     {
       "type": "Event",
-      "year": "1984",
-      "text": "Advance Australia Fair is proclaimed as Australia's national anthem, and green and gold as the national colours."
+      "year": "531",
+      "text": "Battle of Callinicum: A Byzantine army under Belisarius is defeated by the Persians at Raqqa (northern Syria)."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Samuel C. Morrison, Jr., Liberian-American journalist, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1770",
+      "text": "Captain James Cook, still holding the rank of lieutenant, sights the eastern coast of what is now Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "George O'Brien, American actor (died 1985)"
+    },
+    {
+      "type": "Death",
+      "year": "1901",
+      "text": "Alfred Horatio Belo, American publisher, founded The Dallas Morning News (born 1839)"
     },
     {
       "type": "Birth",
@@ -287,19 +287,19 @@
       "text": "Constance Talmadge, American actress and producer (died 1973)"
     },
     {
-      "type": "Event",
-      "year": "1985",
-      "text": "Two hundred ATF and FBI agents lay siege to the compound of the white supremacist survivalist group The Covenant, the Sword, and the Arm of the Lord in Arkansas; the CSA surrenders two days later."
+      "type": "Birth",
+      "year": "2002",
+      "text": "Loren Gray, American singer and internet personality"
     },
     {
       "type": "Birth",
-      "year": "2001",
-      "text": "Dalton Knecht, American basketball player"
+      "year": "1968",
+      "text": "Ashley Judd, American actress"
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Cora Sue Collins, American child actress (died 2025)"
+      "year": "1928",
+      "text": "Alexis Korner, British blues musician and radio broadcaster (died 1984)"
     }
   ],
   "source": "Wikipedia"
