@@ -2,109 +2,24 @@
   "date": "2026-04-20",
   "items": [
     {
-      "type": "Birth",
-      "year": "1966",
-      "text": "David Filo, American businessman, co-founded Yahoo!"
-    },
-    {
-      "type": "Event",
-      "year": "1792",
-      "text": "France declares war against the \"King of Hungary and Bohemia\", the beginning of the French Revolutionary Wars."
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "Amethyst incident: The People's Liberation Army attacks HMS Amethyst (F116) travelling to the British embassy in Nanjing during the Chinese Civil War."
-    },
-    {
-      "type": "Event",
-      "year": "1752",
-      "text": "Start of Konbaung–Hanthawaddy War, a new phase in the Burmese Civil War (1740–57)."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "English politician Enoch Powell makes his controversial \"Rivers of Blood\" speech."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Debbie Flintoff-King, Australian hurdler and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1884",
-      "text": "Pope Leo XIII publishes the encyclical Humanum genus, condemning Freemasonry."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Pat Roberts, American captain, journalist, and politician"
-    },
-    {
       "type": "Event",
       "year": "1876",
       "text": "The April Uprising begins. Its suppression shocks European opinion, and Bulgarian independence becomes a condition for ending the Russo-Turkish War."
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Stephen Marley, Jamaican-American musician"
+      "year": "1975",
+      "text": "Killer Mike, American rapper"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Crispin Glover, American actor and filmmaker"
+      "year": "1947",
+      "text": "Niko Lekishvili, Georgian politician (died 2025)"
     },
     {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Don Mattingly, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Betty Cuthbert, Australian sprinter (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "David Chalmers, Australian philosopher and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "U.S. Congress passes an act creating the Wisconsin Territory."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Robert E. Lee resigns his commission in the United States Army in order to command the forces of the state of Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Cold War: Failure of the Bay of Pigs Invasion of US-backed Cuban exiles against Cuba."
-    },
-    {
-      "type": "Event",
-      "year": "1828",
-      "text": "René Caillié becomes the second non-Muslim to enter Timbuktu, following Major Gordon Laing. He would also be the first to return alive."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Luke Kuechly, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "State of Minnesota v. Derek Michael Chauvin: Derek Chauvin is found guilty of all charges in the murder of George Floyd by the Fourth Judicial District Court of Minnesota."
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "The Soviet government creates the South Ossetian Autonomous Oblast within the Georgian SSR."
+      "type": "Death",
+      "year": "1918",
+      "text": "Jussi Merinen, Finnish politician (born 1873)"
     },
     {
       "type": "Event",
@@ -112,14 +27,39 @@
       "text": "Thaddeus S. C. Lowe, attempting to display the value of balloons, makes record journey, flying 900 miles from Cincinnati to South Carolina."
     },
     {
-      "type": "Birth",
-      "year": "1860",
-      "text": "Justinien de Clary, French target shooter (died 1933)"
+      "type": "Event",
+      "year": "1999",
+      "text": "Columbine High School massacre: Eric Harris and Dylan Klebold kill 14 people and injure 23 others before committing suicide at Columbine High School in Columbine, Colorado."
     },
     {
       "type": "Event",
-      "year": "1985",
-      "text": "University of California, Riverside 1985 laboratory raid: Animal Liberation Front rescues 467 animals being tested in a lab at University of California, Riverside in Riverside, California, causing $700,000 in damages to the laboratory, in advocacy for animal rights."
+      "year": "1861",
+      "text": "American Civil War: Robert E. Lee resigns his commission in the United States Army in order to command the forces of the state of Virginia."
+    },
+    {
+      "type": "Birth",
+      "year": "2005",
+      "text": "Tallyn Da Silva, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Shemar Moore, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1890",
+      "text": "Adolf Schärf, Austrian soldier and politician, 6th President of Austria (died 1965)"
+    },
+    {
+      "type": "Event",
+      "year": "1657",
+      "text": "Freedom of religion is granted to the Jews of New Amsterdam (later New York City)."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "For the first time in history, oil prices drop below zero, an effect of the 2020 Russia-Saudi Arabia oil price war."
     },
     {
       "type": "Event",
@@ -128,23 +68,63 @@
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Elena Verdugo, American actress (died 2017)"
+      "year": "1930",
+      "text": "Dwight Gustafson, American composer and conductor (died 2014)"
     },
     {
-      "type": "Death",
-      "year": "1932",
-      "text": "Giuseppe Peano, Italian mathematician and philosopher (born 1858)"
-    },
-    {
-      "type": "Death",
-      "year": "1643",
-      "text": "Christoph Demantius, German composer and poet (born 1567)"
+      "type": "Event",
+      "year": "1914",
+      "text": "Nineteen men, women, and children participating in a strike are killed in the Ludlow Massacre during the Colorado Coalfield War."
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Mike Portnoy, American drummer and songwriter"
+      "year": "1988",
+      "text": "Brandon Belt, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1152",
+      "text": "After an eight-year conflict, Baldwin III of Jerusalem wins sole control of the Kingdom of Jerusalem from his mother Melisende."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Felix Baumgartner, Austrian daredevil (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Jason Behrendorff, Australian cricketer"
+    },
+    {
+      "type": "Death",
+      "year": "1918",
+      "text": "Karl Ferdinand Braun, German-American physicist and academic, Nobel Prize laureate (born 1850)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Allan Houston, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Donald Pettit, American engineer and astronaut"
+    },
+    {
+      "type": "Death",
+      "year": "2021",
+      "text": "Monte Hellman, American film director (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1850",
+      "text": "Daniel Chester French, American sculptor, designed the Lincoln statue (died 1931)"
+    },
+    {
+      "type": "Event",
+      "year": "1884",
+      "text": "Pope Leo XIII publishes the encyclical Humanum genus, condemning Freemasonry."
     },
     {
       "type": "Event",
@@ -153,43 +133,18 @@
     },
     {
       "type": "Event",
-      "year": "2013",
-      "text": "A 6.6-magnitude earthquake strikes Lushan County, Ya'an, in China's Sichuan province, killing at least 193 people and injuring thousands."
-    },
-    {
-      "type": "Death",
-      "year": "1931",
-      "text": "Sir Cosmo Duff-Gordon, 5th Baronet, Scottish-English fencer and businessman (born 1862)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Carmen Electra, American model and actress"
+      "year": "1898",
+      "text": "U.S. President William McKinley signs a joint resolution to Congress for declaration of war against Spain, beginning the Spanish–American War."
     },
     {
       "type": "Event",
-      "year": "1946",
-      "text": "The League of Nations officially dissolves, giving most of its power to the United Nations."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Felix Baumgartner, Austrian daredevil (died 2025)"
+      "year": "1828",
+      "text": "René Caillié becomes the second non-Muslim to enter Timbuktu, following Major Gordon Laing. He would also be the first to return alive."
     },
     {
       "type": "Event",
-      "year": "1809",
-      "text": "Two Austrian army corps in Bavaria are defeated by a First French Empire army led by Napoleon at the Battle of Abensberg on the second day of a four-day campaign that ended in a French victory."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: U.S. troops capture Leipzig, Germany, only to later cede the city to the Soviet Union."
-    },
-    {
-      "type": "Event",
-      "year": "1152",
-      "text": "After an eight-year conflict, Baldwin III of Jerusalem wins sole control of the Kingdom of Jerusalem from his mother Melisende."
+      "year": "2021",
+      "text": "State of Minnesota v. Derek Michael Chauvin: Derek Chauvin is found guilty of all charges in the murder of George Floyd by the Fourth Judicial District Court of Minnesota."
     },
     {
       "type": "Birth",
@@ -202,34 +157,9 @@
       "text": "Luther Vandross, American singer-songwriter and producer (died 2005)"
     },
     {
-      "type": "Event",
-      "year": "1789",
-      "text": "George Washington arrives at Grays Ferry, Philadelphia, while en route to Manhattan for his inauguration."
-    },
-    {
       "type": "Birth",
-      "year": "1968",
-      "text": "Julia Morris, Australian entertainer"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "For the first time in history, oil prices drop below zero, an effect of the 2020 Russia-Saudi Arabia oil price war."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "John Paul Stevens, American lawyer and jurist, Associate Justice of the Supreme Court of the United States (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Kyle Higashioka, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Augoustinos Kantiotes, Greek bishop (died 2010)"
+      "year": "1923",
+      "text": "Tito Puente, American drummer and producer (died 2000)"
     },
     {
       "type": "Event",
@@ -238,23 +168,38 @@
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "James Chance, American musician (died 2024)"
+      "year": "1949",
+      "text": "Veronica Cartwright, English-American actress"
     },
     {
       "type": "Event",
-      "year": "1770",
-      "text": "The Georgian king, Erekle II, abandoned by his Russian ally Count Totleben, wins a victory over Ottoman forces at Aspindza."
+      "year": "1836",
+      "text": "U.S. Congress passes an act creating the Wisconsin Territory."
+    },
+    {
+      "type": "Birth",
+      "year": "1882",
+      "text": "Holland Smith, American general (died 1967)"
     },
     {
       "type": "Event",
-      "year": "1914",
-      "text": "Nineteen men, women, and children participating in a strike are killed in the Ludlow Massacre during the Colorado Coalfield War."
+      "year": "1945",
+      "text": "World War II: U.S. troops capture Leipzig, Germany, only to later cede the city to the Soviet Union."
     },
     {
       "type": "Event",
-      "year": "1999",
-      "text": "Columbine High School massacre: Eric Harris and Dylan Klebold kill 14 people and injure 23 others before committing suicide at Columbine High School in Columbine, Colorado."
+      "year": "1946",
+      "text": "The League of Nations officially dissolves, giving most of its power to the United Nations."
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The Soviet government creates the South Ossetian Autonomous Oblast within the Georgian SSR."
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "Oliver Kirk, American boxer (died 1960)"
     },
     {
       "type": "Event",
@@ -262,19 +207,29 @@
       "text": "Johnson Space Center shooting: William Phillips barricades himself with a handgun in NASA's Johnson Space Center in Houston, Texas, before killing a male hostage and himself."
     },
     {
+      "type": "Event",
+      "year": "1792",
+      "text": "France declares war against the \"King of Hungary and Bohemia\", the beginning of the French Revolutionary Wars."
+    },
+    {
       "type": "Birth",
-      "year": "1930",
-      "text": "Dwight Gustafson, American composer and conductor (died 2014)"
+      "year": "1840",
+      "text": "Odilon Redon, French painter and illustrator (died 1916)"
     },
     {
       "type": "Event",
-      "year": "1657",
-      "text": "Freedom of religion is granted to the Jews of New Amsterdam (later New York City)."
+      "year": "1968",
+      "text": "English politician Enoch Powell makes his controversial \"Rivers of Blood\" speech."
     },
     {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Allan Houston, American basketball player"
+      "type": "Event",
+      "year": "1949",
+      "text": "Amethyst incident: The People's Liberation Army attacks HMS Amethyst (F116) travelling to the British embassy in Nanjing during the Chinese Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "Two Austrian army corps in Bavaria are defeated by a First French Empire army led by Napoleon at the Battle of Abensberg on the second day of a four-day campaign that ended in a French victory."
     },
     {
       "type": "Birth",
@@ -282,24 +237,69 @@
       "text": "Adolf Hitler, Austrian-born German politician, Führer of Nazi Germany (died 1945)"
     },
     {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Perry Haddock, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Johnny Tillotson, American singer-songwriter (died 2025)"
+    },
+    {
       "type": "Event",
-      "year": "1898",
-      "text": "U.S. President William McKinley signs a joint resolution to Congress for declaration of war against Spain, beginning the Spanish–American War."
+      "year": "1985",
+      "text": "University of California, Riverside 1985 laboratory raid: Animal Liberation Front rescues 467 animals being tested in a lab at University of California, Riverside in Riverside, California, causing $700,000 in damages to the laboratory, in advocacy for animal rights."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Kyle Higashioka, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "George Washington arrives at Grays Ferry, Philadelphia, while en route to Manhattan for his inauguration."
     },
     {
       "type": "Birth",
       "year": "1923",
-      "text": "Irene Lieblich, Polish-American painter and illustrator (died 2008)"
+      "text": "Mother Angelica, American nun and broadcaster, founded Eternal Word Television Network (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Cold War: Failure of the Bay of Pigs Invasion of US-backed Cuban exiles against Cuba."
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Betty Lou Gerson, American actress (died 1999)"
+      "year": "1925",
+      "text": "Ernie Stautner, German-American football player and coach (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1752",
+      "text": "Start of Konbaung–Hanthawaddy War, a new phase in the Burmese Civil War (1740–57)."
     },
     {
       "type": "Birth",
-      "year": "1727",
-      "text": "Florimond Claude, Comte de Mercy-Argenteau, Belgian-Austrian minister and diplomat (died 1794)"
+      "year": "1945",
+      "text": "Michael Brandon, American actor and director"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "A 6.6-magnitude earthquake strikes Lushan County, Ya'an, in China's Sichuan province, killing at least 193 people and injuring thousands."
+    },
+    {
+      "type": "Event",
+      "year": "1770",
+      "text": "The Georgian king, Erekle II, abandoned by his Russian ally Count Totleben, wins a victory over Ottoman forces at Aspindza."
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "Dave Bancroft, American baseball player and manager (died 1972)"
     }
   ],
   "source": "Wikipedia"
