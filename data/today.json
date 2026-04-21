@@ -2,24 +2,54 @@
   "date": "2026-04-21",
   "items": [
     {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Yoshito Usui, Japanese illustrator (died 2009)"
+    },
+    {
       "type": "Event",
-      "year": "1967",
-      "text": "A tornado outbreak in Illinois, United States, kills over 50 and injures over 1,000. Belvidere sustains over 500 casualties as a violent tornado strikes the high school. Another tornado near Chicago causes another 500 casualties, devastating Oak Lawn."
+      "year": "1948",
+      "text": "United Nations Security Council Resolution 47 relating to Kashmir conflict is adopted."
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Petero Civoniceva, Fijian-Australian rugby league player"
+      "year": "1994",
+      "text": "Ludwig Augustinsson, Swedish footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Spanish–American War: The United States Navy begins a blockade of Cuban ports. When the U.S. Congress issued a declaration of war on April 25, it declared that a state of war had existed from this date."
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Bob Varsha, American sportscaster"
+      "year": "1925",
+      "text": "Anthony Mason, Australian soldier and judge, 9th Chief Justice of Australia (died 2026)"
     },
     {
       "type": "Birth",
-      "year": "1911",
-      "text": "Ivan Combe, American businessman, developed Clearasil (died 2000)"
+      "year": "1904",
+      "text": "Odilo Globocnik, Italian-Austrian SS officer (died 1945)"
+    },
+    {
+      "type": "Event",
+      "year": "1802",
+      "text": "Twelve thousand Wahhabis sack Karbala, killing over three thousand inhabitants."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "United Air Lines Flight 736 collides with a United States Air Force fighter jet near Arden, Nevada in what is now Enterprise, Nevada."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "Ypiranga incident: A German arms shipment to Mexico is intercepted by the U.S. Navy near Veracruz."
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Joe McCarthy, American baseball manager (died 1978)"
     },
     {
       "type": "Event",
@@ -28,53 +58,23 @@
     },
     {
       "type": "Event",
-      "year": "1985",
-      "text": "The compound of the militant group The Covenant, The Sword, and the Arm of the Lord surrenders to federal authorities in Arkansas after a two-day government siege."
+      "year": "2014",
+      "text": "The American city of Flint, Michigan switches its water source to the Flint River, beginning the ongoing Flint water crisis which has caused lead poisoning in up to 12,000 people, and at least 12 deaths from Legionnaires' disease, ultimately leading to criminal indictments against 15 people, five of whom have been charged with involuntary manslaughter."
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Michael Freedman, American mathematician and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The 1964–1965 New York World's Fair opens for its second and final season."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The first election of the Universal House of Justice is held, marking its establishment as the supreme governing institution of the Baháʼí Faith."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "United Nations Security Council Resolution 47 relating to Kashmir conflict is adopted."
-    },
-    {
-      "type": "Event",
-      "year": "-43",
-      "text": "Battle of Mutina: Mark Antony is again defeated in battle by Aulus Hirtius, who is killed. Antony fails to capture Mutina and Decimus Brutus is murdered shortly after."
+      "year": "1992",
+      "text": "Joc Pederson, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1905",
-      "text": "Pat Brown, American lawyer and politician, 32nd Governor of California (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Ricky Berens, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "John Brumby, Australian politician, 45th Premier of Victoria"
+      "year": "1933",
+      "text": "Ignatius Zakka I Iwas, Iraqi patriarch (died 2014)"
     },
     {
       "type": "Event",
-      "year": "1960",
-      "text": "Brasília, Brazil's capital, is officially inaugurated. At 09:30, the Three Powers of the Republic are simultaneously transferred from the old capital, Rio de Janeiro."
+      "year": "1926",
+      "text": "Al-Baqi cemetery, former site of the mausoleum of four Shi'a Imams, is leveled to the ground by Wahhabis."
     },
     {
       "type": "Birth",
@@ -83,23 +83,8 @@
     },
     {
       "type": "Event",
-      "year": "1926",
-      "text": "Al-Baqi cemetery, former site of the mausoleum of four Shi'a Imams, is leveled to the ground by Wahhabis."
-    },
-    {
-      "type": "Death",
-      "year": "1990",
-      "text": "Erté, Russian-French illustrator (born 1892)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Al Bumbry, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "John Adams sworn in as first US Vice President (nine days before George Washington)."
+      "year": "1993",
+      "text": "The Supreme Court in La Paz, Bolivia, sentences former dictator Luis García Meza to 30 years in jail without parole for murder, theft, fraud and violating the constitution."
     },
     {
       "type": "Birth",
@@ -108,93 +93,23 @@
     },
     {
       "type": "Event",
-      "year": "1958",
-      "text": "United Air Lines Flight 736 collides with a United States Air Force fighter jet near Arden, Nevada in what is now Enterprise, Nevada."
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Jimmy Snyder, American sportscaster (born 1919)"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The U.S. Weather Bureau records that a tornado which struck Timber Lake, South Dakota was 4 miles (6.4 km), among the widest tornadoes on record."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "The American city of Flint, Michigan switches its water source to the Flint River, beginning the ongoing Flint water crisis which has caused lead poisoning in up to 12,000 people, and at least 12 deaths from Legionnaires' disease, ultimately leading to criminal indictments against 15 people, five of whom have been charged with involuntary manslaughter."
+      "year": "1963",
+      "text": "The first election of the Universal House of Justice is held, marking its establishment as the supreme governing institution of the Baháʼí Faith."
     },
     {
       "type": "Birth",
-      "year": "1868",
-      "text": "Alfred Henry Maurer, American painter (died 1932)"
+      "year": "1931",
+      "text": "Morgan Wootten, American high school basketball coach (died 2020)"
     },
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "James Dobson, American evangelist, psychologist, and author, founded Focus on the Family (died 2025)"
+      "year": "1956",
+      "text": "Phillip Longman, German-American demographer and journalist"
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Ben Zinn, Israeli-born American academic and former international soccer player"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "Spanish–American War: The United States Navy begins a blockade of Cuban ports. When the U.S. Congress issued a declaration of war on April 25, it declared that a state of war had existed from this date."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "The Supreme Court in La Paz, Bolivia, sentences former dictator Luis García Meza to 30 years in jail without parole for murder, theft, fraud and violating the constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1838",
-      "text": "John Muir, Scottish-American environmentalist and author (died 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Gary Condit, American businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Anthony Mason, Australian soldier and judge, 9th Chief Justice of Australia (died 2026)"
-    },
-    {
-      "type": "Death",
-      "year": "1910",
-      "text": "Mark Twain, American novelist, humorist, and critic (born 1835)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Paul Davis, American singer-songwriter and musician (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Baseball: Rollie Fingers of the Milwaukee Brewers becomes the first pitcher to record 300 saves."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Ludwig Augustinsson, Swedish footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1882",
-      "text": "Percy Williams Bridgman, American physicist and academic, Nobel Prize laureate (died 1961)"
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "Texas Revolution: The Battle of San Jacinto: Republic of Texas forces under Sam Houston defeat troops under Mexican General Antonio López de Santa Anna."
+      "year": "1924",
+      "text": "Ira Louvin, American singer-songwriter and mandolin player (died 1965)"
     },
     {
       "type": "Birth",
@@ -203,8 +118,38 @@
     },
     {
       "type": "Event",
-      "year": "1962",
-      "text": "The Seattle World's Fair (Century 21 Exposition) opens. It is the first World's Fair in the United States since World War II."
+      "year": "1960",
+      "text": "Brasília, Brazil's capital, is officially inaugurated. At 09:30, the Three Powers of the Republic are simultaneously transferred from the old capital, Rio de Janeiro."
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Gustav Lorentzen, Norwegian singer-songwriter and guitarist (born 1947)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Al Bumbry, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Walter Slezak, Austrian-American actor and singer (born 1902)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "John Brumby, Australian politician, 45th Premier of Victoria"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "The controversial Kharkiv Pact (Russian Ukrainian Naval Base for Gas Treaty) is signed in Kharkiv, Ukraine, by Ukrainian president Viktor Yanukovych and Russian president Dmitry Medvedev; it was unilaterally terminated by Russia on March 31, 2014."
+    },
+    {
+      "type": "Death",
+      "year": "1956",
+      "text": "Charles MacArthur, American playwright and screenwriter (born 1895)"
     },
     {
       "type": "Event",
@@ -212,9 +157,74 @@
       "text": "The \"Surgeon's Photograph\", the most famous photo allegedly showing the Loch Ness Monster, is published in the Daily Mail (in 1994, it is revealed to be a hoax)."
     },
     {
+      "type": "Event",
+      "year": "1972",
+      "text": "Astronauts John Young and Charles Duke fly Apollo 16's Apollo Lunar Module to the Moon's surface, the fifth NASA Apollo Program crewed lunar landing."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Jencarlos Canela, American singer-songwriter and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1856",
+      "text": "Australian labour movement: Stonemasons and building workers on building sites around Melbourne march from the University of Melbourne to Parliament House to achieve an eight-hour day."
+    },
+    {
+      "type": "Event",
+      "year": "-43",
+      "text": "Battle of Mutina: Mark Antony is again defeated in battle by Aulus Hirtius, who is killed. Antony fails to capture Mutina and Decimus Brutus is murdered shortly after."
+    },
+    {
+      "type": "Event",
+      "year": "-753",
+      "text": "Romulus founds Rome (traditional date)."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Fiona Kelleghan, American academic, critic and librarian"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Ken Caminiti, American baseball player (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Don Cornell, American singer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1889",
+      "text": "Marcel Boussac, French businessman (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Jarrett Allen, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Bob Varsha, American sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "John Adams sworn in as first US Vice President (nine days before George Washington)."
+    },
+    {
       "type": "Birth",
       "year": "1937",
-      "text": "Gary Peters, American baseball player (died 2023)"
+      "text": "Ben Zinn, Israeli-born American academic and former international soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1810",
+      "text": "John Putnam Chapin, American politician, 10th Mayor of Chicago (died 1864)"
     },
     {
       "type": "Event",
@@ -228,33 +238,8 @@
     },
     {
       "type": "Event",
-      "year": "1802",
-      "text": "Twelve thousand Wahhabis sack Karbala, killing over three thousand inhabitants."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "Ypiranga incident: A German arms shipment to Mexico is intercepted by the U.S. Navy near Veracruz."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Yoshito Usui, Japanese illustrator (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Astronauts John Young and Charles Duke fly Apollo 16's Apollo Lunar Module to the Moon's surface, the fifth NASA Apollo Program crewed lunar landing."
-    },
-    {
-      "type": "Event",
-      "year": "1506",
-      "text": "The three-day Lisbon Massacre comes to an end with the slaughter of over 1,900 suspected Jews by Portuguese Catholics."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Don Cornell, American singer (died 2004)"
+      "year": "1836",
+      "text": "Texas Revolution: The Battle of San Jacinto: Republic of Texas forces under Sam Houston defeat troops under Mexican General Antonio López de Santa Anna."
     },
     {
       "type": "Birth",
@@ -263,43 +248,58 @@
     },
     {
       "type": "Event",
-      "year": "-753",
-      "text": "Romulus founds Rome (traditional date)."
+      "year": "1946",
+      "text": "The U.S. Weather Bureau records that a tornado which struck Timber Lake, South Dakota was 4 miles (6.4 km), among the widest tornadoes on record."
     },
     {
       "type": "Event",
-      "year": "1856",
-      "text": "Australian labour movement: Stonemasons and building workers on building sites around Melbourne march from the University of Melbourne to Parliament House to achieve an eight-hour day."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Easley Blackwood, Jr., American pianist, composer, and educator (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Joc Pederson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Elaine May, American actress, comedian, director, and screenwriter"
+      "year": "1962",
+      "text": "The Seattle World's Fair (Century 21 Exposition) opens. It is the first World's Fair in the United States since World War II."
     },
     {
       "type": "Event",
-      "year": "2010",
-      "text": "The controversial Kharkiv Pact (Russian Ukrainian Naval Base for Gas Treaty) is signed in Kharkiv, Ukraine, by Ukrainian president Viktor Yanukovych and Russian president Dmitry Medvedev; it was unilaterally terminated by Russia on March 31, 2014."
+      "year": "1967",
+      "text": "A tornado outbreak in Illinois, United States, kills over 50 and injures over 1,000. Belvidere sustains over 500 casualties as a violent tornado strikes the high school. Another tornado near Chicago causes another 500 casualties, devastating Oak Lawn."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Tarvaris Jackson, American football player (died 2020)"
+      "year": "1899",
+      "text": "Randall Thompson, American composer and academic (died 1984)"
     },
     {
       "type": "Birth",
       "year": "1970",
       "text": "Rob Riggle, American actor and comedian"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Baseball: Rollie Fingers of the Milwaukee Brewers becomes the first pitcher to record 300 saves."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Sister Helen Prejean, American nun, activist, and author"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The 1964–1965 New York World's Fair opens for its second and final season."
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "The compound of the militant group The Covenant, The Sword, and the Arm of the Lord surrenders to federal authorities in Arkansas after a two-day government siege."
+    },
+    {
+      "type": "Event",
+      "year": "1506",
+      "text": "The three-day Lisbon Massacre comes to an end with the slaughter of over 1,900 suspected Jews by Portuguese Catholics."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Michael Zarnock, American author"
     }
   ],
   "source": "Wikipedia"
