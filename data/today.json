@@ -2,124 +2,14 @@
   "date": "2026-04-22",
   "items": [
     {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Dee Strange-Gordon, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "2011",
-      "text": "Violet McGraw, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Adam Lanza, American mass murderer (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Jeff Hostetler, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Marshawn Lynch, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Richard Glücks, German SS officer and major contributor to the concentration camp system and the Holocaust (died 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1658",
-      "text": "Giuseppe Torelli, Italian violinist and composer (died 1709)"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Yehudi Menuhin, American-Swiss violinist and conductor (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Eighteen-year-old Stephen Lawrence is murdered in a racially motivated attack while waiting for a bus in Well Hall, Eltham."
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "Texas Revolution: A day after the Battle of San Jacinto, forces under Texas General Sam Houston identify Mexican General Antonio López de Santa Anna among the captives of the battle when some of his fellow soldiers mistakenly give away his identity."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Wolf V. Vishniac, American microbiologist and academic (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1891",
-      "text": "Nicola Sacco, Italian-American anarchist (died 1927)"
-    },
-    {
       "type": "Event",
       "year": "1915",
       "text": "World War I: The use of poison gas in World War I escalates when chlorine gas is released as a chemical weapon in the Second Battle of Ypres."
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Anthony Llewellyn, Welsh-American chemist and astronaut (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Sherri Shepherd, American actress, comedian, and television personality"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Sachsenhausen concentration camp is liberated by soldiers of the Red Army and Polish First Army."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Glen Campbell, American singer-songwriter, guitarist, and actor (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Jason Miller, American actor and playwright (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Carl Lindner, Jr., American businessman and philanthropist (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1876",
-      "text": "The first National League baseball game is played at the Jefferson Street Grounds in Philadelphia."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Louise Glück, American poet (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II:  The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater."
-    },
-    {
-      "type": "Death",
-      "year": "1988",
-      "text": "Grigori Kuzmin, Russian-Estonian astronomer and academic (born 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Mickey Vernon, American baseball player and coach (died 2008)"
+      "year": "1889",
+      "text": "Richard Glücks, German SS officer and major contributor to the concentration camp system and the Holocaust (died 1945)"
     },
     {
       "type": "Birth",
@@ -132,9 +22,174 @@
       "text": "Kevin Kiermaier, American baseball player"
     },
     {
+      "type": "Event",
+      "year": "1930",
+      "text": "The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding."
+    },
+    {
       "type": "Birth",
-      "year": "1872",
-      "text": "Princess Margaret of Prussia (died 1954)"
+      "year": "1917",
+      "text": "Sidney Nolan, Australian painter (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II:  The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater."
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "Korean War: The Chinese People's Volunteer Army begin assaulting positions defended by the Royal Australian Regiment and the Princess Patricia's Canadian Light Infantry at the Battle of Kapyong."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Mel Carter, American singer and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Vladimir Nabokov, Russian-born novelist and critic (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Keith Crisco, American businessman and politician (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "2011",
+      "text": "Violet McGraw, American actress"
+    },
+    {
+      "type": "Death",
+      "year": "1995",
+      "text": "Jane Kenyon, American poet and author (born 1947)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Aaron Spelling, American actor, producer, and screenwriter (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1832",
+      "text": "Julius Sterling Morton, American journalist and politician, 3rd United States Secretary of Agriculture (died 1902)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Donald J. Cram, American chemist and academic, Nobel Prize laureate (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "Laura Gilpin, American photographer (died 1979)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Jack Nitzsche, American singer-songwriter, pianist, and conductor (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Scott W. Williams, American mathematician and professor"
+    },
+    {
+      "type": "Death",
+      "year": "1933",
+      "text": "Henry Royce, English engineer and businessman, co-founded Rolls-Royce Limited (born 1863)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Prince Gustaf Adolf, Duke of Västerbotten (died 1947)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Richard Diebenkorn, American soldier and painter (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "The U.S. Congress passes the Coinage Act of 1864 that permitted the inscription In God We Trust be placed on all coins minted as United States currency."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Bettie Page, American model and actress (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Mickey Morandini, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Eighteen-year-old Stephen Lawrence is murdered in a racially motivated attack while waiting for a bus in Well Hall, Eltham."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Bhama Srinivasan, Indian-American mathematician and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Carl Lindner, Jr., American businessman and philanthropist (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Robert Choquette, American-Canadian author, poet, and diplomat (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "The second day of the Battle of Eckmühl: The Austrian army is defeated by the First French Empire army led by Napoleon and driven over the Danube in Regensburg."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Mickey Vernon, American baseball player and coach (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Terry Francona, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "American Flyers Airline Flight 280/D crashes on approach to Ardmore Municipal Airport in Ardmore, Oklahoma, killing 83."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Dee Strange-Gordon, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1844",
+      "text": "Lewis Powell, American soldier, attempted assassin of William H. Seward (died 1865)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Louise Glück, American poet (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Paul Chambers, African-American bassist and composer (died 1969)"
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "At noon, thousands rush to claim land in the Land Rush of 1889. Within hours the cities of Oklahoma City and Guthrie are formed with populations of at least 10,000."
     },
     {
       "type": "Birth",
@@ -144,12 +199,7 @@
     {
       "type": "Birth",
       "year": "1946",
-      "text": "John Waters, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Daniel Johns, Australian singer-songwriter and guitarist"
+      "text": "Steven L. Bennett, American captain and pilot, Medal of Honor recipient (died 1972)"
     },
     {
       "type": "Birth",
@@ -158,73 +208,33 @@
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Sidney Nolan, Australian painter (died 1992)"
+      "year": "1943",
+      "text": "Janet Evanovich, American author"
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Vernon Johns, African-American minister and activist (died 1965)"
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "J. Robert Oppenheimer, American physicist and academic (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1766",
-      "text": "Germaine de Staël, French author and political philosopher (died 1817)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Aaron Spelling, American actor, producer, and screenwriter (died 2006)"
+      "year": "1836",
+      "text": "Texas Revolution: A day after the Battle of San Jacinto, forces under Texas General Sam Houston identify Mexican General Antonio López de Santa Anna among the captives of the battle when some of his fellow soldiers mistakenly give away his identity."
     },
     {
       "type": "Birth",
       "year": "1891",
-      "text": "Laura Gilpin, American photographer (died 1979)"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Optical fiber is first used to carry live telephone traffic."
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Felice Bryant, American songwriter (born 1925)"
+      "text": "Nicola Sacco, Italian-American anarchist (died 1927)"
     },
     {
       "type": "Birth",
-      "year": "1899",
-      "text": "Vladimir Nabokov, Russian-born novelist and critic (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "American Flyers Airline Flight 280/D crashes on approach to Ardmore Municipal Airport in Ardmore, Oklahoma, killing 83."
+      "year": "1944",
+      "text": "Steve Fossett, American businessman, pilot, and sailor (died 2007)"
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Norman Steenrod, American mathematician and academic (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Bhama Srinivasan, Indian-American mathematician and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Mickey Morandini, American baseball player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Jan de Hartog, Dutch-American author and playwright (died 2002)"
+      "year": "1967",
+      "text": "Sherri Shepherd, American actress, comedian, and television personality"
     },
     {
       "type": "Birth",
@@ -232,44 +242,19 @@
       "text": "Ryan Stiles, American-Canadian actor and comedian"
     },
     {
-      "type": "Event",
-      "year": "1930",
-      "text": "The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Spencer Haywood, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Terry Francona, American baseball player and manager"
+      "type": "Death",
+      "year": "1996",
+      "text": "Erma Bombeck, American journalist and author (born 1927)"
     },
     {
       "type": "Event",
-      "year": "1951",
-      "text": "Korean War: The Chinese People's Volunteer Army begin assaulting positions defended by the Royal Australian Regiment and the Princess Patricia's Canadian Light Infantry at the Battle of Kapyong."
+      "year": "1977",
+      "text": "Optical fiber is first used to carry live telephone traffic."
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Richard Diebenkorn, American soldier and painter (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Jack Nicholson, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Steven L. Bennett, American captain and pilot, Medal of Honor recipient (died 1972)"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Prince Gustaf Adolf, Duke of Västerbotten (died 1947)"
+      "year": "1961",
+      "text": "Jeff Hostetler, American football player"
     },
     {
       "type": "Event",
@@ -278,28 +263,43 @@
     },
     {
       "type": "Event",
-      "year": "1809",
-      "text": "The second day of the Battle of Eckmühl: The Austrian army is defeated by the First French Empire army led by Napoleon and driven over the Danube in Regensburg."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "The U.S. Congress passes the Coinage Act of 1864 that permitted the inscription In God We Trust be placed on all coins minted as United States currency."
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "At noon, thousands rush to claim land in the Land Rush of 1889. Within hours the cities of Oklahoma City and Guthrie are formed with populations of at least 10,000."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Richie Havens, American singer-songwriter and guitarist (born 1941)"
+      "year": "1876",
+      "text": "The first National League baseball game is played at the Jefferson Street Grounds in Philadelphia."
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Jeffrey Dean Morgan, American actor"
+      "year": "1986",
+      "text": "Marshawn Lynch, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "Otto Rank, Austrian-American psychologist and academic (died 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Charlotte Rae, American actress and singer (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1711",
+      "text": "Paul II Anton, Prince Esterházy, Austrian soldier (died 1762)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Sachsenhausen concentration camp is liberated by soldiers of the Red Army and Polish First Army."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "John Waters, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park."
     }
   ],
   "source": "Wikipedia"
