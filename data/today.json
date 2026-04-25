@@ -3,23 +3,78 @@
   "items": [
     {
       "type": "Event",
-      "year": "2001",
-      "text": "President George W. Bush pledges U.S. military support in the event of a Chinese attack on Taiwan."
+      "year": "1951",
+      "text": "Korean War: Assaulting Chinese forces are forced to withdraw after heavy fighting with UN forces, primarily made up of Australian and Canadian troops, at the Battle of Kapyong."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Alex Bowman, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "Fred Haney, American baseball player, coach, and manager (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Tony Christopher, Baron Christopher, English trade union leader and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Packy Hanrahan, American bowler"
     },
     {
       "type": "Event",
-      "year": "1898",
-      "text": "Spanish–American War: The United States Congress declares that a state of war between the U.S. and Spain has existed since April 21, when an American naval blockade of the Spanish colony of Cuba began."
+      "year": "1959",
+      "text": "The Saint Lawrence Seaway, linking the North American Great Lakes and the Atlantic Ocean, officially opens to shipping."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops, begins with landings at Anzac Cove and Cape Helles."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "DeAngelo Williams, American football player"
+      "year": "1932",
+      "text": "Meadowlark Lemon, African-American basketball player and minister (died 2015)"
+    },
+    {
+      "type": "Death",
+      "year": "1973",
+      "text": "Olga Grey, Hungarian-American actress (born 1896)"
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Felix Berezin, Russian mathematician and physicist (died 1980)"
+      "year": "1969",
+      "text": "Jon Olsen, American swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Hank Azaria, American actor, voice artist, comedian and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Richard C. Hoagland, American theorist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Al Pacino, American actor and director"
+    },
+    {
+      "type": "Death",
+      "year": "775",
+      "text": "Mushegh VI Mamikonian, Armenian prince"
+    },
+    {
+      "type": "Event",
+      "year": "775",
+      "text": "The Battle of Bagrevand puts an end to an Armenian rebellion against the Abbasid Caliphate. Muslim control over the South Caucasus is solidified and its Islamization begins, while several major Armenian nakharar families lose power and their remnants flee to the Byzantine Empire."
     },
     {
       "type": "Event",
@@ -28,18 +83,108 @@
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "Nikolaos Roussen, Greek captain (died 1944)"
+      "year": "1954",
+      "text": "Randy Cross, American football player and sportscaster"
     },
     {
       "type": "Birth",
-      "year": "1878",
-      "text": "William Merz, American gymnast and triathlete (died 1946)"
+      "year": "1949",
+      "text": "Dominique Strauss-Kahn, French economist, lawyer, and politician, French Minister of Finance"
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Vladislav Tretiak, Russian ice hockey player and coach"
+      "year": "1854",
+      "text": "Charles Sumner Tainter, American engineer and inventor (died 1940)"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Boris Yeltsin's funeral: The first to be sanctioned by the Russian Orthodox Church for a head of state since the funeral of Emperor Alexander III in 1894."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Eric Avery, American bass player and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1868",
+      "text": "John Moisant, American pilot and engineer (died 1910)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "William J. Brennan Jr., American colonel and Associate Justice of the United States Supreme Court (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "William Pereira, American architect, designed the Transamerica Pyramid (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Spanish–American War: The United States Congress declares that a state of war between the U.S. and Spain has existed since April 21, when an American naval blockade of the Spanish colony of Cuba began."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Lia Manoliu, Romanian discus thrower and politician (died 1998)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Forces under U.S. Admiral David Farragut demand the surrender of the Confederate city of New Orleans, Louisiana."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "New York becomes the first U.S. state to require automobile license plates."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Wolfgang Pauli, Austrian-Swiss-American physicist and academic, Nobel Prize laureate (died 1958)"
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "Thornton Affair: Open conflict begins over the disputed border of Texas, triggering the Mexican–American War."
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "Guglielmo Marconi, Italian businessman and inventor, developed Marconi's law, Nobel Prize laureate (died 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Talia Shire, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1134",
+      "text": "The name Zagreb was mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Matthew West, American singer-songwriter, guitarist, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: In the Battle of Marks' Mills, a force of 8,000 Confederate soldiers attacks 1,800 Union soldiers and a large number of wagon teamsters, killing or wounding 1,500 Union combatants."
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Cold War: American schoolgirl Samantha Smith is invited to visit the Soviet Union by its leader Yuri Andropov after he read her letter in which she expressed fears about nuclear war."
+    },
+    {
+      "type": "Event",
+      "year": "1829",
+      "text": "Charles Fremantle arrives in HMS Challenger off the coast of modern-day Western Australia prior to declaring the Swan River Colony for the British Empire."
     },
     {
       "type": "Event",
@@ -48,8 +193,78 @@
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Mack Horton, Australian swimmer"
+      "year": "1932",
+      "text": "Nikolai Kardashev, Russian astrophysicist (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The United States Navy submarine USS Triton completes the first submerged circumnavigation of the globe."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "President George W. Bush pledges U.S. military support in the event of a Chinese attack on Taiwan."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Bob Gutowski, American pole vaulter (died 1960)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Albert King, American singer-songwriter, guitarist, and producer (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Johnathan Thurston, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Nikolaos Roussen, Greek captain (died 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Yvette Williams, New Zealand long jumper, shot putter, and discus thrower (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "DeAngelo Williams, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "-404",
+      "text": "Admiral Lysander and King Pausanias of Sparta blockade Athens and bring the Peloponnesian War to a successful conclusion."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Tim Duncan, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Jerry Leiber, American songwriter and producer (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Maggie Rogers, American musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Renée Zellweger, American actress and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "U.S. Supreme Court delivers its opinion in Erie Railroad Co. v. Tompkins and overturns a century of federal common law."
     },
     {
       "type": "Event",
@@ -63,18 +278,8 @@
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Alexei Emelin, Russian ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "William Pereira, American architect, designed the Transamerica Pyramid (died 1985)"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Boris Yeltsin's funeral: The first to be sanctioned by the Russian Orthodox Church for a head of state since the funeral of Emperor Alexander III in 1894."
+      "year": "1996",
+      "text": "Mack Horton, Australian swimmer"
     },
     {
       "type": "Event",
@@ -83,223 +288,18 @@
     },
     {
       "type": "Birth",
-      "year": "2000",
-      "text": "Dejan Kulusevski, Swedish footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Darren Woodson, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Tony Phillips, American baseball player (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The Saint Lawrence Seaway, linking the North American Great Lakes and the Atlantic Ocean, officially opens to shipping."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Hank Azaria, American actor, voice artist, comedian and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "The United States Navy submarine USS Triton completes the first submerged circumnavigation of the globe."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Nikolai Kardashev, Russian astrophysicist (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Paul Mazursky, American actor, director, and screenwriter (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Forces under U.S. Admiral David Farragut demand the surrender of the Confederate city of New Orleans, Louisiana."
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "Thornton Affair: Open conflict begins over the disputed border of Texas, triggering the Mexican–American War."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Björn Ulvaeus, Swedish singer-songwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Jay Park, American-South Korean singer-songwriter and dancer"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "John Henson, American puppeteer and voice actor (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Sam Fender, English singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Joy Covey, American businesswoman (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Eric Avery, American bass player and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1829",
-      "text": "Charles Fremantle arrives in HMS Challenger off the coast of modern-day Western Australia prior to declaring the Swan River Colony for the British Empire."
-    },
-    {
-      "type": "Event",
-      "year": "-404",
-      "text": "Admiral Lysander and King Pausanias of Sparta blockade Athens and bring the Peloponnesian War to a successful conclusion."
-    },
-    {
-      "type": "Death",
-      "year": "1976",
-      "text": "Markus Reiner, Israeli engineer and educator (born 1886)"
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "Korean War: Assaulting Chinese forces are forced to withdraw after heavy fighting with UN forces, primarily made up of Australian and Canadian troops, at the Battle of Kapyong."
-    },
-    {
-      "type": "Event",
-      "year": "1134",
-      "text": "The name Zagreb was mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Alex Bowman, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Randy Cross, American football player and sportscaster"
-    },
-    {
-      "type": "Death",
-      "year": "1973",
-      "text": "Olga Grey, Hungarian-American actress (born 1896)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Paul Madden, English diplomat, British High Commissioner to Australia"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Cold War: American schoolgirl Samantha Smith is invited to visit the Soviet Union by its leader Yuri Andropov after he read her letter in which she expressed fears about nuclear war."
-    },
-    {
-      "type": "Birth",
-      "year": "1873",
-      "text": "Howard Garis, American author, creator of the Uncle Wiggily series of children's stories (died 1962)"
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops, begins with landings at Anzac Cove and Cape Helles."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Paul Baloff, American singer (died 2002)"
-    },
-    {
-      "type": "Birth",
       "year": "1965",
       "text": "Mark Bryant, American basketball player and coach"
     },
     {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Joe Buck, American sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Richard C. Hoagland, American theorist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Tony Christopher, Baron Christopher, English trade union leader and businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "U.S. Supreme Court delivers its opinion in Erie Railroad Co. v. Tompkins and overturns a century of federal common law."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Jerry Leiber, American songwriter and producer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Bob Gutowski, American pole vaulter (died 1960)"
-    },
-    {
       "type": "Death",
-      "year": "1906",
-      "text": "John Knowles Paine, American composer and educator (born 1839)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Johnathan Thurston, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: In the Battle of Marks' Mills, a force of 8,000 Confederate soldiers attacks 1,800 Union soldiers and a large number of wagon teamsters, killing or wounding 1,500 Union combatants."
-    },
-    {
-      "type": "Birth",
       "year": "1995",
-      "text": "Packy Hanrahan, American bowler"
-    },
-    {
-      "type": "Event",
-      "year": "775",
-      "text": "The Battle of Bagrevand puts an end to an Armenian rebellion against the Abbasid Caliphate. Muslim control over the South Caucasus is solidified and its Islamization begins, while several major Armenian nakharar families lose power and their remnants flee to the Byzantine Empire."
+      "text": "Ginger Rogers, American actress, singer, and dancer (born 1911)"
     },
     {
       "type": "Birth",
-      "year": "1874",
-      "text": "Guglielmo Marconi, Italian businessman and inventor, developed Marconi's law, Nobel Prize laureate (died 1937)"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "New York becomes the first U.S. state to require automobile license plates."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Jacque Jones, American baseball player and coach"
+      "year": "1908",
+      "text": "Edward R. Murrow, American journalist (died 1965)"
     }
   ],
   "source": "Wikipedia"
