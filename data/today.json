@@ -2,59 +2,14 @@
   "date": "2026-04-26",
   "items": [
     {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Jordan Pefok, American footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Gerard Cafesjian, American businessman and philanthropist (died 2013)"
-    },
-    {
       "type": "Event",
-      "year": "1991",
-      "text": "Fifty-five tornadoes break out in the central United States. Before the outbreak's end, Andover, Kansas, would record the year's only F5 tornado."
-    },
-    {
-      "type": "Death",
-      "year": "1987",
-      "text": "John Silkin, English lawyer and politician, Shadow Leader of the House of Commons (born 1923)"
+      "year": "1958",
+      "text": "Final run of the Baltimore and Ohio Railroad's Royal Blue from Washington, D.C., to New York City after 68 years, the first U.S. passenger train to use electric locomotives."
     },
     {
       "type": "Birth",
-      "year": "1801",
-      "text": "Ambrose Dudley Mann, American politician and diplomat, 1st United States Assistant Secretary of State (died 1889)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Kevin James, American actor and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Kirill Kaprizov, Russian ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "NASA's Ranger 4 spacecraft crashes into the Moon."
-    },
-    {
-      "type": "Birth",
-      "year": "1856",
-      "text": "Joseph Ward, Australian-New Zealand businessman and politician, 17th Prime Minister of New Zealand (died 1930)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Steve Lombardozzi, American baseball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The Gestapo, the official secret police force of Nazi Germany, is established by Hermann Göring."
+      "year": "1917",
+      "text": "I. M. Pei, Chinese-American architect, designed the National Gallery of Art and Bank of China Tower (died 2019)"
     },
     {
       "type": "Event",
@@ -63,53 +18,13 @@
     },
     {
       "type": "Event",
-      "year": "1900",
-      "text": "Fires destroy Canadian cities Ottawa and Hull, reducing them to ashes in 12 hours. Twelve thousand people are left without a home."
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "SS Ideal X, the world's first successful container ship, leaves Port Newark, New Jersey, for Houston, Texas."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "Ice hockey makes its Olympic debut at the Antwerp Games with center Frank Fredrickson scoring seven goals in Canada's 12–1 drubbing of Sweden in the gold medal match."
+      "year": "1777",
+      "text": "Sybil Ludington, aged 16, allegedly rides 40 miles (64 km) to alert American colonial forces to the approach of British regular forces."
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Joan Chen, Chinese-American actress, director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Robert Steinhäuser kills 16 at Gutenberg-Gymnasium in Erfurt, Germany, before committing suicide."
-    },
-    {
-      "type": "Event",
-      "year": "1802",
-      "text": "Napoleon Bonaparte signs a general amnesty to allow all but about one thousand of the most notorious émigrés of the French Revolution to return to France."
-    },
-    {
-      "type": "Birth",
-      "year": "1877",
-      "text": "James Dooley, Irish-Australian politician, 21st Premier of New South Wales (died 1950)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Yuliya Zaripova, Russian runner"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "John Cain Jr., Australian politician, 41st Premier of Victoria (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1785",
-      "text": "John James Audubon, French-American ornithologist and painter (died 1851)"
+      "year": "1916",
+      "text": "Eyvind Earle, American artist, author, and illustrator (died 2000)"
     },
     {
       "type": "Event",
@@ -118,23 +33,168 @@
     },
     {
       "type": "Event",
+      "year": "1900",
+      "text": "Fires destroy Canadian cities Ottawa and Hull, reducing them to ashes in 12 hours. Twelve thousand people are left without a home."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Kevin James, American actor and comedian"
+    },
+    {
+      "type": "Event",
+      "year": "1607",
+      "text": "The Virginia Company colonists make landfall at Cape Henry."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Robert Steinhäuser kills 16 at Gutenberg-Gymnasium in Erfurt, Germany, before committing suicide."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Ice hockey makes its Olympic debut at the Antwerp Games with center Frank Fredrickson scoring seven goals in Canada's 12–1 drubbing of Sweden in the gold medal match."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Fifty-five tornadoes break out in the central United States. Before the outbreak's end, Andover, Kansas, would record the year's only F5 tornado."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Granny Hamner, American baseball player (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Glenn Thomas Jacobs, American professional wrestler, actor, businessman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Tom Welling, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Jason Bargwanna, Australian racing driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1834",
+      "text": "Charles Farrar Browne, American author (died 1867)"
+    },
+    {
+      "type": "Event",
       "year": "1981",
       "text": "Dr. Michael R. Harrison of the University of California, San Francisco Medical Center performs the world's first human open fetal surgery."
     },
     {
       "type": "Event",
-      "year": "1999",
-      "text": "Outbreak of CIH computer virus."
+      "year": "1802",
+      "text": "Napoleon Bonaparte signs a general amnesty to allow all but about one thousand of the most notorious émigrés of the French Revolution to return to France."
     },
     {
       "type": "Birth",
-      "year": "1992",
-      "text": "Aaron Judge, American baseball player"
+      "year": "1933",
+      "text": "Filiberto Ojeda Ríos, Puerto Rican-American general (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "Eyvind Earle, American artist, author, and illustrator (died 2000)"
+      "year": "1822",
+      "text": "Frederick Law Olmsted, American journalist and designer, co-designed Central Park (died 1903)"
+    },
+    {
+      "type": "Death",
+      "year": "1996",
+      "text": "Stirling Silliphant, American screenwriter and producer (born 1918)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Dean Austin, English footballer and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Filipino troops of the 66th Infantry Regiment, Philippine Commonwealth Army, USAFIP-NL and the American troops of the 33rd and 37th Infantry Division, United States Army liberate Baguio as they fight against the Japanese forces under General Tomoyuki Yamashita."
+    },
+    {
+      "type": "Death",
+      "year": "1915",
+      "text": "Ida Hunt Udall, American diarist (born 1858)"
+    },
+    {
+      "type": "Event",
+      "year": "1803",
+      "text": "Thousands of meteor fragments fall from the skies of L'Aigle, France; the event convinces European scientists that meteors exist."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Yuliya Zaripova, Russian runner"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The Gestapo, the official secret police force of Nazi Germany, is established by Hermann Göring."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Daniil Kvyat, Russian racing driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Chris Mars, American artist"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Svyatoslav Belza, Russian journalist, author, and critic (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "In Libya, amendments to the constitution transform Libya (United Kingdom of Libya) into one national unity (Kingdom of Libya) and allow for female participation in elections."
+    },
+    {
+      "type": "Birth",
+      "year": "1862",
+      "text": "Edmund C. Tarbell, American painter and educator (died 1938)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Amber Midthunder, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Joey Wendle, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Gary Wright, American singer-songwriter, keyboard player, and producer (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "121",
+      "text": "Marcus Aurelius, Roman emperor (died 180)"
+    },
+    {
+      "type": "Birth",
+      "year": "1801",
+      "text": "Ambrose Dudley Mann, American politician and diplomat, 1st United States Assistant Secretary of State (died 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Michael Mathias Prechtl, German soldier and illustrator (died 2003)"
     },
     {
       "type": "Event",
@@ -147,94 +207,24 @@
       "text": "The Chernobyl disaster occurs in the Ukrainian Soviet Socialist Republic."
     },
     {
-      "type": "Death",
-      "year": "1809",
-      "text": "Bernhard Schott, German music publisher (born 1748)"
+      "type": "Birth",
+      "year": "1959",
+      "text": "John Corabi, American singer-songwriter and guitarist"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Dean Austin, English footballer and manager"
+      "year": "1992",
+      "text": "Delon Wright, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "H. G. Carrillo, American writer and academic (died 2020)"
     },
     {
       "type": "Event",
-      "year": "1958",
-      "text": "Final run of the Baltimore and Ohio Railroad's Royal Blue from Washington, D.C., to New York City after 68 years, the first U.S. passenger train to use electric locomotives."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "A. E. van Vogt, Canadian-American author (died 2000)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Debra Wilson, American actress and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Michael Kergin, Canadian diplomat, Canadian Ambassador to the United States"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Bobby Rydell, American singer and actor (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1803",
-      "text": "Thousands of meteor fragments fall from the skies of L'Aigle, France; the event convinces European scientists that meteors exist."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Koo Stark, American actress and photographer"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Svyatoslav Belza, Russian journalist, author, and critic (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Filipino troops of the 66th Infantry Regiment, Philippine Commonwealth Army, USAFIP-NL and the American troops of the 33rd and 37th Infantry Division, United States Army liberate Baguio as they fight against the Japanese forces under General Tomoyuki Yamashita."
-    },
-    {
-      "type": "Event",
-      "year": "1607",
-      "text": "The Virginia Company colonists make landfall at Cape Henry."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Marilyn Nelson, American poet and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Bernard Malamud, American novelist and short story writer (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "James Rouse, American real estate developer (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "South Africa begins its first multiracial election, which is won by Nelson Mandela's African National Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "In Libya, amendments to the constitution transform Libya (United Kingdom of Libya) into one national unity (Kingdom of Libya) and allow for female participation in elections."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Joey Jordison, American musician and songwriter (died 2021)"
+      "year": "1865",
+      "text": "Union cavalry troopers corner and shoot dead John Wilkes Booth, assassin of President Abraham Lincoln, in Virginia."
     },
     {
       "type": "Event",
@@ -242,29 +232,19 @@
       "text": "Atlético Madrid Association football club is founded."
     },
     {
-      "type": "Death",
-      "year": "1986",
-      "text": "Broderick Crawford, American actor (born 1911)"
-    },
-    {
       "type": "Birth",
-      "year": "1977",
-      "text": "Roxana Saberi, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Richard Armitage, American diplomat and government official (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "121",
-      "text": "Marcus Aurelius, Roman emperor (died 180)"
+      "year": "1877",
+      "text": "James Dooley, Irish-Australian politician, 21st Premier of New South Wales (died 1950)"
     },
     {
       "type": "Event",
-      "year": "1989",
-      "text": "People's Daily publishes the April 26 Editorial which inflames the nascent Tiananmen Square protests."
+      "year": "1956",
+      "text": "SS Ideal X, the world's first successful container ship, leaves Port Newark, New Jersey, for Houston, Texas."
+    },
+    {
+      "type": "Death",
+      "year": "1981",
+      "text": "Jim Davis, American actor (born 1909)"
     },
     {
       "type": "Birth",
@@ -273,33 +253,53 @@
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Gary Wright, American singer-songwriter, keyboard player, and producer (died 2023)"
+      "year": "1958",
+      "text": "Giancarlo Esposito, American actor, director, and producer"
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Tom Welling, American actor"
+      "year": "1912",
+      "text": "A. E. van Vogt, Canadian-American author (died 2000)"
     },
     {
       "type": "Event",
-      "year": "1777",
-      "text": "Sybil Ludington, aged 16, allegedly rides 40 miles (64 km) to alert American colonial forces to the approach of British regular forces."
+      "year": "1989",
+      "text": "People's Daily publishes the April 26 Editorial which inflames the nascent Tiananmen Square protests."
     },
     {
       "type": "Event",
-      "year": "1865",
-      "text": "Union cavalry troopers corner and shoot dead John Wilkes Booth, assassin of President Abraham Lincoln, in Virginia."
+      "year": "1999",
+      "text": "Outbreak of CIH computer virus."
     },
     {
       "type": "Birth",
-      "year": "1886",
-      "text": "Ma Rainey, American singer-songwriter (died 1939)"
+      "year": "1989",
+      "text": "Melvin Ingram, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "NASA's Ranger 4 spacecraft crashes into the Moon."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "South Africa begins its first multiracial election, which is won by Nelson Mandela's African National Congress."
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Colin Scotts, Australian-American football player"
+      "year": "1970",
+      "text": "Tionne \"T-Boz\" Watkins, American singer-songwriter, dancer, and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Al McCoy, American sports announcer (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Steve Lombardozzi, American baseball player and coach"
     }
   ],
   "source": "Wikipedia"
