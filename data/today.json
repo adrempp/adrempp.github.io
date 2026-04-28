@@ -2,94 +2,14 @@
   "date": "2026-04-28",
   "items": [
     {
-      "type": "Event",
-      "year": "1881",
-      "text": "Billy the Kid escapes from the Lincoln County jail in Mesilla, New Mexico."
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "The Sino-Japanese Peace Treaty (Treaty of Taipei) is signed in Taipei, Taiwan between Japan and the Republic of China to officially end the Second Sino-Japanese War."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: US President Richard Nixon formally authorizes American combat troops to take part in the Cambodian campaign."
+      "type": "Birth",
+      "year": "1992",
+      "text": "DeMarcus Lawrence, American football player"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "James Bama, American artist and illustrator (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Space Shuttle Discovery launches on STS-39, the first unclassified shuttle mission for the United States Department of Defense."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Igor Stravinsky conducts the premiere of his American ballet, Orpheus at the New York City Center."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Miodrag Radulovacki, Serbian-American neuropharmacologist and academic (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Former Central Intelligence Agency counterintelligence officer and analyst Aldrich Ames pleads guilty to giving US secrets to the Soviet Union and later Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Vietnam War: Boxer Muhammad Ali refuses his induction into the United States Army and is subsequently stripped of his championship and license."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Benito Mussolini and his mistress Clara Petacci are shot dead by Walter Audisio, a member of the Italian resistance movement."
-    },
-    {
-      "type": "Event",
-      "year": "1503",
-      "text": "The Battle of Cerignola is fought. It is noted as one of the first European battles in history won by small arms fire using gunpowder."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Sam Merwin, Jr., American author (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1192",
-      "text": "Assassination of Conrad of Montferrat (Conrad I), King of Jerusalem, in Tyre, two days after his title to the throne is confirmed by election. The killing is carried out by Hashshashin."
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Karl Kraus, Austrian journalist and author (died 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The Holocaust: Nazi Germany carries out its final use of gas chambers to execute 33 Upper Austrian socialist and communist leaders in Mauthausen concentration camp."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Rose Murphy, American singer (died 1989)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "General Cao Văn Viên, chief of the South Vietnamese military, departs for the US as the North Vietnamese Army closes in on victory."
-    },
-    {
-      "type": "Birth",
-      "year": "1863",
-      "text": "Josiah Thomas, English-Australian miner and politician, 7th Australian Minister for Foreign Affairs (died 1933)"
+      "year": "1954",
+      "text": "Michael P. Jackson, American politician, 3rd Deputy Secretary of Homeland Security"
     },
     {
       "type": "Event",
@@ -98,13 +18,18 @@
     },
     {
       "type": "Birth",
-      "year": "1715",
-      "text": "Franz Sparry, Austrian composer and educator (died 1767)"
+      "year": "1865",
+      "text": "Charles W. Woodworth, American entomologist and academic (died 1940)"
     },
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Oskar Schindler, Czech-German businessman (died 1974)"
+      "year": "1960",
+      "text": "Tom Browning, American baseball player (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "Former Central Intelligence Agency counterintelligence officer and analyst Aldrich Ames pleads guilty to giving US secrets to the Soviet Union and later Russia."
     },
     {
       "type": "Event",
@@ -112,9 +37,34 @@
       "text": "CBS News releases evidence of the Abu Ghraib torture and prisoner abuse. The photographs show rape and abuse from the American troops over Iraqi detainees."
     },
     {
+      "type": "Event",
+      "year": "1967",
+      "text": "Vietnam War: Boxer Muhammad Ali refuses his induction into the United States Army and is subsequently stripped of his championship and license."
+    },
+    {
+      "type": "Event",
+      "year": "1881",
+      "text": "Billy the Kid escapes from the Lincoln County jail in Mesilla, New Mexico."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: US President Richard Nixon formally authorizes American combat troops to take part in the Cambodian campaign."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Igor Stravinsky conducts the premiere of his American ballet, Orpheus at the New York City Center."
+    },
+    {
       "type": "Birth",
-      "year": "1953",
-      "text": "Kim Gordon, American singer-songwriter, guitarist, and producer"
+      "year": "1966",
+      "text": "Too Short, American rapper, producer and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1794",
+      "text": "Sardinians, headed by Giovanni Maria Angioy, start a revolution against the Savoy domination, expelling Viceroy Balbiano and his officials from Cagliari, the capital and largest city of the island."
     },
     {
       "type": "Birth",
@@ -122,9 +72,99 @@
       "text": "Jimmy Barnes, Scottish-Australian singer-songwriter and guitarist"
     },
     {
+      "type": "Event",
+      "year": "1988",
+      "text": "Near Maui, Hawaii, flight attendant Clarabelle \"C.B.\" Lansing is blown out of Aloha Airlines Flight 243, a Boeing 737, and falls to her death when part of the plane's fuselage rips open in mid-flight."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Ethel Catherwood, American-Canadian high jumper and javelin thrower (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1715",
+      "text": "Franz Sparry, Austrian composer and educator (died 1767)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The Azerbaijan Soviet Socialist Republic is founded."
+    },
+    {
       "type": "Death",
+      "year": "2013",
+      "text": "Fredrick McKissack, American author (born 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Elena Kagan, American lawyer and jurist, Associate Justice of the Supreme Court of the United States"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Timothy Curley, American educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Shane McClanahan, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "T. John Lesinski, American judge and politician, 51st Lieutenant Governor of Michigan (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "James Baker, American lawyer and politician, 61st United States Secretary of State"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "John Daly, American golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1876",
+      "text": "Nicola Romeo, Italian engineer and businessman (died 1938)"
+    },
+    {
+      "type": "Death",
+      "year": "1996",
+      "text": "Lester Sumrall, American minister, founded LeSEA (born 1913)"
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "The Hukbalahap are accused of assassinating former First Lady of the Philippines Aurora Quezon, while she is en route to dedicate a hospital in memory of her late husband; her daughter and ten others are also killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1863",
+      "text": "Nikolai von Meck, Russian engineer (died 1929)"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "General Cao Văn Viên, chief of the South Vietnamese military, departs for the US as the North Vietnamese Army closes in on victory."
+    },
+    {
+      "type": "Event",
       "year": "1945",
-      "text": "Benito Mussolini, Italian journalist, fascist dictator and politician, 27th Prime Minister of Italy (born 1883)"
+      "text": "Benito Mussolini and his mistress Clara Petacci are shot dead by Walter Audisio, a member of the Italian resistance movement."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Karl Barry Sharpless, American chemist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "224",
+      "text": "The Battle of Hormozdgan is fought. Ardashir I defeats and kills Artabanus V, effectively ending the Parthian Empire."
     },
     {
       "type": "Event",
@@ -132,14 +172,84 @@
       "text": "World War II: Nine German E-boats attack US and UK units during Exercise Tiger, the rehearsal for the Normandy landings, killing 946."
     },
     {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Bruno Kirby, American actor and director (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Petra Bayr, Austrian politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1819",
+      "text": "Ezra Abbot, American scholar and academic (died 1884)"
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "Karl Kraus, Austrian journalist and author (died 1936)"
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "South African medical researcher Max Theiler develops the yellow fever vaccine at the Rockefeller Foundation in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jessica Alba, American model and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1192",
+      "text": "Assassination of Conrad of Montferrat (Conrad I), King of Jerusalem, in Tyre, two days after his title to the throne is confirmed by election. The killing is carried out by Hashshashin."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Melanie Martinez, American singer"
+    },
+    {
+      "type": "Event",
+      "year": "1792",
+      "text": "France invades the Austrian Netherlands (present day Belgium and Luxembourg), beginning the French Revolutionary Wars."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The Holocaust: Nazi Germany carries out its final use of gas chambers to execute 33 Upper Austrian socialist and communist leaders in Mauthausen concentration camp."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Elizabeth LeCompte, American director and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The Dark Side of the Moon by Pink Floyd, recorded in Abbey Road Studios goes to number one on the US Billboard chart, beginning a record-breaking 741-week chart run."
+    },
+    {
       "type": "Event",
       "year": "357",
       "text": "Emperor Constantius II enters Rome for the first time to celebrate his victory over Magnus Magnentius."
     },
     {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Ann-Margret, Swedish-American actress, singer, and dancer"
+    },
+    {
       "type": "Event",
-      "year": "1988",
-      "text": "Near Maui, Hawaii, flight attendant Clarabelle \"C.B.\" Lansing is blown out of Aloha Airlines Flight 243, a Boeing 737, and falls to her death when part of the plane's fuselage rips open in mid-flight."
+      "year": "1788",
+      "text": "Maryland becomes the seventh state to ratify the United States Constitution."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "The Ustaše massacre nearly 200 Serbs in the village of Gudovac, the first massacre of their genocidal campaign against Serbs of the Independent State of Croatia."
     },
     {
       "type": "Birth",
@@ -149,112 +259,7 @@
     {
       "type": "Event",
       "year": "1952",
-      "text": "Dwight D. Eisenhower resigns as Supreme Allied Commander of NATO in order to campaign in the 1952 United States presidential election."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Eugene Merle Shoemaker, American geologist and astronomer (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Connor Clifton, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Ethel Catherwood, American-Canadian high jumper and javelin thrower (died 1987)"
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "Maryland becomes the seventh state to ratify the United States Constitution."
-    },
-    {
-      "type": "Death",
-      "year": "1741",
-      "text": "Magnus Julius De la Gardie, Swedish general and politician (born 1668)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Marcia Strassman, American actress and singer (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Melanie Martinez, American singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Dick Ayers, American author and illustrator (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Ron Zook, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Bridget Moynahan, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "United States occupation of the Dominican Republic: American troops land in the Dominican Republic to \"forestall establishment of a Communist dictatorship\" and to evacuate US Army troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Bruno Kirby, American actor and director (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Richard Fromberg, Australian tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "The Hukbalahap are accused of assassinating former First Lady of the Philippines Aurora Quezon, while she is en route to dedicate a hospital in memory of her late husband; her daughter and ten others are also killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "T. John Lesinski, American judge and politician, 51st Lieutenant Governor of Michigan (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "South African medical researcher Max Theiler develops the yellow fever vaccine at the Rockefeller Foundation in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Mary McDonnell, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Azerbaijan Soviet Socialist Republic is founded."
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "Sardinians, headed by Giovanni Maria Angioy, start a revolution against the Savoy domination, expelling Viceroy Balbiano and his officials from Cagliari, the capital and largest city of the island."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Paul Guilfoyle, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Sidney Toler, American actor and director (died 1947)"
+      "text": "The Sino-Japanese Peace Treaty (Treaty of Taipei) is signed in Taipei, Taiwan between Japan and the Republic of China to officially end the Second Sino-Japanese War."
     },
     {
       "type": "Event",
@@ -263,43 +268,38 @@
     },
     {
       "type": "Event",
-      "year": "1792",
-      "text": "France invades the Austrian Netherlands (present day Belgium and Luxembourg), beginning the French Revolutionary Wars."
+      "year": "1965",
+      "text": "United States occupation of the Dominican Republic: American troops land in the Dominican Republic to \"forestall establishment of a Communist dictatorship\" and to evacuate US Army troops."
     },
     {
       "type": "Event",
-      "year": "224",
-      "text": "The Battle of Hormozdgan is fought. Ardashir I defeats and kills Artabanus V, effectively ending the Parthian Empire."
+      "year": "1991",
+      "text": "Space Shuttle Discovery launches on STS-39, the first unclassified shuttle mission for the United States Department of Defense."
     },
     {
       "type": "Birth",
-      "year": "1863",
-      "text": "Nikolai von Meck, Russian engineer (died 1929)"
+      "year": "1983",
+      "text": "David Freese, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1941",
-      "text": "The Ustaše massacre nearly 200 Serbs in the village of Gudovac, the first massacre of their genocidal campaign against Serbs of the Independent State of Croatia."
+      "year": "1503",
+      "text": "The Battle of Cerignola is fought. It is noted as one of the first European battles in history won by small arms fire using gunpowder."
     },
     {
       "type": "Event",
-      "year": "1973",
-      "text": "The Dark Side of the Moon by Pink Floyd, recorded in Abbey Road Studios goes to number one on the US Billboard chart, beginning a record-breaking 741-week chart run."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Robert Cornthwaite, American actor (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1865",
-      "text": "Charles W. Woodworth, American entomologist and academic (died 1940)"
+      "year": "1952",
+      "text": "Dwight D. Eisenhower resigns as Supreme Allied Commander of NATO in order to campaign in the 1952 United States presidential election."
     },
     {
       "type": "Death",
-      "year": "2009",
-      "text": "Ekaterina Maximova, Russian ballerina and actress (born 1939)"
+      "year": "1970",
+      "text": "Ed Begley, American actor (born 1901)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Richard Fromberg, Australian tennis player"
     }
   ],
   "source": "Wikipedia"
