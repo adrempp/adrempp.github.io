@@ -1,305 +1,305 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "items": [
     {
+      "type": "Event",
+      "year": "1986",
+      "text": "The United States Navy aircraft carrier USS Enterprise becomes the first nuclear-powered aircraft carrier to transit the Suez Canal, navigating from the Red Sea to the Mediterranean Sea to relieve the USS Coral Sea."
+    },
+    {
       "type": "Birth",
-      "year": "1944",
-      "text": "Alice Waters, American chef and author"
+      "year": "1977",
+      "text": "Claus Jensen, Danish international footballer and manager"
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Rowland Evans, American soldier, journalist, and author (died 2001)"
+      "year": "1978",
+      "text": "Mike Bryan, American tennis player"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "The Holocaust: Nazi Germany carries out its final use of gas chambers to execute 33 Upper Austrian socialist and communist leaders in Mauthausen concentration camp."
+      "year": "1974",
+      "text": "Watergate scandal: United States President Richard Nixon announces the release of edited transcripts of White House tape recordings relating to the scandal."
     },
     {
-      "type": "Event",
-      "year": "1991",
-      "text": "Space Shuttle Discovery launches on STS-39, the first unclassified shuttle mission for the United States Department of Defense."
+      "type": "Birth",
+      "year": "1978",
+      "text": "Javier Colon, American singer-songwriter and musician"
     },
     {
-      "type": "Event",
-      "year": "1794",
-      "text": "Sardinians, headed by Giovanni Maria Angioy, start a revolution against the Savoy domination, expelling Viceroy Balbiano and his officials from Cagliari, the capital and largest city of the island."
-    },
-    {
-      "type": "Event",
-      "year": "1887",
-      "text": "A week after being arrested by the Prussian Secret Police, French police inspector Guillaume Schnaebelé is released on order of William I, German Emperor, defusing a possible war."
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Near Maui, Hawaii, flight attendant Clarabelle \"C.B.\" Lansing is blown out of Aloha Airlines Flight 243, a Boeing 737, and falls to her death when part of the plane's fuselage rips open in mid-flight."
+      "type": "Birth",
+      "year": "1970",
+      "text": "Uma Thurman, American actress"
     },
     {
       "type": "Event",
       "year": "1967",
-      "text": "Vietnam War: Boxer Muhammad Ali refuses his induction into the United States Army and is subsequently stripped of his championship and license."
+      "text": "After refusing induction into the United States Army the previous day, Muhammad Ali is stripped of his boxing title."
     },
     {
       "type": "Event",
-      "year": "1941",
-      "text": "The Ustaše massacre nearly 200 Serbs in the village of Gudovac, the first massacre of their genocidal campaign against Serbs of the Independent State of Croatia."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Igor Stravinsky conducts the premiere of his American ballet, Orpheus at the New York City Center."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Azerbaijan Soviet Socialist Republic is founded."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: Nine German E-boats attack US and UK units during Exercise Tiger, the rehearsal for the Normandy landings, killing 946."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "United States occupation of the Dominican Republic: American troops land in the Dominican Republic to \"forestall establishment of a Communist dictatorship\" and to evacuate US Army troops."
+      "year": "1861",
+      "text": "Maryland in the American Civil War: Maryland's House of Delegates votes not to secede from the Union."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "T. John Lesinski, American judge and politician, 51st Lieutenant Governor of Michigan (died 1996)"
+      "year": "1929",
+      "text": "April Stevens, American singer (died 2023)"
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Scott Fujita, American football player and sportscaster"
+      "year": "1891",
+      "text": "Edward Wilfred Taylor, British businessman (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Jon Stanhope, Australian politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Harry Payne Whitney, American businessman and lawyer (died 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Nora Dunn, American actress and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Kimberly Birrell, Australian tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Robert Cushman Murphy, American ornithologist (died 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Forest Ray Moulton, American astronomer and academic (died 1952)"
     },
     {
       "type": "Event",
-      "year": "1192",
-      "text": "Assassination of Conrad of Montferrat (Conrad I), King of Jerusalem, in Tyre, two days after his title to the throne is confirmed by election. The killing is carried out by Hashshashin."
-    },
-    {
-      "type": "Birth",
       "year": "1970",
-      "text": "Richard Fromberg, Australian tennis player"
+      "text": "Vietnam War: United States and South Vietnamese forces invade Cambodia to interdict the Ho Chi Minh Trail in an attempt to cut off supplies to the Viet Cong and the North Vietnamese Army."
     },
     {
       "type": "Event",
-      "year": "1930",
-      "text": "The Independence Producers host the first night game in the history of Organized Baseball in Independence, Kansas."
+      "year": "1864",
+      "text": "Theta Xi fraternity is founded at Rensselaer Polytechnic Institute, the only fraternity to be founded during the American Civil War."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "An assembly of Sikhs, known as a Sarbat Khalsa, officially declare independence for a state of Khalistan."
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Harold Urey, American chemist and astronomer, Nobel Prize laureate (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jim Ryun, American runner and politician"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Joel Goldsmith, American composer and conductor (born 1957)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Duane Allen, American country singer"
     },
     {
       "type": "Birth",
       "year": "1908",
-      "text": "Jack Fingleton, Australian cricketer, journalist, and sportscaster (died 1981)"
+      "text": "Jack Williamson, American author and academic (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Chris Kaman, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Bridget Moynahan, American actress"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Dennis Kamakahi, American guitarist and composer (born 1953)"
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "South African medical researcher Max Theiler develops the yellow fever vaccine at the Rockefeller Foundation in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "James Baker, American lawyer and politician, 61st United States Secretary of State"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "William Guarnere, American sergeant (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "General Cao Văn Viên, chief of the South Vietnamese military, departs for the US as the North Vietnamese Army closes in on victory."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Jack Shea, American director, producer, and screenwriter (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "John Daly, American golfer"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "CBS News releases evidence of the Abu Ghraib torture and prisoner abuse. The photographs show rape and abuse from the American troops over Iraqi detainees."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Mary McDonnell, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1792",
-      "text": "France invades the Austrian Netherlands (present day Belgium and Luxembourg), beginning the French Revolutionary Wars."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Ferruccio Lamborghini, Italian businessman, created Lamborghini (died 1993)"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "The Hukbalahap are accused of assassinating former First Lady of the Philippines Aurora Quezon, while she is en route to dedicate a hospital in memory of her late husband; her daughter and ten others are also killed."
-    },
-    {
-      "type": "Death",
-      "year": "1999",
-      "text": "Rolf Landauer, German-American physicist and engineer (born 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "Dwight D. Eisenhower resigns as Supreme Allied Commander of NATO in order to campaign in the 1952 United States presidential election."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Matt Chapman, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Lee Falk, American director, producer, and playwright (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "357",
-      "text": "Emperor Constantius II enters Rome for the first time to celebrate his victory over Magnus Magnentius."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "John Madejski, English businessman and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "L'Wren Scott, American model and fashion designer (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Anthony Volpe, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Dmitri Torbinski, Russian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1881",
-      "text": "Billy the Kid escapes from the Lincoln County jail in Mesilla, New Mexico."
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "Maryland becomes the seventh state to ratify the United States Constitution."
+      "year": "2007",
+      "text": "Mirra Andreeva, Russian tennis player"
     },
     {
       "type": "Birth",
       "year": "1958",
-      "text": "Hal Sutton, American golfer"
+      "text": "Eve Plumb, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "A baseball game between the Baltimore Orioles and the Chicago White Sox sets the all-time low attendance mark for Major League Baseball. Zero fans were in attendance for the game, as the stadium was officially closed to the public due to the 2015 Baltimore protests."
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Ann-Margret, Swedish-American actress, singer, and dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Former Central Intelligence Agency counterintelligence officer and analyst Aldrich Ames pleads guilty to giving US secrets to the Soviet Union and later Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1503",
-      "text": "The Battle of Cerignola is fought. It is noted as one of the first European battles in history won by small arms fire using gunpowder."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The Dark Side of the Moon by Pink Floyd, recorded in Abbey Road Studios goes to number one on the US Billboard chart, beginning a record-breaking 741-week chart run."
+      "year": "1880",
+      "text": "Adolf Chybiński, Polish historian, musicologist and academic (died 1952)"
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Wonpil, South Korean musician"
+      "year": "1944",
+      "text": "Francis Lee, English footballer and businessman (died 2023)"
     },
     {
-      "type": "Event",
+      "type": "Death",
+      "year": "1967",
+      "text": "J. B. Lenoir, American singer-songwriter and guitarist (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Peter Sculthorpe, Australian composer and conductor (died 2014)"
+    },
+    {
+      "type": "Birth",
       "year": "1952",
-      "text": "The Sino-Japanese Peace Treaty (Treaty of Taipei) is signed in Taipei, Taiwan between Japan and the Republic of China to officially end the Second Sino-Japanese War."
+      "text": "Geraldine Doogue, Australian journalist and television host"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Bernie Madoff, American businessman, financier and convicted felon (died 2021)"
+    },
+    {
+      "type": "Death",
+      "year": "1922",
+      "text": "Richard Croker, Irish American political boss (born 1843)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Paul Adelstein, American actor and writer"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Carl Gardner, American singer (died 2011)"
     },
     {
       "type": "Event",
-      "year": "224",
-      "text": "The Battle of Hormozdgan is fought. Ardashir I defeats and kills Artabanus V, effectively ending the Parthian Empire."
+      "year": "1781",
+      "text": "American Revolutionary War: British and French ships clash in the Battle of Fort Royal off the coast of Martinique."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "God Shammgod, American basketball player and coach"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "Benito Mussolini and his mistress Clara Petacci are shot dead by Walter Audisio, a member of the Italian resistance movement."
+      "year": "2004",
+      "text": "The final Oldsmobile is built in Lansing, Michigan, ending 107 years of vehicle production."
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Ron Zook, American football player and coach"
+      "year": "1925",
+      "text": "Iwao Takamoto, American animator, director, and producer (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Vietnam War: Operation Frequent Wind: The U.S. begins to evacuate U.S. citizens from Saigon before an expected North Vietnamese takeover. U.S. involvement in the war comes to an end. This happens after the Bombing of Tan Son Nhut Air Base."
     },
     {
       "type": "Birth",
-      "year": "1995",
-      "text": "Melanie Martinez, American singer"
+      "year": "1907",
+      "text": "Fred Zinnemann, Austrian-American director and producer (died 1997)"
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Sam Merwin, Jr., American author (died 1996)"
+      "year": "1984",
+      "text": "Lina Krasnoroutskaya, Russian tennis player"
     },
     {
-      "type": "Birth",
+      "type": "Event",
+      "year": "1770",
+      "text": "James Cook arrives in Australia at Botany Bay, which he names."
+    },
+    {
+      "type": "Event",
+      "year": "1826",
+      "text": "The galaxy Centaurus A or NGC 5128 is discovered by James Dunlop."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "A powerful explosion occurs in an office building in Prague, believed to have been caused by natural gas, and injures 43 people."
+    },
+    {
+      "type": "Event",
       "year": "1997",
-      "text": "Shane McClanahan, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: US President Richard Nixon formally authorizes American combat troops to take part in the Cambodian campaign."
+      "text": "The Chemical Weapons Convention of 1993 enters into force, outlawing the production, stockpiling and use of chemical weapons by its signatories."
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Marcia Strassman, American actress and singer (died 2014)"
+      "year": "1933",
+      "text": "Rod McKuen, American singer-songwriter and poet (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Mary Petty, American illustrator (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1863",
+      "text": "Maria Teresia Ledóchowska, Austrian nun and missionary (died 1922)"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "The first U.S. experimental 3D television broadcast shows an episode of Space Patrol on Los Angeles ABC affiliate KECA-TV."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Adolfo Nicolás, Spanish priest, 13th Superior General of the Society of Jesus (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "James Faulkner, Australian cricketer"
     },
     {
       "type": "Birth",
       "year": "1923",
-      "text": "Carolyn Cassady, American author (died 2013)"
+      "text": "Irvin Kershner, American actor, director and producer (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Siege of Corinth begins as Union forces under General Henry Halleck move to engage Confederate forces led by General P. G. T. Beauregard."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Sam Jones III, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Dachau concentration camp is liberated by United States troops."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Henry H. Barschall, German-American physicist and academic (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "The 7.0 Mw  Racha earthquake affects Georgia with a maximum MSK intensity of IX (Destructive), killing 270 people."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Capture of New Orleans by Union forces under David Farragut."
     }
   ],
   "source": "Wikipedia"
