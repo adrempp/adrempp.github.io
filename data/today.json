@@ -2,24 +2,24 @@
   "date": "2026-04-30",
   "items": [
     {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Johnny Horton, American singer-songwriter and guitarist (died 1960)"
+      "type": "Event",
+      "year": "2008",
+      "text": "Two skeletal remains found near Yekaterinburg are confirmed by Russian scientists to be the remains of Alexei and Anastasia, two of the children of the last Tsar of Russia, whose entire family was executed at Yekaterinburg by the Bolsheviks."
     },
     {
-      "type": "Death",
-      "year": "1879",
-      "text": "Emma Smith, American religious leader (born 1804)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Mimi Fariña, American singer-songwriter, guitarist, and activist (died 2001)"
+      "type": "Event",
+      "year": "1871",
+      "text": "The Camp Grant massacre takes place in Arizona Territory."
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Phil Garner, American baseball player and manager (died 2026)"
+      "year": "1986",
+      "text": "Dianna Agron, American actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1885",
+      "text": "Governor of New York David B. Hill signs legislation creating the Niagara Reservation, New York's first state park, ensuring that Niagara Falls will not be devoted solely to industrial and commercial use."
     },
     {
       "type": "Birth",
@@ -28,23 +28,93 @@
     },
     {
       "type": "Event",
+      "year": "1803",
+      "text": "Louisiana Purchase: The United States purchases the Louisiana Territory from France for $15 million, more than doubling the size of the young nation."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Gerda Lerner, Austrian-American historian and woman's history author (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1492",
+      "text": "Spain gives Christopher Columbus his commission of exploration. He is named admiral of the ocean sea, viceroy and governor of any territory he discovers."
+    },
+    {
+      "type": "Death",
+      "year": "1945",
+      "text": "Adolf Hitler, Austrian-German politician and author, dictator of Nazi Germany (born 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Robert Shaw, American conductor (died 1999)"
+    },
+    {
+      "type": "Event",
       "year": "1939",
       "text": "The 1939–40 New York World's Fair opens."
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Larry Niven, American author and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Merrill Osmond, American singer and bass player"
-    },
-    {
-      "type": "Birth",
       "year": "1965",
       "text": "Daniela Costian, Romanian-Australian discus thrower"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Isiah Thomas, American basketball player, coach, and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Roger L. Easton, American scientist, co-invented the GPS (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Alipate Carlile, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Mimi Fariña, American singer-songwriter, guitarist, and activist (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Bea Wain, American singer (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Paul Kuusberg, Estonian journalist and author (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Max Merritt, New Zealand-Australian singer-songwriter (died 2020)"
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Ian Ross, Australian journalist (born 1940)"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "In Bogotá, Colombia, the Organization of American States is established."
+    },
+    {
+      "type": "Event",
+      "year": "1897",
+      "text": "J. J. Thomson of the Cavendish Laboratory announces his discovery of the electron as a subatomic particle, over 1,800 times smaller than a proton (in the atomic nucleus), at a lecture at the Royal Institution in London."
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "Former Vice President and Democratic Senator Alben Barkley dies during a speech in Virginia."
     },
     {
       "type": "Event",
@@ -54,22 +124,52 @@
     {
       "type": "Birth",
       "year": "1976",
-      "text": "Victor Glover, American astronaut"
+      "text": "Amanda Palmer, American singer-songwriter and pianist"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "On the balcony of Federal Hall on Wall Street in New York City, George Washington takes the oath of office to become the first President of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Shawn Daivari, American wrestler and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1869",
+      "text": "Hans Poelzig, German architect, designed the IG Farben Building and Großes Schauspielhaus (died 1936)"
     },
     {
       "type": "Birth",
       "year": "1964",
-      "text": "Ian Healy, Australian cricketer, coach, and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Two skeletal remains found near Yekaterinburg are confirmed by Russian scientists to be the remains of Alexei and Anastasia, two of the children of the last Tsar of Russia, whose entire family was executed at Yekaterinburg by the Bolsheviks."
+      "text": "Tony Fernandes, Malaysian-Indian businessman, co-founded Tune Group"
     },
     {
       "type": "Birth",
-      "year": "1896",
-      "text": "Hans List, Austrian scientist and businessman, founded the AVL Engineering Company (died 1996)"
+      "year": "1900",
+      "text": "Erni Krusten, Estonian author and poet (died 1984)"
+    },
+    {
+      "type": "Death",
+      "year": "1936",
+      "text": "A. E. Housman, English poet and scholar (born 1859)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The Bristol Bus Boycott is held in Bristol to protest the Bristol Omnibus Company's refusal to employ Black or Asian bus crews, drawing national attention to racial discrimination in the United Kingdom."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Burt Young, American actor and painter (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Chris Carr, American football player"
     },
     {
       "type": "Event",
@@ -78,123 +178,8 @@
     },
     {
       "type": "Event",
-      "year": "1885",
-      "text": "Governor of New York David B. Hill signs legislation creating the Niagara Reservation, New York's first state park, ensuring that Niagara Falls will not be devoted solely to industrial and commercial use."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Don Schollander, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Sheldon Harnick, American lyricist (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1871",
-      "text": "The Camp Grant massacre takes place in Arizona Territory."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Troy Williamson, American football player"
-    },
-    {
-      "type": "Death",
-      "year": "1994",
-      "text": "Richard Scarry, American author and illustrator (born 1919)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Kerry Healey, American academic and politician, 70th Lieutenant Governor of Massachusetts"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "Former Vice President and Democratic Senator Alben Barkley dies during a speech in Virginia."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Paul Kuusberg, Estonian journalist and author (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Chris Kreider, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1829",
-      "text": "Ferdinand von Hochstetter, Austrian geologist and academic (died 1884)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Warren Defever, American bass player and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "In Nevada, Boulder Dam is renamed Hoover Dam."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Amanda Palmer, American singer-songwriter and pianist"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Dianna Agron, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Burt Young, American actor and painter (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1897",
-      "text": "J. J. Thomson of the Cavendish Laboratory announces his discovery of the electron as a subatomic particle, over 1,800 times smaller than a proton (in the atomic nucleus), at a lecture at the Royal Institution in London."
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "On the balcony of Federal Hall on Wall Street in New York City, George Washington takes the oath of office to become the first President of the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Gordon Scott, American film and television actor (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Bea Wain, American singer (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Eve Arden, American actress (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Theodore Schultz, American economist and academic, Nobel Prize laureate (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "U.S. media release graphic photos of American soldiers committing war crimes against Iraqi prisoners at Abu Ghraib prison."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Gerda Lerner, Austrian-American historian and woman's history author (died 2013)"
+      "year": "1838",
+      "text": "Nicaragua declares independence from the Central American Federation."
     },
     {
       "type": "Event",
@@ -203,23 +188,18 @@
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Roger L. Easton, American scientist, co-invented the GPS (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "NBC inaugurates its regularly scheduled television service in New York City, broadcasting President Franklin D. Roosevelt's N.Y. World's Fair opening day ceremonial address."
+      "year": "1946",
+      "text": "King Carl XVI Gustaf of Sweden"
     },
     {
       "type": "Birth",
-      "year": "1893",
-      "text": "Harold Breen, Australian public servant (died 1966)"
+      "year": "1969",
+      "text": "Warren Defever, American bass player and producer"
     },
     {
-      "type": "Event",
-      "year": "1963",
-      "text": "The Bristol Bus Boycott is held in Bristol to protest the Bristol Omnibus Company's refusal to employ Black or Asian bus crews, drawing national attention to racial discrimination in the United Kingdom."
+      "type": "Birth",
+      "year": "1988",
+      "text": "Andy Allen, Australian chef"
     },
     {
       "type": "Event",
@@ -228,23 +208,8 @@
     },
     {
       "type": "Event",
-      "year": "1838",
-      "text": "Nicaragua declares independence from the Central American Federation."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "In Bogotá, Colombia, the Organization of American States is established."
-    },
-    {
-      "type": "Birth",
-      "year": "1866",
-      "text": "Mary Haviland Stilwell Kuesel, American pioneer dentist (died 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "Hawaii becomes a territory of the United States, with Sanford B. Dole as governor."
+      "year": "2000",
+      "text": "Canonization of Faustina Kowalska in the presence of 200,000 people and the first Divine Mercy Sunday celebrated worldwide."
     },
     {
       "type": "Event",
@@ -252,19 +217,29 @@
       "text": "Automaker Dodge Brothers, Inc, is sold to Dillon, Read & Co. for US$146 million plus $50 million for charity."
     },
     {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Kirsten Dunst, American actress"
+      "type": "Event",
+      "year": "1900",
+      "text": "Hawaii becomes a territory of the United States, with Sanford B. Dole as governor."
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Annie Dillard, American novelist, essayist, and poet"
+      "year": "1896",
+      "text": "Hans List, Austrian scientist and businessman, founded the AVL Engineering Company (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Johnny Galecki, American actor"
     },
     {
       "type": "Event",
-      "year": "2000",
-      "text": "Canonization of Faustina Kowalska in the presence of 200,000 people and the first Divine Mercy Sunday celebrated worldwide."
+      "year": "1947",
+      "text": "In Nevada, Boulder Dam is renamed Hoover Dam."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Simon Kuznets, Belarusian-American economist, statistician, and academic, Nobel Prize laureate (died 1985)"
     },
     {
       "type": "Birth",
@@ -272,34 +247,59 @@
       "text": "Seimone Augustus, American basketball player"
     },
     {
+      "type": "Birth",
+      "year": "1777",
+      "text": "Carl Friedrich Gauss, German mathematician and physicist (died 1855)"
+    },
+    {
       "type": "Event",
-      "year": "1803",
-      "text": "Louisiana Purchase: The United States purchases the Louisiana Territory from France for $15 million, more than doubling the size of the young nation."
+      "year": "2004",
+      "text": "U.S. media release graphic photos of American soldiers committing war crimes against Iraqi prisoners at Abu Ghraib prison."
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Adrian Pasdar, American actor"
+      "year": "1938",
+      "text": "Gary Collins, American actor and talk show host (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Claude Shannon, American mathematician and engineer (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Merrill Osmond, American singer and bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Percy Heath, American bassist (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Michael J. Smith, American pilot, and astronaut (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1883",
+      "text": "Luigi Russolo, Italian painter and composer (died 1947)"
+    },
+    {
+      "type": "Birth",
+      "year": "1877",
+      "text": "Alice B. Toklas, American memoirist (died 1967)"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "NBC inaugurates its regularly scheduled television service in New York City, broadcasting President Franklin D. Roosevelt's N.Y. World's Fair opening day ceremonial address."
     },
     {
       "type": "Event",
       "year": "1973",
       "text": "Watergate scandal: U.S. President Richard Nixon fires White House Counsel John Dean; other top aides, most notably H. R. Haldeman and John Ehrlichman, resign."
-    },
-    {
-      "type": "Event",
-      "year": "1492",
-      "text": "Spain gives Christopher Columbus his commission of exploration. He is named admiral of the ocean sea, viceroy and governor of any territory he discovers."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Turbo B, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Philipp Kirkorov, Bulgarian-born Russian singer, composer and actor"
     }
   ],
   "source": "Wikipedia"
