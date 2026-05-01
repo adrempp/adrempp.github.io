@@ -2,239 +2,9 @@
   "date": "2026-05-01",
   "items": [
     {
-      "type": "Death",
-      "year": "1956",
-      "text": "LeRoy Samse, American pole vaulter (born 1883)"
-    },
-    {
-      "type": "Birth",
-      "year": "1579",
-      "text": "Wolphert Gerretse, Dutch-American farmer, co-founded New Netherland (died 1662)"
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "The Scofield Mine disaster kills over 200 men in Scofield, Utah in what is to date the fifth-worst mining accident in United States history."
-    },
-    {
-      "type": "Birth",
-      "year": "1846",
-      "text": "James C. Corrigan, Canadian-American businessman (died 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Kate Smith, American singer and actress (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1821",
-      "text": "Henry Ayers, English-Australian politician, 8th Premier of South Australia (died 1897)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Jack Paar, American comedian, author and talk show host (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "The Memphis Race Riots begin. Over three days, 46 blacks and two whites were killed. Reports of the atrocities influenced passage of the Fourteenth Amendment to the United States Constitution."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Battle of Chancellorsville between Robert E. Lee's Confederate Army of Northern Virginia and the Union Army of the Potomac under Joseph Hooker begins."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: Protests erupt in response to U.S. and South Vietnamese forces attacking Vietnamese communists in a Cambodian Campaign."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Tiffany Stratton, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Billy Owens, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1853",
-      "text": "Jacob Mikhailovich Gordin, Ukrainian-American journalist, actor, and playwright (died 1909)"
-    },
-    {
-      "type": "Event",
-      "year": "1486",
-      "text": "Christopher Columbus presents his plans for discovering a western route to the Indies to the Spanish Queen Isabella I of Castile."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "James Badge Dale, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "Coxey's Army, the first significant American protest march, arrives in Washington, D.C."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Invasion of Iraq: In what becomes known as the \"Mission Accomplished\" speech, on board the USS Abraham Lincoln (off the coast of California), U.S. President George W. Bush declares that \"major combat operations in Iraq have ended\"."
-    },
-    {
-      "type": "Death",
-      "year": "1986",
-      "text": "Hugo Peretti, American songwriter and producer (born 1916)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "The Särkänniemi Amusement Park opens in Tampere, Finland."
-    },
-    {
-      "type": "Birth",
-      "year": "1874",
-      "text": "Romaine Brooks, American-French painter and illustrator (died 1970)"
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Charli D'Amelio, American social media influencer and dancer"
-    },
-    {
-      "type": "Birth",
-      "year": "1891",
-      "text": "Lillian Estelle Fisher, American historian of Spanish America (died 1988)"
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "The few remaining Mormons left in Nauvoo, Illinois, formally dedicate the Nauvoo Temple."
-    },
-    {
-      "type": "Birth",
-      "year": "1585",
-      "text": "Sophia Olelkovich Radziwill, Belarusian saint (died 1612)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Anushka Sharma, Indian actress and film producer"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "Spanish–American War: Battle of Manila Bay: The Asiatic Squadron of the United States Navy destroys the Pacific Squadron of the Spanish Navy after a seven-hour battle. Spain loses all seven of its ships, and 381 Spanish sailors die. There are no American vessel losses or combat deaths."
-    },
-    {
-      "type": "Event",
-      "year": "1931",
-      "text": "The Empire State Building is dedicated in New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon."
-    },
-    {
-      "type": "Event",
-      "year": "1886",
-      "text": "Rallies are held throughout the United States demanding the eight-hour work day, culminating in the Haymarket affair in Chicago, in commemoration of which May 1 is celebrated as International Workers' Day in many countries."
-    },
-    {
-      "type": "Event",
-      "year": "1753",
-      "text": "Publication of Species Plantarum by Linnaeus, and the formal start date of plant taxonomy adopted by the International Code of Botanical Nomenclature."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Wes Welker, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) resumes the Deir ez-Zor campaign in order to clear the remnants of the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Ray Parker Jr., American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "The Prime Minister of Cuba, Fidel Castro, proclaims Cuba a socialist nation and abolishes elections."
-    },
-    {
-      "type": "Event",
-      "year": "1885",
-      "text": "The original Chicago Board of Trade Building opens for business."
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "A Vickers VC.1 Viking crashes while attempting to return to Blackbushe Airport in Yateley, killing 34."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "RMS Lusitania departs from New York City on her 202nd, and final, crossing of the North Atlantic. Six days later, the ship is torpedoed off the coast of Ireland with the loss of 1,198 lives."
-    },
-    {
       "type": "Event",
       "year": "2004",
       "text": "Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia join the European Union, celebrated at the residence of the Irish President in Dublin."
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "May Hollinworth, Australian theatre producer and director (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Sally Mann, American photographer"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Michael Russell, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1751",
-      "text": "Judith Sargent Murray, American poet and playwright (died 1820)"
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "The All-China Federation of Trade Unions is officially founded. Today it is the largest trade union in the world, with 134 million members."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Jay Reatard, American singer-songwriter and guitarist (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Amtrak (the National Railroad Passenger Corporation) takes over operation of U.S. passenger rail service."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Hanns Martin Schleyer, German business executive (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: During the Vicksburg campaign, Union forces under Ulysses S. Grant win the Battle of Port Gibson and establish a firm presence on the east side of the Mississippi River."
     },
     {
       "type": "Event",
@@ -243,8 +13,38 @@
     },
     {
       "type": "Event",
-      "year": "1946",
-      "text": "Start of three-year Pilbara strike of Indigenous Australians."
+      "year": "1961",
+      "text": "The Prime Minister of Cuba, Fidel Castro, proclaims Cuba a socialist nation and abolishes elections."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Billy Owens, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "The Memphis Race Riots begin. Over three days, 46 blacks and two whites were killed. Reports of the atrocities influenced passage of the Fourteenth Amendment to the United States Constitution."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "The Scofield Mine disaster kills over 200 men in Scofield, Utah in what is to date the fifth-worst mining accident in United States history."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Louis Nye, American actor (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Marilyn Milian, American judge"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Sterling Allen Brown, American poet, academic, and critic (died 1989)"
     },
     {
       "type": "Event",
@@ -253,8 +53,38 @@
     },
     {
       "type": "Birth",
-      "year": "1829",
-      "text": "Frederick Sandys, English painter and illustrator (died 1904)"
+      "year": "1987",
+      "text": "Amir Johnson, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1486",
+      "text": "Christopher Columbus presents his plans for discovering a western route to the Indies to the Spanish Queen Isabella I of Castile."
+    },
+    {
+      "type": "Death",
+      "year": "1989",
+      "text": "Sally Kirkland, American journalist (born 1912)"
+    },
+    {
+      "type": "Event",
+      "year": "1886",
+      "text": "Rallies are held throughout the United States demanding the eight-hour work day, culminating in the Haymarket affair in Chicago, in commemoration of which May 1 is celebrated as International Workers' Day in many countries."
+    },
+    {
+      "type": "Event",
+      "year": "1931",
+      "text": "The Empire State Building is dedicated in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Raya Dunayevskaya, Ukrainian-American philosopher and activist (died 1987)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Amtrak (the National Railroad Passenger Corporation) takes over operation of U.S. passenger rail service."
     },
     {
       "type": "Event",
@@ -263,8 +93,13 @@
     },
     {
       "type": "Birth",
-      "year": "1527",
-      "text": "Johannes Stadius, German astronomer, astrologer, mathematician (died 1579)"
+      "year": "1968",
+      "text": "D'arcy Wretzky, American bass player and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: The Battle of Chancellorsville between Robert E. Lee's Confederate Army of Northern Virginia and the Union Army of the Potomac under Joseph Hooker begins."
     },
     {
       "type": "Birth",
@@ -273,33 +108,198 @@
     },
     {
       "type": "Birth",
-      "year": "1992",
-      "text": "Madeline Brewer, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Raya Dunayevskaya, Ukrainian-American philosopher and activist (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Mohammed Karim Lamrani, Moroccan businessman and politician, 7th Prime Minister of Morocco (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Miles Sanders, American football player"
+      "year": "1751",
+      "text": "Judith Sargent Murray, American poet and playwright (died 1820)"
     },
     {
       "type": "Death",
-      "year": "2015",
-      "text": "Grace Lee Whitney, American actress (born 1930)"
+      "year": "408",
+      "text": "Arcadius, Byzantine emperor (born 377)"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Patricia Hill Collins, American sociologist and scholar"
+      "year": "1992",
+      "text": "Bradley Roby, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Spanish–American War: Battle of Manila Bay: The Asiatic Squadron of the United States Navy destroys the Pacific Squadron of the Spanish Navy after a seven-hour battle. Spain loses all seven of its ships, and 381 Spanish sailors die. There are no American vessel losses or combat deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Hanns Martin Schleyer, German business executive (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "RMS Lusitania departs from New York City on her 202nd, and final, crossing of the North Atlantic. Six days later, the ship is torpedoed off the coast of Ireland with the loss of 1,198 lives."
+    },
+    {
+      "type": "Birth",
+      "year": "1585",
+      "text": "Sophia Olelkovich Radziwill, Belarusian saint (died 1612)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Tiffany Stratton, American wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Julie Benz, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "2003",
+      "text": "Lizzy Greene, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1847",
+      "text": "Henry Demarest Lloyd, American journalist and politician (died 1903)"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Start of three-year Pilbara strike of Indigenous Australians."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Little Walter Jacobs, American blues harp player and singer (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Jack Paar, American comedian, author and talk show host (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1875",
+      "text": "Dave Hall, American runner (died 1972)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Rick Darling, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "YNW Melly, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Chuck Bednarik, American lieutenant and football player (died 2015)"
+    },
+    {
+      "type": "Death",
+      "year": "1955",
+      "text": "William Thomson Sloper, American stockbroker and survivor of the sinking of the RMS Titanic (born 1883)"
+    },
+    {
+      "type": "Event",
+      "year": "1885",
+      "text": "The original Chicago Board of Trade Building opens for business."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Stuart Appleby, Australian golfer"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Invasion of Iraq: In what becomes known as the \"Mission Accomplished\" speech, on board the USS Abraham Lincoln (off the coast of California), U.S. President George W. Bush declares that \"major combat operations in Iraq have ended\"."
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "A Vickers VC.1 Viking crashes while attempting to return to Blackbushe Airport in Yateley, killing 34."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Sonny James, American singer-songwriter and guitarist (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Evelyn Boyd Granville, American mathematician, computer scientist, and academic (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "The few remaining Mormons left in Nauvoo, Illinois, formally dedicate the Nauvoo Temple."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Richard Riordan, American lieutenant and politician, 39th Mayor of Los Angeles and publisher (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: Protests erupt in response to U.S. and South Vietnamese forces attacking Vietnamese communists in a Cambodian Campaign."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "The Särkänniemi Amusement Park opens in Tampere, Finland."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Tim McGraw, American singer-songwriter and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1864",
+      "text": "Anna Jarvis, American founder of Mother's Day (died 1948)"
+    },
+    {
+      "type": "Event",
+      "year": "1753",
+      "text": "Publication of Species Plantarum by Linnaeus, and the formal start date of plant taxonomy adopted by the International Code of Botanical Nomenclature."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Joel Rosenberg, Canadian-American author and activist (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) resumes the Deir ez-Zor campaign in order to clear the remnants of the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Kate Smith, American singer and actress (died 1986)"
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "The All-China Federation of Trade Unions is officially founded. Today it is the largest trade union in the world, with 134 million members."
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "Coxey's Army, the first significant American protest march, arrives in Washington, D.C."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: During the Vicksburg campaign, Union forces under Ulysses S. Grant win the Battle of Port Gibson and establish a firm presence on the east side of the Mississippi River."
     }
   ],
   "source": "Wikipedia"
