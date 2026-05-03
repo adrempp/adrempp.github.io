@@ -2,254 +2,9 @@
   "date": "2026-05-03",
   "items": [
     {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Desiigner, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Bing Crosby, American singer and actor (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "Walter O'Malley, the owner of the Brooklyn Dodgers, agrees to move the team from Brooklyn to Los Angeles."
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "The first unsolicited bulk commercial email (which would later become known as \"spam\") is sent by a Digital Equipment Corporation marketing representative to every ARPANET address on the west coast of the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1855",
-      "text": "American adventurer William Walker departs from San Francisco with about 60 men to conquer Nicaragua."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The police force in Birmingham, Alabama switches tactics and responds with violent force to stop the \"Birmingham campaign\" protesters. Images of the violent suppression are transmitted worldwide, bringing new-found attention to the civil rights movement."
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "Finnish War: Sweden loses the fortress of Sveaborg to Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1616",
-      "text": "Treaty of Loudun ends a French civil war."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Lawrence Tynes, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Cornelius Van Til, Dutch philosopher, theologian, and apologist (died 1987)"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "West Virginia becomes the first state to legislate a broad sales tax, but does not implement it until a number of years later due to enforcement issues."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Red Ruffing, American baseball pitcher and coach (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Georges Moustaki, Egyptian-French singer-songwriter and guitarist (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Chuck Baldwin, American pastor and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Konstantine Gamsakhurdia, Georgian author (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "David Koch, American engineer, businessman, and philanthropist (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "996",
-      "text": "German king Otto III chooses his cousin Bruno of Carinthia as pope following the death of Pope John XV. Bruno becomes pope under the name Gregory V."
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Armavia Flight 967 crashes into the Black Sea near Sochi International Airport in Sochi, Russia, killing 113 people."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "A Bolshevik coup fails in the Democratic Republic of Georgia."
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "Two gunmen launch an attempted attack on an anti-Islam event in Garland, Texas, which was held in response to the Charlie Hebdo shooting."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "May Sarton, American poet, novelist and memoirist (died 1995)"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "The sport of geocaching begins, with the first cache placed and the coordinates from a GPS posted on Usenet."
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "Raja Harishchandra, the first full-length Indian feature film, is released, marking the beginning of the Indian film industry."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Tyronn Lue, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Erich Honecker becomes First Secretary of the Socialist Unity Party of Germany, remaining in power until 1989."
-    },
-    {
-      "type": "Death",
-      "year": "1882",
-      "text": "Leonidas Smolents, Austrian–Greek general and army minister (born 1806)"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "The U.S. Supreme Court rules in Shelley v. Kraemer that covenants prohibiting the sale of real estate to blacks and other minorities are legally unenforceable."
-    },
-    {
-      "type": "Birth",
-      "year": "1662",
-      "text": "Matthäus Daniel Pöppelmann, German architect, designed the Pillnitz Castle (died 1736)"
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "Lieutenant Colonels Joseph O. Fletcher and William P. Benedict of the United States land a plane at the North Pole."
-    },
-    {
       "type": "Event",
       "year": "2016",
       "text": "Eighty-eight thousand people are evacuated from their homes in Fort McMurray, Alberta, Canada as a wildfire rips through the community, destroying approximately 2,400 homes and buildings."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Sugar Ray Robinson, American boxer (died 1989)"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia."
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Warja Honegger-Lavater, Swiss illustrator (born 1913)"
-    },
-    {
-      "type": "Event",
-      "year": "1815",
-      "text": "Neapolitan War: Joachim Murat, King of Naples, is defeated by the Austrians at the Battle of Tolentino, the decisive engagement of the war."
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Rachel Zegler, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Two men are rescued from a semitrailer that crashed over the side of the Pit River Bridge before it fell into the Sacramento River. Amateur photographer Virginia Schau photographs \"Rescue on Pit River Bridge\", the first and only winning submission for the Pulitzer Prize for Photography to have been taken by a woman."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Ignatius Aphrem II, Syrian patriarch"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Joseph W. Tobin, American cardinal"
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "The Kentucky Derby is televised nationally for the first time, on the CBS network."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Norman Corwin, American screenwriter and producer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Steven Weinberg, American physicist and academic, Nobel Prize laureate (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Sterling Campbell, American drummer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Joseph Addai, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Eighty-five people are killed when Braniff International Airways Flight 352 crashes near Dawson, Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Mary Cain, American runner"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "New post-war Japanese constitution goes into effect."
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "A crash by Bobby Allison at the Talladega Superspeedway, Alabama fencing at the start-finish line would lead NASCAR to develop the restrictor plate for the following season both at Daytona International Speedway and Talladega."
-    },
-    {
-      "type": "Birth",
-      "year": "1761",
-      "text": "August von Kotzebue, German playwright and author (died 1819)"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "The Great Fire of 1901 begins in Jacksonville, Florida."
-    },
-    {
-      "type": "Death",
-      "year": "1919",
-      "text": "Elizabeth Almira Allen, American educator (born 1854)"
     },
     {
       "type": "Event",
@@ -257,34 +12,79 @@
       "text": "The United States Senate Committee on Armed Services and United States Senate Committee on Foreign Relations begin their closed door hearings into the relief of Douglas MacArthur by U.S. President Harry Truman."
     },
     {
-      "type": "Event",
-      "year": "1481",
-      "text": "The largest of three earthquakes strikes the island of Rhodes and causes an estimated 30,000 casualties."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The southwestern portion of Oklahoma City is devastated by an F5 tornado, killing forty-five people, injuring 665, and causing $1 billion in damage. The tornado is one of 66 from the 1999 Oklahoma tornado outbreak. This tornado also produces the highest wind speed ever recorded, measured at 484 ± 32 kilometres per hour (301 ± 20 mph). In meteorology, the term \"May 3\" is synonymous with the F5 tornado."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "The United States loses its seat on the U.N. Human Rights Commission for the first time since the commission was formed in 1947."
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "The Constitution of May 3 (the first modern constitution in Europe) is proclaimed by the Sejm of Polish–Lithuanian Commonwealth."
+      "type": "Birth",
+      "year": "1945",
+      "text": "Davey Lopes, American baseball player, coach, and manager"
     },
     {
       "type": "Birth",
-      "year": "1906",
-      "text": "Anna Roosevelt Halsted, American journalist and author (died 1975)"
+      "year": "1874",
+      "text": "François Coty, French businessman and publisher, founded Coty (died 1934)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Jeff Halpern, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Norman Corwin, American screenwriter and producer (died 2011)"
     },
     {
       "type": "Event",
-      "year": "1802",
-      "text": "Washington, D.C. is incorporated as a city after Congress abolishes the Board of Commissioners, the District's founding government. The \"City of Washington\" is given a mayor-council form of government."
+      "year": "1978",
+      "text": "The first unsolicited bulk commercial email (which would later become known as \"spam\") is sent by a Digital Equipment Corporation marketing representative to every ARPANET address on the west coast of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Brooks Koepka, American golfer"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "Walter O'Malley, the owner of the Brooklyn Dodgers, agrees to move the team from Brooklyn to Los Angeles."
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Fergus McMaster, Australian businessman and soldier, co-founded Qantas  (died 1950)"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Armavia Flight 967 crashes into the Black Sea near Sochi International Airport in Sochi, Russia, killing 113 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1854",
+      "text": "George Gore, American baseball player and manager (died 1933)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Chuck Baldwin, American pastor and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1855",
+      "text": "American adventurer William Walker departs from San Francisco with about 60 men to conquer Nicaragua."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Denis Cosgrove, British-American academic and geographer (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Helen Walulik, American baseball player (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "The Great Fire of 1901 begins in Jacksonville, Florida."
     },
     {
       "type": "Birth",
@@ -293,13 +93,213 @@
     },
     {
       "type": "Birth",
-      "year": "1999",
-      "text": "Ella Langley, American singer-songwriter"
+      "year": "1965",
+      "text": "Mikhail Prokhorov, Russian businessman"
     },
     {
       "type": "Birth",
-      "year": "1867",
-      "text": "Andy Bowen, American boxer (died 1894)"
+      "year": "1871",
+      "text": "Emmett Dalton, American criminal (died 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Desiigner, American rapper"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "The U.S. Supreme Court rules in Shelley v. Kraemer that covenants prohibiting the sale of real estate to blacks and other minorities are legally unenforceable."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia."
+    },
+    {
+      "type": "Event",
+      "year": "1481",
+      "text": "The largest of three earthquakes strikes the island of Rhodes and causes an estimated 30,000 casualties."
+    },
+    {
+      "type": "Death",
+      "year": "2003",
+      "text": "Suzy Parker, American model and actress (born 1932)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Eighty-five people are killed when Braniff International Airways Flight 352 crashes near Dawson, Texas."
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "The Constitution of May 3 (the first modern constitution in Europe) is proclaimed by the Sejm of Polish–Lithuanian Commonwealth."
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "A crash by Bobby Allison at the Talladega Superspeedway, Alabama fencing at the start-finish line would lead NASCAR to develop the restrictor plate for the following season both at Daytona International Speedway and Talladega."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The police force in Birmingham, Alabama switches tactics and responds with violent force to stop the \"Birmingham campaign\" protesters. Images of the violent suppression are transmitted worldwide, bringing new-found attention to the civil rights movement."
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Domantas Sabonis, Lithuanian-American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "The sport of geocaching begins, with the first cache placed and the coordinates from a GPS posted on Usenet."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "West Virginia becomes the first state to legislate a broad sales tax, but does not implement it until a number of years later due to enforcement issues."
+    },
+    {
+      "type": "Event",
+      "year": "1616",
+      "text": "Treaty of Loudun ends a French civil war."
+    },
+    {
+      "type": "Event",
+      "year": "1802",
+      "text": "Washington, D.C. is incorporated as a city after Congress abolishes the Board of Commissioners, the District's founding government. The \"City of Washington\" is given a mayor-council form of government."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Pete Seeger, American singer-songwriter, guitarist, and activist (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Christina Hendricks, American actress and model"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "The United States loses its seat on the U.N. Human Rights Commission for the first time since the commission was formed in 1947."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Frankie Valli, American singer and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Nona Gaprindashvili, Georgian chess player, Women's World Champion, 1962-1978"
+    },
+    {
+      "type": "Event",
+      "year": "1815",
+      "text": "Neapolitan War: Joachim Murat, King of Naples, is defeated by the Austrians at the Battle of Tolentino, the decisive engagement of the war."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "The Kentucky Derby is televised nationally for the first time, on the CBS network."
+    },
+    {
+      "type": "Death",
+      "year": "1779",
+      "text": "John Winthrop, American mathematician, physicist, and astronomer (born 1714)"
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "Raja Harishchandra, the first full-length Indian feature film, is released, marking the beginning of the Indian film industry."
+    },
+    {
+      "type": "Event",
+      "year": "996",
+      "text": "German king Otto III chooses his cousin Bruno of Carinthia as pope following the death of Pope John XV. Bruno becomes pope under the name Gregory V."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "The southwestern portion of Oklahoma City is devastated by an F5 tornado, killing forty-five people, injuring 665, and causing $1 billion in damage. The tornado is one of 66 from the 1999 Oklahoma tornado outbreak. This tornado also produces the highest wind speed ever recorded, measured at 484 ± 32 kilometres per hour (301 ± 20 mph). In meteorology, the term \"May 3\" is synonymous with the F5 tornado."
+    },
+    {
+      "type": "Death",
+      "year": "1988",
+      "text": "Lev Pontryagin, Russian mathematician and academic (born 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "James Pattinson, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Erich Honecker becomes First Secretary of the Socialist Unity Party of Germany, remaining in power until 1989."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Ron Wyden, American academic and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "New post-war Japanese constitution goes into effect."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "Lieutenant Colonels Joseph O. Fletcher and William P. Benedict of the United States land a plane at the North Pole."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Two men are rescued from a semitrailer that crashed over the side of the Pit River Bridge before it fell into the Sacramento River. Amateur photographer Virginia Schau photographs \"Rescue on Pit River Bridge\", the first and only winning submission for the Pulitzer Prize for Photography to have been taken by a woman."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Tatyana Tolstaya, Russian author and publicist"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Ralph Hall, American lieutenant, lawyer, and politician (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Jeff Hornacek, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "Two gunmen launch an attempted attack on an anti-Islam event in Garland, Texas, which was held in response to the Charlie Hebdo shooting."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Marilyn Fisher Lundy, American businesswoman and philanthropist (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1808",
+      "text": "Finnish War: Sweden loses the fortress of Sveaborg to Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Ivan Bukavshin, Russian chess player (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "A Bolshevik coup fails in the Democratic Republic of Georgia."
     }
   ],
   "source": "Wikipedia"
