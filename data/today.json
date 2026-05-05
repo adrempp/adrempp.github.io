@@ -2,14 +2,79 @@
   "date": "2026-05-05",
   "items": [
     {
-      "type": "Birth",
-      "year": "1858",
-      "text": "John L. Leal, American physician (died 1914)"
-    },
-    {
       "type": "Event",
       "year": "1877",
       "text": "American Indian Wars: Sitting Bull leads his band of Lakota into Canada to avoid harassment by the United States Army under Colonel Nelson Miles."
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "The first railway in continental Europe opens between Brussels and Mechelen."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Mass protests in Greece erupt in response to austerity measures imposed by the government as a result of the Greek government-debt crisis."
+    },
+    {
+      "type": "Death",
+      "year": "1921",
+      "text": "Alfred Hermann Fried, Austrian journalist and publicist, Nobel Prize laureate (born 1864)"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "A riot breaks out in the Mt. Pleasant section of Washington, D.C. after police shoot a Salvadoran man."
+    },
+    {
+      "type": "Birth",
+      "year": "1890",
+      "text": "Christopher Morley, American journalist and author (died 1957)"
+    },
+    {
+      "type": "Birth",
+      "year": "1864",
+      "text": "Nellie Bly, American journalist and author (died 1922)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Dieter Brummer, Australian actor (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1886",
+      "text": "Workers marching for the eight-hour day in Milwaukee, Wisconsin, are shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre."
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "Memorial Day first celebrated in United States at Waterloo, New York."
+    },
+    {
+      "type": "Birth",
+      "year": "1873",
+      "text": "Leon Czolgosz, American assassin of William McKinley (died 1901)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Vanessa Downing, Australian actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Harold Miner, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "Mary Kies becomes the first woman awarded a U.S. patent, for a technique of weaving straw with silk and thread."
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "George Sidney, American director and producer (born 1916)"
     },
     {
       "type": "Birth",
@@ -23,193 +88,18 @@
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Charles Nagy, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1873",
-      "text": "Leon Czolgosz, American assassin of William McKinley (died 1901)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Marg Downey, Australian actress"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Mass protests in Greece erupt in response to austerity measures imposed by the government as a result of the Greek government-debt crisis."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "A riot breaks out in the Mt. Pleasant section of Washington, D.C. after police shoot a Salvadoran man."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Harold Miner, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Vanessa Bryant, American philanthropist and model"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The International Military Tribunal for the Far East begins in Tokyo with twenty-eight Japanese military and government officials accused of war crimes and crimes against humanity."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Logan Gilbert, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Meb Keflezighi, American runner"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Battle of Castle Itter, one of only two battles in that war in which American and German troops fought cooperatively."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Operation Nimrod: The British Special Air Service storms the Iranian embassy in London after a six-day siege."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Jim Kelly, American actor, athlete, and martial artist (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Elsie Eaves, American engineer (died 1983)"
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Theodore Harold Maiman, American-Canadian physicist and engineer, created the laser (born 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "The trial in the Stratton Brothers case begins in London, England; it marks the first time that fingerprint evidence is used to gain a conviction for murder."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Floyd Gottfredson, American author and illustrator (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1886",
-      "text": "Workers marching for the eight-hour day in Milwaukee, Wisconsin, are shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Duane Carter, American race car driver (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1832",
-      "text": "Hubert Howe Bancroft, American ethnologist and historian (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Vanessa Downing, Australian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Jon Butcher, American singer-songwriter, guitarist, and freelance multimedia producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1864",
-      "text": "Nellie Bly, American journalist and author (died 1922)"
-    },
-    {
-      "type": "Event",
-      "year": "1904",
-      "text": "Pitching against the Philadelphia Athletics at the Huntington Avenue Grounds, Cy Young of the Boston Americans throws the first perfect game in the modern era of baseball."
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Blind Willie McTell, American Piedmont blues singer and guitar player (died 1959)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Tyrone Power, American actor (died 1958)"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "American teenager Michael P. Fay is caned in Singapore for theft and vandalism."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: A Fu-Go balloon bomb launched by the Japanese Army kills six people near Bly, Oregon."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Robert DiPierdomenico, Australian footballer and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1891",
-      "text": "The Music Hall in New York City (later known as Carnegie Hall) has its grand opening and first public performance, with Tchaikovsky as the guest conductor."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Leo Ryan, American soldier, educator, and politician (died 1978)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of the Wilderness begins in Spotsylvania County."
-    },
-    {
-      "type": "Death",
-      "year": "1983",
-      "text": "John Williams, English-American actor (born 1903)"
-    },
-    {
-      "type": "Event",
-      "year": "1494",
-      "text": "On his second voyage to the New World, Christopher Columbus sights Jamaica, landing at Discovery Bay and declares Jamaica the property of the Spanish crown."
-    },
-    {
-      "type": "Birth",
       "year": "1883",
       "text": "Anna Johnson Pell Wheeler, American mathematician (died 1966)"
     },
     {
       "type": "Birth",
-      "year": "1865",
-      "text": "Helen Maud Merrill, American litterateur and poet (died 1943)"
+      "year": "1999",
+      "text": "Justin Kluivert, Dutch footballer"
     },
     {
       "type": "Birth",
-      "year": "1890",
-      "text": "Christopher Morley, American journalist and author (died 1957)"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "Mary Kies becomes the first woman awarded a U.S. patent, for a technique of weaving straw with silk and thread."
+      "year": "1999",
+      "text": "Nathan Chen, American figure skater"
     },
     {
       "type": "Event",
@@ -218,33 +108,63 @@
     },
     {
       "type": "Event",
-      "year": "1835",
-      "text": "The first railway in continental Europe opens between Brussels and Mechelen."
-    },
-    {
-      "type": "Death",
-      "year": "2001",
-      "text": "Clifton Hillegass, American publisher, created CliffsNotes (born 1918)"
+      "year": "1864",
+      "text": "American Civil War: The Battle of the Wilderness begins in Spotsylvania County."
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Tammy Wynette, American singer-songwriter and guitarist (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Janne Mustonen, Finnish politician (died 1964)"
+      "year": "1945",
+      "text": "Kurt Loder, American journalist, author, and critic"
     },
     {
       "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: The Confederate government is declared dissolved at Washington, Georgia."
+      "year": "1994",
+      "text": "The signing of the Bishkek Protocol between Armenia and Azerbaijan effectively freezes the Nagorno-Karabakh conflict."
     },
     {
       "type": "Birth",
-      "year": "1859",
-      "text": "Charles B. Hanford, American Shakespearean actor (died 1926)"
+      "year": "1900",
+      "text": "Helen Redfield, American geneticist (died 1988)"
+    },
+    {
+      "type": "Event",
+      "year": "1904",
+      "text": "Pitching against the Philadelphia Athletics at the Huntington Avenue Grounds, Cy Young of the Boston Americans throws the first perfect game in the modern era of baseball."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Secretariat wins the 1973 Kentucky Derby in 1:59.4, an as-yet-unbeaten record."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Ilene Woods, American actress (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1830",
+      "text": "John Batterson Stetson, American businessman, founded the John B. Stetson Company (died 1906)"
+    },
+    {
+      "type": "Death",
+      "year": "1896",
+      "text": "Silas Adams, American lawyer and politician (born 1839)"
+    },
+    {
+      "type": "Birth",
+      "year": "1834",
+      "text": "Viktor Hartmann, Russian painter and architect (died 1873)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Michael Murphy, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "The International Military Tribunal for the Far East begins in Tokyo with twenty-eight Japanese military and government officials accused of war crimes and crimes against humanity."
     },
     {
       "type": "Event",
@@ -253,8 +173,18 @@
     },
     {
       "type": "Event",
-      "year": "1973",
-      "text": "Secretariat wins the 1973 Kentucky Derby in 1:59.4, an as-yet-unbeaten record."
+      "year": "1891",
+      "text": "The Music Hall in New York City (later known as Carnegie Hall) has its grand opening and first public performance, with Tchaikovsky as the guest conductor."
+    },
+    {
+      "type": "Birth",
+      "year": "1866",
+      "text": "Thomas B. Thrige, Danish businessman (died 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Operation Nimrod: The British Special Air Service storms the Iranian embassy in London after a six-day siege."
     },
     {
       "type": "Event",
@@ -267,31 +197,6 @@
       "text": "Iran–Contra affair: Start of Congressional televised hearings in the United States."
     },
     {
-      "type": "Birth",
-      "year": "1903",
-      "text": "James Beard, American chef and author (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Helen Redfield, American geneticist (died 1988)"
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "Memorial Day first celebrated in United States at Waterloo, New York."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Justin Kluivert, Dutch footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "The signing of the Bishkek Protocol between Armenia and Azerbaijan effectively freezes the Nagorno-Karabakh conflict."
-    },
-    {
       "type": "Event",
       "year": "1961",
       "text": "Project Mercury: Alan Shepard becomes the first American to travel into outer space, on a sub-orbital flight."
@@ -300,6 +205,101 @@
       "type": "Birth",
       "year": "1977",
       "text": "Tiffany Roberts, American footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: The Confederate government is declared dissolved at Washington, Georgia."
+    },
+    {
+      "type": "Birth",
+      "year": "1859",
+      "text": "Charles B. Hanford, American Shakespearean actor (died 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Delia Derbyshire, English musician, arranger and composer (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Vanessa Bryant, American philanthropist and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Jon Butcher, American singer-songwriter, guitarist, and freelance multimedia producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Pat Carroll, American actress (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Meb Keflezighi, American runner"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Duane Carter, American race car driver (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: A Fu-Go balloon bomb launched by the Japanese Army kills six people near Bly, Oregon."
+    },
+    {
+      "type": "Event",
+      "year": "1494",
+      "text": "On his second voyage to the New World, Christopher Columbus sights Jamaica, landing at Discovery Bay and declares Jamaica the property of the Spanish crown."
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "The trial in the Stratton Brothers case begins in London, England; it marks the first time that fingerprint evidence is used to gain a conviction for murder."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "James Conner, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Ed Lee, American politician and attorney, 43rd Mayor of San Francisco (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Charles Nagy, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1865",
+      "text": "Helen Maud Merrill, American litterateur and poet (died 1943)"
+    },
+    {
+      "type": "Birth",
+      "year": "1504",
+      "text": "Stanislaus Hosius, Polish cardinal (died 1579)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Battle of Castle Itter, one of only two battles in that war in which American and German troops fought cooperatively."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "American teenager Michael P. Fay is caned in Singapore for theft and vandalism."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Victor Garland, Australian accountant and politician, 26th Australian Minister for Veterans' Affairs (died 2022)"
     }
   ],
   "source": "Wikipedia"
