@@ -2,119 +2,44 @@
   "date": "2026-05-06",
   "items": [
     {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Battle of Chancellorsville ends with a major defeat of the Union's Army of the Potomac under Joseph Hooker by the Confederate Army of Northern Virginia under Robert E. Lee."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: On Corregidor, the last American forces in the Philippines surrender to the Japanese."
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "Curtis Harrington, American actor, director, and screenwriter (born 1926)"
-    },
-    {
-      "type": "Event",
-      "year": "1757",
-      "text": "Battle of Prague: A Prussian army fights an Austrian army in Prague during the Seven Years' War."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Trinley Thaye Dorje, Tibetan religious leader, the 17th Karmapa Lama"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Arkansas secedes from the Union."
-    },
-    {
-      "type": "Death",
-      "year": "2022",
-      "text": "George Pérez, American comic book artist and writer (born 1954)"
-    },
-    {
       "type": "Birth",
       "year": "1880",
       "text": "Winifred Brunton, English-South African painter and illustrator (died 1959)"
     },
     {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Jason Witten, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Milton William Cooper, American conspiracy theorist and author (died 2001)"
-    },
-    {
       "type": "Event",
-      "year": "1941",
-      "text": "At California's March Field, Bob Hope performs his first USO show."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Chantelle Newbery, Australian diver"
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "The Eiffel Tower is officially opened to the public at the Universal Exposition in Paris."
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "The Russian Constitution of 1906 is adopted (on April 23 by the Julian calendar)."
-    },
-    {
-      "type": "Birth",
-      "year": "1869",
-      "text": "Junnosuke Inoue, Japanese businessman and central banker, 8th and 11th Governor of the Bank of Japan (died 1932)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Willie Mays, American baseball player and coach (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1882",
-      "text": "The United States Congress passes the Chinese Exclusion Act."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Ryan Anderson, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Brooke Bennett, American swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1840",
-      "text": "The Penny Black postage stamp becomes valid for use in the United Kingdom of Great Britain and Ireland."
+      "year": "1877",
+      "text": "Chief Crazy Horse of the Oglala Lakota surrenders to United States troops in Nebraska."
     },
     {
       "type": "Death",
-      "year": "2014",
-      "text": "Maria Lassnig, Austrian painter and academic (born 1919)"
+      "year": "2009",
+      "text": "Kevin Grubb, American race car driver (born 1978)"
     },
     {
       "type": "Birth",
-      "year": "1907",
-      "text": "Weeb Ewbank, American football player and coach (died 1998)"
+      "year": "1903",
+      "text": "Toots Shor, American businessman, founded Toots Shor's Restaurant (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Dutch politician Pim Fortuyn is assassinated following a radio interview at the Mediapark in Hilversum."
     },
     {
       "type": "Birth",
-      "year": "1501",
-      "text": "Marcellus II, pope of the Catholic Church (died 1555)"
+      "year": "1960",
+      "text": "John Flansburgh, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Eight people are killed and seven injured in a mass shooting in Allen, Texas. The perpetrator is killed by a police officer."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Kerry Wood strikes out 20 Houston Astros to tie the major league record held by Roger Clemens. He threw a one-hitter and did not walk a batter in his fifth career start."
     },
     {
       "type": "Birth",
@@ -128,118 +53,28 @@
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Tom Hunter, Scottish businessman and philanthropist"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Carmen Cavallaro, American pianist (died 1989)"
+      "year": "1947",
+      "text": "Martha Nussbaum, American philosopher and author"
     },
     {
       "type": "Event",
       "year": "1757",
-      "text": "The end of Konbaung–Hanthawaddy War, and the end of Burmese Civil War (1740–1757)."
+      "text": "Battle of Prague: A Prussian army fights an Austrian army in Prague during the Seven Years' War."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Weeb Ewbank, American football player and coach (died 1998)"
     },
     {
       "type": "Event",
-      "year": "1998",
-      "text": "Kerry Wood strikes out 20 Houston Astros to tie the major league record held by Roger Clemens. He threw a one-hitter and did not walk a batter in his fifth career start."
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "Eight people are killed and seven injured in a mass shooting in Allen, Texas. The perpetrator is killed by a police officer."
+      "year": "1941",
+      "text": "At California's March Field, Bob Hope performs his first USO show."
     },
     {
       "type": "Birth",
-      "year": "1843",
-      "text": "Grove Karl Gilbert, American geologist and academic (died 1918)"
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "Hindenburg disaster: The German zeppelin Hindenburg catches fire and is destroyed within a minute while attempting to dock at Lakehurst, New Jersey. Thirty-six people are killed."
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Three women, kidnapped and missing for more than a decade, are found alive in Cleveland, Ohio, in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Patricia Helen Kennedy, American socialite, activist, and author (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Deniz Gezmiş, Yusuf Aslan and Hüseyin İnan are executed in Ankara after being convicted of attempting to overthrow the Constitutional order."
-    },
-    {
-      "type": "Birth",
-      "year": "1856",
-      "text": "Robert Peary, American admiral and explorer (died 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1827",
-      "text": "Hermann Raster, German-American journalist and politician (died 1891)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Luigi Mangione, suspect in the killing of UnitedHealthcare CEO Brian Thompson"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "John Flansburgh, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Baekhyun, South Korean musician and actor"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Dutch politician Pim Fortuyn is assassinated following a radio interview at the Mediapark in Hilversum."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Tom Bergeron, American television host"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "David Carpenter, American serial killer"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Jeffery Deaver, American journalist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "New Deal: Under the authority of the newly-enacted Federal Emergency Relief Administration, President Franklin D. Roosevelt issues Executive Order 7034 to create the Works Progress Administration."
-    },
-    {
-      "type": "Event",
-      "year": "1104",
-      "text": "King Baldwin I of Jerusalem begins the siege of Acre, then held by the Fatimids."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Stewart Granger, English-American actor (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Richard Shelby, American lawyer and politician"
+      "year": "1781",
+      "text": "Karl Christian Friedrich Krause, German philosopher and author (died 1832)"
     },
     {
       "type": "Birth",
@@ -247,49 +82,19 @@
       "text": "Ferdinand III, Grand Duke of Tuscany (died 1824)"
     },
     {
-      "type": "Birth",
-      "year": "1978",
-      "text": "John Abraham, American football player"
-    },
-    {
       "type": "Event",
-      "year": "1877",
-      "text": "Chief Crazy Horse of the Oglala Lakota surrenders to United States troops in Nebraska."
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "In just 36 minutes, the Dow Jones Industrial Average plunges nearly 1,000 points in what is known as the 2010 Flash Crash."
+      "year": "1757",
+      "text": "The end of Konbaung–Hanthawaddy War, and the end of Burmese Civil War (1740–1757)."
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "Robert H. Dicke, American physicist and astronomer (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "James Gordon Bennett, Sr. publishes the first issue of the New York Herald."
+      "year": "1985",
+      "text": "Chris Paul, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Rubin Carter, American-Canadian boxer (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The Deutsche Studentenschaft attack Magnus Hirschfeld's Institut für Sexualwissenschaft, later burning many of its books."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Elizabeth II of the United Kingdom and French President François Mitterrand officiate at the opening of the Channel Tunnel."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Bob Seger, American singer-songwriter and guitarist"
+      "year": "1961",
+      "text": "Tom Hunter, Scottish businessman and philanthropist"
     },
     {
       "type": "Birth",
@@ -298,8 +103,203 @@
     },
     {
       "type": "Birth",
+      "year": "1856",
+      "text": "Sigmund Freud, Austrian neurologist and psychoanalyst (died 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Milton William Cooper, American conspiracy theorist and author (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1104",
+      "text": "King Baldwin I of Jerusalem begins the siege of Acre, then held by the Fatimids."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: The Battle of Chancellorsville ends with a major defeat of the Union's Army of the Potomac under Joseph Hooker by the Confederate Army of Northern Virginia under Robert E. Lee."
+    },
+    {
+      "type": "Birth",
       "year": "1979",
       "text": "Gerd Kanter, Estonian discus thrower"
+    },
+    {
+      "type": "Birth",
+      "year": "1797",
+      "text": "Joseph Brackett, American religious leader and composer (died 1882)"
+    },
+    {
+      "type": "Birth",
+      "year": "2006",
+      "text": "Sadie Sandler, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Jeffery Deaver, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "1882",
+      "text": "The United States Congress passes the Chinese Exclusion Act."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Trinley Thaye Dorje, Tibetan religious leader, the 17th Karmapa Lama"
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Ezra Jack Keats, American author and illustrator (born 1916)"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "In just 36 minutes, the Dow Jones Industrial Average plunges nearly 1,000 points in what is known as the 2010 Flash Crash."
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "New Deal: Under the authority of the newly-enacted Federal Emergency Relief Administration, President Franklin D. Roosevelt issues Executive Order 7034 to create the Works Progress Administration."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Patricia Helen Kennedy, American socialite, activist, and author (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "Elizabeth II of the United Kingdom and French President François Mitterrand officiate at the opening of the Channel Tunnel."
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Angel Reese, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "James Gordon Bennett, Sr. publishes the first issue of the New York Herald."
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "Hindenburg disaster: The German zeppelin Hindenburg catches fire and is destroyed within a minute while attempting to dock at Lakehurst, New Jersey. Thirty-six people are killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "James Turrell, American sculptor and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "The Russian Constitution of 1906 is adopted (on April 23 by the Julian calendar)."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: On Corregidor, the last American forces in the Philippines surrender to the Japanese."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Theodore H. White, American historian, journalist, and author (died 1986)"
+    },
+    {
+      "type": "Death",
+      "year": "1939",
+      "text": "Konstantin Somov, Russian-French painter and illustrator (born 1869)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Stewart Granger, English-American actor (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Deniz Gezmiş, Yusuf Aslan and Hüseyin İnan are executed in Ankara after being convicted of attempting to overthrow the Constitutional order."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "George Clooney, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "The Eiffel Tower is officially opened to the public at the Universal Exposition in Paris."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Meek Mill, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Jimmie Dale Gilmore, American country singer-songwriter, guitarist, actor, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Cameron Heyward, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1869",
+      "text": "Junnosuke Inoue, Japanese businessman and central banker, 8th and 11th Governor of the Bank of Japan (died 1932)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Adrienne Warren, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1501",
+      "text": "Marcellus II, pope of the Catholic Church (died 1555)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Three women, kidnapped and missing for more than a decade, are found alive in Cleveland, Ohio, in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Mark Eaton, American ice hockey player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The Deutsche Studentenschaft attack Magnus Hirschfeld's Institut für Sexualwissenschaft, later burning many of its books."
+    },
+    {
+      "type": "Event",
+      "year": "1840",
+      "text": "The Penny Black postage stamp becomes valid for use in the United Kingdom of Great Britain and Ireland."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Baekhyun, South Korean musician and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Arkansas secedes from the Union."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Robert H. Dicke, American physicist and astronomer (died 1997)"
     }
   ],
   "source": "Wikipedia"
