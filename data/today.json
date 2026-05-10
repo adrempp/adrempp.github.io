@@ -2,224 +2,29 @@
   "date": "2026-05-10",
   "items": [
     {
-      "type": "Event",
-      "year": "1503",
-      "text": "Christopher Columbus visits the Cayman Islands and names them Las Tortugas after the numerous turtles there."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Ella T. Grasso, Governor of Connecticut (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1894",
-      "text": "Dimitri Tiomkin, Ukrainian-American composer and conductor (died 1979)"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "J. Edgar Hoover is appointed first Director of the United States' Federal Bureau of Investigation (FBI), and remains so until his death in 1972."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Bono, Irish singer-songwriter, musician and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1872",
-      "text": "Marcel Mauss, French sociologist and anthropologist (died 1950)"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: A small Colonial militia led by Ethan Allen and Colonel Benedict Arnold captures Fort Ticonderoga."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Vladislav Listyev, Russian journalist (died 1995)"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Dick Sprang, American illustrator (born 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1813",
-      "text": "Montgomery Blair, American lieutenant and politician, 20th United States Postmaster General (died 1883)"
-    },
-    {
-      "type": "Death",
-      "year": "1950",
-      "text": "Belle da Costa Greene, American librarian and bibliographer (born 1883)"
-    },
-    {
-      "type": "Event",
-      "year": "946",
-      "text": "Alberic II of Spoleto arranges the election of pope Agapetus II following the death of Pope Marinus II."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: The House of Commons in London is damaged by the Luftwaffe in an air raid."
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Maybelle Carter, American autoharp player (died 1978)"
-    },
-    {
-      "type": "Event",
-      "year": "1796",
-      "text": "War of the First Coalition: Napoleon wins a victory against Austrian forces at Lodi bridge over the Adda River in Italy. The Austrians lose some 2,000 men."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Dean Heller, American lawyer and politician, United States Senator from Nevada"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Kerry Hemsley, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Jim Calhoun, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) capture the last footholds of the Islamic State of Iraq and the Levant (ISIL) in Al-Tabqah, bringing the Battle of Tabqa to an end."
-    },
-    {
-      "type": "Death",
-      "year": "1974",
-      "text": "Hal Mohr, American director and cinematographer (born 1894)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Damascus bombings are carried out using a pair of car bombs detonated by suicide bombers outside a military intelligence complex in Damascus, Syria, killing 55 people."
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "A hand grenade thrown by Vladimir Arutyunian lands about 20 m from U.S. President George W. Bush while he is giving a speech to a crowd in Tbilisi, Georgia, but it malfunctions and does not detonate."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Cindy Hyde-Smith, American politician, United States Senator from Mississippi"
-    },
-    {
-      "type": "Birth",
-      "year": "1788",
-      "text": "Augustin-Jean Fresnel, French physicist and engineer (died 1827)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Greg Fasala, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "Mother's Day is observed for the first time in the United States, in Grafton, West Virginia."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "John Scalzi, American author and blogger"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Paul Langmack, Australian rugby league player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Judith Jamison, American dancer and choreographer (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "David Azrieli, Polish-Canadian businessman and philanthropist (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1841",
-      "text": "James Gordon Bennett Jr., American publisher and broadcaster (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Robby Thompson, American baseball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "First successful launch of an American V-2 rocket at White Sands Proving Ground."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "FBI agent Robert Hanssen is sentenced to life imprisonment without the possibility of parole for selling United States secrets to Russia for $1.4 million in cash and diamonds."
-    },
-    {
-      "type": "Birth",
-      "year": "1878",
-      "text": "Gustav Stresemann, German journalist and politician, Chancellor of Germany, Nobel Prize laureate (died 1929)"
-    },
-    {
-      "type": "Event",
-      "year": "1713",
-      "text": "Great Northern War: The Russian Navy led by Admiral Fyodor Apraksin land both at Katajanokka and Hietalahti during the Battle of Helsinki."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: The Second Continental Congress takes place in Philadelphia."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Alex Schomburg, Puerto Rican artist and illustrator (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1838",
-      "text": "John Wilkes Booth, American actor, assassin of Abraham Lincoln (died 1865)"
-    },
-    {
-      "type": "Event",
-      "year": "1837",
-      "text": "Panic of 1837: New York City banks suspend the payment of specie, triggering a national banking crisis and an economic depression whose severity was not surpassed until the Great Depression."
-    },
-    {
       "type": "Birth",
       "year": "1955",
       "text": "Chris Berman, American sportscaster"
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Arthur Alexander, American country-soul singer-songwriter (died 1993)"
+      "year": "1930",
+      "text": "George E. Smith, American physicist and engineer, Nobel Prize laureate (died 2025)"
+    },
+    {
+      "type": "Death",
+      "year": "1818",
+      "text": "Paul Revere, American engraver and soldier (born 1735)"
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Victoria Rowell, American actress"
+      "year": "1993",
+      "text": "Jake Zyrus, Filipino singer"
     },
     {
-      "type": "Event",
-      "year": "1922",
-      "text": "The United States annexes the Kingman Reef."
+      "type": "Birth",
+      "year": "1962",
+      "text": "Robby Thompson, American baseball player and coach"
     },
     {
       "type": "Birth",
@@ -228,13 +33,58 @@
     },
     {
       "type": "Event",
+      "year": "946",
+      "text": "Alberic II of Spoleto arranges the election of pope Agapetus II following the death of Pope Marinus II."
+    },
+    {
+      "type": "Event",
+      "year": "1796",
+      "text": "War of the First Coalition: Napoleon wins a victory against Austrian forces at Lodi bridge over the Adda River in Italy. The Austrians lose some 2,000 men."
+    },
+    {
+      "type": "Birth",
+      "year": "1878",
+      "text": "Gustav Stresemann, German journalist and politician, Chancellor of Germany, Nobel Prize laureate (died 1929)"
+    },
+    {
+      "type": "Death",
+      "year": "2020",
+      "text": "Betty Wright, American soul singer (born 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "David O. Selznick, American producer and screenwriter (died 1965)"
+    },
+    {
+      "type": "Event",
       "year": "1849",
       "text": "Astor Place Riot: A riot breaks out at the Astor Opera House in Manhattan, New York City over a dispute between actors Edwin Forrest and William Charles Macready, killing at least 22 and injuring over 120."
     },
     {
+      "type": "Event",
+      "year": "2005",
+      "text": "A hand grenade thrown by Vladimir Arutyunian lands about 20 m from U.S. President George W. Bush while he is giving a speech to a crowd in Tbilisi, Georgia, but it malfunctions and does not detonate."
+    },
+    {
       "type": "Birth",
-      "year": "1904",
-      "text": "Frieda Belinfante, Dutch musician and LGBT member of the Dutch resistance (died 1995)"
+      "year": "1960",
+      "text": "Kerry Hemsley, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Cindy Hyde-Smith, American politician, United States Senator from Mississippi"
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "First Barbary War: The Barbary pirates of Tripoli declare war on the United States of America."
+    },
+    {
+      "type": "Birth",
+      "year": "1793",
+      "text": "R. E. B. Baylor, American politician and jurist (died 1873)"
     },
     {
       "type": "Birth",
@@ -243,23 +93,38 @@
     },
     {
       "type": "Birth",
-      "year": "1902",
-      "text": "David O. Selznick, American producer and screenwriter (died 1965)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Larry Williams, American singer-songwriter, pianist, and producer (died 1980)"
-    },
-    {
-      "type": "Birth",
       "year": "1898",
       "text": "Ariel Durant, American historian and author (died 1981)"
     },
     {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: In Kentucky, Union soldiers ambush and mortally wound Confederate raider William Quantrill, who lingers until his death on June 6."
+    },
+    {
       "type": "Birth",
-      "year": "1893",
-      "text": "Tonita Peña, San Ildefonso Pueblo (Native American) artist (died 1949)"
+      "year": "1996",
+      "text": "Alex Tuch, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1841",
+      "text": "James Gordon Bennett Jr., American publisher and broadcaster (died 1918)"
+    },
+    {
+      "type": "Death",
+      "year": "1974",
+      "text": "Hal Mohr, American director and cinematographer (born 1894)"
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Marcel Mauss, French sociologist and anthropologist (died 1950)"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: The House of Commons in London is damaged by the Luftwaffe in an air raid."
     },
     {
       "type": "Birth",
@@ -267,14 +132,104 @@
       "text": "Rick Santorum, American lawyer and politician, United States Senator from Pennsylvania"
     },
     {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Carl Albert, American lawyer and politician, 54th Speaker of the United States House of Representatives (died 2000)"
+    },
+    {
       "type": "Event",
-      "year": "1869",
-      "text": "The First transcontinental railroad, linking the eastern and western United States, is completed at Promontory Summit, Utah Territory with the golden spike."
+      "year": "1503",
+      "text": "Christopher Columbus visits the Cayman Islands and names them Las Tortugas after the numerous turtles there."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Nancy Walker, American actress, singer, and director (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Greg Fasala, Australian swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Judith Jamison, American dancer and choreographer (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1713",
+      "text": "Great Northern War: The Russian Navy led by Admiral Fyodor Apraksin land both at Katajanokka and Hietalahti during the Battle of Helsinki."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Bono, Irish singer-songwriter, musician and activist"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "FBI agent Robert Hanssen is sentenced to life imprisonment without the possibility of parole for selling United States secrets to Russia for $1.4 million in cash and diamonds."
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "Panic of 1837: New York City banks suspend the payment of specie, triggering a national banking crisis and an economic depression whose severity was not surpassed until the Great Depression."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Sid Vicious, English singer and bass player (died 1979)"
     },
     {
       "type": "Birth",
       "year": "1995",
       "text": "Missy Franklin, American swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Mark David Chapman, American murderer"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Arthur Alexander, American country-soul singer-songwriter (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Fred Astaire, American actor, singer, and dancer (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Dean Heller, American lawyer and politician, United States Senator from Nevada"
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Joe Murphy, (Irish-American), died during the 1920 Cork hunger strike (died 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: A small Colonial militia led by Ethan Allen and Colonel Benedict Arnold captures Fort Ticonderoga."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Ella T. Grasso, Governor of Connecticut (died 1981)"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) capture the last footholds of the Islamic State of Iraq and the Levant (ISIL) in Al-Tabqah, bringing the Battle of Tabqa to an end."
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The United States annexes the Kingman Reef."
     },
     {
       "type": "Event",
@@ -287,19 +242,64 @@
       "text": "Sailing in the lifeboat James Caird, Ernest Shackleton arrives at South Georgia after a journey of 800 nautical miles from Elephant Island."
     },
     {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: In Kentucky, Union soldiers ambush and mortally wound Confederate raider William Quantrill, who lingers until his death on June 6."
+      "type": "Birth",
+      "year": "1894",
+      "text": "Dimitri Tiomkin, Ukrainian-American composer and conductor (died 1979)"
     },
     {
       "type": "Event",
-      "year": "1801",
-      "text": "First Barbary War: The Barbary pirates of Tripoli declare war on the United States of America."
+      "year": "2012",
+      "text": "The Damascus bombings are carried out using a pair of car bombs detonated by suicide bombers outside a military intelligence complex in Damascus, Syria, killing 55 people."
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "First successful launch of an American V-2 rocket at White Sands Proving Ground."
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "J. Edgar Hoover is appointed first Director of the United States' Federal Bureau of Investigation (FBI), and remains so until his death in 1972."
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Mark David Chapman, American murderer"
+      "year": "1922",
+      "text": "David Azrieli, Polish-Canadian businessman and philanthropist (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1755",
+      "text": "Robert Gray, American captain and explorer (died 1806)"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Frieda Belinfante, Dutch musician and LGBT member of the Dutch resistance (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Maybelle Carter, American autoharp player (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "Mother's Day is observed for the first time in the United States, in Grafton, West Virginia."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: The Second Continental Congress takes place in Philadelphia."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Victoria Rowell, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1869",
+      "text": "The First transcontinental railroad, linking the eastern and western United States, is completed at Promontory Summit, Utah Territory with the golden spike."
     }
   ],
   "source": "Wikipedia"
