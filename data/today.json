@@ -2,184 +2,14 @@
   "date": "2026-05-14",
   "items": [
     {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Antonio Berni, Argentinian painter, illustrator, and engraver (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1699",
-      "text": "Hans Joachim von Zieten, Prussian general (died 1786)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Patrice Munsel, American soprano and actress (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1804",
-      "text": "William Clark and 42 men depart from Camp Dubois to join Meriwether Lewis at St Charles, Missouri, marking the beginning of the Lewis and Clark Expedition's historic journey up the Missouri River."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Frank Gore, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Robert Greene, American author and translator"
-    },
-    {
-      "type": "Birth",
-      "year": "1666",
-      "text": "Victor Amadeus II of Sardinia (died 1732)"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people."
-    },
-    {
-      "type": "Event",
-      "year": "1747",
-      "text": "War of the Austrian Succession: A British fleet under Admiral George Anson defeats the French at the First Battle of Cape Finisterre."
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "George Murray Hulbert, American judge and politician (died 1950)"
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Powers Boothe, American actor (born 1948)"
-    },
-    {
-      "type": "Event",
-      "year": "1097",
-      "text": "The Siege of Nicaea begins during the First Crusade."
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "The first edition of The Illustrated London News, the world's first illustrated weekly news magazine, is published."
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Space Shuttle Atlantis launches on the STS-132 mission to deliver the first shuttle-launched Russian ISS component — Rassvet. This was originally slated to be the final launch of Atlantis, before Congress approved STS-135."
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "Fijian Prime Minister Timoci Bavadra is ousted from power in a coup d'état led by Lieutenant colonel Sitiveni Rabuka."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Ada Nicodemou, Australian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Dan Auerbach, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Dustin Lynch, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "Rico Linhas Aéreas Flight 4815 crashes into the Amazon rainforest during approach to Eduardo Gomes International Airport in Manaus, Brazil, killing 33 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Suzy Kolber, American sportscaster and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1607",
-      "text": "English colonists establish \"James Fort\", which would become Jamestown, Virginia, the earliest permanent English settlement in the Americas."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Andreas Baader is freed from custody by Ulrike Meinhof, Gudrun Ensslin and others, a pivotal moment in the formation of the Red Army Faction."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Sofia Coppola, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The Constitution of the Philippines is ratified by a popular vote."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Raphael Saadiq, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Sophie Kurys, American baseball player (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "Mrs Dalloway, one of Virginia Woolf's earliest and best-known novels, is published."
-    },
-    {
-      "type": "Birth",
-      "year": "1878",
-      "text": "J. L. Wilkinson, American baseball player and manager (died 1964)"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "The Constitutional Court of South Korea overturns the impeachment of President Roh Moo-hyun."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Mike Inez, American rock bass player and songwriter"
-    },
-    {
       "type": "Event",
       "year": "1878",
       "text": "The last witchcraft trial held in the United States begins in Salem, Massachusetts, after Lucretia Brown, an adherent of Christian Science, accused Daniel Spofford of attempting to harm her through his mental powers."
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: During the Vicksburg campaign, Union forces drive Confederates under Joseph E. Johnston out of Jackson, Mississippi in the Battle of Jackson."
-    },
-    {
-      "type": "Death",
-      "year": "1984",
-      "text": "Ted Hicks, Australian public servant and diplomat, Australian High Commissioner to New Zealand (born 1910)"
-    },
-    {
-      "type": "Event",
-      "year": "1800",
-      "text": "The 6th United States Congress recesses, and the process of moving the Federal government of the United States from Philadelphia to Washington, D.C., begins the following day."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Salvadoran Civil War: The Sumpul River massacre occurs in Chalatenango, El Salvador."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "William James, Australian general and physician (died 2015)"
+      "year": "1935",
+      "text": "The Constitution of the Philippines is ratified by a popular vote."
     },
     {
       "type": "Event",
@@ -188,93 +18,8 @@
     },
     {
       "type": "Birth",
-      "year": "1897",
-      "text": "Sidney Bechet, American saxophonist, clarinet player, and composer (died 1959)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Alistair McAlpine, Baron McAlpine of West Green, English businessman and politician (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Rudy Pérez, Cuban-born American composer and music producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1761",
-      "text": "Samuel Dexter, American lawyer and politician, 4th United States Secretary of War, 3rd United States Secretary of the Treasury (died 1816)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Cate Blanchett, Australian actress"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Carrollton bus collision: A drunk driver traveling the wrong way on Interstate 71 near Carrollton, Kentucky, hits a converted school bus carrying a church youth group. Twenty-seven die in the crash and ensuing fire."
-    },
-    {
-      "type": "Event",
-      "year": "1811",
-      "text": "Paraguay: Pedro Juan Caballero, Fulgencio Yegros and José Gaspar Rodríguez de Francia start actions to depose the Spanish governor."
-    },
-    {
-      "type": "Event",
-      "year": "1836",
-      "text": "The Treaties of Velasco are signed in Velasco, Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Amber Tamblyn, American actress, author, model, director"
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "Governor of New York William Sulzer approves the charter for the Rockefeller Foundation, which begins operations with a $100 million donation from John D. Rockefeller."
-    },
-    {
-      "type": "Death",
-      "year": "1969",
-      "text": "Enid Bennett, Australian-American actress (born 1893)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Civil rights movement: A white mob twice attacks a Freedom Riders bus near Anniston, Alabama, before fire-bombing the bus and attacking the civil rights protesters who flee the burning vehicle."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Richard Deacon, American actor (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "George Lucas, American director, producer, and screenwriter, founded Lucasfilm"
-    },
-    {
-      "type": "Birth",
-      "year": "1852",
-      "text": "Henri Julien, Canadian illustrator (died 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Jack Hughes, American hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Eddie Low, New Zealand country singer and musician (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Eddie House, American basketball player"
+      "year": "1935",
+      "text": "Ethel Johnson, American professional wrestler (died 2018)"
     },
     {
       "type": "Event",
@@ -283,8 +28,88 @@
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Christine Brennan, American journalist and author"
+      "year": "1978",
+      "text": "Eddie House, American basketball player"
+    },
+    {
+      "type": "Death",
+      "year": "1969",
+      "text": "Enid Bennett, Australian-American actress (born 1893)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Frank Gore, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Bobby Darin, American singer-songwriter and actor (died 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Kyle Freeland, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Space Shuttle Atlantis launches on the STS-132 mission to deliver the first shuttle-launched Russian ISS component — Rassvet. This was originally slated to be the final launch of Atlantis, before Congress approved STS-135."
+    },
+    {
+      "type": "Birth",
+      "year": "1888",
+      "text": "Archie Alexander, American mathematician and engineer (died 1958)"
+    },
+    {
+      "type": "Birth",
+      "year": "1761",
+      "text": "Samuel Dexter, American lawyer and politician, 4th United States Secretary of War, 3rd United States Secretary of the Treasury (died 1816)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Andreas Baader is freed from custody by Ulrike Meinhof, Gudrun Ensslin and others, a pivotal moment in the formation of the Red Army Faction."
+    },
+    {
+      "type": "Birth",
+      "year": "1868",
+      "text": "Magnus Hirschfeld, German physician and sexologist (died 1935)"
+    },
+    {
+      "type": "Event",
+      "year": "1842",
+      "text": "The first edition of The Illustrated London News, the world's first illustrated weekly news magazine, is published."
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Hans Albert Einstein, Swiss-American engineer and educator (died 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1699",
+      "text": "Hans Joachim von Zieten, Prussian general (died 1786)"
+    },
+    {
+      "type": "Event",
+      "year": "1811",
+      "text": "Paraguay: Pedro Juan Caballero, Fulgencio Yegros and José Gaspar Rodríguez de Francia start actions to depose the Spanish governor."
+    },
+    {
+      "type": "Birth",
+      "year": "1881",
+      "text": "Lionel Hill, Australian politician, 30th Premier of South Australia (died 1963)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Hunter Burgan, American multi-instrumentalist and bassist of rock band AFI"
+    },
+    {
+      "type": "Death",
+      "year": "1873",
+      "text": "Gideon Brecher, Austrian physician and author (born 1797)"
     },
     {
       "type": "Birth",
@@ -292,14 +117,189 @@
       "text": "Herbert W. Franke, Austrian scientist and author (died 2022)"
     },
     {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Pat Borders, American baseball player and coach"
+      "type": "Event",
+      "year": "1987",
+      "text": "Fijian Prime Minister Timoci Bavadra is ousted from power in a coup d'état led by Lieutenant colonel Sitiveni Rabuka."
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "Governor of New York William Sulzer approves the charter for the Rockefeller Foundation, which begins operations with a $100 million donation from John D. Rockefeller."
     },
     {
       "type": "Birth",
-      "year": "1851",
-      "text": "Anna Laurens Dawes, American author and anti-suffragist (died 1938)"
+      "year": "1942",
+      "text": "Alistair McAlpine, Baron McAlpine of West Green, English businessman and politician (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1804",
+      "text": "William Clark and 42 men depart from Camp Dubois to join Meriwether Lewis at St Charles, Missouri, marking the beginning of the Lewis and Clark Expedition's historic journey up the Missouri River."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Josette Molland, artist, French Resistance member, and Holocaust survivor (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Hal Borland, American journalist and author (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Christine Brennan, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Danny Huston, Italian-American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1666",
+      "text": "Victor Amadeus II of Sardinia (died 1732)"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Civil rights movement: A white mob twice attacks a Freedom Riders bus near Anniston, Alabama, before fire-bombing the bus and attacking the civil rights protesters who flee the burning vehicle."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "Rico Linhas Aéreas Flight 4815 crashes into the Amazon rainforest during approach to Eduardo Gomes International Airport in Manaus, Brazil, killing 33 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Gary Ablett, Jr., Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1747",
+      "text": "War of the Austrian Succession: A British fleet under Admiral George Anson defeats the French at the First Battle of Cape Finisterre."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The Constitutional Court of South Korea overturns the impeachment of President Roh Moo-hyun."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Sofia Coppola, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Dick Howser, American baseball player, coach, and manager (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Eddie Low, New Zealand country singer and musician (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Big Van Vader, American wrestler and football player (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1800",
+      "text": "The 6th United States Congress recesses, and the process of moving the Federal government of the United States from Philadelphia to Washington, D.C., begins the following day."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: During the Vicksburg campaign, Union forces drive Confederates under Joseph E. Johnston out of Jackson, Mississippi in the Battle of Jackson."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Salvadoran Civil War: The Sumpul River massacre occurs in Chalatenango, El Salvador."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Suzy Kolber, American sportscaster and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Bronte Campbell, Malawian-Australian swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people."
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "Carrollton bus collision: A drunk driver traveling the wrong way on Interstate 71 near Carrollton, Kentucky, hits a converted school bus carrying a church youth group. Twenty-seven die in the crash and ensuing fire."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Brent Harvey, Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1097",
+      "text": "The Siege of Nicaea begins during the First Crusade."
+    },
+    {
+      "type": "Birth",
+      "year": "1852",
+      "text": "Henri Julien, Canadian illustrator (died 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Mark Zuckerberg, American computer programmer and businessman, co-founded Facebook"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Sophie Kurys, American baseball player (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "George Lucas, American director, producer, and screenwriter, founded Lucasfilm"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "William James, Australian general and physician (died 2015)"
+    },
+    {
+      "type": "Death",
+      "year": "2004",
+      "text": "Anna Lee, English-American actress (born 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "C.C. DeVille, American guitarist, songwriter, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "Mrs Dalloway, one of Virginia Woolf's earliest and best-known novels, is published."
+    },
+    {
+      "type": "Event",
+      "year": "1607",
+      "text": "English colonists establish \"James Fort\", which would become Jamestown, Virginia, the earliest permanent English settlement in the Americas."
+    },
+    {
+      "type": "Event",
+      "year": "1836",
+      "text": "The Treaties of Velasco are signed in Velasco, Texas."
     }
   ],
   "source": "Wikipedia"
