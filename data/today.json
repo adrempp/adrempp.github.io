@@ -2,89 +2,9 @@
   "date": "2026-05-15",
   "items": [
     {
-      "type": "Event",
-      "year": "1997",
-      "text": "The United States government acknowledges the existence of the \"Secret War\" in Laos and dedicates the Laos Memorial in honor of Hmong and other \"Secret War\" veterans."
-    },
-    {
-      "type": "Event",
-      "year": "1532",
-      "text": "The English church submits to the king of England in passing a convocation in which it surrenders a number of rights, such as to make provincial ecclesiastic laws independently of the king."
-    },
-    {
       "type": "Birth",
-      "year": "1930",
-      "text": "Jasper Johns, American painter and sculptor"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it is brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable."
-    },
-    {
-      "type": "Event",
-      "year": "1817",
-      "text": "Opening of the first private mental health hospital in the United States, the Asylum for the Relief of Persons Deprived of the Use of Their Reason (now Friends Hospital, Philadelphia, Pennsylvania)."
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Arno Lustiger, German historian and author (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Laura Hillenbrand, American journalist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Dan Patrick, American television anchor and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Thomas Brown, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Doug Lowe, Australian politician, 35th Premier of Tasmania"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "All military aviation organizations within or under the control of the RLM of Germany are officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington as the first female United States Army generals."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Albert Dubout, French cartoonist, illustrator, painter, and sculptor (died 1976)"
-    },
-    {
-      "type": "Event",
-      "year": "589",
-      "text": "King Authari marries Theodelinda, daughter of the Bavarian duke Garibald I. A Catholic, she has great influence among the Lombard nobility."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel, thus starting the 1948 Arab–Israeli War."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "A self coup by prime minister Kārlis Ulmanis succeeds in Latvia, suspending its constitution and dissolving its Saeima."
+      "year": "1961",
+      "text": "Giselle Fernández, Mexican-American television journalist."
     },
     {
       "type": "Birth",
@@ -93,123 +13,13 @@
     },
     {
       "type": "Birth",
-      "year": "1997",
-      "text": "Scott Drinkwater, Australian rugby league player"
+      "year": "1945",
+      "text": "Jerry Quarry, American boxer (died 1999)"
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "Paul Samuelson, American economist and academic, Nobel Prize laureate (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1567",
-      "text": "The wedding of Mary, Queen of Scots, and the Earl of Bothwell, the chief instigator of the murder of her previous husband Lord Darnley, takes place."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Madeleine Albright, Czech-American politician and diplomat, 64th United States Secretary of State (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "USS Sailfish is recommissioned. It was originally the USS Squalus."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "David Krumholtz, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "The city of Las Vegas is founded in Nevada, United States."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "The Ryukyu Islands, under U.S. military governance since their conquest in 1945, revert to Japanese control."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Kathleen Sebelius, American politician, 44th Governor of Kansas"
-    },
-    {
-      "type": "Event",
-      "year": "1525",
-      "text": "Insurgent peasants led by Anabaptist pastor Thomas Müntzer are defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Finnish Civil War ends when the Whites take over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Bill Alter, American police officer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Herta Oberheuser, German physician (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Scott Tronc, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "392",
-      "text": "Emperor Valentinian II is assassinated while advancing into Gaul against the Frankish usurper Arbogast. He is found hanging in his residence at Vienne."
-    },
-    {
-      "type": "Death",
-      "year": "1935",
-      "text": "Kazimir Malevich, Ukrainian-Russian painter and theoretician (born 1878)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Ryan Max Riley, American skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Desmond Howard, American football player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1891",
-      "text": "Pope Leo XIII defends workers' rights and property rights in the encyclical Rerum novarum, the beginning of modern Catholic social teaching."
-    },
-    {
-      "type": "Event",
-      "year": "1618",
-      "text": "Johannes Kepler confirms his previously rejected discovery of the third law of planetary motion (he first discovered it on March 8 but soon rejected the idea after some initial calculations were made)."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "John Smoltz, American baseball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Graeham Goble, Australian singer-songwriter, guitarist and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "John Lanchbery, English-Australian composer and conductor (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Thadeus Nguyễn Văn Lý, Vietnamese priest and activist"
+      "year": "1980",
+      "text": "Josh Beckett, American baseball player"
     },
     {
       "type": "Event",
@@ -217,54 +27,9 @@
       "text": "A fire at the Cleveland Clinic in Cleveland, Ohio kills 123."
     },
     {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Richard Avedon, American sailor and photographer (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "A seventeen-year-old farmworker, Jesse Washington, is infamously lynched in Waco, Texas, USA, after being convicted of rape and murder."
-    },
-    {
-      "type": "Event",
-      "year": "1536",
-      "text": "Anne Boleyn, Queen of England, stands trial in London on charges of treason, adultery and incest; she is condemned to death by a specially-selected jury."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "California becomes the second U.S. state after Massachusetts in 2004 to legalize same-sex marriage after the state's own Supreme Court rules a previous ban unconstitutional."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Justine Robbeson, South African javelin thrower"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Ken Venturi, American golfer and sportscaster (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Jusuf Kalla, Indonesian businessman and politician, 10th Vice President of Indonesia"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir."
-    },
-    {
       "type": "Death",
-      "year": "2008",
-      "text": "Alexander Courage, American composer and conductor (born 1919)"
+      "year": "1989",
+      "text": "Johnny Green, American composer and conductor (born 1908)"
     },
     {
       "type": "Event",
@@ -273,23 +38,253 @@
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Jerry Quarry, American boxer (died 1999)"
+      "year": "1944",
+      "text": "Bill Alter, American police officer and politician"
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Jim Simons, American golfer (died 2005)"
+      "year": "1922",
+      "text": "Sigurd Ottovich Schmidt, Russian historian and ethnographer (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "A seventeen-year-old farmworker, Jesse Washington, is infamously lynched in Waco, Texas, USA, after being convicted of rape and murder."
+    },
+    {
+      "type": "Event",
+      "year": "1618",
+      "text": "Johannes Kepler confirms his previously rejected discovery of the third law of planetary motion (he first discovered it on March 8 but soon rejected the idea after some initial calculations were made)."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of New Market, Virginia: Students from the Virginia Military Institute fight alongside the Confederate army to force Union General Franz Sigel out of the Shenandoah Valley."
+    },
+    {
+      "type": "Event",
+      "year": "1536",
+      "text": "Anne Boleyn, Queen of England, stands trial in London on charges of treason, adultery and incest; she is condemned to death by a specially-selected jury."
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Kevin Greenaugh, American nuclear engineer (died 2023)"
+      "year": "1937",
+      "text": "Trini Lopez, American singer, guitarist, and actor (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel, thus starting the 1948 Arab–Israeli War."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Diane Nash, American civil rights movement activist"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Brian Dozier, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "589",
+      "text": "King Authari marries Theodelinda, daughter of the Bavarian duke Garibald I. A Catholic, she has great influence among the Lombard nobility."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Kathleen Sebelius, American politician, 44th Governor of Kansas"
+    },
+    {
+      "type": "Event",
+      "year": "392",
+      "text": "Emperor Valentinian II is assassinated while advancing into Gaul against the Frankish usurper Arbogast. He is found hanging in his residence at Vienne."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Paul Zindel, American playwright and novelist (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "All military aviation organizations within or under the control of the RLM of Germany are officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Samantha Noble, Australian actress"
+    },
+    {
+      "type": "Event",
+      "year": "1817",
+      "text": "Opening of the first private mental health hospital in the United States, the Asylum for the Relief of Persons Deprived of the Use of Their Reason (now Friends Hospital, Philadelphia, Pennsylvania)."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Joseph Cotten, American actor (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Desmond Howard, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "David Adams, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Finnish Civil War ends when the Whites take over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Lois Johnson, American singer-songwriter (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Jason Graae, American musical theater actor"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "USS Sailfish is recommissioned. It was originally the USS Squalus."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it is brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "The United States government acknowledges the existence of the \"Secret War\" in Laos and dedicates the Laos Memorial in honor of Hmong and other \"Secret War\" veterans."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Ralph Steadman, English painter and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "The Ryukyu Islands, under U.S. military governance since their conquest in 1945, revert to Japanese control."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Charles Horman, American journalist and documentary filmmaker (died 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Diana Liverman, English-American geographer and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1532",
+      "text": "The English church submits to the king of England in passing a convocation in which it surrenders a number of rights, such as to make provincial ecclesiastic laws independently of the king."
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "A self coup by prime minister Kārlis Ulmanis succeeds in Latvia, suspending its constitution and dissolving its Saeima."
     },
     {
       "type": "Event",
       "year": "1725",
       "text": "Bach leads the first performance of his cantata Ich bin ein guter Hirt, BWV 85, about Jesus as the Good Shepherd."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Abraham Zapruder, American businessman and amateur photographer, filmed the Zapruder film (died 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law."
+    },
+    {
+      "type": "Event",
+      "year": "1891",
+      "text": "Pope Leo XIII defends workers' rights and property rights in the encyclical Rerum novarum, the beginning of modern Catholic social teaching."
+    },
+    {
+      "type": "Death",
+      "year": "1879",
+      "text": "Gottfried Semper, German architect and educator, designed the Semper Opera House (born 1803)"
+    },
+    {
+      "type": "Event",
+      "year": "1525",
+      "text": "Insurgent peasants led by Anabaptist pastor Thomas Müntzer are defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "John Lanchbery, English-Australian composer and conductor (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Arthur Jackson, American lieutenant and target shooter (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "K. T. Oslin, American singer-songwriter and actress (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Michael Brantley, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Ales Michalevic, Belarusian lawyer and politician"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "California becomes the second U.S. state after Massachusetts in 2004 to legalize same-sex marriage after the state's own Supreme Court rules a previous ban unconstitutional."
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "The city of Las Vegas is founded in Nevada, United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Ryan Leaf, American football player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1567",
+      "text": "The wedding of Mary, Queen of Scots, and the Earl of Bothwell, the chief instigator of the murder of her previous husband Lord Darnley, takes place."
+    },
+    {
+      "type": "Death",
+      "year": "2008",
+      "text": "Will Elder, American illustrator (born 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Laura Hillenbrand, American journalist and author"
     },
     {
       "type": "Event",
@@ -298,8 +293,13 @@
     },
     {
       "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of New Market, Virginia: Students from the Virginia Military Institute fight alongside the Confederate army to force Union General Franz Sigel out of the Shenandoah Valley."
+      "year": "1970",
+      "text": "President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington as the first female United States Army generals."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir."
     }
   ],
   "source": "Wikipedia"
