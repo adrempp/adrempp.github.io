@@ -2,279 +2,24 @@
   "date": "2026-05-16",
   "items": [
     {
-      "type": "Event",
-      "year": "1812",
-      "text": "Imperial Russia signs the Treaty of Bucharest, ending the Russo-Turkish War. The Ottoman Empire cedes Bessarabia to Russia."
-    },
-    {
       "type": "Birth",
-      "year": "1970",
-      "text": "Danielle Spencer, Australian singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Royal Rife, American microbiologist and instrument maker (died 1971)"
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "The United States Senate fails to convict President Andrew Johnson by one vote."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later."
-    },
-    {
-      "type": "Birth",
-      "year": "1876",
-      "text": "Fred Conrad Koch, American biochemist and endocrinologist (died 1948)"
-    },
-    {
-      "type": "Event",
-      "year": "1888",
-      "text": "Nikola Tesla delivers a lecture describing the equipment which will allow efficient generation and use of alternating currents to transmit electric power over long distances."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "Operation Chastise is undertaken by RAF Bomber Command with specially equipped Avro Lancasters to destroy the Mohne, Sorpe, and Eder dams in the Ruhr valley."
-    },
-    {
-      "type": "Event",
-      "year": "1832",
-      "text": "Juan Godoy discovers the rich silver outcrops of Chañarcillo sparking the Chilean silver rush."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: During the Vicksburg campaign, the decisive Union victory by Ulysses S. Grant at the Battle of Champion Hill drives the Confederate army under John C. Pemberton back towards Vicksburg, Mississippi."
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Peter Onorati, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "The first regularly scheduled transatlantic flights begin between Idlewild Airport (now John F Kennedy International Airport) in New York City and Heathrow Airport in London, operated by El Al Israel Airlines."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Billy Cobham, Panamanian-American drummer, composer, and bandleader"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Lowell P. Weicker Jr., American soldier and politician, 85th Governor of Connecticut (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Joey Graceffa, American internet celebrity"
-    },
-    {
-      "type": "Event",
-      "year": "1811",
-      "text": "Peninsular War: The allies Spain, Portugal and United Kingdom fight an inconclusive battle against the French at the Albuera. It is, in proportion to the numbers involved, the bloodiest battle of the war."
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Margret Rey, German author and illustrator (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Pierce Brosnan, Irish-American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Mitch Webster, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Tamara de Lempicka, Polish-American painter (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "John Salley, American basketball player and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Daniel Kerr, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "The first major wagon train heading for the Pacific Northwest sets out on the Oregon Trail from Elm Grove, Missouri, with 100 pioneers."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Doug Brocail, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Betty Carter, American singer-songwriter (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Steve Lewis, American sprinter"
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "The United States Congress establishes the nickel."
-    },
-    {
-      "type": "Event",
-      "year": "1874",
-      "text": "A flood on the Mill River in Massachusetts destroys much of four villages and kills 139 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1804",
-      "text": "Elizabeth Palmer Peabody, American educator who founded the first U.S. kindergarten (died 1894)"
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "A devastating EF4 tornado kills nineteen people in Southeast Kentucky, hitting the towns of Somerset and London."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Venera program: Venera 5, a Soviet space probe, lands on Venus."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Richard Page, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Tony Kakko, Finnish musician, composer, and vocalist"
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: The Warsaw Ghetto Uprising ends."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Ivan Sutherland, American computer scientist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1877",
-      "text": "The 16 May 1877 crisis occurs in France, ending with the dissolution of the National Assembly 22 June and affirming the interpretation of the Constitution of 1875 as a parliamentary rather than presidential system. The elections held in October 1877 led to the defeat of the royalists as a formal political movement in France."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The victory military parade by the Finnish White Guard is held in Helsinki celebrating their decisive victory in the Finnish Civil War. The day also begin to be celebrated on the Defence Forces Flag Day before it is moved in 1942 to the June 4th."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "James C. Murray, American lawyer and politician (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Edith Grace White, American ichthyologist (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Megan Fox, American actress"
+      "year": "1950",
+      "text": "Bruce Coville, American author"
     },
     {
       "type": "Birth",
       "year": "1957",
-      "text": "Bob Suter, American ice hockey player and coach (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California."
-    },
-    {
-      "type": "Death",
-      "year": "1955",
-      "text": "James Agee, American novelist, screenwriter, and critic(born 1909)"
+      "text": "Anthony St John, 22nd Baron St John of Bletso, English lawyer and businessman"
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Charles Wright, American wrestler"
+      "year": "1906",
+      "text": "Arturo Uslar Pietri, Venezuelan lawyer, journalist, and author (died 2001)"
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Debra Winger, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1882",
-      "text": "Simeon Price, American golfer (died 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Yvonne Craig, American ballet dancer and actress (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Tucker Carlson, American journalist, co-founded The Daily Caller"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Boyd Tinsley, American singer-songwriter and violinist"
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "Continental Army officer Lachlan McIntosh fatally wounds Button Gwinnett, a signer of the United States Declaration of Independence, in a duel in Savannah, Georgia."
-    },
-    {
-      "type": "Event",
-      "year": "1771",
-      "text": "The Battle of Alamance, a pre-American Revolutionary War battle between local militia and a group of rebels called The \"Regulators\", occurs in present-day Alamance County, North Carolina."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress."
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Prashant Bhargava, American director and producer (born 1973)"
+      "year": "1976",
+      "text": "Dirk Nannes, Australian-Dutch cricketer"
     },
     {
       "type": "Death",
@@ -283,13 +28,193 @@
     },
     {
       "type": "Event",
+      "year": "1888",
+      "text": "Nikola Tesla delivers a lecture describing the equipment which will allow efficient generation and use of alternating currents to transmit electric power over long distances."
+    },
+    {
+      "type": "Event",
+      "year": "1877",
+      "text": "The 16 May 1877 crisis occurs in France, ending with the dissolution of the National Assembly 22 June and affirming the interpretation of the Constitution of 1875 as a parliamentary rather than presidential system. The elections held in October 1877 led to the defeat of the royalists as a formal political movement in France."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "James C. Murray, American lawyer and politician (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1777",
+      "text": "Continental Army officer Lachlan McIntosh fatally wounds Button Gwinnett, a signer of the United States Declaration of Independence, in a duel in Savannah, Georgia."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Doug Brocail, American baseball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Woody Herman, American singer, saxophonist, and clarinet player (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1827",
+      "text": "Pierre Cuypers, Dutch architect, designed the Amsterdam Centraal railway station and Rijksmuseum (died 1921)"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "Operation Chastise is undertaken by RAF Bomber Command with specially equipped Avro Lancasters to destroy the Mohne, Sorpe, and Eder dams in the Ruhr valley."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Richard Page, American singer-songwriter and bass player"
+    },
+    {
+      "type": "Event",
+      "year": "1811",
+      "text": "Peninsular War: The allies Spain, Portugal and United Kingdom fight an inconclusive battle against the French at the Albuera. It is, in proportion to the numbers involved, the bloodiest battle of the war."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Michael Oberlechner, Austrian politician"
+    },
+    {
+      "type": "Event",
       "year": "1003",
       "text": "Patrician John Crescentius, who has seized control of Rome, selects Pope John XVII as the new pope."
     },
     {
       "type": "Event",
-      "year": "1770",
-      "text": "The 14-year-old Marie Antoinette marries 15-year-old Louis-Auguste, Dauphin de France, who later becomes king of France."
+      "year": "1771",
+      "text": "The Battle of Alamance, a pre-American Revolutionary War battle between local militia and a group of rebels called The \"Regulators\", occurs in present-day Alamance County, North Carolina."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "David Boreanaz, American actor"
+    },
+    {
+      "type": "Death",
+      "year": "1957",
+      "text": "Eliot Ness, American federal agent (born 1903)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Jim Hunt, American politician, 69th and 71st Governor of North Carolina (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Billy Cobham, Panamanian-American drummer, composer, and bandleader"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Dan Coats, American politician and diplomat, 29th United States Ambassador to Germany"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Mitch Webster, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Margret Rey, German author and illustrator (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Adrienne Rich, American poet, essayist, and feminist (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Henry Fonda, American actor (died 1982)"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "The United States Senate fails to convict President Andrew Johnson by one vote."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Venera program: Venera 5, a Soviet space probe, lands on Venus."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "John Conyers, American lawyer and politician (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "Imperial Russia signs the Treaty of Bucharest, ending the Russo-Turkish War. The Ottoman Empire cedes Bessarabia to Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Omar Strong, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Tori Spelling, American actress, reality television personality, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Daniel Kerr, Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine."
+    },
+    {
+      "type": "Event",
+      "year": "1842",
+      "text": "The first major wagon train heading for the Pacific Northwest sets out on the Oregon Trail from Elm Grove, Missouri, with 100 pioneers."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Elizabeth Ralston, Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust: The Warsaw Ghetto Uprising ends."
+    },
+    {
+      "type": "Birth",
+      "year": "1824",
+      "text": "Edmund Kirby Smith, American general (died 1893)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Studs Terkel, American historian and author (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight."
     },
     {
       "type": "Birth",
@@ -298,8 +223,83 @@
     },
     {
       "type": "Birth",
+      "year": "1801",
+      "text": "William H. Seward, American lawyer and politician, 24th United States Secretary of State (died 1872)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ralph Tresvant, American singer and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Rachel Griffith, Anglo-American economist"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "The first regularly scheduled transatlantic flights begin between Idlewild Airport (now John F Kennedy International Airport) in New York City and Heathrow Airport in London, operated by El Al Israel Airlines."
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Bud Hollowell, American baseball player and manager (born 1943)"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: During the Vicksburg campaign, the decisive Union victory by Ulysses S. Grant at the Battle of Champion Hill drives the Confederate army under John C. Pemberton back towards Vicksburg, Mississippi."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The victory military parade by the Finnish White Guard is held in Helsinki celebrating their decisive victory in the Finnish Civil War. The day also begin to be celebrated on the Defence Forces Flag Day before it is moved in 1942 to the June 4th."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Higashifushimi Kunihide, Japanese monk and educator (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1874",
+      "text": "A flood on the Mill River in Massachusetts destroys much of four villages and kills 139 people."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress."
+    },
+    {
+      "type": "Birth",
       "year": "1966",
-      "text": "Thurman Thomas, American football player"
+      "text": "Scott Reeves, American singer-songwriter and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1770",
+      "text": "The 14-year-old Marie Antoinette marries 15-year-old Louis-Auguste, Dauphin de France, who later becomes king of France."
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "The United States Congress establishes the nickel."
+    },
+    {
+      "type": "Event",
+      "year": "1832",
+      "text": "Juan Godoy discovers the rich silver outcrops of Chañarcillo sparking the Chilean silver rush."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Denis Hart, Australian archbishop"
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "A devastating EF4 tornado kills nineteen people in Southeast Kentucky, hitting the towns of Somerset and London."
     }
   ],
   "source": "Wikipedia"
