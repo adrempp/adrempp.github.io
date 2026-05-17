@@ -2,94 +2,14 @@
   "date": "2026-05-17",
   "items": [
     {
-      "type": "Event",
-      "year": "1012",
-      "text": "The comital family of Tusculum arranges the election of the count's son as Sergius IV following the death of Pope Marinus I earlier that month."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "The Protocol of Corfu is signed, recognising full autonomy to Northern Epirus under nominal Albanian sovereignty."
-    },
-    {
       "type": "Birth",
-      "year": "1943",
-      "text": "Johnny Warren, Australian footballer, coach, and sportscaster (died 2004)"
+      "year": "1988",
+      "text": "Nikki Reed, American actress, singer, and screenwriter"
     },
     {
       "type": "Event",
-      "year": "1900",
-      "text": "The children's novel The Wonderful Wizard of Oz, by L. Frank Baum, is first published in the United States. The first copy is given to the author's sister."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Jodie Rogers, Australian diver"
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "Members of the Melbourne Football Club codify the first rules of Australian rules football."
-    },
-    {
-      "type": "Event",
-      "year": "1673",
-      "text": "Louis Jolliet and Jacques Marquette begin exploring the Mississippi River."
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Delta Air Lines Flight 318 crashes near Marshall, Texas, killing 19."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "Rosalía de Castro publishes Cantares Gallegos, the first book in the Galician language."
-    },
-    {
-      "type": "Death",
-      "year": "1963",
-      "text": "John Wilce, American football player, coach, and physician (born 1888)"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Troops of Laurent-Désiré Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Tony Parker, French-American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1527",
-      "text": "Pánfilo de Narváez departs Spain to explore Florida with 600 men – by 1536 only four survive."
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Gerald Edelman, American biologist and immunologist, Nobel Prize laureate (born 1929)"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Shawn Nelson steals an M60 tank from the California Army National Guard Armory in San Diego and proceeds to go on a rampage."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Valeriya Novodvorskaya, Russian journalist and politician (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Justin King, English businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "World War II: Germany occupies Brussels, Belgium."
+      "year": "1977",
+      "text": "Nolan Bushnell opens the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California."
     },
     {
       "type": "Event",
@@ -98,13 +18,53 @@
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Josh Homme, American singer-songwriter, guitarist, and producer"
+      "year": "1962",
+      "text": "Andrew Farrar, Australian rugby league player and coach"
+    },
+    {
+      "type": "Death",
+      "year": "1919",
+      "text": "Guido von List, Austrian-German journalist, author, and poet (born 1848)"
     },
     {
       "type": "Event",
-      "year": "2006",
-      "text": "The aircraft carrier USS Oriskany is sunk in the Gulf of Mexico as an artificial reef."
+      "year": "1527",
+      "text": "Pánfilo de Narváez departs Spain to explore Florida with 600 men – by 1536 only four survive."
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Shawn Nelson steals an M60 tank from the California Army National Guard Armory in San Diego and proceeds to go on a rampage."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "John Foster, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Matt Lindland, American mixed martial artist, wrestler, and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "Rosalía de Castro publishes Cantares Gallegos, the first book in the Galician language."
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "The Constitution of Norway is signed and Crown Prince Christian Frederick of Denmark is elected King of Norway by the Norwegian Constituent Assembly."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "David Townsend, American singer-songwriter and guitarist (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "352",
+      "text": "Election of Pope Liberius following the death of Pope Julius I in the previous month."
     },
     {
       "type": "Event",
@@ -112,19 +72,59 @@
       "text": "On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru."
     },
     {
+      "type": "Event",
+      "year": "1954",
+      "text": "The United States Supreme Court hands down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Troops of Laurent-Désiré Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo."
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "Occupation of Monaco changes from French to Austrian."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "The aircraft carrier USS Oriskany is sunk in the Gulf of Mexico as an artificial reef."
+    },
+    {
       "type": "Birth",
+      "year": "1931",
+      "text": "Dewey Redman, American saxophonist (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Lou DiBella, American boxing promoter, actor, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "Members of the Melbourne Football Club codify the first rules of Australian rules football."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "The children's novel The Wonderful Wizard of Oz, by L. Frank Baum, is first published in the United States. The first copy is given to the author's sister."
+    },
+    {
+      "type": "Event",
+      "year": "1673",
+      "text": "Louis Jolliet and Jacques Marquette begin exploring the Mississippi River."
+    },
+    {
+      "type": "Event",
       "year": "1940",
-      "text": "Alan Kay, American computer scientist and academic"
+      "text": "World War II: Germany occupies Brussels, Belgium."
     },
     {
       "type": "Event",
-      "year": "1875",
-      "text": "Aristides wins the first Kentucky Derby with the jockey Oliver Lewis (2:37.75)."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Dambuster Raids commence by No. 617 Squadron RAF."
+      "year": "1984",
+      "text": "Prince Charles calls a proposed addition to the National Gallery, London, a \"monstrous carbuncle on the face of a much-loved and elegant friend\", sparking controversies on the proper role of the Royal Family and the course of modern architecture."
     },
     {
       "type": "Event",
@@ -133,33 +133,58 @@
     },
     {
       "type": "Event",
-      "year": "1977",
-      "text": "Nolan Bushnell opens the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California."
+      "year": "1943",
+      "text": "World War II: Dambuster Raids commence by No. 617 Squadron RAF."
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Bob Saget, American comedian, actor, and television host (died 2022)"
+      "year": "1991",
+      "text": "Johanna Konta, Australian-English tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Eddie Lewis, American international soccer player"
     },
     {
       "type": "Birth",
       "year": "1932",
-      "text": "Rodric Braithwaite, English soldier and diplomat, British Ambassador to Russia"
+      "text": "Peter Burge, Australian cricketer (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Jason Bernard, American actor (died 1996)"
+    },
+    {
+      "type": "Death",
+      "year": "1886",
+      "text": "John Deere, American blacksmith and businessman, founded the Deere & Company (born 1804)"
     },
     {
       "type": "Event",
-      "year": "1983",
-      "text": "The U.S. Department of Energy declassifies documents showing world's largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer's Freedom of Information Act request."
+      "year": "1939",
+      "text": "The Columbia Lions and the Princeton Tigers play in the United States' first televised sporting event, a collegiate baseball game in New York City."
     },
     {
       "type": "Event",
-      "year": "2004",
-      "text": "The first legal same-sex marriages in the U.S. are performed in the state of Massachusetts."
+      "year": "1012",
+      "text": "The comital family of Tusculum arranges the election of the count's son as Sergius IV following the death of Pope Marinus I earlier that month."
     },
     {
-      "type": "Event",
-      "year": "352",
-      "text": "Election of Pope Liberius following the death of Pope Julius I in the previous month."
+      "type": "Birth",
+      "year": "1956",
+      "text": "Annise Parker, American politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Matt Ryan, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1874",
+      "text": "George Sheldon, American diver (died 1907)"
     },
     {
       "type": "Birth",
@@ -169,47 +194,7 @@
     {
       "type": "Birth",
       "year": "1970",
-      "text": "Matt Lindland, American mixed martial artist, wrestler, and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests."
-    },
-    {
-      "type": "Event",
-      "year": "884",
-      "text": "Election of Pope Hadrian III following the death of Pope Marinus I earlier that month."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "The United States Supreme Court hands down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools."
-    },
-    {
-      "type": "Birth",
-      "year": "1870",
-      "text": "Newton Moore, Australian politician, 8th Premier of Western Australia (died 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "Occupation of Monaco changes from French to Austrian."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Bob Merrill, American composer and screenwriter (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Danny Manning, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Wang Leehom, American-Taiwanese singer-songwriter, producer, actor, and director"
+      "text": "Jordan Knight, American singer-songwriter and actor"
     },
     {
       "type": "Event",
@@ -217,44 +202,24 @@
       "text": "Venera program: Soviet Venera 6 begins its descent into the atmosphere of Venus, sending back atmospheric data before being crushed by pressure."
     },
     {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Keith, American pop singer"
-    },
-    {
       "type": "Event",
-      "year": "1933",
-      "text": "Vidkun Quisling and Johan Bernhard Hjort form Nasjonal Samling — the national-socialist party of Norway."
+      "year": "1937",
+      "text": "Spanish Civil War: The Largo Caballero government resigns in the wake of the Barcelona May Days, leading Juan Negrín to form a government, without the anarcho-syndicalist CNT, in its stead."
     },
     {
       "type": "Death",
-      "year": "2005",
-      "text": "Frank Gorshin, American actor (born 1934)"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Prince Charles calls a proposed addition to the National Gallery, London, a \"monstrous carbuncle on the face of a much-loved and elegant friend\", sparking controversies on the proper role of the Royal Family and the course of modern architecture."
+      "year": "2010",
+      "text": "Walasse Ting, Chinese-American painter and poet (born 1929)"
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Ben Nelson, American lawyer and politician, 37th Governor of Nebraska"
+      "year": "1940",
+      "text": "Reynato Puno, Filipino lawyer and jurist, 22nd Chief Justice of the Supreme Court of the Philippines"
     },
     {
       "type": "Event",
-      "year": "1648",
-      "text": "An allied French and Swedish army defeats Imperial and Bavarian forces in the Battle of Zusmarshausen."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: During the Vicksburg campaign, Union forces under John A. McClernand defeat a Confederate rearguard and capture around 1,700 men at the Battle of Big Black River Bridge."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Yelena Gorchakova, Russian javelin thrower (died 2002)"
+      "year": "1983",
+      "text": "The U.S. Department of Energy declassifies documents showing world's largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer's Freedom of Information Act request."
     },
     {
       "type": "Event",
@@ -263,33 +228,33 @@
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Pervis Jackson, American R&B bass singer (died 2008)"
-    },
-    {
-      "type": "Birth",
       "year": "1971",
-      "text": "Shaun Hart, Australian footballer, coach, and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Adil Omar, Pakistani rapper and music producer"
+      "text": "Mark Connors, Australian rugby player"
     },
     {
       "type": "Event",
-      "year": "1937",
-      "text": "Spanish Civil War: The Largo Caballero government resigns in the wake of the Barcelona May Days, leading Juan Negrín to form a government, without the anarcho-syndicalist CNT, in its stead."
+      "year": "884",
+      "text": "Election of Pope Hadrian III following the death of Pope Marinus I earlier that month."
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "The Columbia Lions and the Princeton Tigers play in the United States' first televised sporting event, a collegiate baseball game in New York City."
+      "year": "1863",
+      "text": "American Civil War: During the Vicksburg campaign, Union forces under John A. McClernand defeat a Confederate rearguard and capture around 1,700 men at the Battle of Big Black River Bridge."
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Dewey Redman, American saxophonist (died 2006)"
+      "year": "1943",
+      "text": "Johnny Warren, Australian footballer, coach, and sportscaster (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Delta Air Lines Flight 318 crashes near Marshall, Texas, killing 19."
     },
     {
       "type": "Event",
@@ -297,9 +262,44 @@
       "text": "Lebanon, Israel, and the United States sign an agreement on Israeli withdrawal from Lebanon."
     },
     {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Luann de Lesseps, American singer and television personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Page McConnell, American keyboard player and songwriter"
+    },
+    {
       "type": "Event",
-      "year": "1814",
-      "text": "The Constitution of Norway is signed and Crown Prince Christian Frederick of Denmark is elected King of Norway by the Norwegian Constituent Assembly."
+      "year": "1648",
+      "text": "An allied French and Swedish army defeats Imperial and Bavarian forces in the Battle of Zusmarshausen."
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "Vidkun Quisling and Johan Bernhard Hjort form Nasjonal Samling — the national-socialist party of Norway."
+    },
+    {
+      "type": "Event",
+      "year": "1875",
+      "text": "Aristides wins the first Kentucky Derby with the jockey Oliver Lewis (2:37.75)."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "The Protocol of Corfu is signed, recognising full autonomy to Northern Epirus under nominal Albanian sovereignty."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The first legal same-sex marriages in the U.S. are performed in the state of Massachusetts."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Tony Roche, Australian tennis player and coach"
     }
   ],
   "source": "Wikipedia"
