@@ -3,13 +3,98 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Ross Katz, American director, producer, and screenwriter"
+      "year": "1938",
+      "text": "Herbie Flowers, English musician (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "A birthday salute to U.S. President John F. Kennedy takes place at Madison Square Garden, New York City. The highlight is Marilyn Monroe's rendition of \"Happy Birthday\"."
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "James Reyne, Nigerian-Australian singer-songwriter"
+      "year": "1949",
+      "text": "Dusty Hill, American singer-songwriter and bass player (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Mickey Newbury, American country/pop singer-songwriter (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "David Munson, American runner (died 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Dave Bus, Dutch footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Grace Jones, Jamaican-American singer-songwriter, producer, and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1749",
+      "text": "King George II of Great Britain grants the Ohio Company a charter of land around the forks of the Ohio River."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Bill Fitch, American basketball player and coach (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1828",
+      "text": "U.S. President John Quincy Adams signs the Tariff of 1828 into law, sparking outrage in the South and leading to the Nullification crisis."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The Firearm Owners Protection Act is signed into law by U.S. President Ronald Reagan."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Nora Ephron, American director, producer, and screenwriter (died 2012)"
+    },
+    {
+      "type": "Death",
+      "year": "1994",
+      "text": "Jacqueline Kennedy Onassis, American journalist, 37th First Lady of the United States (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "James Gosling, Canadian-American computer scientist, created Java"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Harry W. Brown, American colonel and pilot (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "New England's Dark Day, an unusual darkening of the day sky, is observed over the New England states and parts of Canada."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Georgie Auld, Canadian-American saxophonist, clarinet player, and bandleader (died 1990)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "The Refugio oil spill deposited 142,800 U.S. gallons (3,400 barrels) of crude oil onto an area in California considered one of the most biologically diverse coastlines of the west coast."
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Mustafa Kemal Atatürk lands at Samsun on the Anatolian Black Sea coast, initiating what is later termed the Turkish War of Independence."
     },
     {
       "type": "Birth",
@@ -17,9 +102,49 @@
       "text": "Abraham Pais, Dutch-American physicist, historian, and academic (died 2000)"
     },
     {
-      "type": "Event",
+      "type": "Birth",
+      "year": "1861",
+      "text": "Nellie Melba, Australian soprano and actress (died 1931)"
+    },
+    {
+      "type": "Death",
       "year": "2015",
-      "text": "The Refugio oil spill deposited 142,800 U.S. gallons (3,400 barrels) of crude oil onto an area in California considered one of the most biologically diverse coastlines of the west coast."
+      "text": "Happy Rockefeller, American philanthropist, socialite; 31st Second Lady of the United States (born 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Marcedes Lewis, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Evgeny Kuznetsov, Russian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The United States Congress passes the Emergency Quota Act establishing national quotas on immigration."
+    },
+    {
+      "type": "Event",
+      "year": "1051",
+      "text": "Henry I of France marries the Rus' princess, Anne of Kiev."
+    },
+    {
+      "type": "Event",
+      "year": "1883",
+      "text": "Buffalo Bill's first Buffalo Bill's Wild West opens in Omaha, Nebraska."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Dick Scobee, American pilot, and astronaut (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1724",
+      "text": "Augustus Hervey, 3rd Earl of Bristol, English admiral and politician, Chief Secretary for Ireland (died 1779)"
     },
     {
       "type": "Birth",
@@ -32,89 +157,24 @@
       "text": "Gary Kildall, American computer scientist, founded Digital Research Inc. (died 1994)"
     },
     {
-      "type": "Event",
-      "year": "1828",
-      "text": "U.S. President John Quincy Adams signs the Tariff of 1828 into law, sparking outrage in the South and leading to the Nullification crisis."
-    },
-    {
-      "type": "Event",
-      "year": "1051",
-      "text": "Henry I of France marries the Rus' princess, Anne of Kiev."
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "New England's Dark Day, an unusual darkening of the day sky, is observed over the New England states and parts of Canada."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "President of Romania Traian Băsescu survives an impeachment referendum and returns to office from suspension."
+      "type": "Birth",
+      "year": "1981",
+      "text": "Yo Gotti, American rapper"
     },
     {
       "type": "Birth",
-      "year": "1886",
-      "text": "Francis Biddle, American lawyer and judge, 58th United States Attorney General (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "Mustafa Kemal Atatürk (official birthday), Turkish field marshal and statesman, 1st President of Turkey (died 1938)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Igor Judge, Baron Judge, Maltese-English lawyer and judge, Lord Chief Justice of England and Wales (died 2023)"
+      "year": "1944",
+      "text": "Peter Mayhew, English-American actor (died 2019)"
     },
     {
       "type": "Death",
-      "year": "2014",
-      "text": "Gabriel Kolko, American historian and author (born 1932)"
-    },
-    {
-      "type": "Birth",
-      "year": "1880",
-      "text": "Albert Richardson, English architect and educator, designed the Manchester Opera House (died 1964)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Jim Lehrer, American journalist and author (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "Nancy Astor, Viscountess Astor, American-English politician (died 1964)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Dave Bus, Dutch footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Gregory Poirier, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Eveline Adelheid von Maydell, German-American illustrator (died 1962)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "David Hartman, American journalist and television personality"
+      "year": "1946",
+      "text": "Booth Tarkington, American novelist and dramatist (born 1869)"
     },
     {
       "type": "Event",
-      "year": "1776",
-      "text": "American Revolutionary War: A Continental Army garrison surrenders in the Battle of The Cedars."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Andrew Johns, Australian rugby league player, coach, and sportscaster"
+      "year": "1943",
+      "text": "Winston Churchill's second wartime address to the U.S. Congress"
     },
     {
       "type": "Event",
@@ -123,58 +183,13 @@
     },
     {
       "type": "Event",
-      "year": "1986",
-      "text": "The Firearm Owners Protection Act is signed into law by U.S. President Ronald Reagan."
+      "year": "1950",
+      "text": "A barge containing munitions destined for Pakistan explodes in the harbor at South Amboy, New Jersey, devastating the city."
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "André the Giant, French-American wrestler and actor (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Dick Scobee, American pilot, and astronaut (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The New York Post Sunday Magazine publishes Martin Luther King Jr.'s Letter from Birmingham Jail."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Syrian demonstrators in Damascus are fired upon by French troops injuring twelve, leading to the Levant Crisis."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "A mass shooting starts in Moscow, Idaho, which would leave 3 non-shooters dead and 3 more injured, before the shooter committed suicide the next day."
-    },
-    {
-      "type": "Birth",
-      "year": "1724",
-      "text": "Augustus Hervey, 3rd Earl of Bristol, English admiral and politician, Chief Secretary for Ireland (died 1779)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "Winston Churchill's second wartime address to the U.S. Congress"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Yuri Kochiyama, American activist (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1861",
-      "text": "Nellie Melba, Australian soprano and actress (died 1931)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Evgeny Kuznetsov, Russian ice hockey player"
+      "year": "1950",
+      "text": "Tadeusz Ślusarski, Polish pole vaulter (died 1998)"
     },
     {
       "type": "Birth",
@@ -182,9 +197,9 @@
       "text": "Merriam Modell, American author (died 1994)"
     },
     {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Nora Ephron, American director, producer, and screenwriter (died 2012)"
+      "type": "Event",
+      "year": "1963",
+      "text": "The New York Post Sunday Magazine publishes Martin Luther King Jr.'s Letter from Birmingham Jail."
     },
     {
       "type": "Birth",
@@ -193,68 +208,8 @@
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "David Helfgott, Australian pianist"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Richard Larter, Australian painter (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jodi Picoult, American author and educator"
-    },
-    {
-      "type": "Event",
-      "year": "1749",
-      "text": "King George II of Great Britain grants the Ohio Company a charter of land around the forks of the Ohio River."
-    },
-    {
-      "type": "Event",
-      "year": "1883",
-      "text": "Buffalo Bill's first Buffalo Bill's Wild West opens in Omaha, Nebraska."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "A birthday salute to U.S. President John F. Kennedy takes place at Madison Square Garden, New York City. The highlight is Marilyn Monroe's rendition of \"Happy Birthday\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Dick Slater, American wrestler (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "A barge containing munitions destined for Pakistan explodes in the harbor at South Amboy, New Jersey, devastating the city."
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Jeffrey Catherine Jones, American artist (born 1944)"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The United States Congress passes the Emergency Quota Act establishing national quotas on immigration."
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "David Munson, American runner (died 1953)"
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo, thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million."
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Bruce Bennett, American shot putter and actor (died 2007)"
+      "year": "1992",
+      "text": "Felise Kaufusi, New Zealand-Tongan rugby league player"
     },
     {
       "type": "Birth",
@@ -263,43 +218,88 @@
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Archie Manning, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1871",
-      "text": "Walter Russell, American painter, sculptor, and author (died 1963)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "James Gosling, Canadian-American computer scientist, created Java"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Shirrel Rhoades, American author, publisher, and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Phil Rudd, Australian-New Zealand drummer"
+      "year": "2003",
+      "text": "Jojo Siwa, American dancer, singer, actress, and YouTube personality"
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "Mustafa Kemal Atatürk lands at Samsun on the Anatolian Black Sea coast, initiating what is later termed the Turkish War of Independence."
+      "year": "2007",
+      "text": "President of Romania Traian Băsescu survives an impeachment referendum and returns to office from suspension."
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Marcedes Lewis, American football player"
+      "year": "1975",
+      "text": "London Fletcher, American football player"
     },
     {
-      "type": "Death",
-      "year": "1994",
-      "text": "Jacqueline Kennedy Onassis, American journalist, 37th First Lady of the United States (born 1929)"
+      "type": "Birth",
+      "year": "1971",
+      "text": "Ross Katz, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Nancy Kwan, Hong Kong-American actress and makeup artist"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Maile Flanagan, American actress, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Syrian demonstrators in Damascus are fired upon by French troops injuring twelve, leading to the Levant Crisis."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Jodi Picoult, American author and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Claudia Karvan, Australian actress, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Bruce Bennett, American shot putter and actor (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Nancy Astor, Viscountess Astor, American-English politician (died 1964)"
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo, thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "A mass shooting starts in Moscow, Idaho, which would leave 3 non-shooters dead and 3 more injured, before the shooter committed suicide the next day."
+    },
+    {
+      "type": "Birth",
+      "year": "1890",
+      "text": "Eveline Adelheid von Maydell, German-American illustrator (died 1962)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Yuri Kochiyama, American activist (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: A Continental Army garrison surrenders in the Battle of The Cedars."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Kevin Garnett, American basketball player"
     }
   ],
   "source": "Wikipedia"
