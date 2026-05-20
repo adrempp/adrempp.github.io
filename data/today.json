@@ -3,33 +3,128 @@
   "items": [
     {
       "type": "Event",
+      "year": "491",
+      "text": "Empress Ariadne marries Anastasius I. The widowed Augusta is able to choose her successor for the Byzantine throne, after Zeno (late emperor) dies of dysentery."
+    },
+    {
+      "type": "Event",
+      "year": "1570",
+      "text": "Cartographer Abraham Ortelius issues Theatrum Orbis Terrarum, the first modern atlas."
+    },
+    {
+      "type": "Event",
       "year": "2013",
       "text": "An EF5 tornado strikes the Oklahoma City suburb of Moore, killing 24 people and injuring 377 others."
     },
     {
       "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: The state of Kentucky proclaims its neutrality, which will last until September 3 when Confederate forces enter the state."
+      "year": "1902",
+      "text": "Cuba gains independence from the United States. Tomás Estrada Palma becomes the country's first President."
     },
     {
-      "type": "Death",
-      "year": "2013",
-      "text": "Flavio Costantini, Italian painter and illustrator (born 1926)"
+      "type": "Event",
+      "year": "1983",
+      "text": "First publications of the discovery of the HIV virus that causes AIDS in the journal Science by a team of French scientists including Françoise Barré-Sinoussi, Jean-Claude Chermann, and Luc Montagnier."
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "David Paterson, American lawyer and politician, 55th Governor of New York"
+      "year": "1996",
+      "text": "Brian Kelly, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Tony Goldwyn, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Road Dogg, American wrestler, producer, and soldier"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Ivan Boesky, American stock trader (born 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1776",
+      "text": "Simon Fraser, American-Canadian fur trader and explorer (died 1862)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Susan Cowsill, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Busta Rhymes, American rapper, producer, and actor"
     },
     {
       "type": "Birth",
       "year": "1981",
-      "text": "Lindsay Taylor, American basketball player"
+      "text": "Mark Winterbottom, Australian race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "Civil rights: The Supreme Court of the United States rules in Romer v. Evans against a law that would have prevented any city, town or county in the state of Colorado from taking any legislative, executive, or judicial action to protect the rights of gays and lesbians."
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Russo-Ukrainian war: Russia claims full control of the Ukrainian city of Mariupol after a nearly three-month siege."
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Arthur Gelb, American journalist, author, and critic (born 1924)"
     },
     {
       "type": "Birth",
-      "year": "1875",
-      "text": "Hendrik Offerhaus, Dutch Olympic rower and head of the Dutch Red Cross (died 1953)"
+      "year": "1944",
+      "text": "Dietrich Mateschitz, Austrian businessman, co-founder of Red Bull GmbH (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "In the United States, the Armed Forces Security Agency, the predecessor to the National Security Agency, is established."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Ken Boyer, American baseball player and manager (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Michael Wills, English politician, British Minister of Justice"
+    },
+    {
+      "type": "Death",
+      "year": "2000",
+      "text": "Yevgeny Khrunov, Russian colonel, engineer, and astronaut (born 1933)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Allison Amend, American novelist and short story writer"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Gardner Fox, American author (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Constance Towers, American actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: The state of Kentucky proclaims its neutrality, which will last until September 3 when Confederate forces enter the state."
     },
     {
       "type": "Birth",
@@ -38,23 +133,48 @@
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Michael Diamond, Australian shooter"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Constance Towers, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Susan Cowsill, American singer-songwriter"
+      "year": "1981",
+      "text": "Rachel Platten, American singer and songwriter"
     },
     {
       "type": "Event",
-      "year": "491",
-      "text": "Empress Ariadne marries Anastasius I. The widowed Augusta is able to choose her successor for the Byzantine throne, after Zeno (late emperor) dies of dysentery."
+      "year": "1861",
+      "text": "American Civil War: The State of North Carolina secedes from the Union."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Cate Campbell, Malawian-Australian swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Patrick Ewing Jr., American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "Capital Airlines Flight 300 collides in mid-air with a United States Air Force Lockheed T-33 over Brunswick, Maryland, killing 12."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Thomas Akers, American colonel, engineer, and astronaut"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "The Mecklenburg Declaration of Independence is allegedly signed in Charlotte, North Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The Holocaust: The first prisoners arrive at a new concentration camp at Auschwitz."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Dan Abrams, American journalist and author"
     },
     {
       "type": "Event",
@@ -67,109 +187,9 @@
       "text": "Ignatius of Loyola is seriously wounded in the Battle of Pampeluna."
     },
     {
-      "type": "Event",
-      "year": "1949",
-      "text": "In the United States, the Armed Forces Security Agency, the predecessor to the National Security Agency, is established."
-    },
-    {
       "type": "Birth",
-      "year": "1941",
-      "text": "John Strasberg, American actor and teacher"
-    },
-    {
-      "type": "Event",
-      "year": "1902",
-      "text": "Cuba gains independence from the United States. Tomás Estrada Palma becomes the country's first President."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Brian Kelly, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Douglas Preston, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "David Hedison, American actor (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Patrick Ewing Jr., American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "In Operation Redwing, the first United States airborne hydrogen bomb is dropped over Bikini Atoll in the Pacific Ocean."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Civil rights: The Supreme Court of the United States rules in Romer v. Evans against a law that would have prevented any city, town or county in the state of Colorado from taking any legislative, executive, or judicial action to protect the rights of gays and lesbians."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Hao Wang, Chinese-American logician, philosopher, and mathematician (died 1995)"
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Hamilton Jordan, American politician, 8th White House Chief of Staff (born 1944)"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "U.S. President Abraham Lincoln signs the Homestead Act into law, opening eighty-four million acres (340,000 km2) of public land to settlers."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Jane Wiedlin, American singer-songwriter, guitarist, and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "Napoleon Bonaparte leads his French troops into the Battle of Bautzen in Saxony, Germany, against the combined armies of Russia and Prussia. The battle ends the next day with a French victory."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Shorty Long, American singer-songwriter and producer (died 1969)"
-    },
-    {
-      "type": "Event",
-      "year": "1570",
-      "text": "Cartographer Abraham Ortelius issues Theatrum Orbis Terrarum, the first modern atlas."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Guy Favreau, Canadian lawyer, judge, and politician, 28th Canadian Minister of Justice (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Raymond Chrétien, Canadian lawyer and diplomat, Canadian Ambassador to the United States"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "In the Chuknagar massacre, Pakistani forces massacre thousands, mostly Bengali Hindus."
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "Russo-Ukrainian war: Russia claims full control of the Ukrainian city of Mariupol after a nearly three-month siege."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: The State of North Carolina secedes from the Union."
+      "year": "1915",
+      "text": "Joff Ellen, Australian comedian and actor (died 1999)"
     },
     {
       "type": "Birth",
@@ -177,54 +197,14 @@
       "text": "Steve George, American keyboard player and songwriter"
     },
     {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Ware Bottom Church: In the Virginia Bermuda Hundred campaign, 10,000 troops fight in this Confederate victory."
-    },
-    {
-      "type": "Event",
-      "year": "1882",
-      "text": "The Triple Alliance between the German Empire, Austria-Hungary and the Kingdom of Italy is formed."
-    },
-    {
       "type": "Birth",
       "year": "1908",
       "text": "James Stewart, American actor (died 1997)"
     },
     {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Nathan Long, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Tony Stewart, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Anthony Zerbe, American actor"
-    },
-    {
       "type": "Event",
-      "year": "942",
-      "text": "A Magyar raiding army defeats forces of the Muslim frontier state of Fraxinetum."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "First publications of the discovery of the HIV virus that causes AIDS in the journal Science by a team of French scientists including Françoise Barré-Sinoussi, Jean-Claude Chermann, and Luc Montagnier."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Austin Kearns, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "794",
-      "text": "While visiting the royal Mercian court at Sutton Walls with a view to marrying princess Ælfthryth, King Æthelberht II of East Anglia is taken captive and beheaded."
+      "year": "1873",
+      "text": "Levi Strauss and Jacob Davis receive a U.S. patent for blue jeans with copper rivets."
     },
     {
       "type": "Event",
@@ -233,73 +213,93 @@
     },
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Francis Raymond Fosberg, American botanist and author (died 1993)"
+      "year": "1919",
+      "text": "George Gobel, American comedian (died 1991)"
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "David Chavchavadze, English-American CIA officer and author (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Mike Crapo, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Malcolm Nokes, English hammer and discus thrower (died 1986)"
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Randy Savage, American wrestler and actor (born 1952)"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "The Holocaust: The first prisoners arrive at a new concentration camp at Auschwitz."
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Aleksandr Deyneka, Russian painter and sculptor (died 1969)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Siosia Vave, Australian-Tongan rugby league player"
-    },
-    {
-      "type": "Event",
       "year": "1958",
-      "text": "Capital Airlines Flight 300 collides in mid-air with a United States Air Force Lockheed T-33 over Brunswick, Maryland, killing 12."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Timothy Olyphant, American actor and producer"
+      "text": "Ron Reagan, American journalist and radio host"
     },
     {
       "type": "Event",
-      "year": "1775",
-      "text": "The Mecklenburg Declaration of Independence is allegedly signed in Charlotte, North Carolina."
-    },
-    {
-      "type": "Birth",
-      "year": "1851",
-      "text": "Emile Berliner, German-American inventor, invented the Gramophone record (died 1929)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Dave Hill, American golfer (died 2011)"
+      "year": "1882",
+      "text": "The Triple Alliance between the German Empire, Austria-Hungary and the Kingdom of Italy is formed."
     },
     {
       "type": "Event",
-      "year": "1873",
-      "text": "Levi Strauss and Jacob Davis receive a U.S. patent for blue jeans with copper rivets."
+      "year": "1864",
+      "text": "American Civil War: Battle of Ware Bottom Church: In the Virginia Bermuda Hundred campaign, 10,000 troops fight in this Confederate victory."
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "Napoleon Bonaparte leads his French troops into the Battle of Bautzen in Saxony, Germany, against the combined armies of Russia and Prussia. The battle ends the next day with a French victory."
+    },
+    {
+      "type": "Event",
+      "year": "942",
+      "text": "A Magyar raiding army defeats forces of the Muslim frontier state of Fraxinetum."
+    },
+    {
+      "type": "Event",
+      "year": "794",
+      "text": "While visiting the royal Mercian court at Sutton Walls with a view to marrying princess Ælfthryth, King Æthelberht II of East Anglia is taken captive and beheaded."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Hal Newhouser, American baseball player and scout (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Anthony Zerbe, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Keith Grennan, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Angela Goethals, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1854",
+      "text": "George Prendergast, Australian politician, 28th Premier of Victoria (died 1937)"
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "In Operation Redwing, the first United States airborne hydrogen bomb is dropped over Bikini Atoll in the Pacific Ocean."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "U.S. President Abraham Lincoln signs the Homestead Act into law, opening eighty-four million acres (340,000 km2) of public land to settlers."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Giuseppe Siri, Italian cardinal (died 1989)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "In the Chuknagar massacre, Pakistani forces massacre thousands, mostly Bengali Hindus."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Alexei Tupolev, Russian engineer, designed the Tupolev Tu-144 (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Douglas Preston, American journalist and author"
     }
   ],
   "source": "Wikipedia"
