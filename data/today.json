@@ -2,109 +2,29 @@
   "date": "2026-05-21",
   "items": [
     {
-      "type": "Event",
-      "year": "1894",
-      "text": "The Manchester Ship Canal in the United Kingdom is officially opened by Queen Victoria, who later knights its designer Sir Edward Leader Williams."
-    },
-    {
       "type": "Birth",
-      "year": "1917",
-      "text": "Raymond Burr, Canadian-American actor and director (died 1993)"
+      "year": "1970",
+      "text": "Dorsey Levens, American football player and sportscaster"
     },
     {
       "type": "Event",
-      "year": "1725",
-      "text": "The Order of St. Alexander Nevsky is instituted in Russia by Empress Catherine I. It would later be discontinued and then reinstated by the Soviet government in 1942 as the Order of Alexander Nevsky."
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Great Atlanta fire of 1917 causes $5.5 million in damages, destroying some 300 acres including 2,000 homes, businesses and churches, displacing about 10,000 people but leading to only one fatality (due to heart attack)."
+      "year": "878",
+      "text": "Syracuse, Sicily, is captured by the Muslim Aghlabids after a nine-month siege."
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Robert Welch, English silversmith and industrial designer (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "Lawrence, Kansas is captured and burned by pro-slavery forces."
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "The tallest roller coaster in the world, Kingda Ka opens at Six Flags Great Adventure in Jackson Township, New Jersey."
+      "year": "1974",
+      "text": "Havoc, American rapper and producer"
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "James Clancy Phelan, Australian author and academic"
+      "year": "1933",
+      "text": "Yevgeny Minayev, Russian weightlifter (died 1993)"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Myra, American singer and actress"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "French Taubira law is enacted, officially recognizing the Atlantic slave trade and slavery as crimes against humanity."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Beau Falloon, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Lynn Williams, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "John Curtis Gowan, American psychologist and academic (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Twenty-nine people are killed in the Yuba City bus disaster in Martinez, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Janet Dailey, American author and entrepreneur (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Union Army succeeds in closing off the last escape route from Port Hudson, Louisiana, in preparation for the coming siege."
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Deborah Berger, American outsider artist (born 1956)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Marc Ribot, American guitarist and composer"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Falklands War: A British amphibious assault during Operation Sutton leads to the Battle of San Carlos."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Noel Fielding, English comedian, musician and television presenter"
+      "year": "1996",
+      "text": "Josh Allen, American football player"
     },
     {
       "type": "Event",
@@ -113,18 +33,63 @@
     },
     {
       "type": "Event",
+      "year": "1934",
+      "text": "Oskaloosa, Iowa, becomes the first municipality in the United States to fingerprint all of its citizens."
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "John Curtis Gowan, American psychologist and academic (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Janet Dailey, American author and entrepreneur (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Brad Arthur, Australian rugby league coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "James Bailey, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "The opera Doktor Faust, unfinished when composer Ferruccio Busoni died, is premiered in Dresden."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "The tallest roller coaster in the world, Kingda Ka opens at Six Flags Great Adventure in Jackson Township, New Jersey."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Great Atlanta fire of 1917 causes $5.5 million in damages, destroying some 300 acres including 2,000 homes, businesses and churches, displacing about 10,000 people but leading to only one fatality (due to heart attack)."
+    },
+    {
+      "type": "Event",
       "year": "1703",
       "text": "Daniel Defoe is imprisoned on charges of seditious libel."
     },
     {
-      "type": "Death",
-      "year": "2012",
-      "text": "Constantine of Irinoupolis, Metropolitan of Irinoupolis and Primate of the Ukrainian Orthodox Church of the USA (born 1936)"
+      "type": "Event",
+      "year": "1976",
+      "text": "Twenty-nine people are killed in the Yuba City bus disaster in Martinez, California."
     },
     {
       "type": "Event",
-      "year": "1904",
-      "text": "The Fédération Internationale de Football Association (FIFA) is founded in Paris."
+      "year": "2012",
+      "text": "A bus accident near Himara, Albania kills 13 people and injures 21 others."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "JAXA, the Japan Aerospace Exploration Agency, launches the solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would make a Venus flyby late in the year."
     },
     {
       "type": "Birth",
@@ -133,143 +98,8 @@
     },
     {
       "type": "Event",
-      "year": "1864",
-      "text": "Russia declares an end to the Russo-Circassian War and many Circassians are forced into exile. The day is designated the Circassian Day of Mourning."
-    },
-    {
-      "type": "Event",
-      "year": "293",
-      "text": "Roman Emperors Diocletian and Maximian appoint Galerius as Caesar to Diocletian, beginning the period of four rulers known as the Tetrarchy."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "Oskaloosa, Iowa, becomes the first municipality in the United States to fingerprint all of its citizens."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Péter Zwack, Hungarian businessman and diplomat (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "878",
-      "text": "Syracuse, Sicily, is captured by the Muslim Aghlabids after a nine-month siege."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "American civil rights movement: Alabama Governor John Malcolm Patterson declares martial law in an attempt to restore order after race riots break out."
-    },
-    {
-      "type": "Event",
-      "year": "1349",
-      "text": "Dušan's Code, the constitution of the Serbian Empire, is enacted by Dušan the Mighty."
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "The first day of the Battle of Aspern-Essling between the Austrian army led by Archduke Charles and the French army led by Napoleon I of France sees the French attack across the Danube held."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of Spotsylvania Court House ends."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Sada Abe is arrested after wandering the streets of Tokyo for days with her dead lover's severed genitals in her handbag. Her story soon becomes one of Japan's most notorious scandals."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "George LeMieux, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history."
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Jassem Al-Kharafi, Kuwaiti businessman and politician, 8th Kuwaiti Speaker of the National Assembly (born 1940)"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Nineteen people are killed in a plane crash in Wilkes-Barre, Pennsylvania."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Richard Hatch, American actor, writer, and producer (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "The Italian government releases the membership list of Propaganda Due, an illegal pseudo-Masonic lodge that was implicated in numerous Italian crimes and mysteries."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "James Bailey, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Lee \"Shot\" Williams, American singer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Larance Marable, American drummer (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "A bus accident near Himara, Albania kills 13 people and injures 21 others."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Max B, American rapper and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Robert Creeley, American novelist, essayist, and poet (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jeffrey Dahmer, American serial killer (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1403",
-      "text": "Henry III of Castile sends Ruy González de Clavijo as ambassador to Timur to discuss the possibility of an alliance between Timur and Castile against the Ottoman Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Karen Khachanov, Russian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Andrei Sakharov, Russian physicist and academic, Nobel Prize laureate (died 1989)"
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "The opera Doktor Faust, unfinished when composer Ferruccio Busoni died, is premiered in Dresden."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Anthony Mundine, Australian rugby league player and boxer"
+      "year": "1856",
+      "text": "Lawrence, Kansas is captured and burned by pro-slavery forces."
     },
     {
       "type": "Event",
@@ -278,8 +108,48 @@
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Matt Wieters, American baseball player"
+      "year": "1978",
+      "text": "Max B, American rapper and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1725",
+      "text": "The Order of St. Alexander Nevsky is instituted in Russia by Empress Catherine I. It would later be discontinued and then reinstated by the Soviet government in 1942 as the Order of Alexander Nevsky."
+    },
+    {
+      "type": "Event",
+      "year": "1349",
+      "text": "Dušan's Code, the constitution of the Serbian Empire, is enacted by Dušan the Mighty."
+    },
+    {
+      "type": "Death",
+      "year": "1995",
+      "text": "Les Aspin, American captain and politician, 18th United States Secretary of Defense (born 1938)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Olivia Olson, American singer and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1403",
+      "text": "Henry III of Castile sends Ruy González de Clavijo as ambassador to Timur to discuss the possibility of an alliance between Timur and Castile against the Ottoman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Robert Welch, English silversmith and industrial designer (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Falklands War: A British amphibious assault during Operation Sutton leads to the Battle of San Carlos."
     },
     {
       "type": "Event",
@@ -288,18 +158,148 @@
     },
     {
       "type": "Event",
+      "year": "2000",
+      "text": "Nineteen people are killed in a plane crash in Wilkes-Barre, Pennsylvania."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: The Union Army succeeds in closing off the last escape route from Port Hudson, Louisiana, in preparation for the coming siege."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Malcolm Fraser, Australian politician, 22nd Prime Minister of Australia (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "293",
+      "text": "Roman Emperors Diocletian and Maximian appoint Galerius as Caesar to Diocletian, beginning the period of four rulers known as the Tetrarchy."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Craig Anderson, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Tinus Osendarp, Dutch sprinter and police officer (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "The first day of the Battle of Aspern-Essling between the Austrian army led by Archduke Charles and the French army led by Napoleon I of France sees the French attack across the Danube held."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "French Taubira law is enacted, officially recognizing the Atlantic slave trade and slavery as crimes against humanity."
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Battle of Spotsylvania Court House ends."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Tommy Bryant, American bassist (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Earl Averill, American baseball player (died 1983)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Sada Abe is arrested after wandering the streets of Tokyo for days with her dead lover's severed genitals in her handbag. Her story soon becomes one of Japan's most notorious scandals."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Josh Hamilton, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1862",
+      "text": "John Drew, Irish-American actor and manager (born 1827)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "The Italian government releases the membership list of Propaganda Due, an illegal pseudo-Masonic lodge that was implicated in numerous Italian crimes and mysteries."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Dennis Day, American singer and actor (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Kevin Quinn, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Ara Parseghian, American football player and coach (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Stan Lynch, American drummer, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Bobby Cox, American baseball player and manager (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Péter Zwack, Hungarian businessman and diplomat (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "The Manchester Ship Canal in the United Kingdom is officially opened by Queen Victoria, who later knights its designer Sir Edward Leader Williams."
+    },
+    {
+      "type": "Event",
       "year": "1758",
       "text": "Ten-year-old Mary Campbell is abducted in Pennsylvania by Lenape during the French and Indian War. She is returned six and a half years later."
     },
     {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Georgiy Gongadze, Georgian-Ukrainian journalist and director (died 2000)"
+      "type": "Event",
+      "year": "1961",
+      "text": "American civil rights movement: Alabama Governor John Malcolm Patterson declares martial law in an attempt to restore order after race riots break out."
     },
     {
       "type": "Event",
-      "year": "2010",
-      "text": "JAXA, the Japan Aerospace Exploration Agency, launches the solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would make a Venus flyby late in the year."
+      "year": "1904",
+      "text": "The Fédération Internationale de Football Association (FIFA) is founded in Paris."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Howard Morris, American actor and director (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Briana Banks, German-American porn actress and model"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "Russia declares an end to the Russo-Circassian War and many Circassians are forced into exile. The day is designated the Circassian Day of Mourning."
     }
   ],
   "source": "Wikipedia"
