@@ -1,305 +1,305 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "items": [
     {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Stan Lynch, American drummer, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Larance Marable, American drummer (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "George P. Mitchell, American businessman and philanthropist (died 2013)"
+      "type": "Event",
+      "year": "1927",
+      "text": "Near Xining, China, an 8.3 magnitude earthquake causes 200,000 deaths in one of the world's most destructive earthquakes."
     },
     {
       "type": "Event",
-      "year": "2005",
-      "text": "The tallest roller coaster in the world, Kingda Ka opens at Six Flags Great Adventure in Jackson Township, New Jersey."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Josh Hamilton, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Mengistu Haile Mariam, president of the People's Democratic Republic of Ethiopia, flees Ethiopia, effectively bringing the Ethiopian Civil War to an end."
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Nineteen people are killed in a plane crash in Wilkes-Barre, Pennsylvania."
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "The opera Doktor Faust, unfinished when composer Ferruccio Busoni died, is premiered in Dresden."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Andrei Sakharov, Russian physicist and academic, Nobel Prize laureate (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Joe Camilleri, Maltese-Australian singer-songwriter and saxophonist"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Günter Blobel, Polish-American biologist and academic, Nobel Prize laureate (died 2018)"
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Stephen Elliott, American actor (born 1918)"
-    },
-    {
-      "type": "Event",
-      "year": "1881",
-      "text": "The American Red Cross is established by Clara Barton in Dansville, New York."
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "The opening of the Ninth Street Show, otherwise known as the 9th Street Art Exhibition: A gathering of a number of notable artists, and the stepping-out of the post war New York avant-garde, collectively known as the New York School."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Bill Champlin, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1725",
-      "text": "The Order of St. Alexander Nevsky is instituted in Russia by Empress Catherine I. It would later be discontinued and then reinstated by the Soviet government in 1942 as the Order of Alexander Nevsky."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Pete Sandoval, Salvadoran-American drummer"
-    },
-    {
-      "type": "Death",
-      "year": "1894",
-      "text": "August Kundt, German physicist and academic (born 1839)"
-    },
-    {
-      "type": "Event",
-      "year": "293",
-      "text": "Roman Emperors Diocletian and Maximian appoint Galerius as Caesar to Diocletian, beginning the period of four rulers known as the Tetrarchy."
-    },
-    {
-      "type": "Event",
-      "year": "1703",
-      "text": "Daniel Defoe is imprisoned on charges of seditious libel."
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "A bus accident near Himara, Albania kills 13 people and injures 21 others."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Twenty-nine people are killed in the Yuba City bus disaster in Martinez, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "George LeMieux, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Falklands War: A British amphibious assault during Operation Sutton leads to the Battle of San Carlos."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Jefery Levy, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Robert Montgomery, American actor and director (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "The Italian government releases the membership list of Propaganda Due, an illegal pseudo-Masonic lodge that was implicated in numerous Italian crimes and mysteries."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Kevin Quinn, American actor and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "American civil rights movement: Alabama Governor John Malcolm Patterson declares martial law in an attempt to restore order after race riots break out."
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "JAXA, the Japan Aerospace Exploration Agency, launches the solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would make a Venus flyby late in the year."
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Tinus Osendarp, Dutch sprinter and police officer (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Matthias Ungemach, German-Australian rower"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "The first day of the Battle of Aspern-Essling between the Austrian army led by Archduke Charles and the French army led by Napoleon I of France sees the French attack across the Danube held."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Allan McKeown, English-American screenwriter and producer (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "The Manchester Ship Canal in the United Kingdom is officially opened by Queen Victoria, who later knights its designer Sir Edward Leader Williams."
-    },
-    {
-      "type": "Event",
-      "year": "1349",
-      "text": "Dušan's Code, the constitution of the Serbian Empire, is enacted by Dušan the Mighty."
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Fred Gladding, American baseball player and coach (born 1936)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Scott Smith, American mixed martial artist"
-    },
-    {
-      "type": "Event",
-      "year": "1403",
-      "text": "Henry III of Castile sends Ruy González de Clavijo as ambassador to Timur to discuss the possibility of an alliance between Timur and Castile against the Ottoman Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "Lawrence, Kansas is captured and burned by pro-slavery forces."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of Spotsylvania Court House ends."
-    },
-    {
-      "type": "Event",
-      "year": "878",
-      "text": "Syracuse, Sicily, is captured by the Muslim Aghlabids after a nine-month siege."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Dorothy Hewett, Australian feminist poet, novelist and playwright (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "Russia declares an end to the Russo-Circassian War and many Circassians are forced into exile. The day is designated the Circassian Day of Mourning."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Great Atlanta fire of 1917 causes $5.5 million in damages, destroying some 300 acres including 2,000 homes, businesses and churches, displacing about 10,000 people but leading to only one fatality (due to heart attack)."
+      "year": "1906",
+      "text": "The Wright brothers are granted U.S. patent number 821,393 for their \"Flying-Machine\"."
     },
     {
       "type": "Birth",
       "year": "1928",
-      "text": "Tom Donahue, American radio host and producer (died 1975)"
+      "text": "T. Boone Pickens, American businessman (died 2019)"
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Union Army succeeds in closing off the last escape route from Port Hudson, Louisiana, in preparation for the coming siege."
+      "year": "2011",
+      "text": "An EF5 tornado strikes Joplin, Missouri, killing 158 people and wreaking $2.8 billion in damages, the costliest and seventh-deadliest single tornado in U.S. history."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "U.S. President Lyndon B. Johnson launches his Great Society program."
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Marcie Blane, American singer"
+      "year": "1994",
+      "text": "Florian Luger, Austrian male model"
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Thurl Ravenscroft, American voice actor and singer (born 1914)"
     },
     {
       "type": "Event",
-      "year": "1904",
-      "text": "The Fédération Internationale de Football Association (FIFA) is founded in Paris."
+      "year": "1958",
+      "text": "The 1958 riots in Ceylon become a watershed in the race relations of various ethnic communities of Sri Lanka. The total deaths are estimated at 300, mostly Tamils."
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "Nicky Hayden, American motorcycle racer (born 1981)"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Marc Ribot, American guitarist and composer"
+      "year": "1876",
+      "text": "Julius Klinger, Austrian painter and illustrator (died 1942)"
     },
     {
       "type": "Event",
-      "year": "2001",
-      "text": "French Taubira law is enacted, officially recognizing the Atlantic slave trade and slavery as crimes against humanity."
+      "year": "1963",
+      "text": "Greek left-wing politician Grigoris Lambrakis is clubbed over the head, causing his death five days later."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Civil rights movement: A jury in Birmingham, Alabama, convicts former Ku Klux Klan member Bobby Frank Cherry of the 1963 murder of four girls in the 16th Street Baptist Church bombing."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Billy Rayner, Australian rugby league player (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Christian Vande Velde, American cyclist"
+    },
+    {
+      "type": "Event",
+      "year": "1766",
+      "text": "A large earthquake causes heavy damage and loss of life in Istanbul and the Marmara region."
+    },
+    {
+      "type": "Event",
+      "year": "1762",
+      "text": "Trevi Fountain is officially completed and inaugurated in Rome."
+    },
+    {
+      "type": "Event",
+      "year": "1762",
+      "text": "Sweden and Prussia sign the Treaty of Hamburg."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Brody Stevens, American comedian and actor (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Bernard Shaw, American journalist (died 2022)"
+    },
+    {
+      "type": "Death",
+      "year": "1795",
+      "text": "Ewald Friedrich von Hertzberg, Prussian politician, Foreign Minister of Prussia (born 1725)"
+    },
+    {
+      "type": "Event",
+      "year": "1370",
+      "text": "Brussels massacre: An estimated 13 Jews are murdered and the rest of the Jewish community is banished from Brussels, Belgium, in an anti-Semitic attack, for allegedly desecrating consecrated Host."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Roger Brown, American basketball player (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "SS Savannah leaves port at Savannah, Georgia, United States, on a voyage to become the first steamship to cross the Atlantic Ocean."
     },
     {
       "type": "Event",
       "year": "2017",
-      "text": "Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum."
+      "text": "United States President Donald Trump visits the Church of the Holy Sepulchre in Jerusalem and becomes the first sitting U.S. president to visit the Western Wall."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "A U.S. federal judge rules that U.S. Secret Service agents can be compelled to testify before a grand jury concerning the Lewinsky scandal involving President Bill Clinton."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Union forces begin the Siege of Port Hudson which lasts 48 days, the longest siege in U.S. military history."
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Matt Wieters, American baseball player"
+      "year": "1959",
+      "text": "David Blatt, Israeli-American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "Lassen Peak erupts with a powerful force, the only volcano besides Mount St. Helens to erupt in the contiguous U.S. during the 20th century."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "George Andrew Olah, Hungarian-American chemist and academic, Nobel Prize laureate (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Emma Chamberlain, American internet personality"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "The nuclear-powered submarine USS Scorpion sinks with 99 men aboard, 400 nautical miles (740 km) southwest of the Azores."
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "On the second and last day of the Battle of Aspern-Essling (near Vienna, Austria), Napoleon I is defeated in a major battle for the first time in his career, and repelled by an enemy army for the first time in a decade."
     },
     {
       "type": "Birth",
       "year": "1902",
-      "text": "Marcel Breuer, Hungarian-American architect and academic, designed the Ameritrust Tower (died 1981)"
+      "text": "Al Simmons, American baseball player and coach (died 1956)"
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Lynn Williams, American soccer player"
+      "year": "1981",
+      "text": "Mark O'Meley, Australian rugby league player"
     },
     {
       "type": "Event",
+      "year": "1804",
+      "text": "The Lewis and Clark Expedition officially begins as the Corps of Discovery departs from St. Charles, Missouri."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "John Flanagan, Australian fantasy author (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Maggie Q, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Warwick Armstrong, Australian cricketer and journalist (died 1947)"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "L'Innovation department store in Brussels, Belgium, burns down, resulting in 323 dead or missing and 150 injured, the most devastating fire in Belgian history."
+    },
+    {
+      "type": "Birth",
       "year": "1934",
-      "text": "Oskaloosa, Iowa, becomes the first municipality in the United States to fingerprint all of its citizens."
+      "text": "Peter Nero, American pianist and conductor (died 2023)"
     },
     {
       "type": "Event",
-      "year": "1936",
-      "text": "Sada Abe is arrested after wandering the streets of Tokyo for days with her dead lover's severed genitals in her handbag. Her story soon becomes one of Japan's most notorious scandals."
+      "year": "1807",
+      "text": "A grand jury indicts former Vice President of the United States Aaron Burr on a charge of treason."
+    },
+    {
+      "type": "Event",
+      "year": "1872",
+      "text": "Reconstruction Era: President Ulysses S. Grant signs the Amnesty Act into law, restoring full civil and political rights to all but about 500 Confederate sympathizers."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Fusilier Lee Rigby is murdered by two Islamic extremists in Woolwich, Southeast London."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Continental Airlines Flight 11 crashes in Unionville, Missouri after bombs explode on board, killing 45."
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Forrest White, American businessman, co-founded the Music Man Company  (died 1994)"
+      "year": "1943",
+      "text": "Tommy John, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1758",
-      "text": "Ten-year-old Mary Campbell is abducted in Pennsylvania by Lenape during the French and Indian War. She is returned six and a half years later."
+      "year": "1849",
+      "text": "Future U.S. President Abraham Lincoln is issued a patent for an invention to lift boats, making him the only U.S. president to ever hold a patent."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "SpaceX COTS Demo Flight 2 launches a Dragon capsule on a Falcon 9 rocket in the first commercial flight to the International Space Station."
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "South Africa's government approves of racial separation in universities."
+    },
+    {
+      "type": "Event",
+      "year": "1856",
+      "text": "Congressman Preston Brooks of South Carolina severely beats Senator Charles Sumner of Massachusetts with a cane in the hall of the United States Senate for a speech Sumner had made regarding  Southerners and slavery."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Shuji Nakamura, Japanese-American physicist and engineer, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Sun Ra, American pianist, composer, bandleader, poet (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: After ten weeks, the Union Army's Red River Campaign ends in failure."
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Herbert C. Brown, English-American chemist and academic, Nobel Prize laureate (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "The Associated Press is formed in New York City as a non-profit news cooperative."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Hergé, Belgian author and illustrator (died 1983)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "A worldwide trade embargo against Haiti goes into effect to punish its military rulers for not reinstating the country's ousted elected leader, Jean-Bertrand Aristide."
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Ceylon adopts a new constitution, becoming a republic and changing its name to Sri Lanka."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Bob Dyer, American-Australian radio and television host (died 1984)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Paul Vanden Boeynants, Belgian businessman and politician, 55th Prime Minister of Belgium (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Bob Katter, Australian politician"
     }
   ],
   "source": "Wikipedia"
