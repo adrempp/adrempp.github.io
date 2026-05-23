@@ -2,19 +2,79 @@
   "date": "2026-05-23",
   "items": [
     {
-      "type": "Event",
-      "year": "1911",
-      "text": "The New York Public Library is dedicated."
+      "type": "Birth",
+      "year": "1960",
+      "text": "Linden Ashby, American actor"
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Katharina Althaus, German ski jumper"
+      "year": "1910",
+      "text": "Franz Kline, American painter and academic  (died 1962)"
+    },
+    {
+      "type": "Birth",
+      "year": "1840",
+      "text": "George Throssell, Irish-Australian politician, 2nd Premier of Western Australia (died 1910)"
+    },
+    {
+      "type": "Birth",
+      "year": "1820",
+      "text": "James Buchanan Eads, American engineer, designed the Eads Bridge (died 1887)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Morgan Pressel, American golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Philip Selway, English musician"
     },
     {
       "type": "Event",
-      "year": "2013",
-      "text": "A freeway bridge carrying Interstate 5 over the Skagit River collapses in Mount Vernon, Washington."
+      "year": "1609",
+      "text": "Official ratification of the Second Virginia Charter takes place."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "The Shining, the psychological horror film directed by Stanley Kubrick, is premiered on 10 screens in New York City and Los Angeles on the Memorial Day weekend."
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Anne Meara, American actress, comedian and playwright (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Irving Millman, American virologist and microbiologist (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "South Carolina became the eighth state to ratify the United States Constitution."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Humphrey Lyttelton, British jazz musician and broadcaster (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "At least 30 people are killed as a result of floods and tornadoes in Texas, Oklahoma, and northern Mexico."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Buck Showalter, American baseball player, coach, and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "The U.S. Navy submarine USS Squalus sinks off the coast of New Hampshire during a test dive, causing the death of 24 sailors and two civilian technicians. The remaining 32 sailors and one civilian naval architect are rescued the following day."
     },
     {
       "type": "Event",
@@ -23,13 +83,23 @@
     },
     {
       "type": "Event",
-      "year": "1900",
-      "text": "American Civil War: Sergeant William Harvey Carney is awarded the Medal of Honor for his heroism in the Assault on the Battery Wagner in 1863."
+      "year": "2002",
+      "text": "The \"55 parties\" clause of the Kyoto Protocol is reached after its ratification by Iceland."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jane Kenyon, American poet and translator (died 1995)"
     },
     {
       "type": "Event",
-      "year": "1829",
-      "text": "Accordion patent granted to Cyrill Demian in Vienna, Austrian Empire."
+      "year": "2006",
+      "text": "Alaskan stratovolcano Mount Cleveland erupts."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Maxwell, American singer-songwriter and producer"
     },
     {
       "type": "Event",
@@ -37,9 +107,89 @@
       "text": "Báb: A merchant of Shiraz announces that he is a Prophet and founds a religious movement. He is considered to be a forerunner of the Baháʼí Faith."
     },
     {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Ulla Jacobsson, Swedish-Austrian actress (died 1982)"
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "Mexican–American War: President Mariano Paredes of Mexico unofficially declares war on the United States."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Ryanair Flight 4978 is forced to land by Belarusian authorities to detain dissident journalist Roman Protasevich."
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "The New York Public Library is dedicated."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "The General German Workers' Association, a precursor of the modern Social Democratic Party of Germany, is founded in Leipzig, Kingdom of Saxony."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Anatoly Karpov, Russian chess player"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "American Civil War: Sergeant William Harvey Carney is awarded the Medal of Honor for his heroism in the Assault on the Battery Wagner in 1863."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Heinrich Himmler, head of the Schutzstaffel, commits suicide while in Allied custody."
+    },
+    {
+      "type": "Birth",
+      "year": "1864",
+      "text": "William O'Connor, American fencer (died 1939)"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Anthony Albanese of the Australian Labor Party is sworn in as the 31st Prime Minister of Australia after winning the 2022 Australian federal election, ending 9 years of conservative rule."
+    },
+    {
+      "type": "Birth",
+      "year": "1844",
+      "text": "ʻAbdu'l-Bahá, Iranian religious leader (died 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "S. Donald Stookey, American physicist and chemist, invented CorningWare (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Eight bombings are carried out by the Islamic State of Iraq and Syria in Jableh and Tartus, coastline cities in Syria. One hundred eighty-four people are killed and at least 200 people injured."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "A freeway bridge carrying Interstate 5 over the Skagit River collapses in Mount Vernon, Washington."
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Aaron Donald, American football player"
+    },
+    {
       "type": "Event",
       "year": "2014",
       "text": "Seven people, including the perpetrator, are killed and another 14 injured in a killing spree near the campus of University of California, Santa Barbara."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Scott Raynor, American drummer"
     },
     {
       "type": "Event",
@@ -48,18 +198,73 @@
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "Thomas C. Wasson, the US Consul-General, is assassinated in Jerusalem, Israel."
+      "year": "1960",
+      "text": "A tsunami caused by an earthquake in Chile the previous day kills 61 people in Hilo, Hawaii."
     },
     {
       "type": "Event",
-      "year": "1846",
-      "text": "Mexican–American War: President Mariano Paredes of Mexico unofficially declares war on the United States."
+      "year": "2008",
+      "text": "The International Court of Justice (ICJ) awards Middle Rocks to Malaysia and Pedra Branca (Pulau Batu Puteh) to Singapore, ending a 29-year territorial dispute between the two countries."
+    },
+    {
+      "type": "Event",
+      "year": "1829",
+      "text": "Accordion patent granted to Cyrill Demian in Vienna, Austrian Empire."
     },
     {
       "type": "Death",
-      "year": "2015",
-      "text": "Aleksey Mozgovoy, Pro-Russian Ukrainian separatist leader (born 1975)"
+      "year": "2012",
+      "text": "Paul Fussell, American historian, author, and academic (born 1924)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Gustaf Nilsson, Swedish footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Guinevere Turner, American actress and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Richard Chase, American serial killer (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Bray Wyatt, American wrestler (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "A Tupolev Tu-144 crashes near the Russian town of Yegoryevsk, killing two."
+    },
+    {
+      "type": "Birth",
+      "year": "1824",
+      "text": "Ambrose Burnside, American general and politician, 30th Governor of Rhode Island (died 1881)"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Nikolai Vekšin, Estonian-Russian sailor and captain (died 1951)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "David Graham, Australian golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Michel Colombier, French-American composer and conductor (died 2004)"
+    },
+    {
+      "type": "Death",
+      "year": "1937",
+      "text": "John D. Rockefeller, American businessman and philanthropist, founded the Standard Oil Company and Rockefeller University (born 1839)"
     },
     {
       "type": "Event",
@@ -72,89 +277,9 @@
       "text": "Joshua Lederberg, American biologist and geneticist, Nobel Prize laureate (died 2008)"
     },
     {
-      "type": "Birth",
-      "year": "1844",
-      "text": "ʻAbdu'l-Bahá, Iranian religious leader (died 1921)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Scott O'Dell, American soldier, journalist, and author (died 1989)"
-    },
-    {
       "type": "Event",
-      "year": "2008",
-      "text": "The International Court of Justice (ICJ) awards Middle Rocks to Malaysia and Pedra Branca (Pulau Batu Puteh) to Singapore, ending a 29-year territorial dispute between the two countries."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Buck Showalter, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Felix Steiner, Russian-German SS officer (died 1966)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Heinrich Himmler, head of the Schutzstaffel, commits suicide while in Allied custody."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Aileen Hernandez, American union organizer and civil rights activist (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Eight bombings are carried out by the Islamic State of Iraq and Syria in Jableh and Tartus, coastline cities in Syria. One hundred eighty-four people are killed and at least 200 people injured."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Aaron Donald, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "At least 30 people are killed as a result of floods and tornadoes in Texas, Oklahoma, and northern Mexico."
-    },
-    {
-      "type": "Birth",
-      "year": "1875",
-      "text": "Alfred P. Sloan, American businessman and philanthropist (died 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Alice Tait, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "The \"55 parties\" clause of the Kyoto Protocol is reached after its ratification by Iceland."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Ursula Plassnik, Austrian politician and diplomat, Foreign Minister of Austria"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "A tsunami caused by an earthquake in Chile the previous day kills 61 people in Hilo, Hawaii."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Teymuraz Gabashvili, Russian tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "South Carolina became the eighth state to ratify the United States Constitution."
+      "year": "1932",
+      "text": "In Brazil, four students are shot and killed during a manifestation against the Brazilian dictator Getúlio Vargas, which resulted in the outbreak of the Constitutionalist Revolution several weeks later."
     },
     {
       "type": "Event",
@@ -162,144 +287,19 @@
       "text": "Seventy-eight people are killed when Aviogenex Flight 130 crashes on approach to Rijeka Airport in present-day Rijeka, Croatia (then the Socialist Federal Republic of Yugoslavia)."
     },
     {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Jewel, American singer-songwriter, guitarist, actress, and poet"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Humphrey Lyttelton, British jazz musician and broadcaster (died 2008)"
-    },
-    {
       "type": "Event",
-      "year": "1980",
-      "text": "The Shining, the psychological horror film directed by Stanley Kubrick, is premiered on 10 screens in New York City and Los Angeles on the Memorial Day weekend."
+      "year": "1948",
+      "text": "Thomas C. Wasson, the US Consul-General, is assassinated in Jerusalem, Israel."
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Ruben Zadkovich, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "Anthony Albanese of the Australian Labor Party is sworn in as the 31st Prime Minister of Australia after winning the 2022 Australian federal election, ending 9 years of conservative rule."
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Paul Fussell, American historian, author, and academic (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Gracie Otto, Australian actress, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Franz Kline, American painter and academic  (died 1962)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Melissa McBride, American actress"
-    },
-    {
-      "type": "Death",
-      "year": "1999",
-      "text": "Owen Hart, Canadian-American wrestler (born 1965)"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Nikolai Vekšin, Estonian-Russian sailor and captain (died 1951)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Ryanair Flight 4978 is forced to land by Belarusian authorities to detain dissident journalist Roman Protasevich."
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Jeralean Talley, American super-centenarian (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Chris Gethard, American actor, comedian and writer"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "The U.S. Navy submarine USS Squalus sinks off the coast of New Hampshire during a test dive, causing the death of 24 sailors and two civilian technicians. The remaining 32 sailors and one civilian naval architect are rescued the following day."
-    },
-    {
-      "type": "Birth",
-      "year": "1864",
-      "text": "William O'Connor, American fencer (died 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Rosemary Clooney, American singer and actress (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Margaret Wise Brown, American author and educator (died 1952)"
-    },
-    {
-      "type": "Event",
-      "year": "1932",
-      "text": "In Brazil, four students are shot and killed during a manifestation against the Brazilian dictator Getúlio Vargas, which resulted in the outbreak of the Constitutionalist Revolution several weeks later."
-    },
-    {
-      "type": "Event",
-      "year": "1609",
-      "text": "Official ratification of the Second Virginia Charter takes place."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Marvelous Marvin Hagler, American boxer and actor (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Alaskan stratovolcano Mount Cleveland erupts."
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "A Tupolev Tu-144 crashes near the Russian town of Yegoryevsk, killing two."
+      "year": "1979",
+      "text": "Rasual Butler, American basketball player (died 2018)"
     },
     {
       "type": "Event",
       "year": "1934",
       "text": "American bank robbers Bonnie and Clyde are ambushed by police and killed in Bienville Parish, Louisiana."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Artie Shaw, American clarinet player, composer, and bandleader (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Daniel DiNardo, American cardinal"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "The General German Workers' Association, a precursor of the modern Social Democratic Party of Germany, is founded in Leipzig, Kingdom of Saxony."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Edward Norton Lorenz, American mathematician and meteorologist (died 2008)"
     }
   ],
   "source": "Wikipedia"
