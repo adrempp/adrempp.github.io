@@ -3,13 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Cookie Gilchrist, American football player (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Rusi Surti, Indian cricketer (died 2013)"
+      "year": "2002",
+      "text": "Cam Ward, American football player"
     },
     {
       "type": "Event",
@@ -18,43 +13,8 @@
     },
     {
       "type": "Death",
-      "year": "2024",
-      "text": "Richard M. Sherman, American songwriter (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Bo Dallas, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The SpaceX Dragon 1 becomes the first commercial spacecraft to successfully rendezvous and berth with the International Space Station."
-    },
-    {
-      "type": "Birth",
-      "year": "1889",
-      "text": "Igor Sikorsky, Russian-American aircraft designer, founded Sikorsky Aircraft (died 1972)"
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Spanish Civil War: The bombing of Alicante kills 313 people."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "NASA's Phoenix lander touches down in the Green Valley region of Mars to search for environments suitable for water and microbial life."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "Jesse Owens of Ohio State University breaks three world records and ties a fourth at the Big Ten Conference Track and Field Championships in Ann Arbor, Michigan."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Molly Sims, American model and actress"
+      "year": "2021",
+      "text": "John Warner, American attorney and politician (born 1927)"
     },
     {
       "type": "Event",
@@ -67,39 +27,29 @@
       "text": "John Spenkelink, a convicted murderer, is executed in Florida; he is the first person to be executed in the state after the reintroduction of capital punishment in 1976."
     },
     {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Brian Urlacher, American football player"
+      "type": "Event",
+      "year": "1935",
+      "text": "Jesse Owens of Ohio State University breaks three world records and ties a fourth at the Big Ten Conference Track and Field Championships in Ann Arbor, Michigan."
     },
     {
       "type": "Event",
-      "year": "1819",
-      "text": "The Argentine Constitution of 1819 is promulgated."
+      "year": "1938",
+      "text": "Spanish Civil War: The bombing of Alicante kills 313 people."
     },
     {
       "type": "Event",
-      "year": "1961",
-      "text": "Apollo program: U.S. President John F. Kennedy announces, before a special joint session of the U.S. Congress, that the United States \"should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to the Earth.\""
+      "year": "1738",
+      "text": "A treaty between Pennsylvania and Maryland ends the Conojocular War with settlement of a boundary dispute and exchange of prisoners."
     },
     {
       "type": "Event",
-      "year": "2018",
-      "text": "Ireland votes to repeal the Eighth Amendment of their constitution that prohibits abortion in all but a few cases, choosing to replace it with the Thirty-sixth Amendment of the Constitution of Ireland."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Brec Bassinger, American actress"
+      "year": "1973",
+      "text": "In protest against the dictatorship in Greece, the captain and crew on Greek naval destroyer Velos mutiny and refuse to return to Greece, instead anchoring at Fiumicino, Italy."
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Kitty Kallen, American singer (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Nuclear weapons testing: At the Nevada Test Site, the United States conducts its first and only nuclear artillery test."
+      "year": "1939",
+      "text": "Dixie Carter, American actress and singer (died 2010)"
     },
     {
       "type": "Event",
@@ -108,38 +58,8 @@
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "David A. Hargrave, American game designer, created Arduin (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Hal David, American songwriter and composer (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "In Mobile, Alabama, around 300 people are killed when an ordnance depot explodes."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Frank Klepacki, American drummer and composer"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "The first public television station in the United States officially begins broadcasting as KUHT from the campus of the University of Houston."
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "In the United States, a night-time F5 tornado strikes the small city of Udall, Kansas as part of a larger outbreak across the Great Plains, killing 80 and injuring 273. It is the deadliest tornado ever to occur in the state and the 23rd deadliest in the U.S."
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "Scopes Trial: John T. Scopes is indicted for teaching human evolution in Tennessee."
+      "year": "1993",
+      "text": "Norman Powell, American basketball player"
     },
     {
       "type": "Event",
@@ -147,149 +67,19 @@
       "text": "Ming general Wu Sangui forms an alliance with the invading Manchus and opens the gates of the Great Wall of China at Shanhaiguan pass, letting the Manchus through towards the capital Beijing."
     },
     {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Georgy Grechko, Russian engineer and astronaut (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Larry Hogan, American politician, 62nd Governor of Maryland"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Giuseppe Tosi, Italian discus thrower (died 1981)"
-    },
-    {
       "type": "Event",
-      "year": "1798",
-      "text": "United Irishmen Rebellion: Battle of Carlow begins; executions of suspected rebels at Carnew and at Dunlavin Green take place."
+      "year": "1955",
+      "text": "In the United States, a night-time F5 tornado strikes the small city of Udall, Kansas as part of a larger outbreak across the Great Plains, killing 80 and injuring 273. It is the deadliest tornado ever to occur in the state and the 23rd deadliest in the U.S."
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Klaus Meine, German rock singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Suspected Maoist rebels kill at least 28 people and injure 32 others in an attack on a convoy of Indian National Congress politicians in Chhattisgarh, India."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "The House of Commons of the United Kingdom passes the Home Rule Bill for devolution in Ireland."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "David Shaw, Canadian-American ice hockey player"
+      "year": "1994",
+      "text": "Aly Raisman, American gymnast"
     },
     {
       "type": "Birth",
       "year": "1979",
       "text": "Carlos Bocanegra, American footballer and executive"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Daz Dillinger, American rapper and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Jeffrey Bewkes, American businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Jamie Kennedy, American actor, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1787",
-      "text": "After a delay of 11 days, the United States Constitutional Convention formally convenes in Philadelphia after a quorum of seven states is secured."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Barry Windsor-Smith, English painter and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1833",
-      "text": "The Chilean Constitution of 1833 is promulgated."
-    },
-    {
-      "type": "Death",
-      "year": "2019",
-      "text": "Claus von Bülow, Danish-British socialite (born 1926)"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The Walt Disney Company cartoon Three Little Pigs premieres at Radio City Music Hall, featuring the hit song \"Who's Afraid of the Big Bad Wolf?\""
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Ryan Gallant, American skateboarder"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Karen Valentine, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Joetha Collier, a recent high school graduate, is killed in a shooting in Drew, Mississippi, attracting extensive attention from the media and civil rights activists."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Star Wars (retroactively titled Star Wars: Episode IV – A New Hope) is released in US theaters."
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Chloé Lukasiak, American actress and dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1738",
-      "text": "A treaty between Pennsylvania and Maryland ends the Conojocular War with settlement of a boundary dispute and exchange of prisoners."
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Ernest \"Pop\" Stoneman, American country musician (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Don Liddle, American baseball player (died 2000)"
-    },
-    {
-      "type": "Death",
-      "year": "1919",
-      "text": "Madam C. J. Walker, American businesswoman and philanthropist, founded the Madame C.J. Walker Manufacturing Company (born 1867)"
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "Chuquisaca Revolution: Patriot revolt in Chuquisaca (modern-day Sucre) against the Spanish Empire, sparking the Latin American wars of independence."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "In protest against the dictatorship in Greece, the captain and crew on Greek naval destroyer Velos mutiny and refuse to return to Greece, instead anchoring at Fiumicino, Italy."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The United States House of Representatives releases the Cox Report which details China's nuclear espionage against the U.S. over the prior two decades."
     },
     {
       "type": "Event",
@@ -298,8 +88,218 @@
     },
     {
       "type": "Birth",
-      "year": "2002",
-      "text": "Cam Ward, American football player"
+      "year": "1970",
+      "text": "Octavia Spencer, American actress and author[a]"
+    },
+    {
+      "type": "Event",
+      "year": "1798",
+      "text": "United Irishmen Rebellion: Battle of Carlow begins; executions of suspected rebels at Carnew and at Dunlavin Green take place."
+    },
+    {
+      "type": "Event",
+      "year": "1833",
+      "text": "The Chilean Constitution of 1833 is promulgated."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "NASA's Phoenix lander touches down in the Green Valley region of Mars to search for environments suitable for water and microbial life."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Robert Ludlum, American soldier and author (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Klaus Meine, German rock singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Bo Dallas, American wrestler"
+    },
+    {
+      "type": "Death",
+      "year": "1912",
+      "text": "Austin Lane Crothers, American educator and politician, 46th Governor of Maryland (born 1860)"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Nuclear weapons testing: At the Nevada Test Site, the United States conducts its first and only nuclear artillery test."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Karen Valentine, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Ernest \"Pop\" Stoneman, American country musician (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Roman Reigns, American football player and wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Star Wars (retroactively titled Star Wars: Episode IV – A New Hope) is released in US theaters."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Ireland votes to repeal the Eighth Amendment of their constitution that prohibits abortion in all but a few cases, choosing to replace it with the Thirty-sixth Amendment of the Constitution of Ireland."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Frank Klepacki, American drummer and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Dorothy Straight, American children's author"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "The House of Commons of the United Kingdom passes the Home Rule Bill for devolution in Ireland."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Jeffrey Bewkes, American businessman"
+    },
+    {
+      "type": "Death",
+      "year": "2021",
+      "text": "Lois Ehlert, American author and illustrator (born 1934)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "The United States House of Representatives releases the Cox Report which details China's nuclear espionage against the U.S. over the prior two decades."
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "Chuquisaca Revolution: Patriot revolt in Chuquisaca (modern-day Sucre) against the Spanish Empire, sparking the Latin American wars of independence."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Eve Ensler, American playwright and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Jason Kubel, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Gene Tunney, American boxer and soldier (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Suspected Maoist rebels kill at least 28 people and injure 32 others in an attack on a convoy of Indian National Congress politicians in Chhattisgarh, India."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "The first public television station in the United States officially begins broadcasting as KUHT from the campus of the University of Houston."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Geoffrey Robinson, English businessman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Molly Sims, American model and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Robert MacPherson, American mathematician and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "Scopes Trial: John T. Scopes is indicted for teaching human evolution in Tennessee."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Sarah Marshall, English-American actress (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "In Mobile, Alabama, around 300 people are killed when an ordnance depot explodes."
+    },
+    {
+      "type": "Event",
+      "year": "1787",
+      "text": "After a delay of 11 days, the United States Constitutional Convention formally convenes in Philadelphia after a quorum of seven states is secured."
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "The Argentine Constitution of 1819 is promulgated."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Alberto Del Rio, Mexican-American mixed martial artist and wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Nikita Filatov, Russian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "George Hickenlooper, American director and producer (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Joetha Collier, a recent high school graduate, is killed in a shooting in Drew, Mississippi, attracting extensive attention from the media and civil rights activists."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Theodore Roethke, American poet (died 1963)"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Tom T. Hall, American singer-songwriter and guitarist (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "The Walt Disney Company cartoon Three Little Pigs premieres at Radio City Music Hall, featuring the hit song \"Who's Afraid of the Big Bad Wolf?\""
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "The SpaceX Dragon 1 becomes the first commercial spacecraft to successfully rendezvous and berth with the International Space Station."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Apollo program: U.S. President John F. Kennedy announces, before a special joint session of the U.S. Congress, that the United States \"should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to the Earth.\""
     }
   ],
   "source": "Wikipedia"
