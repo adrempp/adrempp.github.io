@@ -2,49 +2,74 @@
   "date": "2026-06-02",
   "items": [
     {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Lydia Lunch, American singer-songwriter, guitarist, and actress"
+      "type": "Event",
+      "year": "1955",
+      "text": "The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948."
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Maryka Holtzhausen, South African netball player"
+      "year": "1997",
+      "text": "Scott Wozniak, American YouTuber"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Olga Bondarenko, Russian runner"
+      "year": "1967",
+      "text": "Mike Stanton, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Gary Bettman, American sports executive, 14th Commissioner of the National Hockey League"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Chris Higgins, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "U.S. President Calvin Coolidge signs the Indian Citizenship Act into law, granting citizenship to all Native Americans born within the territorial limits of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Michael Steele, American singer-songwriter and bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "John Schlee, American golfer (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1098",
+      "text": "First Crusade: The first Siege of Antioch ends as Crusader forces take the city; the second siege began five days later."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Abby Wambach, American soccer player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Steve Waugh, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "Alfred Deakin becomes Prime Minister of Australia for the third time."
     },
     {
       "type": "Death",
-      "year": "2001",
-      "text": "Imogene Coca, American actress and comedian (born 1908)"
+      "year": "1983",
+      "text": "Ray Stehr, Australian rugby league player and coach (born 1913)"
     },
     {
       "type": "Event",
-      "year": "1990",
-      "text": "The Lower Ohio Valley tornado outbreak spawns 66 confirmed tornadoes in Illinois, Indiana, Kentucky, and Ohio, killing 12."
-    },
-    {
-      "type": "Event",
-      "year": "260",
-      "text": "Sima Zhao's regicide of Cao Mao: The figurehead Wei emperor Cao Mao personally leads an attempt to oust his regent, Sima Zhao; the attempted coup is crushed and the emperor killed."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Johnny Weissmuller, Hungarian-American swimmer and actor (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Hector Dyer, American sprinter (died 1990)"
+      "year": "1763",
+      "text": "Pontiac's Rebellion: At what is now Mackinaw City, Michigan, Chippewas capture Fort Michilimackinac by diverting the garrison's attention with a game of lacrosse, then chasing a ball into the fort."
     },
     {
       "type": "Birth",
@@ -53,73 +78,63 @@
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Gary Bettman, American sports executive, 14th Commissioner of the National Hockey League"
+      "year": "1987",
+      "text": "Matthew Koma, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Earl Boykins, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Lex Luger, American wrestler and football player"
     },
     {
       "type": "Event",
+      "year": "1692",
+      "text": "Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she is found guilty the same day and hanged on June 10."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Frank Rich, American journalist and critic"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "In Denver, Timothy McVeigh is convicted on 11 counts of murder and conspiracy for his role in the 1995 bombing of the Alfred P. Murrah Federal Building in Oklahoma City, in which 168 people died. He was executed four years later."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "B Real, American rapper and actor"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Following a request from Ankara, the United Nations officially changes the name of the Republic of Turkey in the organization from what was previously known as \"Turkey\" to \"Türkiye\"."
+    },
+    {
+      "type": "Birth",
       "year": "1955",
-      "text": "The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948."
+      "text": "Nandan Nilekani, Indian businessman, co-founded Infosys"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Awkwafina, American actress, rapper, and comedian"
+      "year": "1965",
+      "text": "Mark Waugh, Australian cricketer and journalist"
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Tex Schramm, American businessman (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "1608",
-      "text": "The Colony of Virginia gets a charter, extending borders from \"sea to sea\"."
+      "year": "1918",
+      "text": "Kathryn Tucker Windham, American journalist and author (died 2011)"
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Wayne Brady, American actor, comedian, game show host, and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Dennis Haysbert, American actor and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "Alfred Deakin becomes Prime Minister of Australia for the third time."
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Dorothy West, American journalist and author (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1835",
-      "text": "Pope Pius X (died 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Gata Kamsky, Russian-American chess player"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Edwin Way Teale, American environmentalist and photographer (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Catherine King, Australian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "U.S. President Calvin Coolidge signs the Indian Citizenship Act into law, granting citizenship to all Native Americans born within the territorial limits of the United States."
+      "year": "1929",
+      "text": "Ken McGregor, Australian tennis player (died 2007)"
     },
     {
       "type": "Event",
@@ -133,78 +148,43 @@
     },
     {
       "type": "Birth",
+      "year": "1959",
+      "text": "Lydia Lunch, American singer-songwriter, guitarist, and actress"
+    },
+    {
+      "type": "Birth",
       "year": "1921",
-      "text": "Sigmund Sternberg, Hungarian-English businessman and philanthropist (died 2016)"
+      "text": "Ernie Royal, American trumpet player (died 1983)"
     },
     {
       "type": "Birth",
-      "year": "1774",
-      "text": "William Lawson, English-Australian explorer and politician (died 1850)"
+      "year": "1968",
+      "text": "Lester Green, American comedian and actor"
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Dane Rampe, Australian rules footballer"
+      "year": "1899",
+      "text": "Edwin Way Teale, American environmentalist and photographer (died 1980)"
     },
     {
       "type": "Event",
-      "year": "1692",
-      "text": "Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she is found guilty the same day and hanged on June 10."
+      "year": "1967",
+      "text": "Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States."
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Frank G. Clement, American lawyer and politician, 41st Governor of Tennessee (died 1969)"
+      "year": "1987",
+      "text": "Maryka Holtzhausen, South African netball player"
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Morena Baccarin, Brazilian-American actress"
+      "year": "1891",
+      "text": "Thurman Arnold, American lawyer and judge (died 1969)"
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Ruth Atkinson, Canadian-American illustrator (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Yolande Donlan, American-English actress (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Michael Steele, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Freddie Blassie, American wrestler and manager (born 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Kysaiah Pickett, Australian rules footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Frank Rich, American journalist and critic"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Norton Juster, American architect, author, and academic (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Kyle Petty, American race car driver and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "Walter Egan, American golfer (died 1971)"
+      "year": "1988",
+      "text": "Awkwafina, American actress, rapper, and comedian"
     },
     {
       "type": "Event",
@@ -213,18 +193,23 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Stacy Keach, American actor"
+      "year": "1966",
+      "text": "Catherine King, Australian politician"
     },
     {
-      "type": "Event",
-      "year": "2022",
-      "text": "Following a request from Ankara, the United Nations officially changes the name of the Republic of Turkey in the organization from what was previously known as \"Turkey\" to \"Türkiye\"."
+      "type": "Birth",
+      "year": "1921",
+      "text": "Betty Freeman, American photographer and philanthropist (died 2009)"
     },
     {
-      "type": "Event",
-      "year": "1848",
-      "text": "The Slavic Congress opens in Prague."
+      "type": "Birth",
+      "year": "1937",
+      "text": "Jimmy Jones, American singer-songwriter (died 2012)"
+    },
+    {
+      "type": "Death",
+      "year": "1996",
+      "text": "John Alton, Hungarian-American cinematographer and director (born 1901)"
     },
     {
       "type": "Birth",
@@ -233,13 +218,43 @@
     },
     {
       "type": "Event",
-      "year": "1997",
-      "text": "In Denver, Timothy McVeigh is convicted on 11 counts of murder and conspiracy for his role in the 1995 bombing of the Alfred P. Murrah Federal Building in Oklahoma City, in which 168 people died. He was executed four years later."
+      "year": "1848",
+      "text": "The Slavic Congress opens in Prague."
+    },
+    {
+      "type": "Birth",
+      "year": "1739",
+      "text": "Jabez Bowen, American colonel and politician, 45th Deputy Governor of Rhode Island (died 1815)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Dane Rampe, Australian rules footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Bonnie Newman, American businesswoman and politician"
     },
     {
       "type": "Death",
-      "year": "1970",
-      "text": "Giuseppe Ungaretti, Italian soldier, journalist, and academic (born 1888)"
+      "year": "2012",
+      "text": "LeRoy Ellis, American basketball player (born 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Campbell Graham, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Todd Carney, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Nikki Cox, American actress"
     },
     {
       "type": "Event",
@@ -247,39 +262,24 @@
       "text": "Anarchists simultaneously set off bombs in eight separate U.S. cities."
     },
     {
+      "type": "Event",
+      "year": "1966",
+      "text": "Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world."
+    },
+    {
       "type": "Birth",
       "year": "1937",
-      "text": "Jimmy Jones, American singer-songwriter (died 2012)"
+      "text": "Sally Kellerman, American actress (died 2022)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Milo O'Shea, Irish-American actor (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Lloyd Shapley, American mathematician and economist, Nobel Prize laureate (died 2016)"
+      "year": "2002",
+      "text": "Madison Hu, American actress"
     },
     {
       "type": "Event",
-      "year": "1967",
-      "text": "Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1098",
-      "text": "First Crusade: The first Siege of Antioch ends as Crusader forces take the city; the second siege began five days later."
-    },
-    {
-      "type": "Event",
-      "year": "1763",
-      "text": "Pontiac's Rebellion: At what is now Mackinaw City, Michigan, Chippewas capture Fort Michilimackinac by diverting the garrison's attention with a game of lacrosse, then chasing a ball into the fort."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Ken McGregor, Australian tennis player (died 2007)"
+      "year": "1990",
+      "text": "The Lower Ohio Valley tornado outbreak spawns 66 confirmed tornadoes in Illinois, Indiana, Kentucky, and Ohio, killing 12."
     },
     {
       "type": "Event",
@@ -287,19 +287,19 @@
       "text": "Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh."
     },
     {
-      "type": "Birth",
-      "year": "1773",
-      "text": "John Randolph of Roanoke, American planter and politician, 8th United States Ambassador to Russia (died 1833)"
+      "type": "Event",
+      "year": "1608",
+      "text": "The Colony of Virginia gets a charter, extending borders from \"sea to sea\"."
+    },
+    {
+      "type": "Event",
+      "year": "260",
+      "text": "Sima Zhao's regicide of Cao Mao: The figurehead Wei emperor Cao Mao personally leads an attempt to oust his regent, Sima Zhao; the attempted coup is crushed and the emperor killed."
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Earl Boykins, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Jerry Mathers, American actor"
+      "year": "1968",
+      "text": "Merril Bainbridge, Australian singer-songwriter"
     }
   ],
   "source": "Wikipedia"
