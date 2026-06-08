@@ -1,305 +1,305 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-08",
   "items": [
     {
+      "type": "Birth",
+      "year": "1921",
+      "text": "LeRoy Neiman, American painter (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Gustavo Gutiérrez, Peruvian philosopher, theologian and priest (died 2024)"
+    },
+    {
       "type": "Event",
-      "year": "1942",
-      "text": "World War II: The United States Navy's victory over the Imperial Japanese Navy at the Battle of Midway is a major turning point in the Pacific Theater. All four Japanese fleet carriers taking part—Akagi, Kaga, Sōryū and Hiryū—are sunk, as is the heavy cruiser Mikuma. The American carrier Yorktown and the destroyer Hammann are also sunk."
+      "year": "1984",
+      "text": "Homosexuality is decriminalized in the Australian state of New South Wales."
+    },
+    {
+      "type": "Event",
+      "year": "218",
+      "text": "Battle of Antioch: With the support of the Syrian legions, Elagabalus defeats the forces of emperor Macrinus."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "GP Express Airlines Flight 861 crashes on approach to Anniston Regional Airport in Anniston, Alabama, killing three."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Maxine Kumin, American poet and author (died 2014)"
+      "year": "1899",
+      "text": "Noel Wien, Founded Wien Air Alaska (died 1977)"
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Albert II, King of the Belgians from 9 August 1993 to 21 July 2013 (abdicated)"
+      "year": "1916",
+      "text": "Richard Pousette-Dart, American painter and educator (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The first Venus Transit in well over a century takes place, the previous one being in 1882."
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Virginia Oliver (died 2026), American lobster fisherwoman"
-    },
-    {
-      "type": "Death",
-      "year": "1955",
-      "text": "Max Meldrum, Scottish-Australian painter and educator (born 1875)"
-    },
-    {
-      "type": "Death",
-      "year": "1976",
-      "text": "J. Paul Getty, American businessman, founded the Getty Oil Company (born 1892)"
+      "year": "1945",
+      "text": "Steven Fromholz, American singer-songwriter, producer, and poet (died 2014)"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Paul Giamatti, American actor and producer"
+      "year": "1970",
+      "text": "Steve Renouf, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "James Earl Ray, the man who assassinated Martin Luther King Jr. is arrested at London Heathrow Airport."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "John W. Campbell, American journalist and author (died 1971)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Tony Rice, American bluegrass musician (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "An F5 tornado hits Beecher, Michigan, United States, killing 116, injuring 844, and destroying 340 homes."
     },
     {
       "type": "Birth",
       "year": "1944",
-      "text": "Phillip Allen Sharp, American molecular biologist; 1993 Nobel Prize laureate (Physiology or Medicine)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Arlene Harris, American entrepreneur, inventor, investor and policy advocate"
+      "text": "Boz Scaggs, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
-      "year": "1844",
-      "text": "The Young Men's Christian Association (YMCA) is founded in London."
-    },
-    {
-      "type": "Birth",
-      "year": "1756",
-      "text": "John Trumbull, American soldier and painter (died 1843)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Bill Dickey, American baseball player and manager who played in eight World Series, winning seven (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "DeAndre Hopkins, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "The grave of \"Wolfgang Gerhard\" is opened in Embu, Brazil; the exhumed remains are later proven to be those of Josef Mengele, Auschwitz's \"Angel of Death\"; Mengele is thought to have drowned while swimming in February 1979."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Levi Stubbs, American soul singer; lead vocalist of the Four Tops (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Jimmie Lunceford, American saxophonist and bandleader (died 1947)"
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "War of 1812: In the Battle of Stoney Creek, considered a critical turning point in the war, a British force of 700 under John Vincent defeats an American force twice its size under William Winder and John Chandler."
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Syrian civil war: The Battle of Raqqa begins with an offensive by the Syrian Democratic Forces (SDF) to capture the city from the Islamic State of Iraq and the Levant (ISIL)."
-    },
-    {
-      "type": "Birth",
-      "year": "1436",
-      "text": "Regiomontanus (Johannes Müller von Königsberg), German mathematician, astronomer, and bishop (died 1476)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Richard Smalley, American chemist and academic, Nobel Prize laureate in 1996 for chemistry (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "New Deal: U.S. President Franklin D. Roosevelt signs the Securities Exchange Act of 1934 into law, establishing the U.S. Securities and Exchange Commission."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Alexander Cockburn, Scottish-born American journalist (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Keith Daniel Williams, American convicted rapist and triple murderer (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1523",
-      "text": "Swedish regent Gustav Vasa is elected King of Sweden and, marking a symbolic end to the Kalmar Union, 6 June is designated the country's national day."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Julian Green, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Vic Mensa, American rapper and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Manfred Sakel, Ukrainian-American psychiatrist and physician (died 1957)"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "Governor Davis H. Waite orders the Colorado state militia to protect and support the miners engaged in the Cripple Creek miners' strike."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Chief Minister of Sabah Faud Stephens, Peter Joinud Mojuntin, and several other politicians are killed in a plane crash near Kota Kinabalu International Airport in Malaysia."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Sam Simon, American director, producer and screenwriter; co-developer of The Simpsons (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Jacobus Johannes Fouché, South African politician, 2nd State President of South Africa (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "World War I: U.S. Marine Corps suffers its worst single day's casualties during the Battle of Belleau Wood while attempting to recapture the wood at Château-Thierry (the losses are exceeded at the Battle of Tarawa in November 1943)."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category."
-    },
-    {
-      "type": "Birth",
-      "year": "1850",
-      "text": "Karl Ferdinand Braun, German-American physicist and academic, Nobel Prize laureate in 1909 for physics (died 1918)"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "The first drive-in theater opens in Camden, New Jersey."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Grant Green, American jazz guitarist and composer (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Holly Near, American folk singer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "David Scott, American colonel, engineer, and astronaut who was the commander of Apollo 15"
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "Aleksandr Lyapunov, Russian mathematician and physicist (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Becky Sauerbrunn, American footballer; twice a winner of the FIFA Women's World Cup, also an Olympic gold medallist"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phantom II of the United States Marine Corps over the San Gabriel Mountains, killing 50."
-    },
-    {
-      "type": "Death",
-      "year": "863",
-      "text": "Abu Musa Utamish, vizier to the Abbasid Caliphate"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "The eruption of Novarupta in Alaska begins. It is the largest volcanic eruption of the 20th century."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Pete Hegseth, American author, political commentator and 29th United States Secretary of Defense"
-    },
-    {
-      "type": "Birth",
-      "year": "1799",
-      "text": "Alexander Pushkin, Russian author and poet (died 1837)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Anthony Rendon, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1654",
-      "text": "Swedish Queen Christina abdicates her throne in favour of her cousin Charles Gustav and converts to Catholicism."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Uncle Kracker, American musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Italo Balbo, Italian air marshal and fascist politician who played a key role in developing Mussolini's air force (died 1940)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Steve Vai, American musician"
+      "year": "1867",
+      "text": "Coronation of Franz Joseph as King of Hungary following the Austro-Hungarian compromise (Ausgleich)."
     },
     {
       "type": "Event",
       "year": "1862",
-      "text": "American Civil War: The First Battle of Memphis, a naval engagement fought on the Mississippi River, results in the capture of Memphis, Tennessee by Union forces from the Confederates."
+      "text": "American Civil War: A Confederate victory by forces under General Stonewall Jackson at the Battle of Cross Keys, along with the Battle of Port Republic the next day, prevents Union forces from reinforcing General George B. McClellan in his Peninsula campaign."
     },
     {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Tommie Smith, American sprinter and football player; winner of 1968 Olympic 200m gold medal in a world record time"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Klaus Tennstedt, German conductor (died 1998)"
+      "type": "Death",
+      "year": "2001",
+      "text": "Alex de Renzy, American director and producer (born 1935)"
     },
     {
       "type": "Event",
-      "year": "1882",
-      "text": "The Shewan forces of Menelik II of Ethiopia defeat the Gojjame army in the Battle of Embabo. The Shewans capture Negus Tekle Haymanot of Gojjam, and their victory leads to a Shewan hegemony over the territories south of the Abay River."
+      "year": "1967",
+      "text": "Six-Day War: The USS Liberty incident: A United States Navy spy ship is attacked by the Israeli Air Force and Navy, resulting in 34 deaths and 171 wounded."
     },
     {
       "type": "Event",
-      "year": "1505",
-      "text": "The M8.2–8.8 Lo Mustang earthquake affects Tibet and Nepal, causing severe damage in Kathmandu and parts of the Indo-Gangetic plain."
+      "year": "1191",
+      "text": "English forces under King Richard I arrive in Acre, joining the already arrived French and German forces of the Third Crusade."
     },
     {
       "type": "Event",
-      "year": "1944",
-      "text": "World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland."
+      "year": "536",
+      "text": "Election of pope Silverius following the death of pope Agapetus I earlier that year."
     },
     {
       "type": "Birth",
-      "year": "1867",
-      "text": "David T. Abercrombie, American entrepreneur and co-founder of lifestyle brand Abercrombie & Fitch (died 1931)"
+      "year": "1928",
+      "text": "Kate Wilhelm, American fiction author (Hugo Award winner) (died 2018)"
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Jaxon, American illustrator and publisher, co-founded Rip Off Press (born 1941)"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years, resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "George Orwell's dystopian novel Nineteen Eighty-Four is published in the United States"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Tennessee secedes from the Union."
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Richard Hickock, American convicted murderer (died 1965)"
+      "year": "1969",
+      "text": "David Barnhill, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Jan Frans De Boever, Belgian painter and illustrator (died 1949)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Lauren Burns, Australian taekwondo practitioner"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Bill Watrous, American comedian, actress, and television host (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Gwen Harwood, Australian poet and playwright (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: Continental Army attackers are driven back at the Battle of Trois-Rivières."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Barbara Bush, American wife of George H. W. Bush, 41st First Lady of the United States (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Kenneth Waltz, American political scientist and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "John R. Deane, Jr., American general (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "1971",
+      "text": "J. I. Rodale, American author and playwright (born 1898)"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "James Madison introduces twelve proposed amendments to the United States Constitution in Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1831",
+      "text": "Thomas J. Higgins, Canadian-American sergeant, Medal of Honor recipient (died 1917)"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "The United States Supreme Court rules in District of Columbia v. John R. Thompson Co. that restaurants in Washington, D.C., cannot refuse to serve black patrons."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Scott Adams, American author and illustrator (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "USS Barbero and the United States Postal Service attempt the delivery of mail via Missile Mail."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Gabby Giffords, American politician and advocate for ending gun violence in the United States"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Space Shuttle Atlantis is launched on STS-117 carrying two truss segments and solar arrays to the International Space Station."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Joan Rivers, American comedian, actress, and television host (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Kevin Farley, American screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Topeka, Kansas, United States is devastated by a tornado that registers as an \"F5\" on the Fujita scale, exceeding US$200 million in damages. Seventeen people are killed, over five hundred more injured, and thousands of homes damaged or destroyed."
+    },
+    {
+      "type": "Event",
+      "year": "1887",
+      "text": "Herman Hollerith applies for US patent #395,781 for the 'Art of Compiling Statistics', which was his punched card calculator."
     },
     {
       "type": "Event",
       "year": "2023",
-      "text": "Russo-Ukrainian war: The Kakhovka Dam is destroyed."
+      "text": "Former US President Donald Trump is indicted on federal charges of misusing classified information."
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Sandra Bernhard, American stand-up comic and actress"
+      "year": "1900",
+      "text": "Lena Baker, African-American maid executed for capital murder, later pardoned posthumously (died 1945)"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Downed U.S. Air Force pilot Captain Scott O'Grady is rescued by U.S. Marines in Bosnia."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Chuck Negron, American singer (Three Dog Night) (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Keith Gill, American financial analyst and investor"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Nancy Sinatra, American singer and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Jerry Stiller, American actor, comedian and producer (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "Theodore Roosevelt signs the Antiquities Act into law, authorizing the President to restrict the use of certain parcels of public land with historical or conservation value."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Robert Aumann, German-American mathematician and economist, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "An F-104 Starfighter collides with XB-70 Valkyrie prototype no. 2, destroying both aircraft during a photo shoot near Edwards Air Force Base. Joseph A. Walker, a NASA test pilot, and Carl Cross, a United States Air Force test pilot, are both killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Neil Baker, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: The Imperial Japanese Navy submarines I-21 and I-24 shell the Australian cities of Sydney and Newcastle."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Kanye West, American rapper, producer, director, and fashion designer"
     }
   ],
   "source": "Wikipedia"
