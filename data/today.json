@@ -3,28 +3,198 @@
   "items": [
     {
       "type": "Event",
-      "year": "1899",
-      "text": "New Richmond tornado: The ninth deadliest tornado in U.S. history kills 117 people and injures around 200."
+      "year": "1550",
+      "text": "The city of Helsinki, Finland (belonging to Sweden at the time) is founded by King Gustav I of Sweden."
     },
     {
-      "type": "Death",
-      "year": "2002",
-      "text": "Zena Sutherland, American reviewer of children's literature (born 1915)"
+      "type": "Event",
+      "year": "1898",
+      "text": "Philippine Declaration of Independence: General Emilio Aguinaldo declares the Philippines' independence from Spain."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "Massacre of Phocaea: Turkish irregulars slaughter 50 to 100 Greeks and expel thousands of others in an ethnic cleansing operation in the Ottoman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American War of Independence: British general Thomas Gage declares martial law in Massachusetts. The British offer a pardon to all colonists who lay down their arms. There would be only two exceptions to the amnesty: Samuel Adams and John Hancock, if captured, were to be hanged."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "Pope Pius XII canonises Dominic Savio, who was 14 years old at the time of his death, as a saint, making him at the time the youngest unmartyred saint in the Roman Catholic Church. In 2017, Francisco and Jacinta Marto, aged ten and nine at the time of their deaths, are declared as saints."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "A nuclear disarmament rally and concert is held in New York City."
+    },
+    {
+      "type": "Event",
+      "year": "910",
+      "text": "Battle of Augsburg: The Hungarians defeat the East Frankish army under King Louis the Child, using the famous feigned retreat tactic of the nomadic warriors."
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Sam Thaiday, Australian rugby league player and sportscaster"
+      "year": "1941",
+      "text": "Marv Albert, American sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "NAACP field secretary Medgar Evers is murdered in front of his home in Jackson, Mississippi, by Ku Klux Klan member Byron De La Beckwith during the civil rights movement."
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "The Virginia Declaration of Rights is adopted."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Don Toliver, American rapper and singer-songwriter"
     },
     {
       "type": "Birth",
       "year": "1930",
-      "text": "Donald Byrne, American chess player (died 1976)"
+      "text": "Jim Burke, Australian cricketer (died 1979)"
     },
     {
       "type": "Birth",
-      "year": "1905",
-      "text": "Ray Barbuti, American sprinter and football player (died 1988)"
+      "year": "1933",
+      "text": "Eddie Adams, American photographer and journalist (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "The first of the Indiana Jones film franchise, Raiders of the Lost Ark, is released in theaters."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Antal Festetics, Hungarian-Austrian biologist and zoologist"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Meredith Brooks, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "William Lundigan, American actor (died 1975)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Adrian Toole, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Len Wein, American comic book writer and editor (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "The United States Supreme Court in Loving v. Virginia declares all U.S. state laws that prohibit interracial marriage to be unconstitutional."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Frank Walker, Australian judge and politician, 41st Attorney General of New South Wales (born 1942)"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "In modern Russia's first democratic election, Boris Yeltsin is elected as the President of Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Russia Day: The parliament of the Russian Federation formally declares its sovereignty."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Ian Craig, Australian cricketer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1899",
+      "text": "New Richmond tornado: The ninth deadliest tornado in U.S. history kills 117 people and injures around 200."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Chips Moman, American record producer, guitarist, and songwriter (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "War of 1812: Capture of USRC Surveyor."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust: Germany liquidates the Jewish Ghetto in Brzeżany, Poland (now Berezhany, Ukraine). Around 1,180 Jews are led to the city's old Jewish graveyard and shot."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Hans Binder, Austrian racing driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Warwick Capper, Australian footballer, coach, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: Battle of Carentan: American paratroopers of the 101st Airborne Division secure the town of Carentan, Normandy, France."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Aivar Kuusmaa, Estonian basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1665",
+      "text": "Thomas Willett is appointed the first mayor of New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1418",
+      "text": "Armagnac–Burgundian Civil War: Parisians slaughter sympathizers of Bernard VII, Count of Armagnac, along with all prisoners, foreign bankers, and students and faculty of the College of Navarre."
+    },
+    {
+      "type": "Event",
+      "year": "1381",
+      "text": "Peasants' Revolt: In England, rebels assemble at Blackheath, just outside London."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Frances O'Connor, English-Australian actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "John Linnell, American singer-songwriter and musician"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "The Baseball Hall of Fame opens in Cooperstown, New York."
+    },
+    {
+      "type": "Death",
+      "year": "2019",
+      "text": "Sylvia Miles, American actress (born 1924)"
     },
     {
       "type": "Event",
@@ -33,18 +203,43 @@
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Marc Glanville, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Raúl Héctor Castro, Mexican-American politician and diplomat, 14th Governor of Arizona (died 2015)"
-    },
-    {
-      "type": "Birth",
       "year": "1979",
-      "text": "Earl Watson, American basketball player and coach"
+      "text": "Dallas Clark, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Vic Damone, American singer-songwriter and actor (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Priscilla Lane, American actress (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Stéphanie Szostak, French-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1830",
+      "text": "Beginning of the Invasion of Algiers: Thirty-four thousand French soldiers land 27 kilometers west of Algiers, at Sidi Ferruch."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The film Cleopatra, starring Elizabeth Taylor and Richard Burton, is released in US theaters. It was the most expensive film made at the time."
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "Austral Líneas Aéreas Flight 046, a McDonnell Douglas MD-81, crashes short of the runway at Libertador General José de San Martín Airport, killing all 22 people on board."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Elinor Ostrom, American  political scientist and economist, Nobel Prize laureate (born 1933)"
     },
     {
       "type": "Event",
@@ -54,82 +249,7 @@
     {
       "type": "Birth",
       "year": "1916",
-      "text": "Irwin Allen, American director and producer (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Jason Caffey, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "910",
-      "text": "Battle of Augsburg: The Hungarians defeat the East Frankish army under King Louis the Child, using the famous feigned retreat tactic of the nomadic warriors."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "Pope Pius XII canonises Dominic Savio, who was 14 years old at the time of his death, as a saint, making him at the time the youngest unmartyred saint in the Roman Catholic Church. In 2017, Francisco and Jacinta Marto, aged ten and nine at the time of their deaths, are declared as saints."
-    },
-    {
-      "type": "Birth",
-      "year": "1806",
-      "text": "John A. Roebling, German-American engineer, designed the Brooklyn Bridge (died 1869)"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "The first of the Indiana Jones film franchise, Raiders of the Lost Ark, is released in theaters."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Christie Jayaratnam Eliezer, Sri Lankan-Australian mathematician and academic (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "The Virginia Declaration of Rights is adopted."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The United States Supreme Court in Loving v. Virginia declares all U.S. state laws that prohibit interracial marriage to be unconstitutional."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Barry Michael Cooper, American writer, producer and director (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1519",
-      "text": "Cosimo I de' Medici, Grand Duke of Tuscany (died 1574)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Hans Binder, Austrian racing driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "David Rockefeller, American banker and businessman (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1550",
-      "text": "The city of Helsinki, Finland (belonging to Sweden at the time) is founded by King Gustav I of Sweden."
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "A nuclear disarmament rally and concert is held in New York City."
+      "text": "Raúl Héctor Castro, Mexican-American politician and diplomat, 14th Governor of Arizona (died 2015)"
     },
     {
       "type": "Birth",
@@ -137,144 +257,19 @@
       "text": "Bryan Alvarez, American wrestler and journalist"
     },
     {
-      "type": "Event",
-      "year": "1988",
-      "text": "Austral Líneas Aéreas Flight 046, a McDonnell Douglas MD-81, crashes short of the runway at Libertador General José de San Martín Airport, killing all 22 people on board."
-    },
-    {
-      "type": "Event",
-      "year": "1418",
-      "text": "Armagnac–Burgundian Civil War: Parisians slaughter sympathizers of Bernard VII, Count of Armagnac, along with all prisoners, foreign bankers, and students and faculty of the College of Navarre."
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "War of 1812: Capture of USRC Surveyor."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The film Cleopatra, starring Elizabeth Taylor and Richard Burton, is released in US theaters. It was the most expensive film made at the time."
+      "type": "Birth",
+      "year": "1939",
+      "text": "Frank McCloskey, American sergeant and politician (died 2003)"
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "William Lundigan, American actor (died 1975)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Frances O'Connor, English-Australian actress"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "NAACP field secretary Medgar Evers is murdered in front of his home in Jackson, Mississippi, by Ku Klux Klan member Byron De La Beckwith during the civil rights movement."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "In modern Russia's first democratic election, Boris Yeltsin is elected as the President of Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Georgia Louise Harris Brown, American architect (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "Cold War: At the Brandenburg Gate, U.S. President Ronald Reagan publicly challenges Mikhail Gorbachev to tear down the Berlin Wall."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: Battle of Carentan: American paratroopers of the 101st Airborne Division secure the town of Carentan, Normandy, France."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: Germany liquidates the Jewish Ghetto in Brzeżany, Poland (now Berezhany, Ukraine). Around 1,180 Jews are led to the city's old Jewish graveyard and shot."
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Russia Day: The parliament of the Russian Federation formally declares its sovereignty."
-    },
-    {
-      "type": "Event",
-      "year": "1830",
-      "text": "Beginning of the Invasion of Algiers: Thirty-four thousand French soldiers land 27 kilometers west of Algiers, at Sidi Ferruch."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Lucille Roybal-Allard, American politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Allie DiMeco, American actress and musician"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Elinor Ostrom, American  political scientist and economist, Nobel Prize laureate (born 1933)"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "Massacre of Phocaea: Turkish irregulars slaughter 50 to 100 Greeks and expel thousands of others in an ethnic cleansing operation in the Ottoman Empire."
+      "year": "1831",
+      "text": "Robert Herbert, English-Australian politician, 1st Premier of Queensland (died 1905)"
     },
     {
       "type": "Birth",
       "year": "1979",
-      "text": "Dallas Clark, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Egon Schiele, Austrian soldier and painter (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Ryan Klesko, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Uta Hagen, German-American actress and educator (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "Philippine Declaration of Independence: General Emilio Aguinaldo declares the Philippines' independence from Spain."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American War of Independence: British general Thomas Gage declares martial law in Massachusetts. The British offer a pardon to all colonists who lay down their arms. There would be only two exceptions to the amnesty: Samuel Adams and John Hancock, if captured, were to be hanged."
-    },
-    {
-      "type": "Event",
-      "year": "1665",
-      "text": "Thomas Willett is appointed the first mayor of New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Ron Lynch, Australian rugby league player and coach (died 2024)"
-    },
-    {
-      "type": "Death",
-      "year": "796",
-      "text": "Hisham I, Muslim emir (b. 757)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Roy Bull, Australian rugby league player (died 2004)"
+      "text": "Earl Watson, American basketball player and coach"
     },
     {
       "type": "Event",
@@ -283,18 +278,23 @@
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "The Baseball Hall of Fame opens in Cooperstown, New York."
+      "year": "1987",
+      "text": "Cold War: At the Brandenburg Gate, U.S. President Ronald Reagan publicly challenges Mikhail Gorbachev to tear down the Berlin Wall."
     },
     {
       "type": "Event",
-      "year": "1381",
-      "text": "Peasants' Revolt: In England, rebels assemble at Blackheath, just outside London."
+      "year": "2016",
+      "text": "Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Spencer Abraham, American academic and politician, 10th United States Secretary of Energy"
+      "year": "1939",
+      "text": "Ron Lynch, Australian rugby league player and coach (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Grete Dollitz, German-American guitarist and radio host (died 2013)"
     },
     {
       "type": "Event",
