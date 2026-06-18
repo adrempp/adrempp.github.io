@@ -2,124 +2,19 @@
   "date": "2026-06-18",
   "items": [
     {
-      "type": "Event",
-      "year": "2007",
-      "text": "The Charleston Sofa Super Store fire kills nine firefighters in Charleston, South Carolina."
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Stephen Thomas Erlewine, American author and music critic"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Ivonne Coll, Puerto Rican-American model and actress, Miss Puerto Rico 1967"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Brian Benben, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "George Mikan, American basketball player and coach (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Sean McMahon, Australian rugby player"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Britain, France and the United States announce that on June 21, the Deutsche Mark will be introduced in western Germany and West Berlin. Over the next six days, Communists increasingly restrict access to Berlin.[citation needed]"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Franco Modigliani, Italian-American economist and academic, Nobel Prize laureate (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day against the Portuguese in Goa."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Colin Brumby, Australian composer and conductor (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1053",
-      "text": "Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Clint Newton, American-Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Matt Parsons, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Richard Boone, American actor, singer, and director (died 1981)"
-    },
-    {
-      "type": "Death",
-      "year": "2018",
-      "text": "Big Van Vader (also known as Vader) American professional wrestler (born 1955)"
-    },
-    {
-      "type": "Event",
-      "year": "1887",
-      "text": "The Reinsurance Treaty between Germany and Russia is signed."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Brooks Firestone, American businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "David T. Lykken, American geneticist and academic (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "Charles Darwin receives a paper from Alfred Russel Wallace that includes nearly identical conclusions about evolution as Darwin's own, prompting Darwin to publish his theory."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Latrell Mitchell, Australian rugby league player"
-    },
-    {
       "type": "Birth",
       "year": "1910",
       "text": "Ray McKinley, American singer, drummer, and bandleader (died 1995)"
     },
     {
-      "type": "Event",
-      "year": "1778",
-      "text": "American Revolutionary War: The British Army abandons Philadelphia."
+      "type": "Birth",
+      "year": "1910",
+      "text": "Avon Long, American actor and singer (died 1984)"
     },
     {
-      "type": "Event",
-      "year": "1757",
-      "text": "Battle of Kolín between Prussian forces under Frederick the Great and an Austrian army under the command of Field Marshal Count Leopold Joseph von Daun in the Seven Years' War."
+      "type": "Birth",
+      "year": "1966",
+      "text": "Dexter Romweber, American musician (died 2024)"
     },
     {
       "type": "Birth",
@@ -128,18 +23,73 @@
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Takeoff, American rapper (died 2022)"
+      "year": "1960",
+      "text": "Barbara Broccoli, American director and producer"
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Avon Long, American actor and singer (died 1984)"
+      "year": "1918",
+      "text": "Alf Francis, West Prussia-born, English motor racing mechanic and race car constructor (died 1983)"
     },
     {
       "type": "Event",
-      "year": "1953",
-      "text": "A United States Air Force C-124 crashes and burns near Tachikawa, Japan, killing 129."
+      "year": "2009",
+      "text": "The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Sammy Cahn, American pianist and composer (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Philip B. Crosby, American businessman and author (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Russell Ash, English journalist and author (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Nathan Morris, American soul singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Glenn Morris, American decathlete (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "David T. Lykken, American geneticist and academic (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Derek Stepan, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Matt Parsons, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Maxim Kovtun, Russian figure skater"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Columbia Records introduces the long-playing record album in a public demonstration at the Waldorf-Astoria Hotel in New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1053",
+      "text": "Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX."
     },
     {
       "type": "Event",
@@ -147,14 +97,39 @@
       "text": "SALT II is signed by the United States and the Soviet Union."
     },
     {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Lou Brock, American baseball player and sportscaster (died 2020)"
+    },
+    {
       "type": "Event",
-      "year": "860",
-      "text": "Byzantine–Rus' War: A fleet of about 200 Rus' vessels sails into the Bosphorus and starts pillaging the suburbs of the Byzantine capital Constantinople."
+      "year": "1812",
+      "text": "The United States declaration of war upon the United Kingdom is signed by President James Madison, beginning the War of 1812."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "The Charleston Sofa Super Store fire kills nine firefighters in Charleston, South Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam."
+    },
+    {
+      "type": "Death",
+      "year": "1922",
+      "text": "Jacobus Kapteyn, Dutch astronomer and academic (born 1851)"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Chris Van Allsburg, American author and illustrator"
+      "year": "1908",
+      "text": "Stanley Knowles, American-Canadian academic and politician (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1887",
+      "text": "The Reinsurance Treaty between Germany and Russia is signed."
     },
     {
       "type": "Event",
@@ -162,44 +137,14 @@
       "text": "Tokhtamysh–Timur war: Battle of the Kondurcha River: Timur defeats Tokhtamysh of the Golden Horde in present-day southeast Russia."
     },
     {
-      "type": "Event",
-      "year": "2023",
-      "text": "Titan, a submersible operated by OceanGate Expeditions, implodes in the North Atlantic Ocean while attempting to view the wreck of the Titanic, killing all five people on board, including OceanGate co-founder and CEO Stockton Rush."
-    },
-    {
-      "type": "Death",
-      "year": "1998",
-      "text": "Felix Knight, American actor and tenor (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Sherry Turkle, American academic, psychologist, and sociologist"
-    },
-    {
-      "type": "Event",
-      "year": "1873",
-      "text": "Susan B. Anthony is fined $100 for attempting to vote in the 1872 presidential election."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Lisa Randall, American physicist and academic"
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Mushtaq Ali, Indian cricketer (born 1914)"
-    },
-    {
       "type": "Birth",
       "year": "1973",
       "text": "Alexandra Meissnitzer, Austrian skier"
     },
     {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam."
+      "type": "Birth",
+      "year": "1973",
+      "text": "Stephen Thomas Erlewine, American author and music critic"
     },
     {
       "type": "Event",
@@ -208,18 +153,68 @@
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Mike Johanns, American lawyer and politician, 28th United States Secretary of Agriculture"
+      "year": "1978",
+      "text": "Tara Platt, American actress, producer, and screenwriter"
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "Columbia Records introduces the long-playing record album in a public demonstration at the Waldorf-Astoria Hotel in New York City."
+      "year": "1778",
+      "text": "American Revolutionary War: The British Army abandons Philadelphia."
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Antonio Gates, American football player"
+      "year": "1947",
+      "text": "Ivonne Coll, Puerto Rican-American model and actress, Miss Puerto Rico 1967"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Greg Yaitanes, American director and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran, over her religious beliefs."
+    },
+    {
+      "type": "Event",
+      "year": "860",
+      "text": "Byzantine–Rus' War: A fleet of about 200 Rus' vessels sails into the Bosphorus and starts pillaging the suburbs of the Byzantine capital Constantinople."
+    },
+    {
+      "type": "Event",
+      "year": "1757",
+      "text": "Battle of Kolín between Prussian forces under Frederick the Great and an Austrian army under the command of Field Marshal Count Leopold Joseph von Daun in the Seven Years' War."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Red Adair, American firefighter (died 2004)"
+    },
+    {
+      "type": "Death",
+      "year": "1971",
+      "text": "Thomas Gomez, American actor (born 1905)"
+    },
+    {
+      "type": "Event",
+      "year": "1873",
+      "text": "Susan B. Anthony is fined $100 for attempting to vote in the 1872 presidential election."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "A United States Air Force C-124 crashes and burns near Tachikawa, Japan, killing 129."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Clint Newton, American-Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Billy Slater, Australian rugby league player"
     },
     {
       "type": "Birth",
@@ -227,14 +222,44 @@
       "text": "Cameron Smith, Australian rugby league player"
     },
     {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Bruce DuMont, American broadcaster and political analyst"
+      "type": "Event",
+      "year": "1948",
+      "text": "Britain, France and the United States announce that on June 21, the Deutsche Mark will be introduced in western Germany and West Berlin. Over the next six days, Communists increasingly restrict access to Berlin.[citation needed]"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Alex Hirsch, American animator and television producer"
+      "year": "1932",
+      "text": "Dudley R. Herschbach, American chemist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Clifton Campbell, American sprinter"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Carol Kane, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1858",
+      "text": "Charles Darwin receives a paper from Alfred Russel Wallace that includes nearly identical conclusions about evolution as Darwin's own, prompting Darwin to publish his theory."
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Titan, a submersible operated by OceanGate Expeditions, implodes in the North Atlantic Ocean while attempting to view the wreck of the Titanic, killing all five people on board, including OceanGate co-founder and CEO Stockton Rush."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Bud Collyer, American actor and game show host (died 1969)"
+    },
+    {
+      "type": "Event",
+      "year": "1684",
+      "text": "The charter of the Massachusetts Bay Colony is revoked via a scire facias writ issued by an English court."
     },
     {
       "type": "Birth",
@@ -243,63 +268,38 @@
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Carol Kane, American actress"
+      "year": "1973",
+      "text": "Gavin Wanganeen, Australian footballer and coach"
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Tibor Rubin, Hungarian-American soldier, Medal of Honor recipient (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Stephen Hopper, Australian botanist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Clifton Campbell, American sprinter"
+      "year": "1956",
+      "text": "Brian Benben, American actor and producer"
     },
     {
       "type": "Event",
-      "year": "1983",
-      "text": "Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran, over her religious beliefs."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Nathan Cavaleri, Australian singer-songwriter, guitarist, and actor"
-    },
-    {
-      "type": "Birth",
       "year": "1946",
-      "text": "Russell Ash, English journalist and author (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1684",
-      "text": "The charter of the Massachusetts Bay Colony is revoked via a scire facias writ issued by an English court."
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "The United States declaration of war upon the United Kingdom is signed by President James Madison, beginning the War of 1812."
+      "text": "Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day against the Portuguese in Goa."
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Kevin Murray, Australian footballer and coach"
+      "year": "1980",
+      "text": "Craig Mottram, Australian runner"
+    },
+    {
+      "type": "Death",
+      "year": "2007",
+      "text": "Hank Medress, American singer and producer (born 1938)"
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Tommy Hunt, American singer (died 2025)"
+      "year": "1917",
+      "text": "Richard Boone, American actor, singer, and director (died 1981)"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Dudley R. Herschbach, American chemist and academic, Nobel Prize laureate"
+      "year": "1913",
+      "text": "Sylvia Porter, American economist and journalist (died 1991)"
     }
   ],
   "source": "Wikipedia"
