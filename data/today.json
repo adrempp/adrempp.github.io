@@ -3,213 +3,13 @@
   "items": [
     {
       "type": "Event",
-      "year": "2009",
-      "text": "A Washington D.C Metro train traveling southbound near Fort Totten station collides into another train waiting to enter the station. Nine people are killed in the collision (eight passengers and the train operator) and at least 80 others are injured."
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Yuri Artyukhin, Russian colonel, engineer, and astronaut (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The Battle of Okinawa comes to an end with an American flag-raising ceremony."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Kris Kristofferson, American singer-songwriter, guitarist, and actor (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Hammond Circus Train Wreck kills 86 and injures 127 near Hammond, Indiana."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Mary Lynn Rajskub, American actress and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Yevgeny Kychanov, Russian orientalist, historian, and academic (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "-168",
-      "text": "Battle of Pydna: Romans under Lucius Aemilius Paullus defeat Macedonian King Perseus who surrenders after the battle, ending the Third Macedonian War."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Clair Cameron Patterson, American scientist (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Dianne Feinstein, American politician (died 2023)"
-    },
-    {
-      "type": "Death",
-      "year": "2023",
-      "text": "Harry Markowitz, American Nobel economist (born 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "War of 1812: After learning of American plans for a surprise attack on Beaver Dams in Ontario, Laura Secord sets out on a thirty kilometres (19 mi) journey on foot to warn Lieutenant James FitzGibbon."
-    },
-    {
-      "type": "Death",
-      "year": "1966",
-      "text": "Thaddeus Shideler, American hurdler (born 1883)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Elizabeth Warren, American academic and politician"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "An earthquake measuring 6.5 Mw strikes a region of northwestern Iran killing at least 261 people and injuring 1,300 others and eventually causing widespread public anger due to the slow official response."
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Billy Wilder, Austrian-born American director, producer, and screenwriter (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "James Bjorken, American physicist, author, and academic (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Klaus Maria Brandauer, Austrian actor and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Gerald Hillringhaus, German footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Donald Faison, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "-217",
-      "text": "Battle of Raphia: Ptolemy IV Philopator of Egypt defeats Antiochus III the Great of the Seleucid kingdom."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Garry Gary Beers, Australian bass player, songwriter, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "The Cuyahoga River catches fire in Cleveland, Ohio, drawing national attention to water pollution, and spurring the passing of the Clean Water Act and the creation of the Environmental Protection Agency."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Todd Rundgren, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Konrad Zuse, German computer scientist and engineer, invented the Z3 computer (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Joan Busfield, English sociologist, psychologist, and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "The ship HMT Empire Windrush brought the first group of 802 West Indian immigrants to Tilbury, marking the start of modern immigration to the United Kingdom."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Barbara Perry, American actress (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Cornelius Warmerdam, American pole vaulter and coach (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Kurt Warner, American football player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "The United States Department of Justice is created by the U.S. Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2–1 and later goes on to win the World Cup."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Erin Brockovich, American lawyer and environmentalist"
-    },
-    {
-      "type": "Event",
-      "year": "1907",
-      "text": "The London Underground's Charing Cross, Euston and Hampstead Railway opens."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Clyde Drexler, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Johnny Jacobs, American television announcer (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "John Wakeham, Baron Wakeham, English businessman and politician, Leader of the House of Lords"
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "A poisonous cloud caused by the eruption of the Laki volcano in Iceland reaches Le Havre in France."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Don Matthews, American-Canadian football player and coach (died 2017)"
-    },
-    {
-      "type": "Event",
       "year": "1898",
       "text": "Spanish–American War: In a chaotic operation, 6,000 men of the U.S. Fifth Army Corps begins landing at Daiquirí, Cuba, about 16 miles (26 km) east of Santiago de Cuba. Lt. Gen. Arsenio Linares y Pombo of the Spanish Army outnumbers them two-to-one, but does not oppose the landings."
     },
     {
-      "type": "Event",
-      "year": "1807",
-      "text": "In the Chesapeake–Leopard affair, the British warship HMS Leopard attacks and boards the American frigate USS Chesapeake."
+      "type": "Death",
+      "year": "1977",
+      "text": "Peter Laughner, American singer-songwriter and guitarist (born 1952)"
     },
     {
       "type": "Event",
@@ -218,38 +18,8 @@
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "Richard Eastham, American actor (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyen Cao Ky crushed the Buddhist Uprising."
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "George Carlin, American comedian, actor, and author (born 1937)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Tracy Pollan, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "The United States conducts airstrikes on three Iranian nuclear sites in Fordow, Natanz, and Isfahan."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Former Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Marguerite De La Motte, American actress (died 1950)"
+      "year": "1987",
+      "text": "Danny Green, American basketball player"
     },
     {
       "type": "Birth",
@@ -257,9 +27,64 @@
       "text": "Howard Kaylan, American pop-rock singer-songwriter and musician"
     },
     {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Octavia E. Butler, American author (died 2006)"
+    },
+    {
       "type": "Event",
-      "year": "431",
-      "text": "The Council of Ephesus, the third ecumenical council, begins, dealing with Nestorianism."
+      "year": "-217",
+      "text": "Battle of Raphia: Ptolemy IV Philopator of Egypt defeats Antiochus III the Great of the Seleucid kingdom."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Luís Filipe Vieira, Portuguese businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "U.S. President Franklin D. Roosevelt signs into law the Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "A poisonous cloud caused by the eruption of the Laki volcano in Iceland reaches Le Havre in France."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2–1 and later goes on to win the World Cup."
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "In the Chesapeake–Leopard affair, the British warship HMS Leopard attacks and boards the American frigate USS Chesapeake."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Katherine Dunham, American dancer and choreographer (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Markus Schatte, German footballer, manager, and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Yevgeny Kychanov, Russian orientalist, historian, and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Freddie Prinze, American comedian and actor (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "A Washington D.C Metro train traveling southbound near Fort Totten station collides into another train waiting to enter the station. Nine people are killed in the collision (eight passengers and the train operator) and at least 80 others are injured."
     },
     {
       "type": "Birth",
@@ -268,23 +93,93 @@
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Bernie McGann, Australian saxophonist and composer (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Bruce Campbell, American actor, director, producer and writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Lindsay Wagner, American actress"
+      "year": "1948",
+      "text": "James Charteris, 13th Earl of Wemyss, Scottish businessman"
     },
     {
       "type": "Event",
-      "year": "1812",
-      "text": "France declares war on Russia, starting Napoleon's invasion."
+      "year": "431",
+      "text": "The Council of Ephesus, the third ecumenical council, begins, dealing with Nestorianism."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "John Wakeham, Baron Wakeham, English businessman and politician, Leader of the House of Lords"
+    },
+    {
+      "type": "Death",
+      "year": "1940",
+      "text": "Monty Noble, Australian cricketer and sportscaster (born 1873)"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "The Cuyahoga River catches fire in Cleveland, Ohio, drawing national attention to water pollution, and spurring the passing of the Clean Water Act and the creation of the Environmental Protection Agency."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Lee Min-ho, South Korean actor, singer, model, creative director and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Former Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him."
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Billy Wilder, Austrian-born American director, producer, and screenwriter (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Darrell Armstrong, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "The United States Department of Justice is created by the U.S. Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "John Tenta, Canadian-American wrestler (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Dustin Johnson, American golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Kris Kristofferson, American singer-songwriter, guitarist, and actor (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Garry Gary Beers, Australian bass player, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Klaus Maria Brandauer, Austrian actor and director"
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "The United States conducts airstrikes on three Iranian nuclear sites in Fordow, Natanz, and Isfahan."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyen Cao Ky crushed the Buddhist Uprising."
     },
     {
       "type": "Event",
@@ -292,14 +187,119 @@
       "text": "British Army Field Marshal Sir Henry Wilson is killed by the Irish Republican Army helping to spark the Irish Civil War."
     },
     {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Nikita Rukavytsya, Ukrainian-Australian footballer"
+      "type": "Event",
+      "year": "1918",
+      "text": "The Hammond Circus Train Wreck kills 86 and injures 127 near Hammond, Indiana."
     },
     {
       "type": "Event",
-      "year": "1944",
-      "text": "U.S. President Franklin D. Roosevelt signs into law the Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill."
+      "year": "2002",
+      "text": "An earthquake measuring 6.5 Mw strikes a region of northwestern Iran killing at least 261 people and injuring 1,300 others and eventually causing widespread public anger due to the slow official response."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Barbara Perry, American actress (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Bill Blass, American fashion designer, founded Bill Blass Group (died 2002)"
+    },
+    {
+      "type": "Death",
+      "year": "2022",
+      "text": "Bruton Smith, American racetrack promoter (born 1927)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Joan Busfield, English sociologist, psychologist, and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Mary Lynn Rajskub, American actress and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Yuri Artyukhin, Russian colonel, engineer, and astronaut (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Larry Junstrom, American bass player (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Richard Eastham, American actor (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "-168",
+      "text": "Battle of Pydna: Romans under Lucius Aemilius Paullus defeat Macedonian King Perseus who surrenders after the battle, ending the Third Macedonian War."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "The ship HMT Empire Windrush brought the first group of 802 West Indian immigrants to Tilbury, marking the start of modern immigration to the United Kingdom."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The Battle of Okinawa comes to an end with an American flag-raising ceremony."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Meryl Streep, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "War of 1812: After learning of American plans for a surprise attack on Beaver Dams in Ontario, Laura Secord sets out on a thirty kilometres (19 mi) journey on foot to warn Lieutenant James FitzGibbon."
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "France declares war on Russia, starting Napoleon's invasion."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "J. Michael Kosterlitz, British-American physicist"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Todd Rundgren, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Stephen Waley-Cohen, English journalist and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "The London Underground's Charing Cross, Euston and Hampstead Railway opens."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Alan Osmond, American singer and producer (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Loris Karius, German footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Champ Bailey, American football player"
     }
   ],
   "source": "Wikipedia"
