@@ -2,79 +2,34 @@
   "date": "2026-06-23",
   "items": [
     {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Chellsie Memmel, American gymnast"
+      "type": "Event",
+      "year": "1947",
+      "text": "The United States Senate follows the United States House of Representatives in overriding U.S. President Harry S. Truman's veto of the Taft–Hartley Act."
     },
     {
-      "type": "Death",
-      "year": "2009",
-      "text": "Ed McMahon, American game show host and announcer (born 1923)"
+      "type": "Birth",
+      "year": "1961",
+      "text": "LaSalle Thompson, American basketball player, coach, and manager"
     },
     {
       "type": "Event",
-      "year": "1860",
-      "text": "The United States Congress establishes the Government Printing Office."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Peter O'Malley, Australian golfer"
-    },
-    {
-      "type": "Death",
-      "year": "1848",
-      "text": "Maria Leopoldine of Austria-Este, Electress of Bavaria (born 1776)"
+      "year": "1683",
+      "text": "William Penn signs a friendship treaty with Lenape Indians in Pennsylvania."
     },
     {
       "type": "Event",
-      "year": "1760",
-      "text": "Seven Years' War: Battle of Landeshut: Austria defeats Prussia."
-    },
-    {
-      "type": "Birth",
-      "year": "2008",
-      "text": "Lilliana Ketchman, American dancer and YouTuber"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Art Modell, American businessman (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Ben Dwarshuis, Australian cricketer"
+      "year": "1917",
+      "text": "In a game against the Washington Senators, Boston Red Sox pitcher Ernie Shore retires 26 batters in a row after replacing Babe Ruth, who had been ejected for punching the umpire."
     },
     {
       "type": "Birth",
       "year": "1928",
-      "text": "Klaus von Dohnányi, German politician"
-    },
-    {
-      "type": "Event",
-      "year": "1280",
-      "text": "The Spanish Reconquista: In the Battle of Moclín the Emirate of Granada ambush a superior pursuing force, killing most of them in a military disaster for the Kingdom of Castile."
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "American Civil War: At Fort Towson in the Oklahoma Territory, Confederate Brigadier General Stand Watie surrenders the last significant Confederate army."
+      "text": "Jean Cione, American baseball player (died 2010)"
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "George Feigley, American sex cult leader and two-time prison escapee (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "LaDainian Tomlinson, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "A fire at a house in Hull, England, which kills a six-year-old boy is passed off as an accident; it later emerges as the first of 26 deaths by fire caused over the next seven years by serial arsonist Peter Dinsdale."
+      "year": "1923",
+      "text": "Doris Johnson, American politician (died 2021)"
     },
     {
       "type": "Birth",
@@ -83,8 +38,18 @@
     },
     {
       "type": "Event",
-      "year": "1683",
-      "text": "William Penn signs a friendship treaty with Lenape Indians in Pennsylvania."
+      "year": "1994",
+      "text": "NASA's Space Station Processing Facility, a new state-of-the-art manufacturing building for the International Space Station, officially opens at Kennedy Space Center."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Blanche Noyes, American aviator, winner of the 1936 Bendix Trophy Race (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Derek Boogaard, Canadian-American ice hockey player (died 2011)"
     },
     {
       "type": "Birth",
@@ -93,23 +58,208 @@
     },
     {
       "type": "Event",
-      "year": "1794",
-      "text": "Empress Catherine II of Russia grants Jews permission to settle in Kyiv."
+      "year": "1812",
+      "text": "War of 1812: Great Britain revokes the restrictions on American commerce, thus eliminating one of the chief reasons for going to war."
+    },
+    {
+      "type": "Event",
+      "year": "1611",
+      "text": "The mutinous crew of Henry Hudson's fourth voyage sets Henry, his son and seven loyal crew members adrift in an open boat in what is now Hudson Bay; they are never heard from again."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Convicted Manhattan Project spy Klaus Fuchs is released after only nine years in prison and allowed to emigrate to Dresden, East Germany where he resumes a scientific career."
+    },
+    {
+      "type": "Event",
+      "year": "1280",
+      "text": "The Spanish Reconquista: In the Battle of Moclín the Emirate of Granada ambush a superior pursuing force, killing most of them in a military disaster for the Kingdom of Castile."
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Michael Shaara, American author and academic (died 1988)"
+      "year": "1943",
+      "text": "Vint Cerf, American computer scientist and Internet pioneer"
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Robert Hunter, American singer-songwriter and guitarist (died 2019)"
+      "year": "1927",
+      "text": "Bob Fosse, American actor, dancer, choreographer, and director (died 1987)"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "A fire at a house in Hull, England, which kills a six-year-old boy is passed off as an accident; it later emerges as the first of 26 deaths by fire caused over the next seven years by serial arsonist Peter Dinsdale."
     },
     {
       "type": "Event",
       "year": "1967",
       "text": "Cold War: U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey for the three-day Glassboro Summit Conference."
+    },
+    {
+      "type": "Event",
+      "year": "1860",
+      "text": "The United States Congress establishes the Government Printing Office."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "An F4 tornado tears through the Appalachian Mountains, killing over 100 people in West Virginia, particularly in the town of Shinnston."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "American social news and discussion site Reddit is founded in Medford, Massachusetts by Steve Huffman and Alexis Ohanian."
+    },
+    {
+      "type": "Event",
+      "year": "1760",
+      "text": "Seven Years' War: Battle of Landeshut: Austria defeats Prussia."
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Giuseppina Tuissi, Italian communist and Partisan (died 1945)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Magda Herzberger, Romanian author, poet and composer, survivor of the Holocaust (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Memphis Bleek, American rapper, producer, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Gordon B. Hinckley, American religious leader, 15th President of The Church of Jesus Christ of Latter-day Saints (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Selma Blair, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Wade Barrett, American soccer player and manager"
+    },
+    {
+      "type": "Death",
+      "year": "2009",
+      "text": "Jerri Nielsen, American physician and explorer (born 1952)"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "American Civil War: At Fort Towson in the Oklahoma Territory, Confederate Brigadier General Stand Watie surrenders the last significant Confederate army."
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "The ocean liner SS United States is christened and launched."
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Alfred Kinsey, American entomologist and sexologist (died 1956)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "LaDainian Tomlinson, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry."
+    },
+    {
+      "type": "Event",
+      "year": "1757",
+      "text": "Battle of Plassey: Three thousand British troops under Robert Clive defeat a 50,000-strong Indian army under Siraj ud-Daulah at Plassey."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Warren E. Burger is sworn in as Chief Justice of the United States Supreme Court by retiring Chief Justice Earl Warren."
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolution: Battle of Springfield fought in and around Springfield, New Jersey (including Short Hills, formerly of Springfield, now of Millburn Township)."
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Title IX of the United States Civil Rights Act of 1964 is amended to prohibit sexual discrimination to any educational program receiving federal funds."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Chico DeBarge, American singer and pianist"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "George Feigley, American sex cult leader and two-time prison escapee (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Bryan Brown, Australian actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Gunnar Uusi, Estonian chess player (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Milt Hinton, American bassist and photographer (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Diana Trask, Australian singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Matt Light, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Martin Klebba, American actor, producer, and stuntman"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Jason Mraz, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Maurice Ferré, Puerto Rican-American politician, 32nd Mayor of Miami (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Chet Faker, Australian singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Frances McDormand, American actress, winner of the Triple Crown of Acting"
     },
     {
       "type": "Birth",
@@ -122,14 +272,9 @@
       "text": "Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins."
     },
     {
-      "type": "Event",
-      "year": "1944",
-      "text": "An F4 tornado tears through the Appalachian Mountains, killing over 100 people in West Virginia, particularly in the town of Shinnston."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "NASA's Space Station Processing Facility, a new state-of-the-art manufacturing building for the International Space Station, officially opens at Kennedy Space Center."
+      "type": "Death",
+      "year": "2013",
+      "text": "Sharon Stouder, American swimmer (born 1948)"
     },
     {
       "type": "Event",
@@ -138,148 +283,8 @@
     },
     {
       "type": "Event",
-      "year": "1947",
-      "text": "The United States Senate follows the United States House of Representatives in overriding U.S. President Harry S. Truman's veto of the Taft–Hartley Act."
-    },
-    {
-      "type": "Event",
-      "year": "1611",
-      "text": "The mutinous crew of Henry Hudson's fourth voyage sets Henry, his son and seven loyal crew members adrift in an open boat in what is now Hudson Bay; they are never heard from again."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Bob Fosse, American actor, dancer, choreographer, and director (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Helen Humes, American jazz and blues singer (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolution: Battle of Springfield fought in and around Springfield, New Jersey (including Short Hills, formerly of Springfield, now of Millburn Township)."
-    },
-    {
-      "type": "Event",
       "year": "2012",
       "text": "Ashton Eaton breaks the decathlon world record at the United States Olympic Trials."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "KT Tunstall, Scottish singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Roger McDonald, Australian author and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Convicted Manhattan Project spy Klaus Fuchs is released after only nine years in prison and allowed to emigrate to Dresden, East Germany where he resumes a scientific career."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Matt Light, American football player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Warren E. Burger is sworn in as Chief Justice of the United States Supreme Court by retiring Chief Justice Earl Warren."
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "American social news and discussion site Reddit is founded in Medford, Massachusetts by Steve Huffman and Alexis Ohanian."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "June Carter Cash, American singer-songwriter, musician, and actress (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Shaun O'Hara, American football player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "In a game against the Washington Senators, Boston Red Sox pitcher Ernie Shore retires 26 batters in a row after replacing Babe Ruth, who had been ejected for punching the umpire."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Title IX of the United States Civil Rights Act of 1964 is amended to prohibit sexual discrimination to any educational program receiving federal funds."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Randy Jackson, American bass player and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Francis Newall, 2nd Baron Newall, English businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "2007",
-      "text": "Elliana Walmsley, American dancer"
-    },
-    {
-      "type": "Death",
-      "year": "1891",
-      "text": "Samuel Newitt Wood, American lawyer and politician (born 1825)"
-    },
-    {
-      "type": "Event",
-      "year": "1757",
-      "text": "Battle of Plassey: Three thousand British troops under Robert Clive defeat a 50,000-strong Indian army under Siraj ud-Daulah at Plassey."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Mark Hendrickson, American basketball and baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "War of 1812: Great Britain revokes the restrictions on American commerce, thus eliminating one of the chief reasons for going to war."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Joe Becker, American guitarist and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Frederic Leclercq, French heavy metal musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Stuart Sutcliffe, Scottish painter and musician (died 1962)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Bill Torrey, Canadian businessman (died 2018)"
     },
     {
       "type": "Event",
@@ -287,19 +292,14 @@
       "text": "The United States Food and Drug Administration declares Enovid to be the first officially approved combined oral contraceptive pill in the world."
     },
     {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Ellyn Kaschak, American psychologist and academic"
+      "type": "Death",
+      "year": "2010",
+      "text": "John Burton, Australian public servant and diplomat (born 1915)"
     },
     {
       "type": "Event",
-      "year": "1951",
-      "text": "The ocean liner SS United States is christened and launched."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Marcel Reece, American football player"
+      "year": "1794",
+      "text": "Empress Catherine II of Russia grants Jews permission to settle in Kyiv."
     }
   ],
   "source": "Wikipedia"
