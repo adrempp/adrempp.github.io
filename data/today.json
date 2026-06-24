@@ -3,128 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Andy McCluskey, English singer-songwriter, bass player, and producer"
+      "year": "1913",
+      "text": "Gustaaf Deloor, Belgian cyclist and soldier (died 2002)"
     },
     {
       "type": "Event",
-      "year": "2010",
-      "text": "At Wimbledon, John Isner of the United States defeats Nicolas Mahut of France, in the longest match in professional tennis history."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "David Alaba, Austrian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Minka Kelly, American actress"
+      "year": "1922",
+      "text": "The American Professional Football Association is renamed the National Football League."
     },
     {
       "type": "Event",
-      "year": "2022",
-      "text": "In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992)."
-    },
-    {
-      "type": "Event",
-      "year": "1793",
-      "text": "The first Republican constitution in France is adopted."
-    },
-    {
-      "type": "Event",
-      "year": "109",
-      "text": "Roman emperor Trajan inaugurates the Aqua Traiana, an aqueduct that channels water from Lake Bracciano, 40 kilometres (25 miles) northwest of Rome."
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Ann C. Scales, American lawyer, educator, and activist (born 1952)"
-    },
-    {
-      "type": "Event",
-      "year": "474",
-      "text": "Julius Nepos forces Roman usurper Glycerius to abdicate the throne and proclaims himself Emperor of the Western Roman Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "John Tortorella, American ice hockey player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Yuri Kasparyan, Russian guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "Battle of Solferino (Battle of the Three Sovereigns): Sardinia and France defeat Austria in Solferino, northern Italy."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Pieces of a meteorite land near Chicora, Pennsylvania. The meteorite is estimated to have weighed 450 metric tons when it hit the Earth's atmosphere and exploded."
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "Battle of Beaver Dams: A British and Indian combined force defeats the United States Army."
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "Napoleonic Wars: Napoleon's Grande Armée crosses the Neman river beginning the invasion of Russia."
-    },
-    {
-      "type": "Death",
-      "year": "1969",
-      "text": "Frank King, American cartoonist (born 1883)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Colin Groves, Australian academician and educator  (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "The Champlain Towers South condominium in Surfside, Florida suffers a sudden partial collapse, killing 98 people inside."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Michele Lee, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Nichkhun, Thai-American singer and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "First Indochina War: Battle of Mang Yang Pass: Viet Minh troops belonging to the 803rd Regiment ambush G.M. 100 of France in An Khê."
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Julia Gillard assumes office as the first female Prime Minister of Australia."
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Eastern Air Lines Flight 66 encounters severe wind shear and crashes on final approach to New York's JFK Airport killing 113 of the 124 passengers on board, making it the deadliest U.S. plane crash at the time. This accident led to decades of research into downburst and microburst phenomena and their effects on aircraft."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Martin Lewis Perl, American physicist and engineer, Nobel Prize laureate (died 2014)"
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Gerhard Ringel, Austrian mathematician and academic (born 1919)"
+      "year": "1713",
+      "text": "The treaty of Adrianople ends the Russo-Turkish War of 1710–1713, which restores territory to the Ottomans while allowing the Russians to focus on their war against the Swedes."
     },
     {
       "type": "Event",
@@ -132,34 +22,29 @@
       "text": "US military police attempt to arrest a black soldier in Bamber Bridge, England, sparking the Battle of Bamber Bridge mutiny that leaves one dead and seven wounded."
     },
     {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Alaa Abdelnaby, Egyptian-American basketball player and sportscaster"
+      "type": "Event",
+      "year": "1981",
+      "text": "The Humber Bridge opens to traffic, connecting Yorkshire and Lincolnshire. It remained the world's longest bridge span for 17 years."
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Judy Olson Duhamel, American politician and educator"
+      "year": "1947",
+      "text": "Mick Fleetwood, English-American drummer"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "First Indochina War: Battle of Mang Yang Pass: Viet Minh troops belonging to the 803rd Regiment ambush G.M. 100 of France in An Khê."
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Sam Jones, American basketball player and coach (died 2021)"
+      "year": "1915",
+      "text": "Norman Cousins, American editor (Saturday Review) and peace activist (died 1990)"
     },
     {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Marcus Coco, Guadeloupean footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Yong Nyuk Lin, Singaporean businessman and politician, Singaporean Minister for Education (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "James B. Edwards, American dentist, soldier, and politician, 3rd United States Secretary of Energy (died 2014)"
+      "type": "Event",
+      "year": "1866",
+      "text": "Battle of Custoza: An Austrian army defeats the Italian army during the Austro-Prussian War."
     },
     {
       "type": "Birth",
@@ -172,79 +57,69 @@
       "text": "Kenneth Arnold makes the first widely reported UFO sighting near Mount Rainier, Washington."
     },
     {
-      "type": "Event",
-      "year": "1957",
-      "text": "In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The UpStairs Lounge arson attack takes place at a gay bar located on the second floor of the three-story building at 141 Chartres Street in the French Quarter of New Orleans, Louisiana, US. Thirty-two people die as a result of fire or smoke inhalation."
+      "type": "Birth",
+      "year": "1945",
+      "text": "George Pataki, American lawyer and politician, 53rd Governor of New York"
     },
     {
       "type": "Event",
-      "year": "1779",
-      "text": "American Revolutionary War: The Great Siege of Gibraltar begins."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "John Ciardi, American poet, translator (Dante's \"Divine Comedy\"), and literary commentator (died 1986)"
+      "year": "474",
+      "text": "Julius Nepos forces Roman usurper Glycerius to abdicate the throne and proclaims himself Emperor of the Western Roman Empire."
     },
     {
       "type": "Event",
-      "year": "1713",
-      "text": "The treaty of Adrianople ends the Russo-Turkish War of 1710–1713, which restores territory to the Ottomans while allowing the Russians to focus on their war against the Swedes."
+      "year": "109",
+      "text": "Roman emperor Trajan inaugurates the Aqua Traiana, an aqueduct that channels water from Lake Bracciano, 40 kilometres (25 miles) northwest of Rome."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Mercedes Lackey, American author"
     },
     {
       "type": "Event",
-      "year": "2013",
-      "text": "Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and engaging in sex with an underage prostitute, and is sentenced to seven years in prison."
+      "year": "1975",
+      "text": "Eastern Air Lines Flight 66 encounters severe wind shear and crashes on final approach to New York's JFK Airport killing 113 of the 124 passengers on board, making it the deadliest U.S. plane crash at the time. This accident led to decades of research into downburst and microburst phenomena and their effects on aircraft."
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "Norman Cousins, American editor (Saturday Review) and peace activist (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Mindy Kaling, American actress and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Phil Hughes, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Robert Downey Sr., American actor and director (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Kathryn Lasky, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Siedah Garrett, American singer-songwriter and pianist"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Lawrence Block, American author"
+      "year": "1909",
+      "text": "Betty Cavanna, American author (died 2001)"
     },
     {
       "type": "Event",
-      "year": "1866",
-      "text": "Battle of Custoza: An Austrian army defeats the Italian army during the Austro-Prussian War."
+      "year": "1793",
+      "text": "The first Republican constitution in France is adopted."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Andy McCluskey, English singer-songwriter, bass player, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Ariel Pink, American singer-songwriter"
     },
     {
       "type": "Event",
-      "year": "1922",
-      "text": "The American Professional Football Association is renamed the National Football League."
+      "year": "2010",
+      "text": "Julia Gillard assumes office as the first female Prime Minister of Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Robbie McEwen, Australian cyclist"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "The Wagner Group led by Yevgeny Prigozhin launches an insurrection against the Russian government."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "At Wimbledon, John Isner of the United States defeats Nicolas Mahut of France, in the longest match in professional tennis history."
     },
     {
       "type": "Event",
@@ -253,28 +128,103 @@
     },
     {
       "type": "Birth",
+      "year": "1916",
+      "text": "William B. Saxbe, American soldier, lawyer, and politician, 70th United States Attorney General (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "Napoleonic Wars: Napoleon's Grande Armée crosses the Neman river beginning the invasion of Russia."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "In New York, capital punishment is declared unconstitutional."
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Jan Karski, Polish-American activist and academic (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "The Champlain Towers South condominium in Surfside, Florida suffers a sudden partial collapse, killing 98 people inside."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Alaa Abdelnaby, Egyptian-American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992)."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Danielle Spencer, American actress (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Yong Nyuk Lin, Singaporean businessman and politician, Singaporean Minister for Education (died 2012)"
+    },
+    {
+      "type": "Birth",
       "year": "1985",
       "text": "Nate Myles, Australian rugby league player"
     },
     {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Graham McKenzie, Australian cricketer"
+      "type": "Event",
+      "year": "1859",
+      "text": "Battle of Solferino (Battle of the Three Sovereigns): Sardinia and France defeat Austria in Solferino, northern Italy."
     },
     {
       "type": "Event",
-      "year": "2023",
-      "text": "The Wagner Group led by Yevgeny Prigozhin launches an insurrection against the Russian government."
+      "year": "2013",
+      "text": "Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and engaging in sex with an underage prostitute, and is sentenced to seven years in prison."
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Loren Roberts, American golfer"
+      "year": "1930",
+      "text": "Donald Gordon, South African businessman and philanthropist (died 2019)"
+    },
+    {
+      "type": "Death",
+      "year": "1817",
+      "text": "Thomas McKean, American lawyer and politician, 2nd Governor of Pennsylvania (born 1734)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Ian Ross, Australian newsreader (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Ogden Reid, American politician (died 2019)"
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "The Humber Bridge opens to traffic, connecting Yorkshire and Lincolnshire. It remained the world's longest bridge span for 17 years."
+      "year": "1779",
+      "text": "American Revolutionary War: The Great Siege of Gibraltar begins."
+    },
+    {
+      "type": "Death",
+      "year": "1803",
+      "text": "Matthew Thornton, Irish-American judge and politician (born 1714)"
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Fred Anderson, American jazz tenor saxophonist (born 1929)"
     },
     {
       "type": "Event",
@@ -283,23 +233,73 @@
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "JJ Redick, American basketball player and coach"
+      "year": "1966",
+      "text": "Hope Sandoval, American singer-songwriter and musician"
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Danielle Spencer, American actress (died 2025)"
+      "year": "1955",
+      "text": "Loren Roberts, American golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Colin Groves, Australian academician and educator  (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Michael Tuck, Australian footballer and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Solange Knowles, American singer-songwriter and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Nancy Allen, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "James B. Edwards, American dentist, soldier, and politician, 3rd United States Secretary of Energy (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Andrew Jones, Australian race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Chris Guccione, American baseball player and umpire"
     },
     {
       "type": "Event",
-      "year": "2004",
-      "text": "In New York, capital punishment is declared unconstitutional."
+      "year": "1813",
+      "text": "Battle of Beaver Dams: A British and Indian combined force defeats the United States Army."
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Jan Karski, Polish-American activist and academic (died 2000)"
+      "year": "1907",
+      "text": "Arseny Tarkovsky, Russian poet and translator (died 1989)"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The UpStairs Lounge arson attack takes place at a gay bar located on the second floor of the three-story building at 141 Chartres Street in the French Quarter of New Orleans, Louisiana, US. Thirty-two people die as a result of fire or smoke inhalation."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Judy Olson Duhamel, American politician and educator"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Pieces of a meteorite land near Chicora, Pennsylvania. The meteorite is estimated to have weighed 450 metric tons when it hit the Earth's atmosphere and exploded."
     }
   ],
   "source": "Wikipedia"
