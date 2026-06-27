@@ -1,305 +1,305 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "items": [
     {
-      "type": "Event",
-      "year": "1917",
-      "text": "World War I: The American Expeditionary Forces begin to arrive in France. They will first enter combat in the Battle of Hamel on July 4."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Virginia Satir, American psychotherapist and author (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Jackie Fargo, American wrestler and trainer (died 2013)"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Howard Baker, American lawyer, politician, and diplomat, 12th White House Chief of Staff (born 1925)"
-    },
-    {
       "type": "Birth",
       "year": "1980",
-      "text": "Michael Vick, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Shirley Jackson's short story \"The Lottery\" is published in The New Yorker magazine."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "United States President Franklin D. Roosevelt signs the Federal Credit Union Act, which establishes credit unions."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Aubrey Plaza, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Patty Smyth, American singer-songwriter and musician"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Deron Williams, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Viktor Schreckengost, American sculptor and educator (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "The Universal Product Code is scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Elijah Dukes, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Chandler Smith, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Giuseppe Taddei, Italian actor and singer (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "221",
-      "text": "Roman emperor Elagabalus adopts his cousin Alexander Severus as his heir and grants him the title of Caesar."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Mark McClellan, American economist and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Debs Garms, American baseball player (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "The Science Museum in London comes into existence as an independent entity."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Gene Green, American baseball player (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "The U.S. Supreme Court rules in Lawrence v. Texas that sex-based sodomy laws are unconstitutional."
-    },
-    {
-      "type": "Event",
-      "year": "1539",
-      "text": "Afghan Sur forces under Sher Shah Suri defeat a Mughal army under Humayun in the battle of Chausa."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Ed Bearss, American military historian and author (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1740",
-      "text": "A combined force of Spanish, free blacks and allied Indians defeat a British garrison at the Siege of Fort Mose near St. Augustine during the War of Jenkins' Ear."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Elvis Presley holds what will prove to be his final concert at Market Square Arena in Indianapolis, Indiana."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: Soviet planes bomb Kassa, Hungary (now Košice, Slovakia), giving Hungary the impetus to declare war the next day."
-    },
-    {
-      "type": "Death",
-      "year": "1879",
-      "text": "Richard H. Anderson, American general (born 1821)"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "The U.S. Supreme Court rules, 5–4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Pope Benedict XVI reinstates the traditional laws of papal election in which a successful candidate must receive two-thirds of the votes."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Kenny Baker, American fiddler (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Jacob Druckman, American composer and academic (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Jean Frydman, French resistant and businessman (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Lynd Ward, American author and illustrator (died 1985)"
-    },
-    {
-      "type": "Event",
-      "year": "1723",
-      "text": "After a siege and bombardment by cannon, Baku surrenders to the Russians."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Quincy Lewis, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Chris Shelton, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1243",
-      "text": "Mongols under Baiju Noyan defeat the Seljuk Turks under Kaykhusraw II at the Battle of Köse Dağ. The Sultanate of Rum becomes subsequently a vassal to the Mongol Empire."
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "The U.S. Supreme Court rules, 5–4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Milton Glaser, American illustrator and graphic designer (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown."
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Lavrentiy Beria, head of MVD, is arrested by Nikita Khrushchev and other members of the Politburo."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Gretchen Wilson, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Two FBI agents and a member of the American Indian Movement are killed in a shootout on the Pine Ridge Indian Reservation in South Dakota; Leonard Peltier is later convicted of the murders in a controversial trial."
-    },
-    {
-      "type": "Event",
-      "year": "4",
-      "text": "Augustus adopts Tiberius."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Ariana Grande, American singer-songwriter, dancer, and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Reggie Workman, American bassist and composer"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice."
-    },
-    {
-      "type": "Event",
-      "year": "1718",
-      "text": "Alexei Petrovich, Tsarevich of Russia, Peter the Great's son, mysteriously dies after being sentenced to death by his father for plotting against him."
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Waldo Canyon fire descends into the Mountain Shadows neighborhood in Colorado Springs, burning 347 homes in a matter of hours and killing two people."
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Colonel Tom Parker, Dutch-American talent manager, manager and promoter of Elvis Presley (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "French Revolutionary Wars: Battle of Fleurus marks the first successful military use of aircraft and turns the tide of the War of the First Coalition."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The United Nations Charter is signed by 50 Allied nations in San Francisco, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Robert Everett, American computer scientist (died 2018)"
+      "text": "Craig Terrill, American football player"
     },
     {
       "type": "Event",
       "year": "1924",
-      "text": "The American occupation of the Dominican Republic ends after eight years."
+      "text": "The Johor–Singapore Causeway opens after five years of construction, providing a land connection for road and rail vehicles travelling between Johor and Singapore."
     },
     {
-      "type": "Event",
-      "year": "1988",
-      "text": "The first crash of an Airbus A320 occurs when Air France Flight 296Q crashes at Mulhouse–Habsheim Airfield in Habsheim, France, during an air show, killing three of the 136 people on board."
+      "type": "Birth",
+      "year": "1943",
+      "text": "Ravi Batra, Indian-American economist and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Merle Tuve, American geophysicist and academic (died 1982)"
     },
     {
       "type": "Death",
-      "year": "1992",
-      "text": "Buddy Rogers, American wrestler (born 1921)"
+      "year": "2001",
+      "text": "Jack Lemmon, American actor (born 1925)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Dan Jurgens, American author and illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Neil Hawke, Australian cricketer and footballer (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Bob Keeshan, American actor and producer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Doc Pomus, American singer-songwriter (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Jim Johnson, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "M. Carl Holman, American author, educator, poet, and playwright (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Tommy Kono, Japanese American weightlifter (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Willie Mosconi, American pool player (died 1993)"
     },
     {
       "type": "Event",
-      "year": "1963",
-      "text": "Cold War: U.S. President John F. Kennedy gives his \"Ich bin ein Berliner\" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall."
+      "year": "1895",
+      "text": "The inaugural run of the Baltimore and Ohio Railroad's Royal Blue from Washington, D.C., to New York City, the first U.S. passenger train to use electric locomotives."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Drake Bell, American singer-songwriter, guitarist, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Bob Appleyard, English cricketer and businessman (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Phil Kearns, Australian rugby player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Camile Baudoin, American guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Alice McDermott, American novelist"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Alberto Campbell-Staines, Australian athlete"
+    },
+    {
+      "type": "Death",
+      "year": "1907",
+      "text": "Elizabeth Cabot Agassiz, American educator, co-founded Radcliffe College (born 1822)"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "The Illinois Monument is dedicated at Cheatham Hill in what is now the Kennesaw Mountain National Battlefield Park."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Khloé Kardashian, American model, businesswoman, and radio host"
+    },
+    {
+      "type": "Event",
+      "year": "1844",
+      "text": "Joseph Smith, founder of the Latter Day Saint movement, and his brother Hyrum Smith, are killed by a mob at the Carthage, Illinois jail."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Craig Hodges, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Space Shuttle Atlantis launches on STS-71, the first space shuttle mission to dock with the Russian space station Mir."
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "A series of powerful cyberattacks using the Petya malware target websites of Ukrainian organizations and counterparts with Ukrainian connections around the globe."
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Juan Trippe, American businessman, founded Pan American World Airways (died 1981)"
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "John T. Walton, American businessman, co-founded the Children's Scholarship Fund (born 1946)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Daryle Ward, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Bobby Wagner, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "The 'Ustica massacre': Itavia Flight 870 crashes in the sea while en route from Bologna to Palermo, Italy, killing all 81 on board."
+    },
+    {
+      "type": "Event",
+      "year": "1927",
+      "text": "Prime Minister of Japan Tanaka Giichi convenes an eleven-day conference to discuss Japan's strategy in China. The Tanaka Memorial, a forged plan for world domination, is later claimed to be a secret report leaked from this conference."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Monté Morris, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "363",
+      "text": "Jovian is proclaimed Roman emperor following the death of emperor Julian in the previous night."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Christopher O'Neill, English-American businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Julia Duffy, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "The United States decides to send troops to fight in the Korean War."
+    },
+    {
+      "type": "Event",
+      "year": "1760",
+      "text": "Anglo-Cherokee War: Cherokee warriors defeat British forces at the Battle of Echoee near present-day Otto, North Carolina."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Eddie Kasko, American baseball player and manager (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "Hurricane Audrey makes landfall near the Texas–Louisiana border, killing over 400 people, mainly in and around Cameron, Louisiana."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Norma Kamali, American fashion designer"
+    },
+    {
+      "type": "Event",
+      "year": "678",
+      "text": "Pope Agatho is consecrated following the death of pope Donus two months prior."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Confederate forces defeat Union forces during the Battle of Kennesaw Mountain during the Atlanta campaign."
+    },
+    {
+      "type": "Birth",
+      "year": "1865",
+      "text": "John Monash, Australian engineer and general (died 1931)"
+    },
+    {
+      "type": "Birth",
+      "year": "1880",
+      "text": "Helen Keller, American author, academic, and activist (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Abbath Doom Occulta, Norwegian musician"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Constitution for the Federation of Earth was adopted by the second session of the World Constituent Assembly, held at Innsbruck, Austria."
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "Formosa Fun Coast fire: A dust fire occurs at a recreational water park in Taiwan, killing 15 people and injuring 497 others, 199 critically."
+    },
+    {
+      "type": "Birth",
+      "year": "1806",
+      "text": "Augustus De Morgan, English mathematician and logician (died 1871)"
+    },
+    {
+      "type": "Birth",
+      "year": "1838",
+      "text": "Paul Mauser, German weapon designer, designed the Gewehr 98 (died 1914)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Peter Maas, American journalist and author (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "During the Russo-Japanese War, sailors start a mutiny aboard the Russian battleship Potemkin."
     },
     {
       "type": "Birth",
       "year": "1949",
-      "text": "Fredric Brandt, American dermatologist and author (died 2015)"
+      "text": "Vera Wang, American fashion designer"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "U.S. president Richard Nixon visits the Soviet Union."
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21."
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Heber Doust Curtis, American astronomer (died 1942)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Grace Lee Boggs, American philosopher, author, and activist (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Jennifer Goodridge, American keyboard player"
     }
   ],
   "source": "Wikipedia"
