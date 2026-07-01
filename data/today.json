@@ -2,29 +2,34 @@
   "date": "2026-07-01",
   "items": [
     {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Battle of Malvern Hill takes place. It is the last of the Seven Days Battles, part of George B. McClellan's Peninsula Campaign."
+    },
+    {
       "type": "Birth",
-      "year": "1975",
-      "text": "Sufjan Stevens, American singer-songwriter and guitarist"
+      "year": "1926",
+      "text": "Mohamed Abshir Muse, Somali general (died 2017)"
     },
     {
       "type": "Event",
-      "year": "1874",
-      "text": "The Sholes and Glidden typewriter, the first commercially successful typewriter, goes on sale."
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "The Great Railroad Strike of 1922 begins in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The United States–Mexico–Canada Agreement replaces NAFTA."
+      "year": "1991",
+      "text": "Cold War: The Warsaw Pact is officially dissolved at a meeting in Prague."
     },
     {
       "type": "Death",
-      "year": "1863",
-      "text": "John F. Reynolds, American general (born 1820)"
+      "year": "1887",
+      "text": "Thomas Francis Meagher, Leader of the Young Ireland rebellion of 1848, Commander of the Irish Brigade in the US Civil War (born 1823)"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "The Parliament of Canada suspends all Chinese immigration."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Sydney Pollack, American actor, director and producer (died 2008)"
     },
     {
       "type": "Event",
@@ -32,29 +37,9 @@
       "text": "Signing of the Quinault Treaty: The Quinault and the Quileute cede their land to the United States."
     },
     {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Mike Haynes, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Winfield Dunn, American politician, 43rd Governor of Tennessee (died 2024)"
-    },
-    {
       "type": "Event",
-      "year": "1932",
-      "text": "Australia's national broadcaster, the Australian Broadcasting Corporation, was formed."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "A North Korean Ilyushin Il-62M jet en route to Conakry Airport in Guinea crashes into the Fouta Djallon mountains in Guinea-Bissau, killing all 23 people on board."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Chinese General Zhang Xun seizes control of Beijing and restores the monarchy, installing Puyi, last emperor of the Qing dynasty, to the throne. The restoration is reversed just shy of two weeks later, when Republican troops regain control of the capital."
+      "year": "1963",
+      "text": "ZIP codes are introduced for United States mail."
     },
     {
       "type": "Event",
@@ -68,213 +53,8 @@
     },
     {
       "type": "Event",
-      "year": "1987",
-      "text": "The American radio station WFAN in New York City is launched as the world's first all-sports radio station."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "David Duke, American white supremacist, politician and Ku Klux Klan Grand Wizard"
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "Joint reading of Charles Darwin and Alfred Russel Wallace's papers on evolution to the Linnean Society of London."
-    },
-    {
-      "type": "Event",
-      "year": "1881",
-      "text": "The world's first international telephone call is made between St. Stephen, New Brunswick, Canada, and Calais, Maine, United States."
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Storm Reid, American actress"
-    },
-    {
-      "type": "Event",
       "year": "1968",
       "text": "Formal separation of the United Auto Workers from the AFL–CIO in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Tom Kozelko, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Ilene Woods, American actress and singer (born 1929)"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The Scottish Parliament is officially opened by Elizabeth II on the day that legislative powers are officially transferred from the old Scottish Office in London to the new devolved Scottish Executive in Edinburgh. In Wales, the powers of the Welsh Secretary are transferred to the National Assembly."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "China resumes sovereignty over the city-state of Hong Kong, ending 156 years of British colonial rule. The handover ceremony is attended by British Prime Minister Tony Blair, Charles, Prince of Wales, Chinese President Jiang Zemin and U.S. Secretary of State Madeleine Albright."
-    },
-    {
-      "type": "Event",
-      "year": "1782",
-      "text": "Raid on Lunenburg: American privateers attack the British settlement of Lunenburg, Nova Scotia."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The Battle of Malvern Hill takes place. It is the last of the Seven Days Battles, part of George B. McClellan's Peninsula Campaign."
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "The United States Department of Justice formally comes into existence."
-    },
-    {
-      "type": "Death",
-      "year": "1994",
-      "text": "Merriam Modell, American author (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Aleksander Lesun, Russian modern pentathlete"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Mokhzani Mahathir, Malaysian businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "The Northern Territory in Australia is granted self-government."
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "The Parliament of Canada suspends all Chinese immigration."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "World War I: Russia launches an offensive against Austria-Hungary to capture Galicia, its final offensive of the war."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Specific values for the international yard, avoirdupois pound and derived units (e.g. inch, mile and ounce) are adopted after agreement between the US, the United Kingdom and other Commonwealth countries."
-    },
-    {
-      "type": "Event",
-      "year": "1879",
-      "text": "Charles Taze Russell publishes the first edition of the religious magazine The Watchtower."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Carl Lewis, American long jumper and runner"
-    },
-    {
-      "type": "Event",
-      "year": "1819",
-      "text": "Johann Georg Tralles discovers the Great Comet of 1819, (C/1819 N1). It is the first comet analyzed using polarimetry, by François Arago."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "The Trust Territory of Somaliland (the former Italian Somaliland) gains its independence from Italy. Concurrently, it unites as scheduled with the five-day-old State of Somaliland (the former British Somaliland) to form the Somali Republic."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "French government enacts its anti-clerical legislation Law of Association prohibiting the formation of new monastic orders without governmental approval."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Carl Hahn, German businessman (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "The Treaty on the Non-Proliferation of Nuclear Weapons is signed in Washington, D.C., London and Moscow by sixty-two countries."
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "German reunification: East Germany accepts the Deutsche Mark as its currency, thus uniting the economies of East and West Germany."
-    },
-    {
-      "type": "Event",
-      "year": "69",
-      "text": "Tiberius Julius Alexander orders his Roman legions in Alexandria to swear allegiance to Vespasian as Emperor."
-    },
-    {
-      "type": "Event",
-      "year": "1823",
-      "text": "The five Central American nations of Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica declare independence from the First Mexican Empire after being annexed the year prior."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "The Russian State Library is founded as the Library of the Moscow Public Museum."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "The United States Central Intelligence Agency's Phoenix Program is officially established."
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "Spanish–American War: The Battle of San Juan Hill is fought in Santiago de Cuba, Cuba."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek."
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The Chinese Communist Party is founded by Chen Duxiu and Li Dazhao, with the help of the Far Eastern Bureau of the Russian Social Democratic Labour Party (Bolsheviks), who seized power in Russia after the 1917 October Revolution, and the Far Eastern Secretariat of the Communist International."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Scotty Bowers, American marine, author and pimp (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1690",
-      "text": "War of the Grand Alliance: Marshal de Luxembourg triumphs over an Anglo-Dutch army at the battle of Fleurus."
-    },
-    {
-      "type": "Event",
-      "year": "1523",
-      "text": "Jan van Essen and Hendrik Vos become the first Lutheran martyrs, burned at the stake by Roman Catholic authorities in Brussels."
-    },
-    {
-      "type": "Event",
-      "year": "1766",
-      "text": "François-Jean de la Barre, a young French nobleman, is tortured and beheaded before his body is burnt on a pyre along with a copy of Voltaire's Dictionnaire philosophique nailed to his torso for the crime of not saluting a Roman Catholic religious procession in Abbeville, France."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "ZIP codes are introduced for United States mail."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Australian Federal Government becomes the sole collector of income tax in Australia as State Income Tax is abolished."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Cold War: The Warsaw Pact is officially dissolved at a meeting in Prague."
     },
     {
       "type": "Event",
@@ -283,8 +63,18 @@
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "John Farnham, English-Australian singer-songwriter"
+      "year": "1945",
+      "text": "Mike Burstyn, American actor and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1782",
+      "text": "Raid on Lunenburg: American privateers attack the British settlement of Lunenburg, Nova Scotia."
+    },
+    {
+      "type": "Event",
+      "year": "1885",
+      "text": "The United States terminates reciprocity and fishery agreement with Canada."
     },
     {
       "type": "Event",
@@ -293,13 +83,223 @@
     },
     {
       "type": "Event",
+      "year": "1959",
+      "text": "Specific values for the international yard, avoirdupois pound and derived units (e.g. inch, mile and ounce) are adopted after agreement between the US, the United Kingdom and other Commonwealth countries."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "John Ford, English-American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1690",
+      "text": "War of the Grand Alliance: Marshal de Luxembourg triumphs over an Anglo-Dutch army at the battle of Fleurus."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "The Russian State Library is founded as the Library of the Moscow Public Museum."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "James Cotton, American singer-songwriter and harmonica player (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Rod Gilbert, Canadian-American ice hockey player (died 2021)"
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Walter Dean Myers, American author and poet (born 1937)"
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "The Northern Territory in Australia is granted self-government."
+    },
+    {
+      "type": "Event",
+      "year": "69",
+      "text": "Tiberius Julius Alexander orders his Roman legions in Alexandria to swear allegiance to Vespasian as Emperor."
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Spanish–American War: The Battle of San Juan Hill is fought in Santiago de Cuba, Cuba."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "Chinese General Zhang Xun seizes control of Beijing and restores the monarchy, installing Puyi, last emperor of the Qing dynasty, to the throne. The restoration is reversed just shy of two weeks later, when Republican troops regain control of the capital."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Art McNally, American football referee (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "The American radio station WFAN in New York City is launched as the world's first all-sports radio station."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "China resumes sovereignty over the city-state of Hong Kong, ending 156 years of British colonial rule. The handover ceremony is attended by British Prime Minister Tony Blair, Charles, Prince of Wales, Chinese President Jiang Zemin and U.S. Secretary of State Madeleine Albright."
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "Johann Georg Tralles discovers the Great Comet of 1819, (C/1819 N1). It is the first comet analyzed using polarimetry, by François Arago."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "The United States Department of Justice formally comes into existence."
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Jamie Farr, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Timothy J. Tobias, American pianist and composer (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "A North Korean Ilyushin Il-62M jet en route to Conakry Airport in Guinea crashes into the Fouta Djallon mountains in Guinea-Bissau, killing all 23 people on board."
+    },
+    {
+      "type": "Event",
+      "year": "1823",
+      "text": "The five Central American nations of Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica declare independence from the First Mexican Empire after being annexed the year prior."
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The Great Railroad Strike of 1922 begins in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "The Scottish Parliament is officially opened by Elizabeth II on the day that legislative powers are officially transferred from the old Scottish Office in London to the new devolved Scottish Executive in Edinburgh. In Wales, the powers of the Welsh Secretary are transferred to the National Assembly."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Australian Federal Government becomes the sole collector of income tax in Australia as State Income Tax is abolished."
+    },
+    {
+      "type": "Event",
+      "year": "1874",
+      "text": "The Sholes and Glidden typewriter, the first commercially successful typewriter, goes on sale."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The Chinese Communist Party is founded by Chen Duxiu and Li Dazhao, with the help of the Far Eastern Bureau of the Russian Social Democratic Labour Party (Bolsheviks), who seized power in Russia after the 1917 October Revolution, and the Far Eastern Secretariat of the Communist International."
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Sean Colson, American basketball player and coach"
+    },
+    {
+      "type": "Death",
+      "year": "1991",
+      "text": "Michael Landon, American actor, director and producer (born 1936)"
+    },
+    {
+      "type": "Event",
+      "year": "1523",
+      "text": "Jan van Essen and Hendrik Vos become the first Lutheran martyrs, burned at the stake by Roman Catholic authorities in Brussels."
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "Australia's national broadcaster, the Australian Broadcasting Corporation, was formed."
+    },
+    {
+      "type": "Event",
+      "year": "1879",
+      "text": "Charles Taze Russell publishes the first edition of the religious magazine The Watchtower."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "German reunification: East Germany accepts the Deutsche Mark as its currency, thus uniting the economies of East and West Germany."
+    },
+    {
+      "type": "Event",
+      "year": "1881",
+      "text": "The world's first international telephone call is made between St. Stephen, New Brunswick, Canada, and Calais, Maine, United States."
+    },
+    {
+      "type": "Event",
       "year": "1980",
       "text": "\"O Canada\" officially becomes the national anthem of Canada."
     },
     {
       "type": "Event",
-      "year": "1885",
-      "text": "The United States terminates reciprocity and fishery agreement with Canada."
+      "year": "1968",
+      "text": "The United States Central Intelligence Agency's Phoenix Program is officially established."
+    },
+    {
+      "type": "Event",
+      "year": "1858",
+      "text": "Joint reading of Charles Darwin and Alfred Russel Wallace's papers on evolution to the Linnean Society of London."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "French government enacts its anti-clerical legislation Law of Association prohibiting the formation of new monastic orders without governmental approval."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Ralph Young, American singer and actor (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "The Treaty on the Non-Proliferation of Nuclear Weapons is signed in Washington, D.C., London and Moscow by sixty-two countries."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "The United States–Mexico–Canada Agreement replaces NAFTA."
+    },
+    {
+      "type": "Event",
+      "year": "1766",
+      "text": "François-Jean de la Barre, a young French nobleman, is tortured and beheaded before his body is burnt on a pyre along with a copy of Voltaire's Dictionnaire philosophique nailed to his torso for the crime of not saluting a Roman Catholic religious procession in Abbeville, France."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "World War I: Russia launches an offensive against Austria-Hungary to capture Galicia, its final offensive of the war."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The Trust Territory of Somaliland (the former Italian Somaliland) gains its independence from Italy. Concurrently, it unites as scheduled with the five-day-old State of Somaliland (the former British Somaliland) to form the Somali Republic."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "David Duke, American white supremacist, politician and Ku Klux Klan Grand Wizard"
     }
   ],
   "source": "Wikipedia"
