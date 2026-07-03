@@ -3,23 +3,28 @@
   "items": [
     {
       "type": "Event",
-      "year": "1839",
-      "text": "The first state normal school in the United States, the forerunner to today's Framingham State University, opens in Lexington, Massachusetts with three students."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "United States President Franklin D. Roosevelt dedicates the Eternal Light Peace Memorial and lights the eternal flame at Gettysburg Battlefield."
+      "year": "1886",
+      "text": "The New-York Tribune becomes the first newspaper to use a linotype machine, eliminating typesetting by hand."
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Yeardley Smith, American actress, voice actress, comedian and writer"
+      "year": "1846",
+      "text": "Achilles Alferaki, Russian composer and politician, Governor of Taganrog (died 1919)"
     },
     {
-      "type": "Event",
-      "year": "1819",
-      "text": "The Bank for Savings in the City of New-York, the first savings bank in the United States, opens."
+      "type": "Death",
+      "year": "1993",
+      "text": "Don Drysdale, American baseball player and sportscaster (born 1936)"
+    },
+    {
+      "type": "Death",
+      "year": "1937",
+      "text": "Jacob Schick, American-Canadian captain and businessman, invented the electric razor (born 1877)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Tarmo Koivisto, Finnish author and illustrator"
     },
     {
       "type": "Event",
@@ -27,29 +32,24 @@
       "text": "The Valencia Metro derailment kills 41 people."
     },
     {
-      "type": "Event",
-      "year": "1988",
-      "text": "The Fatih Sultan Mehmet Bridge in Istanbul, Turkey is completed, providing the second connection between the continents of Europe and Asia over the Bosphorus."
-    },
-    {
       "type": "Birth",
       "year": "1954",
       "text": "Les Cusworth, English rugby player"
     },
     {
-      "type": "Death",
-      "year": "2009",
-      "text": "John Keel, American journalist and author (born 1930)"
+      "type": "Birth",
+      "year": "1947",
+      "text": "Dave Barry, American journalist and author"
     },
     {
       "type": "Birth",
-      "year": "1905",
-      "text": "Johnny Gibson, American hurdler and coach (died 2006)"
+      "year": "1942",
+      "text": "Kevin Johnson, Australian singer-songwriter"
     },
     {
-      "type": "Event",
-      "year": "1908",
-      "text": "Start of the Young Turk Revolution in the Ottoman Empire, forcing Sultan Abdul Hamid II leads to restore the Constitution of 1876 and reconvene the parliament."
+      "type": "Birth",
+      "year": "1926",
+      "text": "Laurence Street, Australian jurist and former Chief Justice of the Supreme Court of New South Wales (died 2018)"
     },
     {
       "type": "Event",
@@ -58,53 +58,8 @@
     },
     {
       "type": "Event",
-      "year": "324",
-      "text": "Battle of Adrianople: Constantine I defeats Licinius, who flees to Byzantium."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Joanne Herring, American socialite, businesswoman, political activist, philanthropist, diplomat, and television talk show host"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "A Spanish squadron, led by Pascual Cervera y Topete, is defeated by an American squadron under William T. Sampson in the Battle of Santiago de Cuba."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Michael Cole, American actor (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "The SS United States sets sail on her maiden voyage to Southampton. During the voyage, the ship takes the Blue Riband away from the RMS Queen Mary."
-    },
-    {
-      "type": "Event",
       "year": "1913",
       "text": "Confederate veterans at the Great Reunion of 1913 reenact Pickett's Charge; upon reaching the high-water mark of the Confederacy they are met by the outstretched hands of friendship from Union survivors."
-    },
-    {
-      "type": "Death",
-      "year": "1503",
-      "text": "Pierre d'Aubusson, Grand Master of the Knights of Rhodes (born 1423)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Robert B. Meyner, American lawyer and politician, 44th Governor of New Jersey (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Johnny Coles, American trumpet player (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Fontella Bass, American R&B and soul singer (died 2012)"
     },
     {
       "type": "Event",
@@ -113,18 +68,13 @@
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Tarmo Koivisto, Finnish author and illustrator"
+      "year": "1908",
+      "text": "M. F. K. Fisher, American author (died 1992)"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Michael Shea, American author (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "United States Navy warship USS Vincennes shoots down Iran Air Flight 655 over the Persian Gulf, killing all 290 people aboard."
+      "year": "1940",
+      "text": "Lance Larson, American swimmer (died 2024)"
     },
     {
       "type": "Event",
@@ -133,28 +83,48 @@
     },
     {
       "type": "Birth",
+      "year": "1942",
+      "text": "Dr. Lonnie Smith, American jazz Hammond B-3 organist (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Scott Borchetta, American record executive and entrepreneur"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "John Kundla, American basketball player and coach (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "United States President Franklin D. Roosevelt dedicates the Eternal Light Peace Memorial and lights the eternal flame at Gettysburg Battlefield."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Paul Barrere, American singer-songwriter and guitarist (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "George Sanders, Russian-born British actor (died 1972)"
+    },
+    {
+      "type": "Event",
       "year": "1988",
-      "text": "Vladislav Sesganov, Russian figure skater"
+      "text": "The Fatih Sultan Mehmet Bridge in Istanbul, Turkey is completed, providing the second connection between the continents of Europe and Asia over the Bosphorus."
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Poly Styrene, British musician (died 2011)"
+      "year": "1926",
+      "text": "Rae Allen, American actress, singer, and director (died 2022)"
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Alex Twal, Australian-Lebanese rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Ramush Haradinaj, Kosovo-Albanian soldier and politician, 4th Prime Minister of Kosovo"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Mike Burton, American swimmer"
+      "year": "1941",
+      "text": "Gloria Allred, American lawyer and activist"
     },
     {
       "type": "Birth",
@@ -162,44 +132,39 @@
       "text": "Fyodor Tuvin, Russian footballer (died 2013)"
     },
     {
-      "type": "Event",
-      "year": "2013",
-      "text": "President of Egypt Mohamed Morsi is removed from office by the military after four days of protests all over the country calling for his resignation, to which he did not respond. The president of the Supreme Constitutional Court of Egypt, Adly Mansour, is declared acting president until further elections are held."
+      "type": "Birth",
+      "year": "1935",
+      "text": "Harrison Schmitt, American geologist, astronaut, and politician.  Twelfth man to walk on the moon."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Richard Alvin Tonry, American lawyer and politician (born 1935)"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Johnny Lee, American singer and guitarist"
+      "year": "1929",
+      "text": "Joanne Herring, American socialite, businesswoman, political activist, philanthropist, diplomat, and television talk show host"
+    },
+    {
+      "type": "Birth",
+      "year": "1844",
+      "text": "Dankmar Adler, German-born American architect and engineer (died 1900)"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: American forces capture Fort Erie from British troops in Upper Canada."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "The SS United States sets sail on her maiden voyage to Southampton. During the voyage, the ship takes the Blue Riband away from the RMS Queen Mary."
     },
     {
       "type": "Birth",
       "year": "1943",
-      "text": "Judith Durham, Australian folk-pop singer-songwriter and musician (died 2022)"
-    },
-    {
-      "type": "Death",
-      "year": "1993",
-      "text": "Don Drysdale, American baseball player and sportscaster (born 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1886",
-      "text": "The New-York Tribune becomes the first newspaper to use a linotype machine, eliminating typesetting by hand."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The final day of the Battle of Gettysburg culminates with Pickett's Charge."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Edward Brandt, Jr., American physician and mathematician (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Terry Moriarty, Australian rules footballer (died 2011)"
+      "text": "Norman E. Thagard, American astronaut"
     },
     {
       "type": "Birth",
@@ -208,13 +173,28 @@
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Manny Lawson, American football player"
+      "year": "1988",
+      "text": "Vladislav Sesganov, Russian figure skater"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Ruth Crawford Seeger, American composer (died 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Fontella Bass, American R&B and soul singer (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Aaron Tippin, American singer-songwriter, guitarist, and producer"
     },
     {
       "type": "Event",
-      "year": "1952",
-      "text": "The Constitution of Puerto Rico is approved by the United States Congress."
+      "year": "324",
+      "text": "Battle of Adrianople: Constantine I defeats Licinius, who flees to Byzantium."
     },
     {
       "type": "Event",
@@ -223,38 +203,28 @@
     },
     {
       "type": "Event",
+      "year": "1979",
+      "text": "U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Moisés Alou, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Connie Nielsen, Danish-American actress"
+    },
+    {
+      "type": "Event",
       "year": "1775",
       "text": "American Revolutionary War: George Washington takes command of the Continental Army at Cambridge, Massachusetts."
     },
     {
-      "type": "Birth",
-      "year": "1860",
-      "text": "Charlotte Perkins Gilman, American sociologist and author (died 1935)"
-    },
-    {
       "type": "Event",
-      "year": "1890",
-      "text": "Idaho is admitted as the 43rd U.S. state."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Aaron Tippin, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Carla Olson, American singer-songwriter and music producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1876",
-      "text": "Ralph Barton Perry, American philosopher and academic (died 1957)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Montel Williams, American talk show host and television personality"
+      "year": "1908",
+      "text": "Start of the Young Turk Revolution in the Ottoman Empire, forcing Sultan Abdul Hamid II leads to restore the Constitution of 1876 and reconvene the parliament."
     },
     {
       "type": "Event",
@@ -263,8 +233,18 @@
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Ian Maxtone-Graham, American screenwriter and producer"
+      "year": "1997",
+      "text": "T. J. Hockenson, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1890",
+      "text": "Idaho is admitted as the 43rd U.S. state."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "The Constitution of Puerto Rico is approved by the United States Congress."
     },
     {
       "type": "Event",
@@ -273,33 +253,53 @@
     },
     {
       "type": "Birth",
-      "year": "1901",
-      "text": "Ruth Crawford Seeger, American composer (died 1953)"
+      "year": "1897",
+      "text": "Jesse Douglas, American mathematician and academic (died 1965)"
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul."
+      "year": "1863",
+      "text": "American Civil War: The final day of the Battle of Gettysburg culminates with Pickett's Charge."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Laura Branigan, American singer-songwriter (died 2004)"
     },
     {
       "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: American forces capture Fort Erie from British troops in Upper Canada."
+      "year": "2013",
+      "text": "President of Egypt Mohamed Morsi is removed from office by the military after four days of protests all over the country calling for his resignation, to which he did not respond. The president of the Supreme Constitutional Court of Egypt, Adly Mansour, is declared acting president until further elections are held."
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "A Spanish squadron, led by Pascual Cervera y Topete, is defeated by an American squadron under William T. Sampson in the Battle of Santiago de Cuba."
+    },
+    {
+      "type": "Event",
+      "year": "1839",
+      "text": "The first state normal school in the United States, the forerunner to today's Framingham State University, opens in Lexington, Massachusetts with three students."
     },
     {
       "type": "Birth",
       "year": "1990",
-      "text": "Alison Riske-Amritraj, American tennis player"
+      "text": "Nathan Gardner, Australian rugby league player"
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Eddy Paape, Belgian illustrator (died 2012)"
+      "year": "1940",
+      "text": "Michael Cole, American actor (died 2024)"
     },
     {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Franz Kafka, Czech-Austrian author (died 1924)"
+      "type": "Event",
+      "year": "1988",
+      "text": "United States Navy warship USS Vincennes shoots down Iran Air Flight 655 over the Persian Gulf, killing all 290 people aboard."
+    },
+    {
+      "type": "Event",
+      "year": "1819",
+      "text": "The Bank for Savings in the City of New-York, the first savings bank in the United States, opens."
     }
   ],
   "source": "Wikipedia"
