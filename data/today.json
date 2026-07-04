@@ -8,28 +8,78 @@
     },
     {
       "type": "Event",
-      "year": "1903",
-      "text": "The Philippine–American War is officially concluded."
+      "year": "1998",
+      "text": "Japan launches the Nozomi probe to Mars, joining the United States and Russia as a space exploring nation."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Todd Marinovich, American football player and coach"
+    },
+    {
+      "type": "Death",
+      "year": "2008",
+      "text": "Evelyn Keyes, American actress (born 1916)"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "Cold War: A court in Czechoslovakia sentences American journalist William N. Oatis to ten years in prison on charges of espionage."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "World War I: The Battle of Hamel, a successful attack by the Australian Corps against German positions near the town of Le Hamel on the Western Front."
+    },
+    {
+      "type": "Event",
+      "year": "1774",
+      "text": "Orangetown Resolutions are adopted in the Province of New York, one of many protests against the British Parliament's Coercive Acts."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Will Smith, American football player (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress, formally announcing and explaining separation from the Kingdom of Great Britain and the creation of the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "A massive heat wave strikes the northeastern United States, killing 380 people in eleven days and breaking temperature records in several cities."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Irving Johnson, American sailor and author (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Siege of Vicksburg: The Confederate army in Vicksburg, Mississippi surrenders to Union forces under Ulysses S. Grant after 47 days of siege, contributing to the Union capture of the Mississippi River."
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "Western Samoa changes the International Date Line, causing Monday (July 4) to occur twice, resulting in a leap year with 367 days."
+    },
+    {
+      "type": "Event",
+      "year": "1778",
+      "text": "American Revolutionary War: US forces under George Clark capture Kaskaskia during the Illinois campaign."
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "President Woodrow Wilson addresses American Civil War veterans at the Great Reunion of 1913."
     },
     {
       "type": "Event",
       "year": "1802",
       "text": "The United States Military Academy opens at West Point, New York."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Ron Kovic, American author and activist"
-    },
-    {
-      "type": "Event",
-      "year": "1610",
-      "text": "The Battle of Klushino is fought between forces of the Polish–Lithuanian Commonwealth and Russia during the Polish–Russian War, after which Polish troops entered Moscow."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "The George Jackson Brigade plants a bomb at the main power substation for the Washington state capitol in Olympia, in solidarity with a prison strike at the Walla Walla State Penitentiary Intensive Security Unit."
     },
     {
       "type": "Event",
@@ -38,23 +88,68 @@
     },
     {
       "type": "Event",
-      "year": "1845",
-      "text": "Henry David Thoreau moves into a small cabin on Walden Pond in Concord, Massachusetts. Thoreau's account of his two years there, Walden, will become a touchstone of the environmental movement."
+      "year": "1744",
+      "text": "The Treaty of Lancaster, in which the Iroquois cede lands between the Allegheny Mountains and the Ohio River to the British colonies, is signed in Lancaster, Pennsylvania."
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "Lou Gehrig, recently diagnosed with Amyotrophic lateral sclerosis, informs a crowd at Yankee Stadium that he considers himself \"The luckiest man on the face of the earth\", then announces his retirement from major league baseball."
+      "year": "2025",
+      "text": "A devastating flood strikes the Texas Hill Country, killing at least 108 people."
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Union forces repulse a Confederate army at the Battle of Helena in Arkansas. The battle thwarts a Rebel attempt to relieve pressure on the besieged city of Vicksburg, and paves the way for the Union capture of Little Rock."
+      "year": "-26",
+      "text": "Marcus Licinius Crassus is granted a triumph for his victory in Thrace."
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Bruce Hamilton, Australian public servant (died 1989)"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "The \"Indian Independence Bill\" is presented before the British House of Commons, proposing the independence of the Provinces of British India into two sovereign countries: India and Pakistan."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The George Jackson Brigade plants a bomb at the main power substation for the Washington state capitol in Olympia, in solidarity with a prison strike at the Walla Walla State Penitentiary Intensive Security Unit."
     },
     {
       "type": "Event",
       "year": "1997",
       "text": "NASA's Pathfinder space probe lands on the surface of Mars."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Robert K. Merton, American sociologist and scholar (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1827",
+      "text": "Slavery is abolished in the State of New York."
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "The Oasis Live '25 tour begins in Principality Stadium, Cardiff, ending a 16-year hiatus."
+    },
+    {
+      "type": "Event",
+      "year": "1818",
+      "text": "US Flag Act of 1818 goes into effect creating a 13-stripe flag with a star for each state. New stars would be added on July 4 after a new state had been admitted."
+    },
+    {
+      "type": "Event",
+      "year": "1832",
+      "text": "John Neal delivers the first public lecture in the US to advocate the rights of women."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The cornerstone of the Freedom Tower is laid on the World Trade Center site in New York City."
     },
     {
       "type": "Event",
@@ -64,72 +159,7 @@
     {
       "type": "Event",
       "year": "1946",
-      "text": "After 381 years of near-continuous colonial rule by various powers, the Philippines attains full independence from the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Jimmy Bivins, American boxer (born 1919)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Terrance Knighton, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1744",
-      "text": "The Treaty of Lancaster, in which the Iroquois cede lands between the Allegheny Mountains and the Ohio River to the British colonies, is signed in Lancaster, Pennsylvania."
-    },
-    {
-      "type": "Event",
-      "year": "1832",
-      "text": "John Neal delivers the first public lecture in the US to advocate the rights of women."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Thomas Nagel, American philosopher and academic"
-    },
-    {
-      "type": "Event",
-      "year": "638",
-      "text": "Heraclonas and David, sons of Byzantine Emperor Heraclius, are proclaimed augustus and caesar respectively, possibly due to the bad health of their elder brother Heraclius Constantine."
-    },
-    {
-      "type": "Event",
-      "year": "1911",
-      "text": "A massive heat wave strikes the northeastern United States, killing 380 people in eleven days and breaking temperature records in several cities."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "The \"Indian Independence Bill\" is presented before the British House of Commons, proposing the independence of the Provinces of British India into two sovereign countries: India and Pakistan."
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "Cold War: A court in Czechoslovakia sentences American journalist William N. Oatis to ten years in prison on charges of espionage."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Stephen Boyd, Northern Ireland-born American actor (died 1977)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Johnnie Parsons, American race car driver (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "William Howard Taft becomes American governor of the Philippines."
-    },
-    {
-      "type": "Event",
-      "year": "1838",
-      "text": "The Iowa Territory is organized."
+      "text": "The Kielce pogrom against Jewish Holocaust survivors in Poland."
     },
     {
       "type": "Event",
@@ -138,28 +168,23 @@
     },
     {
       "type": "Event",
+      "year": "1838",
+      "text": "The Iowa Territory is organized."
+    },
+    {
+      "type": "Event",
       "year": "1187",
       "text": "The Crusades: Battle of Hattin: Saladin defeats Guy of Lusignan, King of Jerusalem."
     },
     {
       "type": "Event",
-      "year": "1831",
-      "text": "Samuel Francis Smith writes \"My Country, 'Tis of Thee\" for the Boston, Massachusetts July 4 festivities."
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress, formally announcing and explaining separation from the Kingdom of Great Britain and the creation of the United States."
+      "year": "1845",
+      "text": "Henry David Thoreau moves into a small cabin on Walden Pond in Concord, Massachusetts. Thoreau's account of his two years there, Walden, will become a touchstone of the environmental movement."
     },
     {
       "type": "Death",
-      "year": "1905",
-      "text": "Élisée Reclus, French geographer and author (born 1830)"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "The cornerstone of the Freedom Tower is laid on the World Trade Center site in New York City."
+      "year": "1994",
+      "text": "Joey Marella, American wrestling referee (born 1964)"
     },
     {
       "type": "Event",
@@ -167,34 +192,49 @@
       "text": "The Louisiana Purchase is announced to the US people."
     },
     {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Guram Kashia, Georgian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Roland Ratzenberger, Austrian race car driver (died 1994)"
-    },
-    {
       "type": "Event",
-      "year": "1778",
-      "text": "American Revolutionary War: US forces under George Clark capture Kaskaskia during the Illinois campaign."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "World War I: The Battle of Hamel, a successful attack by the Australian Corps against German positions near the town of Le Hamel on the Western Front."
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "President Woodrow Wilson addresses American Civil War veterans at the Great Reunion of 1913."
+      "year": "414",
+      "text": "Aelia Pulcheria takes a vow of chastity and is proclaimed Augusta, thus becoming the regent of the Byzantine Empire for her 13-year-old brother Theodosius II after the death of the previous regent, praefect Anthemius."
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Geraldo Rivera, American lawyer, journalist, and author"
+      "year": "1973",
+      "text": "Tony Popovic, Australian footballer and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1831",
+      "text": "Samuel Francis Smith writes \"My Country, 'Tis of Thee\" for the Boston, Massachusetts July 4 festivities."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Nellie Mae Rowe, American folk artist (died 1982)"
+    },
+    {
+      "type": "Death",
+      "year": "1826",
+      "text": "Thomas Jefferson, American architect, lawyer, and politician, 3rd President of the United States (born 1743)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Chuck Tanner, American baseball player and manager (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "William Howard Taft becomes American governor of the Philippines."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Union forces repulse a Confederate army at the Battle of Helena in Arkansas. The battle thwarts a Rebel attempt to relieve pressure on the besieged city of Vicksburg, and paves the way for the Union capture of Little Rock."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Lou Gehrig, recently diagnosed with Amyotrophic lateral sclerosis, informs a crowd at Yankee Stadium that he considers himself \"The luckiest man on the face of the earth\", then announces his retirement from major league baseball."
     },
     {
       "type": "Event",
@@ -203,38 +243,8 @@
     },
     {
       "type": "Event",
-      "year": "1894",
-      "text": "The short-lived Republic of Hawaii is proclaimed by Sanford B. Dole."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Jill Craybas, American tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Space Shuttle program: Discovery launches STS-121 to the International Space Station. The event gained wide media attention as it was the only shuttle launch in the program's history to occur on the United States' Independence Day."
-    },
-    {
-      "type": "Event",
-      "year": "414",
-      "text": "Aelia Pulcheria takes a vow of chastity and is proclaimed Augusta, thus becoming the regent of the Byzantine Empire for her 13-year-old brother Theodosius II after the death of the previous regent, praefect Anthemius."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year."
-    },
-    {
-      "type": "Event",
-      "year": "-26",
-      "text": "Marcus Licinius Crassus is granted a triumph for his victory in Thrace."
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "A devastating flood strikes the Texas Hill Country, killing at least 108 people."
+      "year": "1903",
+      "text": "The Philippine–American War is officially concluded."
     },
     {
       "type": "Event",
@@ -243,48 +253,8 @@
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Siege of Vicksburg: The Confederate army in Vicksburg, Mississippi surrenders to Union forces under Ulysses S. Grant after 47 days of siege, contributing to the Union capture of the Mississippi River."
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Bruce Hamilton, Australian public servant (died 1989)"
-    },
-    {
-      "type": "Event",
-      "year": "1827",
-      "text": "Slavery is abolished in the State of New York."
-    },
-    {
-      "type": "Death",
-      "year": "1995",
-      "text": "Bob Ross, American painter and television host (born 1942)"
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "The Oasis Live '25 tour begins in Principality Stadium, Cardiff, ending a 16-year hiatus."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The Kielce pogrom against Jewish Holocaust survivors in Poland."
-    },
-    {
-      "type": "Event",
-      "year": "1774",
-      "text": "Orangetown Resolutions are adopted in the Province of New York, one of many protests against the British Parliament's Coercive Acts."
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "Western Samoa changes the International Date Line, causing Monday (July 4) to occur twice, resulting in a leap year with 367 days."
-    },
-    {
-      "type": "Event",
-      "year": "1818",
-      "text": "US Flag Act of 1818 goes into effect creating a 13-stripe flag with a star for each state. New stars would be added on July 4 after a new state had been admitted."
+      "year": "638",
+      "text": "Heraclonas and David, sons of Byzantine Emperor Heraclius, are proclaimed augustus and caesar respectively, possibly due to the bad health of their elder brother Heraclius Constantine."
     },
     {
       "type": "Event",
@@ -292,14 +262,44 @@
       "text": "In Alabama, the Tuskegee Institute opens."
     },
     {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Fred Wesley, American jazz and funk trombonist"
+    },
+    {
       "type": "Event",
-      "year": "1998",
-      "text": "Japan launches the Nozomi probe to Mars, joining the United States and Russia as a space exploring nation."
+      "year": "1966",
+      "text": "U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year."
+    },
+    {
+      "type": "Event",
+      "year": "1610",
+      "text": "The Battle of Klushino is fought between forces of the Polish–Lithuanian Commonwealth and Russia during the Polish–Russian War, after which Polish troops entered Moscow."
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Champion Jack Dupree, American boxer, blues and boogie-woogie pianist, singer-songwriter (died 1992)"
+      "year": "1961",
+      "text": "Richard Garriott, English-American video game designer, created the Ultima series"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Space Shuttle program: Discovery launches STS-121 to the International Space Station. The event gained wide media attention as it was the only shuttle launch in the program's history to occur on the United States' Independence Day."
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "The short-lived Republic of Hawaii is proclaimed by Sanford B. Dole."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "R. James Harvey, American politician (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "After 381 years of near-continuous colonial rule by various powers, the Philippines attains full independence from the United States."
     }
   ],
   "source": "Wikipedia"
