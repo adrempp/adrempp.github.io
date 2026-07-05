@@ -2,9 +2,174 @@
   "date": "2026-07-05",
   "items": [
     {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Milburn Stone, American actor (died 1980)"
+    },
+    {
       "type": "Event",
-      "year": "1995",
-      "text": "Armenia adopts its constitution, four years after its independence from the Soviet Union."
+      "year": "1833",
+      "text": "Admiral Charles Napier vanquishes the navy of the Portuguese usurper Dom Miguel at the third Battle of Cape St. Vincent."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Bizarre, American rapper"
+    },
+    {
+      "type": "Death",
+      "year": "2008",
+      "text": "Hasan Doğan, Turkish businessman (born 1956)"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Ludwig G. Strauss, German physician and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Ismail Mahomed, South African lawyer and politician, 17th Chief Justice of South Africa (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "The last Ariane 5 rocket is launched, carrying the Heinrich Hertz and Syracuse 4B satellites."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Lyman S. Ayres II, American businessman (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Vladimir Mikhailovich Zakharov, Russian dancer and choreographer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Bernardus Johannes Alfrink, Dutch cardinal (died 1987)"
+    },
+    {
+      "type": "Event",
+      "year": "1811",
+      "text": "The Venezuelan Declaration of Independence is adopted by a congress of the provinces."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "The official independence of Algeria is proclaimed after an eight-year-long war with France."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Smiley Lewis, American singer-songwriter and guitarist (died 1966)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Alexander Radulov, Russian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "The Second Continental Congress adopts the Olive Branch Petition."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "The Liberty Bell leaves Philadelphia by special train on its way to the Panama–Pacific International Exposition.  This is the last trip outside Philadelphia that the custodians of the bell intend to permit."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ken Akamatsu, Japanese illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "U.S. President Bill Clinton imposes trade and economic sanctions against the Taliban regime in Afghanistan."
+    },
+    {
+      "type": "Birth",
+      "year": "1891",
+      "text": "John Howard Northrop, American chemist and academic, Nobel Prize laureate (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "2005",
+      "text": "Sombr, American singer and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "Sri Lankan Civil War: The LTTE uses suicide attacks on the Sri Lankan Army for the first time. The Black Tigers are born and, in the following years, will continue to kill with the tactic."
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "The Twenty-sixth Amendment to the United States Constitution, lowering the voting age from 21 to 18 years, is formally certified by President Richard Nixon."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Brian James, Australian actor (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: An Allied invasion fleet sails for Sicily (Operation Husky, July 10, 1943)."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Sri Lankan Civil War: Sri Lankan Tamil MP A. Thangathurai is shot dead at Sri Shanmuga Hindu Ladies College in Trincomalee."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Tommy LiPuma, American Grammy Award-winning jazz record producer and record label executive(died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Diana Lynn, American actress (died 1971)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Goose Gossage, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "George Moore, Australian jockey (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "War of 1812: Three weeks of British raids on Fort Schlosser, Black Rock and Plattsburgh, New York commence."
+    },
+    {
+      "type": "Event",
+      "year": "1413",
+      "text": "Mehmed Çelebi and his army defeat the army of his brother Musa Çelebi in the battle of Çamurlu. Musa is captured and executed."
+    },
+    {
+      "type": "Event",
+      "year": "1594",
+      "text": "Portuguese forces under the command of Pedro Lopes de Sousa begin an unsuccessful invasion of the Kingdom of Kandy during the Campaign of Danture in Sri Lanka."
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "The United States discovers and claims Midway Atoll."
+    },
+    {
+      "type": "Event",
+      "year": "1770",
+      "text": "The Battle of Chesma between the Russian Empire and the Ottoman Empire begins, resulting in one of the worst naval defeats of the Ottomans since Lepanto."
     },
     {
       "type": "Birth",
@@ -13,48 +178,8 @@
     },
     {
       "type": "Event",
-      "year": "1830",
-      "text": "After inflicting a series of defeats on Algerian forces, the French army under the Comte de Bourmont captures Algier."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "The Second Continental Congress adopts the Olive Branch Petition."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Henry Cabot Lodge Jr., American colonel and politician, 3rd United States Ambassador to the United Nations (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Jimmy Crespo, American guitarist and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1862",
-      "text": "George Nuttall, American-British bacteriologist (died 1937)"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "The last Ariane 5 rocket is launched, carrying the Heinrich Hertz and Syracuse 4B satellites."
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "War of 1812: Three weeks of British raids on Fort Schlosser, Black Rock and Plattsburgh, New York commence."
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Cy Twombly, American-Italian painter, sculptor, and photographer (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1860",
-      "text": "Robert Bacon, American colonel and politician, 39th United States Secretary of State (died 1919)"
+      "year": "1852",
+      "text": "Abolitionist Frederick Douglass delivers his \"What to the Slave Is the Fourth of July?\" speech at a meeting organized by the Rochester Ladies' Anti-Slavery Society in Rochester, New York."
     },
     {
       "type": "Birth",
@@ -67,134 +192,9 @@
       "text": "Adam Cole, American wrestler"
     },
     {
-      "type": "Event",
-      "year": "1950",
-      "text": "Korean War: Task Force Smith: American and North Korean forces first clash, in the Battle of Osan."
-    },
-    {
       "type": "Birth",
-      "year": "1926",
-      "text": "Diana Lynn, American actress (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Viktor Kulikov, Russian marshal (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Dave Haywood, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "The Liberty Bell leaves Philadelphia by special train on its way to the Panama–Pacific International Exposition.  This is the last trip outside Philadelphia that the custodians of the bell intend to permit."
-    },
-    {
-      "type": "Event",
-      "year": "1770",
-      "text": "The Battle of Chesma between the Russian Empire and the Ottoman Empire begins, resulting in one of the worst naval defeats of the Ottomans since Lepanto."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "János Starker, Hungarian-American cellist and educator (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "The United States discovers and claims Midway Atoll."
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Louise Freeland Jenkins, American astronomer and academic (died 1970)"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Bernardus Johannes Alfrink, Dutch cardinal (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Michael Blake, American author and screenwriter (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "Elvis Presley records his first single, \"That's All Right\", at Sun Records in Memphis, Tennessee."
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "The Battle of Wagram between the French and Austrian Empires begins."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Sri Lankan Civil War: Sri Lankan Tamil MP A. Thangathurai is shot dead at Sri Shanmuga Hindu Ladies College in Trincomalee."
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "Julien Tiersot, French musicologist and composer (died 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1413",
-      "text": "Mehmed Çelebi and his army defeat the army of his brother Musa Çelebi in the battle of Çamurlu. Musa is captured and executed."
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "The United States Supreme Court gives its United States v. Leon decision providing a good-faith exception from the Fourth Amendment exclusionary rule against use of evidence obtained through defective warrants in criminal trials."
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: Battle of Chippawa: American Major General Jacob Brown defeats British General Phineas Riall at Chippawa, Ontario."
-    },
-    {
-      "type": "Event",
-      "year": "1833",
-      "text": "Admiral Charles Napier vanquishes the navy of the Portuguese usurper Dom Miguel at the third Battle of Cape St. Vincent."
-    },
-    {
-      "type": "Death",
-      "year": "1969",
-      "text": "Leo McCarey, American director, producer, and screenwriter (born 1898)"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The National Labor Relations Act, which governs labor relations in the United States, is signed into law by President Franklin D. Roosevelt."
-    },
-    {
-      "type": "Death",
-      "year": "1945",
-      "text": "John Curtin, Australian journalist and politician, 14th Prime Minister of Australia (born 1885)"
-    },
-    {
-      "type": "Birth",
-      "year": "1841",
-      "text": "William Collins Whitney, American financier and politician, 31st United States Secretary of the Navy (died 1904)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "A series of violent riots break out in Ürümqi, the capital city of the Xinjiang Uyghur Autonomous Region in China."
-    },
-    {
-      "type": "Event",
-      "year": "1811",
-      "text": "The Venezuelan Declaration of Independence is adopted by a congress of the provinces."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Yaroslav Kosov, Russian ice hockey player"
+      "year": "1992",
+      "text": "Chiara Scholl, American tennis player"
     },
     {
       "type": "Event",
@@ -202,79 +202,49 @@
       "text": "Iran–Contra affair: Oliver North is sentenced by U.S. District Judge Gerhard A. Gesell to a three-year suspended prison term, two years probation, $150,000 in fines and 1,200 hours community service. His convictions are later overturned."
     },
     {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Prince John Konstantinovich of Russia (died 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Tommy LiPuma, American Grammy Award-winning jazz record producer and record label executive(died 2017)"
+      "type": "Death",
+      "year": "1932",
+      "text": "Sasha Chorny, Russian poet and author (born 1880)"
     },
     {
       "type": "Event",
-      "year": "1594",
-      "text": "Portuguese forces under the command of Pedro Lopes de Sousa begin an unsuccessful invasion of the Kingdom of Kandy during the Campaign of Danture in Sri Lanka."
-    },
-    {
-      "type": "Event",
-      "year": "1852",
-      "text": "Abolitionist Frederick Douglass delivers his \"What to the Slave Is the Fourth of July?\" speech at a meeting organized by the Rochester Ladies' Anti-Slavery Society in Rochester, New York."
+      "year": "1809",
+      "text": "The Battle of Wagram between the French and Austrian Empires begins."
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Chuck Close, American painter and photographer (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "Sri Lankan Civil War: The LTTE uses suicide attacks on the Sri Lankan Army for the first time. The Black Tigers are born and, in the following years, will continue to kill with the tactic."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "John LeClair, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "George Costakis, Russian art collector (died 1990)"
-    },
-    {
-      "type": "Event",
       "year": "1943",
-      "text": "World War II: An Allied invasion fleet sails for Sicily (Operation Husky, July 10, 1943)."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Horacio Cartes, Paraguayan businessman and politician, President of Paraguay"
+      "text": "Curt Blefary, American baseball player and coach (died 2001)"
     },
     {
       "type": "Event",
-      "year": "1962",
-      "text": "The official independence of Algeria is proclaimed after an eight-year-long war with France."
+      "year": "1995",
+      "text": "Armenia adopts its constitution, four years after its independence from the Soviet Union."
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Paul-Gilbert Langevin, French musicologist, critic and physicist (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "A boiling liquid expanding vapor explosion (BLEVE) in Kingman, Arizona, following a fire that broke out as propane was being transferred from a railroad car to a storage tank, kills eleven firefighters."
+      "year": "1860",
+      "text": "Robert Bacon, American colonel and politician, 39th United States Secretary of State (died 1919)"
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Ken Akamatsu, Japanese illustrator"
+      "year": "1914",
+      "text": "John Thomas Dunlop, American administrator and labor scholar (died 2003)"
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "The Twenty-sixth Amendment to the United States Constitution, lowering the voting age from 21 to 18 years, is formally certified by President Richard Nixon."
+      "year": "1830",
+      "text": "After inflicting a series of defeats on Algerian forces, the French army under the Comte de Bourmont captures Algier."
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Korean War: Task Force Smith: American and North Korean forces first clash, in the Battle of Osan."
+    },
+    {
+      "type": "Event",
+      "year": "328",
+      "text": "The official opening of Constantine's Bridge built over the Danube between Sucidava (Corabia, Romania) and Oescus (Gigen, Bulgaria) by the Roman architect Theophilus Patricius."
     },
     {
       "type": "Event",
@@ -283,23 +253,53 @@
     },
     {
       "type": "Event",
-      "year": "328",
-      "text": "The official opening of Constantine's Bridge built over the Danube between Sucidava (Corabia, Romania) and Oescus (Gigen, Bulgaria) by the Roman architect Theophilus Patricius."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "David Morrow, Australian radio host and sportscaster (died 2024)"
+      "year": "1954",
+      "text": "Elvis Presley records his first single, \"That's All Right\", at Sun Records in Memphis, Tennessee."
     },
     {
       "type": "Event",
-      "year": "1999",
-      "text": "U.S. President Bill Clinton imposes trade and economic sanctions against the Taliban regime in Afghanistan."
+      "year": "1984",
+      "text": "The United States Supreme Court gives its United States v. Leon decision providing a good-faith exception from the Fourth Amendment exclusionary rule against use of evidence obtained through defective warrants in criminal trials."
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "A series of violent riots break out in Ürümqi, the capital city of the Xinjiang Uyghur Autonomous Region in China."
+    },
+    {
+      "type": "Death",
+      "year": "1929",
+      "text": "Henry Johnson, American sergeant (born 1897)"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: Battle of Chippawa: American Major General Jacob Brown defeats British General Phineas Riall at Chippawa, Ontario."
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "The National Labor Relations Act, which governs labor relations in the United States, is signed into law by President Franklin D. Roosevelt."
     },
     {
       "type": "Birth",
       "year": "1957",
       "text": "Doug Wilson, Canadian-American ice hockey player and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Peter McNamara, Australian tennis player and coach (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Susan Wojcicki, Polish-American technology executive (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "A boiling liquid expanding vapor explosion (BLEVE) in Kingman, Arizona, following a fire that broke out as propane was being transferred from a railroad car to a storage tank, kills eleven firefighters."
     }
   ],
   "source": "Wikipedia"
