@@ -3,173 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "1952",
-      "text": "The ocean liner SS United States passes Bishop Rock on her maiden voyage, breaking the transatlantic speed record to become the fastest passenger ship in the world."
-    },
-    {
-      "type": "Event",
-      "year": "1798",
-      "text": "As a result of the XYZ Affair, the US Congress rescinds the Treaty of Alliance with France sparking the \"Quasi-War\"."
-    },
-    {
-      "type": "Event",
-      "year": "1807",
-      "text": "The first Treaty of Tilsit between France and Russia is signed, ending hostilities between the two countries in the War of the Fourth Coalition."
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "A man goes on a killing spree in Grand Rapids, Michigan, killing 7 and wounding 2 before killing himself."
-    },
-    {
-      "type": "Event",
-      "year": "1930",
-      "text": "Industrialist Henry J. Kaiser begins construction of Boulder Dam (now known as Hoover Dam)."
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "US troops occupy Monterey and Yerba Buena, thus beginning the US conquest of California."
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "US President Dwight D. Eisenhower signs the Alaska Statehood Act into law."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Michelle Kwan, American figure skater"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "A De Havilland Otter air taxi crashes in Soldotna, Alaska, killing ten people."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "During the Lebanese Civil War, 83 Tiger militants are killed during what will be known as the Safra massacre."
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "US President Ronald Reagan nominates Sandra Day O'Connor to become the first female member of the Supreme Court of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Revilo P. Oliver, American author and academic (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Karl-August Tiirmaa, Estonian skier"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Venus occults the star Regulus. This rare event is used to determine the diameter of Venus and the structure of the Venusian atmosphere."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "Colombo Town Guard officer Henry Pedris is executed in British Ceylon for allegedly inciting persecution of Muslims."
-    },
-    {
-      "type": "Death",
-      "year": "1950",
-      "text": "Fats Navarro, American trumpet player and composer (born 1923)"
-    },
-    {
-      "type": "Event",
       "year": "1770",
-      "text": "After three days of battle around Chesma, the Russian fleet defeats the Ottoman Navy, inflicting one of the most severe naval defeats on the Ottoman Empire since Lepanto."
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "American forces retreating from Fort Ticonderoga are defeated in the Battle of Hubbardton."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Pinetop Perkins, American singer and pianist (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Herbert Feis, American historian and author (died 1972)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Mary Ford, American singer and guitarist (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "1834",
-      "text": "In New York City, four nights of rioting against abolitionists began."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Joel Siegel, American journalist and critic (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Ana Kasparian, American journalist and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1907",
-      "text": "Florenz Ziegfeld Jr. staged his first Follies on the roof of the New York Theater in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Vonda Shepard, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Asia O'Hara, American drag performer"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "The United States begins its first military draft; exemptions cost $300."
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Ex-US Army soldier Micah Xavier Johnson shoots fourteen policemen, killing five of them, in downtown Dallas, Texas at the end of a protest of recent police killings of Black men. He is subsequently killed by a robot-delivered bomb."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "The New York Court of Appeals rules that women have the same right as men to go topless in public."
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "The luxury racing yacht Idler capsizes and sinks on Lake Erie during a storm, drowning six of its seven passengers (all members of the family of Cleveland businessman James C. Corrigan)."
-    },
-    {
-      "type": "Event",
-      "year": "1124",
-      "text": "The city of Tyre falls to the Venetian Crusade after a siege of nineteen weeks."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Cold War: Samantha Smith, a US schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Adele Goldberg, American computer scientist and academic"
+      "text": "The Battle of Larga between the Russian Empire and the Ottoman Empire takes place."
     },
     {
       "type": "Event",
@@ -178,33 +13,133 @@
     },
     {
       "type": "Event",
-      "year": "1911",
-      "text": "The United States, UK, Japan, and Russia sign the North Pacific Fur Seal Convention of 1911 banning open-water seal hunting, the first international treaty to address wildlife preservation issues."
+      "year": "1981",
+      "text": "US President Ronald Reagan nominates Sandra Day O'Connor to become the first female member of the Supreme Court of the United States."
     },
     {
       "type": "Event",
-      "year": "2019",
-      "text": "The United States defeated the Netherlands 2–0 at the 2019 FIFA Women's World Cup final in Lyon, France."
+      "year": "1959",
+      "text": "Venus occults the star Regulus. This rare event is used to determine the diameter of Venus and the structure of the Venusian atmosphere."
+    },
+    {
+      "type": "Event",
+      "year": "1798",
+      "text": "As a result of the XYZ Affair, the US Congress rescinds the Treaty of Alliance with France sparking the \"Quasi-War\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Herbert Feis, American historian and author (died 1972)"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "George Cukor, American director and producer (died 1983)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Adam Nelson, American shot putter"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Alan Armer, American director, producer, and screenwriter (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1770",
+      "text": "After three days of battle around Chesma, the Russian fleet defeats the Ottoman Navy, inflicting one of the most severe naval defeats on the Ottoman Empire since Lepanto."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Joel Siegel, American journalist and critic (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Jonathan Dayton, American director and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "Florenz Ziegfeld Jr. staged his first Follies on the roof of the New York Theater in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Landon Cassill, American race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "A man goes on a killing spree in Grand Rapids, Michigan, killing 7 and wounding 2 before killing himself."
     },
     {
       "type": "Birth",
       "year": "1972",
-      "text": "Kirsten Vangsness, American actress and writer"
+      "text": "Lisa Leslie, American basketball player and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Mother Francesca S. Cabrini becomes the first American to be canonized."
     },
     {
       "type": "Birth",
-      "year": "1900",
-      "text": "Earle E. Partridge, American general (died 1990)"
+      "year": "1913",
+      "text": "Pinetop Perkins, American singer and pianist (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1930",
+      "text": "Industrialist Henry J. Kaiser begins construction of Boulder Dam (now known as Hoover Dam)."
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "The first Treaty of Tilsit between France and Russia is signed, ending hostilities between the two countries in the War of the Fourth Coalition."
     },
     {
       "type": "Death",
-      "year": "1982",
-      "text": "Bon Maharaja, Indian guru and religious writer (born 1901)"
+      "year": "2021",
+      "text": "Robert Downey Sr., American actor and director (born 1936)"
     },
     {
       "type": "Birth",
-      "year": "1898",
-      "text": "Arnold Horween, American football player and coach (died 1985)"
+      "year": "1927",
+      "text": "Charlie Louvin, American singer-songwriter and guitarist (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "NASA Opportunity rover, MER-B or Mars Exploration Rover–B, was launched into space aboard a Delta II rocket."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "The ocean liner SS United States passes Bishop Rock on her maiden voyage, breaking the transatlantic speed record to become the fastest passenger ship in the world."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "A De Havilland Otter air taxi crashes in Soldotna, Alaska, killing ten people."
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "Sliced bread is sold for the first time (on the inventor's 48th birthday) by the Chillicothe Baking Company of Chillicothe, Missouri."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Cree Summer, American-Canadian actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Hank Mobley, American saxophonist and composer (died 1986)"
     },
     {
       "type": "Event",
@@ -213,48 +148,28 @@
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "NASA Opportunity rover, MER-B or Mars Exploration Rover–B, was launched into space aboard a Delta II rocket."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Theodore McCarrick, American former cardinal (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Bob Vanatta, American head basketball coach (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "Sliced bread is sold for the first time (on the inventor's 48th birthday) by the Chillicothe Baking Company of Chillicothe, Missouri."
-    },
-    {
-      "type": "Event",
-      "year": "1770",
-      "text": "The Battle of Larga between the Russian Empire and the Ottoman Empire takes place."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Tiny Grimes, American jazz and R&B guitarist (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Doc Severinsen, American trumpet player and conductor"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Alesso, Swedish DJ, record producer and musician"
-    },
-    {
-      "type": "Event",
       "year": "1991",
       "text": "Yugoslav Wars: The Brioni Agreement ends the ten-day independence war in Slovenia against the rest of the Socialist Federal Republic of Yugoslavia."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "David Eddings, American author and academic (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "During the Lebanese Civil War, 83 Tiger militants are killed during what will be known as the Safra massacre."
+    },
+    {
+      "type": "Event",
+      "year": "1777",
+      "text": "American forces retreating from Fort Ticonderoga are defeated in the Battle of Hubbardton."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Michelle Kwan, American figure skater"
     },
     {
       "type": "Event",
@@ -263,28 +178,8 @@
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Justin Davies, Australian footballer"
-    },
-    {
-      "type": "Death",
-      "year": "1701",
-      "text": "William Stoughton, American judge and politician, Governor of the Province of Massachusetts Bay (born 1631)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Alexander Svinin, Russian figure skater and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "US president William McKinley signs the Newlands Resolution, annexing Hawaii as a territory of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Natalia Bekhtereva, Russian neuroscientist and psychologist (died 2008)"
+      "year": "1925",
+      "text": "Geliy Korzhev, Russian painter (died 2012)"
     },
     {
       "type": "Birth",
@@ -293,13 +188,118 @@
     },
     {
       "type": "Event",
-      "year": "1946",
-      "text": "Mother Francesca S. Cabrini becomes the first American to be canonized."
+      "year": "1834",
+      "text": "In New York City, four nights of rioting against abolitionists began."
+    },
+    {
+      "type": "Event",
+      "year": "1124",
+      "text": "The city of Tyre falls to the Venetian Crusade after a siege of nineteen weeks."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "The luxury racing yacht Idler capsizes and sinks on Lake Erie during a storm, drowning six of its seven passengers (all members of the family of Cleveland businessman James C. Corrigan)."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "The New York Court of Appeals rules that women have the same right as men to go topless in public."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "US President Dwight D. Eisenhower signs the Alaska Statehood Act into law."
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Cold War: Samantha Smith, a US schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Mo Collins, American actress, comedian and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Synyster Gates, American guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "The United States, UK, Japan, and Russia sign the North Pacific Fur Seal Convention of 1911 banning open-water seal hunting, the first international treaty to address wildlife preservation issues."
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "US troops occupy Monterey and Yerba Buena, thus beginning the US conquest of California."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Wally Phillips, American radio host (died 2008)"
+    },
+    {
+      "type": "Death",
+      "year": "984",
+      "text": "Crescentius the Elder, Italian politician and aristocrat"
     },
     {
       "type": "Event",
       "year": "1997",
       "text": "The Turkish Armed Forces withdraw from northern Iraq after assisting the Kurdistan Democratic Party in the Iraqi Kurdish Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1851",
+      "text": "Charles Albert Tindley, American minister and composer (died 1933)"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "The United States begins its first military draft; exemptions cost $300."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Robert Hamerton-Kelly, South African-American pastor, theologian, and author (born 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Ex-US Army soldier Micah Xavier Johnson shoots fourteen policemen, killing five of them, in downtown Dallas, Texas at the end of a protest of recent police killings of Black men. He is subsequently killed by a robot-delivered bomb."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Christian Camargo, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "611",
+      "text": "Eudoxia Epiphania, daughter of Byzantine emperor Heraclius"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "The United States defeated the Netherlands 2–0 at the 2019 FIFA Women's World Cup final in Lyon, France."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "Colombo Town Guard officer Henry Pedris is executed in British Ceylon for allegedly inciting persecution of Muslims."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Chris Andersen, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "US president William McKinley signs the Newlands Resolution, annexing Hawaii as a territory of the United States."
     }
   ],
   "source": "Wikipedia"
