@@ -3,8 +3,13 @@
   "items": [
     {
       "type": "Birth",
+      "year": "1940",
+      "text": "Keith Stackpole, Australian cricketer (died 2025)"
+    },
+    {
+      "type": "Birth",
       "year": "1928",
-      "text": "Don Bolles, American investigative reporter (died 1976)"
+      "text": "Moshe Greenberg, American-Israeli rabbi and scholar (died 2010)"
     },
     {
       "type": "Event",
@@ -13,178 +18,18 @@
     },
     {
       "type": "Event",
+      "year": "1991",
+      "text": "A Beechcraft Model 99 crashes near Birmingham Municipal Airport (now Birmingham–Shuttlesworth International Airport) in Birmingham, Alabama, killing 13 of the 15 people on board."
+    },
+    {
+      "type": "Death",
+      "year": "1986",
+      "text": "Tadeusz Piotrowski, Polish mountaineer and author (born 1940)"
+    },
+    {
+      "type": "Event",
       "year": "518",
       "text": "Justin I is crowned Byzantine Emperor by the patriarch of Constantinople the day after the death of emperor Anastasius."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Fred Gwynne, American actor (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Harvey Ball, American illustrator, created the Smiley (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1290",
-      "text": "Ladislaus IV, King of Hungary, is assassinated at the castle of Körösszeg (modern-day Cheresig in Romania)."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Wilson Whineray, New Zealand rugby player and businessman (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "An Aeroflot Tupolev Tu-154 stalls and crashes near Uchkuduk, Uzbekistan (then part of the Soviet Union), killing all 200 people on board in the USSR's worst-ever airline disaster."
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "Russian cruise ship Bulgaria sinks in the Volga River near Syukeyevo, Tatarstan, causing 122 deaths."
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "President Moktar Ould Daddah of Mauritania is ousted in a bloodless coup d'état."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Adam Petty, American race car driver (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Episcopal Church USA allows same-sex marriage."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Boris Yeltsin takes office as the first elected President of Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "The Chicago Freedom Movement, co-founded by Martin Luther King Jr., holds a rally at Soldier Field in Chicago; as many as 60,000 people attend."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Ellen Kuras, American director and cinematographer"
-    },
-    {
-      "type": "Event",
-      "year": "420",
-      "text": "Having usurped the throne of Emperor Gong of Jin, Liu Yu proclaims himself Emperor of the Liu Song dynasty."
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "The final Volkswagen Beetle rolls off the line in Puebla, Mexico; the last of 5,961 \"Special Edition\" cars will be exhibited in a museum."
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "American Revolution: Louis XVI of France declares war on the Kingdom of Great Britain."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Hal McRae, American baseball player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Moshe Greenberg, American-Israeli rabbi and scholar (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Marty Cordova, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Jean Kerr, American author and playwright (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Eunice Kennedy Shriver, American activist, co-founded the Special Olympics (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: An American pilot spots a downed, intact Mitsubishi A6M Zero on Akutan Island (the \"Akutan Zero\"), which the US Navy then uses to learn the aircraft's flight characteristics."
-    },
-    {
-      "type": "Death",
-      "year": "1290",
-      "text": "Ladislaus IV, king of Hungary (born 1262)"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "Paavo Nurmi wins the 1,500 m and 5,000 m events at the Paris Olympics, with just an hour between the two races."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Johnny Bach, American basketball player and coach (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Four mercenaries (one American and three British) are executed in Angola following the Luanda Trial."
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Iraqi Civil War: Mosul is declared fully liberated from the Islamic State of Iraq and the Levant by the government of Iraq."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Andrew Firestone, American businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "B. J. Crombeen, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "David Brinkley, American journalist (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "The Massacre of the Innocents, a painting by Peter Paul Rubens, is sold at a Sotheby's auction for £49.5 million (US$76.2 million) to Lord Thomson."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Catholic Church sexual abuse cases: The Diocese of Dallas agrees to pay $23.4 million to nine former altar boys who claim they were sexually abused by Rudolph Kos, a former priest."
-    },
-    {
-      "type": "Death",
-      "year": "1473",
-      "text": "James II, king of Cyprus"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Jessica Simpson, American singer-songwriter, actress, and fashion designer"
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "Wyoming is admitted as the 44th U.S. state."
     },
     {
       "type": "Event",
@@ -193,58 +38,88 @@
     },
     {
       "type": "Event",
-      "year": "1925",
-      "text": "Scopes trial: In Dayton, Tennessee, the so-called \"Monkey Trial\" begins of John T. Scopes, a young high school science teacher accused of teaching evolution in violation of the Butler Act."
+      "year": "1966",
+      "text": "The Chicago Freedom Movement, co-founded by Martin Luther King Jr., holds a rally at Soldier Field in Chicago; as many as 60,000 people attend."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Brendon Lade, Australian footballer and coach"
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "A Beechcraft Model 99 crashes near Birmingham Municipal Airport (now Birmingham–Shuttlesworth International Airport) in Birmingham, Alabama, killing 13 of the 15 people on board."
+      "year": "2017",
+      "text": "Iraqi Civil War: Mosul is declared fully liberated from the Islamic State of Iraq and the Levant by the government of Iraq."
     },
     {
       "type": "Event",
-      "year": "1519",
-      "text": "Zhu Chenhao declares the Ming dynasty's Zhengde Emperor a usurper, beginning the Prince of Ning rebellion, and leads his army north in an attempt to capture Nanjing."
+      "year": "1942",
+      "text": "World War II: An American pilot spots a downed, intact Mitsubishi A6M Zero on Akutan Island (the \"Akutan Zero\"), which the US Navy then uses to learn the aircraft's flight characteristics."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Wilson Whineray, New Zealand rugby player and businessman (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1290",
+      "text": "Ladislaus IV, King of Hungary, is assassinated at the castle of Körösszeg (modern-day Cheresig in Romania)."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Lee Morgan, American trumpet player and composer (died 1972)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "The Massacre of the Innocents, a painting by Peter Paul Rubens, is sold at a Sotheby's auction for £49.5 million (US$76.2 million) to Lord Thomson."
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "The final Volkswagen Beetle rolls off the line in Puebla, Mexico; the last of 5,961 \"Special Edition\" cars will be exhibited in a museum."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Jake LaMotta, American boxer and actor (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "The Episcopal Church USA allows same-sex marriage."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Julian May, American author (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "420",
+      "text": "Having usurped the throne of Emperor Gong of Jin, Liu Yu proclaims himself Emperor of the Liu Song dynasty."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Catholic Church sexual abuse cases: The Diocese of Dallas agrees to pay $23.4 million to nine former altar boys who claim they were sexually abused by Rudolph Kos, a former priest."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Arlo Guthrie, American singer-songwriter, producer, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Chuck Stevens, American baseball player (died 2018)"
     },
     {
       "type": "Birth",
       "year": "1982",
       "text": "Jeffrey Walker, Australian actor and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "James Rolfe, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Edwards Barham, American farmer and politician (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Angus Cloud, American actor (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Matthew Egan, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1832",
-      "text": "U.S. President Andrew Jackson vetoes a bill that would re-charter the Second Bank of the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Hiroaki \"Rocky\" Aoki, Japanese-American wrestler and businessman, founded Benihana (born 1938)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Nick Adams, American actor and screenwriter (died 1968)"
     },
     {
       "type": "Event",
@@ -253,8 +128,133 @@
     },
     {
       "type": "Birth",
+      "year": "1983",
+      "text": "Anthony Watmough, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Ron Glass, American actor (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "In women's association football, the United States defeats China in a penalty shoot-out at the Rose Bowl near Los Angeles to win the final match of the 1999 FIFA Women's World Cup. Watched by 90,185 spectators, the final sets a new world record for attendance at a women's sporting event."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Boris Yeltsin takes office as the first elected President of Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Herbert Boyer, American businessman, co-founded Genentech"
+    },
+    {
+      "type": "Death",
+      "year": "1950",
+      "text": "Richard Maury, American-Argentinian engineer (born 1882)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Wilson Tuckey, Australian politician"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "Russian cruise ship Bulgaria sinks in the Volga River near Syukeyevo, Tatarstan, causing 122 deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Isabela Merced, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "An Aeroflot Tupolev Tu-154 stalls and crashes near Uchkuduk, Uzbekistan (then part of the Soviet Union), killing all 200 people on board in the USSR's worst-ever airline disaster."
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "Paavo Nurmi wins the 1,500 m and 5,000 m events at the Paris Olympics, with just an hour between the two races."
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "Four mercenaries (one American and three British) are executed in Angola following the Luanda Trial."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Jessica Simpson, American singer-songwriter, actress, and fashion designer"
+    },
+    {
+      "type": "Event",
       "year": "1948",
-      "text": "Ronnie Cutrone, American painter (died 2013)"
+      "text": "The official establishment of the Democratic People's Republic of Korea (North Korea).: 121"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "John Yoo, South Korean-American lawyer, author, and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Béla Fleck, American banjo player and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Andre Dawson, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1590",
+      "text": "Charles II, archduke of Austria (born 1540)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Brendan Gaughan, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Antonio Brown, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1890",
+      "text": "Wyoming is admitted as the 44th U.S. state."
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "President Moktar Ould Daddah of Mauritania is ousted in a bloodless coup d'état."
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "Scopes trial: In Dayton, Tennessee, the so-called \"Monkey Trial\" begins of John T. Scopes, a young high school science teacher accused of teaching evolution in violation of the Butler Act."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Geoff Gerard, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Grigory Barenblatt, Russian mathematician and academic (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Bernard Buffet, French painter and illustrator (died 1999)"
     },
     {
       "type": "Event",
@@ -263,33 +263,23 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Gale Harold, American actor"
+      "year": "1988",
+      "text": "Heather Hemmens, American actress, director, and producer"
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Ernest Bertrand Boland, American Roman Catholic bishop (died 2023)"
+      "year": "1920",
+      "text": "David Brinkley, American journalist (died 2003)"
     },
     {
       "type": "Event",
-      "year": "1999",
-      "text": "In women's association football, the United States defeats China in a penalty shoot-out at the Rose Bowl near Los Angeles to win the final match of the 1999 FIFA Women's World Cup. Watched by 90,185 spectators, the final sets a new world record for attendance at a women's sporting event."
+      "year": "1778",
+      "text": "American Revolution: Louis XVI of France declares war on the Kingdom of Great Britain."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Juliya Chernetsky, Ukrainian-American television host"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Arthur Ashe, American tennis player and journalist (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Zoogz Rift, American musician and wrestler (died 2011)"
+      "year": "1931",
+      "text": "Nick Adams, American actor and screenwriter (died 1968)"
     },
     {
       "type": "Event",
@@ -298,8 +288,18 @@
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "The official establishment of the Democratic People's Republic of Korea (North Korea).: 121"
+      "year": "1519",
+      "text": "Zhu Chenhao declares the Ming dynasty's Zhengde Emperor a usurper, beginning the Prince of Ning rebellion, and leads his army north in an attempt to capture Nanjing."
+    },
+    {
+      "type": "Event",
+      "year": "1832",
+      "text": "U.S. President Andrew Jackson vetoes a bill that would re-charter the Second Bank of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Tom McClintock, American lawyer and politician"
     }
   ],
   "source": "Wikipedia"
