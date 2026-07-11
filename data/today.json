@@ -3,113 +3,43 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Howard Gardner, American psychologist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "The Northern Rhodesian Labour Party holds its first congress in Nkana."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Fort Stevens; Confederate forces attempt to invade Washington, D.C."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Scott Shriner, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "In the East Prussian plebiscite the local populace decides to remain with Weimar Germany."
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Barnard Hughes, American actor (born 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Tab Hunter, American actor and singer (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Chris Cooley, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Stephen Lang, American actor and playwright"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Wilfrid Israel, German businessman and philanthropist (died 1943)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Mike Foster, American politician, 53rd Governor of Louisiana (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Ricky Warwick, Northern Irish musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Joey Bosa, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Richard Carleton, Australian journalist  (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Murder of Grace Brown by Chester Gillette in the United States, inspiration for Theodore Dreiser's An American Tragedy."
-    },
-    {
-      "type": "Event",
-      "year": "813",
-      "text": "Byzantine emperor Michael I, under threat by conspiracies, abdicates in favor of his general Leo the Armenian, and becomes a monk (under the name Athanasius)."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "The Triborough Bridge in New York City is opened to traffic."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Rebecca Bross, American gymnast"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Thurston Harris, American doo-wop singer (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Roy Krenkel, American illustrator (died 1983)"
-    },
-    {
-      "type": "Birth",
       "year": "1967",
-      "text": "Jhumpa Lahiri, Indian American novelist and short story writer"
+      "text": "Andy Ashby, American baseball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Richard Pipes, Polish-American historian and academic (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Eric Owens, American opera singer"
     },
     {
       "type": "Event",
-      "year": "1957",
-      "text": "Prince Karim Husseini Aga Khan IV inherits the office of Imamat as the 49th Imam of Shia Imami Ismai'li worldwide, after the death of Sir Sultan Mahommed Shah Aga Khan III."
+      "year": "1798",
+      "text": "The United States Marine Corps is re-established; they had been disbanded after the American Revolutionary War."
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "Eric Liddell won the gold medal in 400m at the 1924 Paris Olympics, after refusing to run in the heats for 100m, his favoured distance, on a Sunday."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Lou Hudson, American basketball player and coach (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Ryan Rolison, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Sela Ward, American actress"
     },
     {
       "type": "Birth",
@@ -118,28 +48,48 @@
     },
     {
       "type": "Event",
-      "year": "2011",
-      "text": "Ninety-eight containers of explosives self-detonate killing 13 people in Zygi, Cyprus."
+      "year": "1893",
+      "text": "A revolution led by the liberal general and politician José Santos Zelaya takes over state power in Nicaragua."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "Massacres of Poles in Volhynia and Eastern Galicia by the Ukrainian Insurgent Army within the Reichskommissariat Ukraine (Volhynia) peak."
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Amitav Ghosh, Indian-American author and academic"
+      "year": "1994",
+      "text": "Anthony Milford, Australian rugby league player"
     },
     {
       "type": "Event",
-      "year": "1947",
-      "text": "The Exodus 1947 heads to Palestine from France."
+      "year": "1921",
+      "text": "Former president of the United States William Howard Taft is sworn in as 10th chief justice of the U.S. Supreme Court, becoming the only person ever to hold both offices."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Rod Strickland, American basketball player and coach"
     },
     {
       "type": "Event",
-      "year": "1914",
-      "text": "Babe Ruth makes his debut in Major League Baseball."
+      "year": "1941",
+      "text": "The Northern Rhodesian Labour Party holds its first congress in Nkana."
     },
     {
-      "type": "Event",
-      "year": "1914",
-      "text": "The US Navy launches the USS Nevada (BB-36) as its first standard-type battleship."
+      "type": "Birth",
+      "year": "1993",
+      "text": "Rebecca Bross, American gymnast"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Yul Brynner, Russian-American actor and dancer (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Bull Connor, American police officer (died 1973)"
     },
     {
       "type": "Event",
@@ -148,13 +98,33 @@
     },
     {
       "type": "Event",
-      "year": "1796",
-      "text": "The United States takes possession of Detroit from Great Britain under terms of the Jay Treaty."
+      "year": "1276",
+      "text": "Election of pope Adrian V under the influence of Charles I of Anjou following the death of pope Gregory X earlier that year. Adrian V dies the following month."
+    },
+    {
+      "type": "Death",
+      "year": "2008",
+      "text": "Michael E. DeBakey, American surgeon and educator (born 1908)"
+    },
+    {
+      "type": "Event",
+      "year": "813",
+      "text": "Byzantine emperor Michael I, under threat by conspiracies, abdicates in favor of his general Leo the Armenian, and becomes a monk (under the name Athanasius)."
     },
     {
       "type": "Birth",
-      "year": "1906",
-      "text": "Harry von Zell, American actor and announcer (died 1981)"
+      "year": "1985",
+      "text": "Robert Adamson, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "The Exodus 1947 heads to Palestine from France."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Martin Wong, American painter (died 1999)"
     },
     {
       "type": "Birth",
@@ -162,69 +132,44 @@
       "text": "Tom Holland, American actor, director, and screenwriter"
     },
     {
-      "type": "Event",
-      "year": "1798",
-      "text": "The United States Marine Corps is re-established; they had been disbanded after the American Revolutionary War."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Sally Blane, American actress (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Fumiya Fujii, Japanese music artist"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Andrew Bird, American indie rock singer-songwriter and violinist"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Stephanie Dabney, American ballerina (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "To Kill a Mockingbird by Harper Lee is first published, in the United States."
-    },
-    {
       "type": "Birth",
       "year": "1944",
       "text": "Patricia Polacco, American author and illustrator"
     },
     {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Mindy Sterling, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Gene Evans, American actor (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Samuel Goudsmit, Dutch-American physicist (formulated concept of electron spin) (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "David Baerwald, American singer-songwriter, composer, and musician"
+    },
+    {
       "type": "Event",
-      "year": "1174",
-      "text": "Baldwin IV, 13, becomes King of Jerusalem, with Raymond III, Count of Tripoli as regent and William of Tyre as chancellor."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Mortimer Caplin, American tax attorney, educator, and IRS Commissioner (died 2019)"
+      "year": "1914",
+      "text": "The US Navy launches the USS Nevada (BB-36) as its first standard-type battleship."
     },
     {
       "type": "Event",
-      "year": "1410",
-      "text": "Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Ottoman capital, Edirne."
+      "year": "1920",
+      "text": "In the East Prussian plebiscite the local populace decides to remain with Weimar Germany."
     },
     {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Susana Barreiros, Venezuelan judge"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Jacoby Jones, American football player (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Alex Hassilev, French-born American folk singer and musician (died 2024)"
+      "type": "Event",
+      "year": "2011",
+      "text": "Ninety-eight containers of explosives self-detonate killing 13 people in Zygi, Cyprus."
     },
     {
       "type": "Event",
@@ -232,29 +177,94 @@
       "text": "Noongar Australian aboriginal warrior Yagan, wanted for the murder of white colonists in Western Australia, is killed."
     },
     {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Fumiya Fujii, Japanese music artist"
+    },
+    {
+      "type": "Death",
+      "year": "2025",
+      "text": "Martin Cruz Smith, American author and screenwriter (born 1942)"
+    },
+    {
       "type": "Event",
-      "year": "1921",
-      "text": "Former president of the United States William Howard Taft is sworn in as 10th chief justice of the U.S. Supreme Court, becoming the only person ever to hold both offices."
+      "year": "1796",
+      "text": "The United States takes possession of Detroit from Great Britain under terms of the Jay Treaty."
     },
     {
       "type": "Event",
-      "year": "1893",
-      "text": "A revolution led by the liberal general and politician José Santos Zelaya takes over state power in Nicaragua."
+      "year": "1914",
+      "text": "Babe Ruth makes his debut in Major League Baseball."
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Frederick Buechner, American minister, theologian, and author (died 2022)"
+      "year": "1916",
+      "text": "Gough Whitlam, Australian lieutenant, lawyer, and politician, 21st Prime Minister of Australia (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "The Triborough Bridge in New York City is opened to traffic."
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Patrick Peterson, American football player"
+      "year": "1935",
+      "text": "Frederick Hemke, American saxophonist and educator (died 2019)"
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "Cordwainer Smith, American sinologist, author, and academic (died 1966)"
+      "year": "1975",
+      "text": "Willie Anderson, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Thurston Harris, American doo-wop singer (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Sidney Franklin, American bullfighter (died 1976)"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "Prince Karim Husseini Aga Khan IV inherits the office of Imamat as the 49th Imam of Shia Imami Ismai'li worldwide, after the death of Sir Sultan Mahommed Shah Aga Khan III."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Peter Jensen, Australian metropolitan"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "Murder of Grace Brown by Chester Gillette in the United States, inspiration for Theodore Dreiser's An American Tragedy."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Esera Tuaolo, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Gwendolyn Lizarraga, Belizean businesswoman, activist, and politician (died 1975)"
+    },
+    {
+      "type": "Event",
+      "year": "1804",
+      "text": "A duel occurs in which the Vice President of the United States Aaron Burr mortally wounds former Secretary of the Treasury Alexander Hamilton."
+    },
+    {
+      "type": "Death",
+      "year": "1806",
+      "text": "James Smith, Irish-American lawyer and politician (born 1719)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "William F. Walsh, American captain and politician, 48th Mayor of Syracuse (died 2011)"
     },
     {
       "type": "Event",
@@ -263,43 +273,33 @@
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "Massacres of Poles in Volhynia and Eastern Galicia by the Ukrainian Insurgent Army within the Reichskommissariat Ukraine (Volhynia) peak."
-    },
-    {
-      "type": "Death",
-      "year": "1987",
-      "text": "Yaakov Yitzchok Ruderman, American rabbi and scholar (born 1901)"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "Eric Liddell won the gold medal in 400m at the 1924 Paris Olympics, after refusing to run in the heats for 100m, his favoured distance, on a Sunday."
-    },
-    {
-      "type": "Event",
-      "year": "1276",
-      "text": "Election of pope Adrian V under the influence of Charles I of Anjou following the death of pope Gregory X earlier that year. Adrian V dies the following month."
-    },
-    {
-      "type": "Event",
-      "year": "1804",
-      "text": "A duel occurs in which the Vice President of the United States Aaron Burr mortally wounds former Secretary of the Treasury Alexander Hamilton."
-    },
-    {
-      "type": "Event",
       "year": "472",
       "text": "Western Roman Emperor Anthemius is killed by troops of the Roman Gothic general Ricimer."
-    },
-    {
-      "type": "Death",
-      "year": "1999",
-      "text": "Helen Forrest, American singer (born 1917)"
     },
     {
       "type": "Event",
       "year": "1897",
       "text": "Salomon August Andrée leaves Spitsbergen to attempt to reach the North Pole by balloon."
+    },
+    {
+      "type": "Event",
+      "year": "1174",
+      "text": "Baldwin IV, 13, becomes King of Jerusalem, with Raymond III, Count of Tripoli as regent and William of Tyre as chancellor."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of Fort Stevens; Confederate forces attempt to invade Washington, D.C."
+    },
+    {
+      "type": "Event",
+      "year": "1410",
+      "text": "Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Ottoman capital, Edirne."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "To Kill a Mockingbird by Harper Lee is first published, in the United States."
     }
   ],
   "source": "Wikipedia"
