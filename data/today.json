@@ -3,208 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Patrick Beverley, American basketball player"
-    },
-    {
-      "type": "Birth",
       "year": "1951",
-      "text": "Jamey Sheridan, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Phil Lord, American filmmaker and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Kristen Connolly, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Gazpromavia Flight 9608 crashes in Russia's Kolomensky District near Kolomna, killing three."
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "The Australian Aboriginal flag is flown for the first time."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "John Petrucci, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Conte Candoli, American trumpet player (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Riots begin in Newark, New Jersey."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Rick Hendrick, American businessman, founded Hendrick Motorsports"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Paul Silas, American basketball player and coach (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jeff Bucknum, American race car driver"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Orlyonok, the main Young Pioneer camp of the Russian SFSR, is founded."
-    },
-    {
-      "type": "Event",
-      "year": "1191",
-      "text": "Third Crusade: Saladin's garrison surrenders to Philip Augustus, ending the two-year siege of Acre."
-    },
-    {
-      "type": "Event",
-      "year": "1488",
-      "text": "Joseon Dynasty official Choe Bu returns to Korea after months of shipwrecked travel in China."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Malala Yousafzai, Pakistani-English activist, Nobel Prize laureate"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Frank Ryan, American football player and mathematician (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Ben Burtt, American director, screenwriter, and sound designer"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Joe DeRita, American actor, 'Curly' of the Three Stooges (died 1993)"
-    },
-    {
-      "type": "Event",
-      "year": "1335",
-      "text": "Pope Benedict XII issues the papal bull Fulgens sicut stella matutina to reform the Cistercian Order."
-    },
-    {
-      "type": "Event",
-      "year": "1790",
-      "text": "The Civil Constitution of the Clergy is passed in France by the National Constituent Assembly."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "James E. Gunn, American science fiction author (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "Syrian Civil War: Government forces target the homes of rebels and activists in Tremseh and kill anywhere between 68 and 150 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Moussa Dembélé, French footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Bisbee Deportation occurs as vigilantes kidnap and deport nearly 1,300 striking miners and others from Bisbee, Arizona."
-    },
-    {
-      "type": "Event",
-      "year": "1801",
-      "text": "British ships inflict heavy damage on Spanish and French ships in the Second Battle of Algeciras."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "The Ulster Volunteer Force attack a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Natalie Martinez, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Kaylee McKeown, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "A fire destroys the entire sixth floor of the National Personnel Records Center of the United States."
-    },
-    {
-      "type": "Death",
-      "year": "524",
-      "text": "Viventiolus, archbishop of Lyon (born 460)"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Motoichi Kumagai, Japanese photographer and illustrator (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Victor Poor, American engineer, developed the Datapoint 2200 (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Elias James Corey, American chemist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Ron Fairly, American baseball player and sportscaster (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1450",
-      "text": "Although he had been previously pardoned, Jack Cade is killed while fleeing, bringing an end to Jack Cade's Rebellion."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Philip Taylor Kramer, American bass player (died 1995)"
+      "text": "Brian Grazer, American screenwriter and producer, founded Imagine Entertainment"
     },
     {
       "type": "Event",
       "year": "2007",
       "text": "U.S. Army Apache helicopters engage in airstrikes against armed insurgents in Baghdad, Iraq, where civilians are killed; footage from the cockpit is later leaked to the Internet."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Michelle Rodriguez, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Sandi Patty, American singer and pianist"
     },
     {
       "type": "Event",
@@ -213,38 +18,48 @@
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Joan Bauer, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Rachel Brosnahan, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Bill Cosby, American actor, comedian, producer, and screenwriter"
-    },
-    {
-      "type": "Death",
-      "year": "2001",
-      "text": "Fred Marcellino, American author and illustrator (born 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Jason Wright, American football player, businessman, and executive"
+      "year": "1909",
+      "text": "Herbert Zim, American naturalist, author, and educator (died 1994)"
     },
     {
       "type": "Event",
-      "year": "1862",
-      "text": "The Medal of Honor is authorized by the United States Congress."
+      "year": "2024",
+      "text": "Gazpromavia Flight 9608 crashes in Russia's Kolomensky District near Kolomna, killing three."
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "The Ulster Volunteer Force attack a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers."
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "J. D. Hayworth, American politician and radio host"
+      "year": "1925",
+      "text": "Roger Smith, American businessman (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Natalie Martinez, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1488",
+      "text": "Joseon Dynasty official Choe Bu returns to Korea after months of shipwrecked travel in China."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Mel Harris, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Brock Lesnar, American mixed martial artist and wrestler"
     },
     {
       "type": "Event",
@@ -253,18 +68,48 @@
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Phillip Adams, Australian journalist and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Soviet–Lithuanian Peace Treaty is signed, by which Soviet Russia recognizes the independence of Lithuania."
+      "year": "1928",
+      "text": "Elias James Corey, American chemist and academic, Nobel Prize laureate"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Monte Hellman, American director and producer (died 2021)"
+      "year": "1943",
+      "text": "Paul Silas, American basketball player and coach (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "The Medal of Honor is authorized by the United States Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Rick Hendrick, American businessman, founded Hendrick Motorsports"
+    },
+    {
+      "type": "Event",
+      "year": "1450",
+      "text": "Although he had been previously pardoned, Jack Cade is killed while fleeing, bringing an end to Jack Cade's Rebellion."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Robin Wilson, American singer and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Gregory Shane Helms, American professional wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Albert Lance, Australian-French tenor (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Walter Egan, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
@@ -272,14 +117,69 @@
       "text": "The armies of Titus attack the walls of Jerusalem after a six-month siege. Three days later they breach the walls, which enables the army to destroy the Second Temple."
     },
     {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Herbert Zim, American naturalist, author, and educator (died 1994)"
+      "type": "Event",
+      "year": "1960",
+      "text": "Orlyonok, the main Young Pioneer camp of the Russian SFSR, is founded."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Riots begin in Newark, New Jersey."
     },
     {
       "type": "Death",
-      "year": "2005",
-      "text": "John King, Baron King of Wartnaby, English businessman (born 1917)"
+      "year": "1664",
+      "text": "Stefano della Bella, Italian illustrator and engraver (born 1610)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Delia Ephron, American author, playwright, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Nick Palmieri, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Butch Hancock, American country-folk singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Beah Richards, American actress (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The Soviet–Lithuanian Peace Treaty is signed, by which Soviet Russia recognizes the independence of Lithuania."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Bisbee Deportation occurs as vigilantes kidnap and deport nearly 1,300 striking miners and others from Bisbee, Arizona."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Milton Berle, American comedian and actor (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Phillip Adams, Australian journalist and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Moussa Dembélé, French footballer"
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Olga Guillot, Cuban-American singer (born 1922)"
     },
     {
       "type": "Birth",
@@ -288,18 +188,118 @@
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Erik Per Sullivan, American actor"
+      "year": "1997",
+      "text": "Malala Yousafzai, Pakistani-English activist, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "British ships inflict heavy damage on Spanish and French ships in the Second Battle of Algeciras."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "A fire destroys the entire sixth floor of the National Personnel Records Center of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Weary Dunlop,  Australian colonel and surgeon (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Mac McCaughan, American singer and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "The Australian Aboriginal flag is flown for the first time."
+    },
+    {
+      "type": "Death",
+      "year": "1998",
+      "text": "Jimmy Driftwood, American singer-songwriter and banjo player (born 1907)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Van Cliburn, American pianist and composer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Kristen Connolly, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "J. D. Hayworth, American politician and radio host"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Tracie Spencer, American singer-songwriter and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1790",
+      "text": "The Civil Constitution of the Clergy is passed in France by the National Constituent Assembly."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "Syrian Civil War: Government forces target the homes of rebels and activists in Tremseh and kill anywhere between 68 and 150 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "David Brown, Australian meteorologist"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Cheryl Ladd, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1335",
+      "text": "Pope Benedict XII issues the papal bull Fulgens sicut stella matutina to reform the Cistercian Order."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Joanna Shields, American-English businesswoman"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Mickey Edwards, American lawyer and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1191",
+      "text": "Third Crusade: Saladin's garrison surrenders to Philip Augustus, ending the two-year siege of Acre."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Willis Lamb, American physicist and academic, Nobel Prize laureate (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Otis Davis, American sprinter (died 2024)"
     },
     {
       "type": "Birth",
       "year": "1978",
-      "text": "Topher Grace, American actor"
+      "text": "Michelle Rodriguez, American actress"
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Jimmy LaFave, American singer-songwriter and guitarist (died 2017)"
+      "year": "2000",
+      "text": "Vinícius Júnior, Brazilian footballer"
     }
   ],
   "source": "Wikipedia"
