@@ -3,8 +3,53 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1909",
-      "text": "Harriet Nelson, American singer and actress (died 1994)"
+      "year": "1979",
+      "text": "Deion Branch, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Bernd Fasching, Austrian painter and sculptor"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Alex Rocco, American actor (born 1936)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Joe Torre, American baseball player, manager, and executive"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Baddiewinkle, American internet personality"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Olivier Ameisen,  French-American cardiologist and academic (born 1953)"
+    },
+    {
+      "type": "Event",
+      "year": "1507",
+      "text": "In Brussels, Prince Charles I is crowned Duke of Burgundy and Count of Flanders, a year after inheriting the title."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Peace Pilgrim, American mystic and activist (died 1981)"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Dick Button, American figure skater and actor (died 2025)"
     },
     {
       "type": "Birth",
@@ -14,7 +59,57 @@
     {
       "type": "Birth",
       "year": "1978",
-      "text": "Ben Sheets, American baseball player and coach"
+      "text": "Crystal Mangum, American murderer responsible for making false rape allegations in the Duke lacrosse case"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Vin Diesel, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Raymond Jones, Australian Modernist architect (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1867",
+      "text": "Margaret Brown, American philanthropist and activist (died 1932)"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Jessamyn West, American author (died 1984)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Shaun Micallef, Australian comedian, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Jack Dongarra, American computer scientist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Elizabeth Gilbert, American author"
     },
     {
       "type": "Death",
@@ -27,109 +122,14 @@
       "text": "Mandy Rose, American wrestler and television personality"
     },
     {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner."
-    },
-    {
       "type": "Birth",
-      "year": "1986",
-      "text": "Natalia Mikhailova, Russian ice dancer"
+      "year": "1886",
+      "text": "Simon Bolivar Buckner Jr., American general (died 1945)"
     },
     {
       "type": "Event",
-      "year": "-477",
-      "text": "Battle of the Cremera as part of the Roman–Etruscan Wars.  Veii ambushes and defeats the Roman army."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Jeanne Córdova, American journalist and activist (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Chace Crawford, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members."
-    },
-    {
-      "type": "Birth",
-      "year": "1872",
-      "text": "Julius Fučík, Czech composer and conductor of military bands (died 1916)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Dion DiMucci, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history."
-    },
-    {
-      "type": "Event",
-      "year": "1216",
-      "text": "Election of pope Honorius III following the death of pope Innocent III two days prior."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "John Glenn, American colonel, astronaut, and politician (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Glenn Hughes, American disco singer and actor (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Peace Pilgrim, American mystic and activist (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Noah Lyles, American sprinter"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Agustina Roth, Argentine BMX rider"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Aaron Beck, American psychiatrist and academic (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Intel is founded in Mountain View, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Tenley Albright, American former figure skater and physician"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Paul Streeten, Austrian-born British economics professor (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Marc Girardelli, Austrian-Luxembourgian skier"
+      "year": "1914",
+      "text": "The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time."
     },
     {
       "type": "Event",
@@ -138,53 +138,28 @@
     },
     {
       "type": "Birth",
+      "year": "1950",
+      "text": "Mark Udall, American educator and politician"
+    },
+    {
+      "type": "Birth",
       "year": "1909",
-      "text": "Andrei Gromyko, Belarusian-Russian economist and politician, Soviet Minister of Foreign Affairs (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Machine Gun Kelly, American gangster (died 1954)"
+      "text": "Harriet Nelson, American singer and actress (died 1994)"
     },
     {
       "type": "Event",
-      "year": "1966",
-      "text": "A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time."
+      "year": "2002",
+      "text": "A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members."
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Joe Russo, American director, producer and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria."
+      "year": "1943",
+      "text": "Calvin Peete, American golfer (12 PGA Tour titles) (died 2015)"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Carlos Colón Sr., Puerto Rican-American wrestler and promoter"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Robert Ellis Miller, American director and screenwriter (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1389",
-      "text": "France and England agree to the Truce of Leulinghem, inaugurating a 13-year peace, the longest period of sustained peace during the Hundred Years' War."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Lonnie Mack, American singer-songwriter and guitarist (died 2016)"
+      "year": "1920",
+      "text": "Eric Brandon, English race car driver and businessman (died 1982)"
     },
     {
       "type": "Birth",
@@ -192,49 +167,14 @@
       "text": "Michael Lichaa, Australian rugby league player"
     },
     {
-      "type": "Death",
-      "year": "2005",
-      "text": "Amy Gillett, Australian cyclist and rower (born 1976)"
-    },
-    {
       "type": "Birth",
-      "year": "1969",
-      "text": "Elizabeth Gilbert, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Aaron Gillespie, American singer-songwriter and drummer"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Torii Hunter, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Nita Bieber, American actress (died 2019)"
+      "year": "1964",
+      "text": "Wendy Williams, American talk show host"
     },
     {
       "type": "Event",
-      "year": "1942",
-      "text": "The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Joe Torre, American baseball player, manager, and executive"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Shaun Micallef, Australian comedian, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed."
+      "year": "1944",
+      "text": "World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort."
     },
     {
       "type": "Event",
@@ -243,53 +183,88 @@
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Anthony Mirra, American gangster, member of the Bonanno Crime Family (died 1982)"
+      "year": "1941",
+      "text": "Lonnie Mack, American singer-songwriter and guitarist (died 2016)"
     },
     {
       "type": "Birth",
-      "year": "1890",
-      "text": "Frank Forde, Australian educator and politician, 15th Prime Minister of Australia (died 1983)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Crystal Mangum, American murderer responsible for making false rape allegations in the Duke lacrosse case"
+      "year": "1943",
+      "text": "Joseph J. Ellis, American historian and author"
     },
     {
       "type": "Event",
-      "year": "1994",
-      "text": "The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300."
-    },
-    {
-      "type": "Event",
-      "year": "1507",
-      "text": "In Brussels, Prince Charles I is crowned Duke of Burgundy and Count of Flanders, a year after inheriting the title."
+      "year": "1966",
+      "text": "A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order."
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Eric Brandon, English race car driver and businessman (died 1982)"
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "The Treaties of Orebro end both the Anglo-Russian and Anglo-Swedish Wars."
+      "year": "1968",
+      "text": "Grant Bowler, New Zealand-Australian actor"
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "Shudufhadzo Musida, Miss South Africa 2020"
+      "year": "1971",
+      "text": "Joe Russo, American director, producer and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "-477",
+      "text": "Battle of the Cremera as part of the Roman–Etruscan Wars.  Veii ambushes and defeats the Roman army."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Andrei Gromyko, Belarusian-Russian economist and politician, Soviet Minister of Foreign Affairs (died 1989)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Jerry Moore, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Margo Martindale, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Yevgeny Yevtushenko, Russian poet and playwright (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1389",
+      "text": "France and England agree to the Truce of Leulinghem, inaugurating a 13-year peace, the longest period of sustained peace during the Hundred Years' War."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "L. Patrick Gray, American lawyer and bureaucrat (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1216",
+      "text": "Election of pope Honorius III following the death of pope Innocent III two days prior."
+    },
+    {
+      "type": "Birth",
+      "year": "1843",
+      "text": "Virgil Earp, American marshal (died 1905)"
     },
     {
       "type": "Birth",
       "year": "1997",
-      "text": "Bam Adebayo, American basketball player"
+      "text": "Noah Lyles, American sprinter"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Intel is founded in Mountain View, California."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Shirley Strickland, Australian runner and hurdler (died 2004)"
+      "year": "1950",
+      "text": "Richard Branson, English businessman, founded Virgin Group"
     },
     {
       "type": "Birth",
@@ -297,9 +272,34 @@
       "text": "Dan O'Brien, American decathlete and coach"
     },
     {
-      "type": "Death",
-      "year": "2005",
-      "text": "William Westmoreland, American general (born 1914)"
+      "type": "Birth",
+      "year": "1948",
+      "text": "Jeanne Córdova, American journalist and activist (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Carlos Colón Sr., Puerto Rican-American wrestler and promoter"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Aaron Beck, American psychiatrist and academic (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "The Treaties of Orebro end both the Anglo-Russian and Anglo-Swedish Wars."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time."
     }
   ],
   "source": "Wikipedia"
