@@ -2,6 +2,201 @@
   "date": "2026-07-23",
   "items": [
     {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Kathryn Hahn, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1319",
+      "text": "A Knights Hospitaller fleet scores a crushing victory over an Aydinid fleet off Chios."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Ross Cranston, Australian-English lawyer, judge, and politician, Solicitor General for England and Wales"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Richie Evans, American race car driver (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "The Second Constitution accepted by the Ottomans."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Gardner Dozois, American journalist and author (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Qaboos bin Said al Said becomes Sultan of Oman after overthrowing his father, Said bin Taimur initiating massive reforms, modernization programs and end to a decade long civil war."
+    },
+    {
+      "type": "Death",
+      "year": "1948",
+      "text": "D. W. Griffith, American actor, director, producer, and screenwriter (born 1875)"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Shigeko Kubota, Japanese-American sculptor and director (born 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Al Perez, American wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Abkhazia declares independence from Georgia."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Celeste Thorson, American actress, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Viktor Korchnoi, Russian-Swiss chess grandmaster (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1829",
+      "text": "In the United States, William Austin Burt patents the typographer, a precursor to the typewriter."
+    },
+    {
+      "type": "Event",
+      "year": "1711",
+      "text": "The treaty of Pruth between the Ottoman and Russian Empire is signed."
+    },
+    {
+      "type": "Event",
+      "year": "1793",
+      "text": "Kingdom of Prussia re-conquers Mainz from France."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Alex Kozinski, Romanian-born American lawyer and judge"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Bec Hewitt, Australian actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Gavin Lambert, English-American screenwriter and author (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Slash, English-American guitarist, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Michelle Williams, American singer-songwriter and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Digital Equipment Corporation files antitrust charges against chipmaker Intel."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Dalvin DeGrate, American rapper and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "The United States launches Landsat 1, the first Earth-resources satellite."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Leopold Engleitner, Austrian author and educator (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Henry Halleck becomes general-in-chief of the Union Army."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Pia Maria Wieninger, Austrian politician"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Nassos Daphnis, Greek-American painter (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Terry Glenn, American football player and coach (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The United States' Under Secretary of State Sumner Welles issues a declaration on the U.S. non-recognition policy of the Soviet annexation and incorporation of three Baltic states: Estonia, Latvia and Lithuania."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Dave Webster, American football player and engineer (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Mark Laurie, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Aaron Peirsol, American swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: The British destroyers HMS Eclipse and HMS Laforey sink the Italian submarine Ascianghi in the Mediterranean after she torpedoes the cruiser HMS Newfoundland."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Scott Clemmensen, American ice hockey player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Glenville shootout: In Cleveland, Ohio, a violent shootout between a Black Militant organization and the Cleveland Police Department occurs. During the shootout, a riot begins and lasts for five days."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Sam Watters, American singer-songwriter and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "NASA announces discovery of Kepler-452b by the Kepler space telescope."
+    },
+    {
       "type": "Event",
       "year": "1962",
       "text": "Jackie Robinson becomes the first African American to be inducted into the National Baseball Hall of Fame."
@@ -12,74 +207,34 @@
       "text": "Outside Santa Clarita, California, actor Vic Morrow and two children are killed when a helicopter crashes onto them while shooting a scene from Twilight Zone: The Movie."
     },
     {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Dalvin DeGrate, American rapper and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Sallyanne Atkinson, Australian journalist and politician, Lord Mayor of Brisbane"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Randall Forsberg, American scientist (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Tony Joe White, American singer-songwriter and guitarist (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Don Imus, American radio host (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Raphael Warnock, American politician and minister"
-    },
-    {
       "type": "Event",
+      "year": "2012",
+      "text": "The Solar storm of 2012 was an unusually large coronal mass ejection that was emitted by the Sun which barely missed the Earth by nine days. If it hit, it would have caused up to US$2.6 trillion in damages to electrical equipment worldwide."
+    },
+    {
+      "type": "Birth",
       "year": "1921",
-      "text": "The Chinese Communist Party (CCP) is established at the founding National Congress."
+      "text": "Calvert DeForest, American actor (died 2007)"
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Elly Annie Schneider, German-American actress (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Leon Fleisher, American pianist and conductor (died 2020)"
+      "year": "1967",
+      "text": "Philip Seymour Hoffman, American actor, director, and producer (died 2014)"
     },
     {
       "type": "Event",
-      "year": "1829",
-      "text": "In the United States, William Austin Burt patents the typographer, a precursor to the typewriter."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Henry Halleck becomes general-in-chief of the Union Army."
+      "year": "1983",
+      "text": "Thirteen Sri Lanka Army soldiers are killed after a deadly ambush by the militant Liberation Tigers of Tamil Eelam."
     },
     {
       "type": "Death",
-      "year": "1972",
-      "text": "Esther Applin, American geologist and paleontologist (born 1895)"
+      "year": "2011",
+      "text": "Amy Winehouse, English singer-songwriter (born 1983)"
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Elden Campbell, American basketball player (died 2025)"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "The Amsden Building collapse in Framingham, Massachusetts, U.S., claimed 12 lives."
+      "year": "1970",
+      "text": "Charisma Carpenter, American actress"
     },
     {
       "type": "Event",
@@ -88,13 +243,33 @@
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Aaron Peirsol, American swimmer"
+      "year": "1996",
+      "text": "Danielle Bradbery, American singer"
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Pee Wee Reese, American baseball player and sportscaster (died 1999)"
+      "year": "1957",
+      "text": "Nikos Galis, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Danny Barcelona, American drummer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Jarrod Wallace, Australian rugby league footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Ronny Cox, American singer-songwriter, guitarist, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Dino Danelli, American drummer (died 2022)"
     },
     {
       "type": "Event",
@@ -103,203 +278,28 @@
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Ross Cranston, Australian-English lawyer, judge, and politician, Solicitor General for England and Wales"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Lili Simmons, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Alison Krauss, American singer-songwriter and fiddler"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Second Constitution accepted by the Ottomans."
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "NASA announces discovery of Kepler-452b by the Kepler space telescope."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: The British destroyers HMS Eclipse and HMS Laforey sink the Italian submarine Ascianghi in the Mediterranean after she torpedoes the cruiser HMS Newfoundland."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Digital Equipment Corporation files antitrust charges against chipmaker Intel."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Paul Hibbert, Australian cricketer and coach (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Al Perez, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1711",
-      "text": "The treaty of Pruth between the Ottoman and Russian Empire is signed."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Michelle Williams, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Joe Mather, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Richie Evans, American race car driver (died 1985)"
-    },
-    {
-      "type": "Event",
-      "year": "1793",
-      "text": "Kingdom of Prussia re-conquers Mainz from France."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Monica Lewinsky, American activist and former White House intern"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Viktor Korchnoi, Russian-Swiss chess grandmaster (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Philip Seymour Hoffman, American actor, director, and producer (died 2014)"
-    },
-    {
-      "type": "Death",
-      "year": "1853",
-      "text": "Andries Pretorius, South African general (born 1798)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Daniel McClellan, American biblical scholar and social media personality"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Solar storm of 2012 was an unusually large coronal mass ejection that was emitted by the Sun which barely missed the Earth by nine days. If it hit, it would have caused up to US$2.6 trillion in damages to electrical equipment worldwide."
-    },
-    {
-      "type": "Event",
-      "year": "1319",
-      "text": "A Knights Hospitaller fleet scores a crushing victory over an Aydinid fleet off Chios."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Gerald Wallace, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Susan Graham, American soprano and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Brandon Roy, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Leopold Engleitner, Austrian author and educator (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Abkhazia declares independence from Georgia."
-    },
-    {
-      "type": "Birth",
       "year": "1970",
       "text": "Saulius Skvernelis, 13th Prime Minister of Lithuania"
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "Qaboos bin Said al Said becomes Sultan of Oman after overthrowing his father, Said bin Taimur initiating massive reforms, modernization programs and end to a decade long civil war."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Bert Convy, American actor, singer, and game show host (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Woody Harrelson, American actor and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Harris English, American professional golfer"
+      "year": "1921",
+      "text": "The Chinese Communist Party (CCP) is established at the founding National Congress."
     },
     {
       "type": "Event",
-      "year": "1940",
-      "text": "The United States' Under Secretary of State Sumner Welles issues a declaration on the U.S. non-recognition policy of the Soviet annexation and incorporation of three Baltic states: Estonia, Latvia and Lithuania."
+      "year": "1906",
+      "text": "The Amsden Building collapse in Framingham, Massachusetts, U.S., claimed 12 lives."
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Ruth Duccini, American actress (died 2014)"
+      "year": "1928",
+      "text": "Leon Fleisher, American pianist and conductor (died 2020)"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Madeline Bell, American singer-songwriter"
-    },
-    {
-      "type": "Death",
-      "year": "1930",
-      "text": "Glenn Curtiss, American pilot and engineer (born 1878)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Thirteen Sri Lanka Army soldiers are killed after a deadly ambush by the militant Liberation Tigers of Tamil Eelam."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "The United States launches Landsat 1, the first Earth-resources satellite."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Joel Stein, American journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Glenville shootout: In Cleveland, Ohio, a violent shootout between a Black Militant organization and the Cleveland Police Department occurs. During the shootout, a riot begins and lasts for five days."
+      "year": "1914",
+      "text": "Virgil Finlay, American illustrator (died 1971)"
     }
   ],
   "source": "Wikipedia"
