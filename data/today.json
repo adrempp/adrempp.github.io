@@ -1,305 +1,305 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "items": [
     {
       "type": "Birth",
+      "year": "1941",
+      "text": "Nate Thurmond, American basketball player (died 2016)"
+    },
+    {
+      "type": "Birth",
       "year": "1915",
-      "text": "Enrique Fernando, Filipino lawyer and jurist, 13th Chief Justice of the Supreme Court of the Philippines (died 2004)"
+      "text": "Joseph P. Kennedy Jr., American lieutenant and pilot (died 1944)"
     },
     {
       "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Kernstown: Confederate General Jubal Early defeats Union troops led by General George Crook in an effort to keep them out of the Shenandoah Valley."
+      "year": "1799",
+      "text": "Napoleon Bonaparte defeats a numerically superior Ottoman army under Mustafa Pasha at the Battle of Abukir."
     },
     {
       "type": "Event",
-      "year": "1987",
-      "text": "US supertanker SS Bridgeton collides with mines laid by IRGC causing a 43-square-meter dent in the body of the oil tanker."
+      "year": "1994",
+      "text": "Israel and Jordan sign the Washington Declaration, that formally ends the state of war that had existed between the nations since 1948."
     },
     {
       "type": "Birth",
       "year": "1953",
-      "text": "Claire McCaskill, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Amelia Earhart, American pilot and author (died 1937)"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Ingrid Sischy, South African-American journalist and critic (born 1952)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Azim Premji, Indian businessman and philanthropist"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Mel Ramos, American painter, illustrator, and academic (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Drake London, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Jerrod Niemann, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Chris Sarandon, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Pam Tillis, American singer-songwriter, guitarist, and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Summer Glau, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Jorge Jesus, Portuguese footballer and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Charlie Crist, American lawyer and politician, 44th Governor of Florida"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "David Miner, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Watergate scandal: The United States Supreme Court unanimously ruled that President Richard Nixon did not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "The Quietly Confident Quartet of Australia wins the men's 4 x 100 metre medley relay at the Moscow Olympics, the only time the United States has not won the swimming event at Olympic level."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Giuseppe Di Stefano, Italian tenor and actor (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Operation Gomorrah begins: British and Canadian aeroplanes bomb Hamburg by night, and American planes bomb the city by day. By the end of the operation in November, 9,000 tons of explosives will have killed more than 30,000 people and destroyed 280,000 buildings."
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Cailee Spaeny, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "The Treaty of Lausanne, settling the boundaries of modern Turkey, is signed in Switzerland by Greece, Bulgaria and other countries that fought in World War I."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Ruggiero Ricci, American violinist and educator (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Phillip Lindsay, American football player"
-    },
-    {
-      "type": "Death",
-      "year": "1965",
-      "text": "Constance Bennett, American actress and producer (born 1904)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Sophie Wotschke, Austrian politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Harry Horner, American director and production designer (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Billy Taylor, American pianist and composer (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Eugene J. Martin, American painter (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Britton Chance, American biologist and sailor (died 2010)"
+      "text": "Robert Zoellick, American banker and politician, 14th United States Deputy Secretary of State"
     },
     {
       "type": "Event",
       "year": "1866",
-      "text": "Reconstruction: Tennessee becomes the first U.S. state to be readmitted to Congress following the American Civil War."
+      "text": "The United States Congress passes legislation authorizing the rank of General of the Army. Lieutenant General Ulysses S. Grant becomes the first to be promoted to this rank."
+    },
+    {
+      "type": "Event",
+      "year": "1139",
+      "text": "Battle of Ourique: The Almoravids, led by Ali ibn Yusuf, are defeated by Prince Afonso Henriques who is proclaimed King of Portugal."
+    },
+    {
+      "type": "Death",
+      "year": "1934",
+      "text": "Engelbert Dollfuss, Austrian politician, 14th Chancellor of Austria (born 1892)"
     },
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "Ruth Buzzi, American actress and comedian (died 2025)"
+      "year": "2000",
+      "text": "Shakira Austin, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "John Bond, English banker and businessman"
+      "year": "1925",
+      "text": "Benny Benjamin, American R&B drummer (died 1969)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Bob Dylan goes electric at the Newport Folk Festival, signaling a major change in folk and rock music."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: 136 Greek civilians are murdered by soldiers of the German 1st Mountain Division in the village of Mousiotitsa, Greece."
+    },
+    {
+      "type": "Event",
+      "year": "918",
+      "text": "Wang Geon becomes King of Goryeo after overthrowing Gung Ye in a coup the previous day."
     },
     {
       "type": "Birth",
+      "year": "1956",
+      "text": "Frances Arnold, American scientist and engineer (Nobel Prize for Chemistry 2018)"
+    },
+    {
+      "type": "Event",
       "year": "1969",
-      "text": "Jennifer Lopez, American actress, singer, and dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Richard March Hoe,  American inventor, patented the rotary-type printing press."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "During an official state visit to Canada, French President Charles de Gaulle declares to a crowd of over 100,000 in Montreal: Vive le Québec libre! (\"Long live free Quebec!\"); the statement angered the Canadian government and many Anglophone Canadians."
+      "text": "Vietnam War: U.S. President Richard Nixon declares the Nixon Doctrine, stating that the United States now expects its Asian allies to take care of their own military defense. This is the start of the \"Vietnamization\" of the war."
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Alex Katz, American painter and sculptor"
+      "year": "1923",
+      "text": "Estelle Getty, American actress (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Fyodor Cherenkov, Russian footballer and manager (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Verdine White, American bass player and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1897",
+      "text": "American author Jack London embarks on a sailing trip to take part in the Klondike's gold rush, from which he wrote his first successful stories."
     },
     {
       "type": "Birth",
       "year": "1995",
-      "text": "Valentine Holmes, Australian rugby league player"
+      "text": "Alvin Kamara, American football player"
     },
     {
       "type": "Birth",
-      "year": "1919",
-      "text": "Robert Marsden Hope, Australian lawyer and judge (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Elliot Rodger, English-American mass murderer (died 2014)"
+      "year": "1902",
+      "text": "Eric Hoffer, American philosopher and author (died 1983)"
     },
     {
       "type": "Event",
-      "year": "1304",
-      "text": "Wars of Scottish Independence: Fall of Stirling Castle: King Edward I of England takes the stronghold using the War Wolf."
+      "year": "1868",
+      "text": "The Wyoming Territory is established."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Richard Ballantine, American-English journalist and author (died 2013)"
     },
     {
       "type": "Death",
-      "year": "2011",
-      "text": "Skip Thomas, American football player (born 1950)"
+      "year": "2022",
+      "text": "Paul Sorvino, American actor (born 1939)"
     },
     {
       "type": "Event",
-      "year": "1959",
-      "text": "At the opening of the American National Exhibition in Moscow, U.S. vice president Richard Nixon and Soviet premier Nikita Khrushchev have a \"Kitchen Debate\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Gustav Andreas Tammann, German astronomer and academic (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Doug Bollinger, Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Barry Bonds, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Doug Sanders, American golfer (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Karl Malone, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire killing two police officers. He is later ruled to be incompetent to stand trial."
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Bindi Irwin, Australian conservationist, zookeeper, and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "O. Henry is released from prison in Columbus, Ohio, after serving three years for embezzlement from a bank."
+      "year": "1467",
+      "text": "The Battle of Molinella: The first battle in Italy in which firearms are used extensively."
     },
     {
       "type": "Birth",
       "year": "1976",
-      "text": "Rafer Alston, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The Dust Bowl heat wave reaches its peak, sending temperatures to 109 °F (43 °C) in Chicago and 104 °F (40 °C) in Milwaukee."
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "Syrian civil war: The People's Protection Units (YPG) capture the city of Girkê Legê."
-    },
-    {
-      "type": "Event",
-      "year": "1929",
-      "text": "The Kellogg–Briand Pact, renouncing war as an instrument of foreign policy, goes into effect (it is first signed in Paris on August 27, 1928, by most leading world powers)."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the \"Pine Tar Incident\"."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299."
-    },
-    {
-      "type": "Event",
-      "year": "1148",
-      "text": "Louis VII of France lays siege to Damascus during the Second Crusade."
+      "text": "Javier Vázquez, Puerto Rican-American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Kristin Chenoweth, American actress and singer"
+      "year": "1994",
+      "text": "Andrei Vasilevskiy, Russian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Alexei Filippenko, American astrophysicist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "The Nazis assassinate Austrian Chancellor Engelbert Dollfuss in a failed coup attempt."
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "Wolfgang Amadeus Mozart completes his Symphony No. 40 in G minor (K550)."
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "The first commercial use of an electrical telegraph is successfully demonstrated in London by William Cooke and Charles Wheatstone."
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "Viking program: Viking 1 takes the famous Face on Mars photo."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "WikiLeaks publishes classified documents about the War in Afghanistan, one of the largest leaks in U.S. military history."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Illeana Douglas, American actress, director, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1853",
+      "text": "Joaquin Murrieta,  the famous Californio bandit known as the \"Robin Hood of El Dorado\", is killed."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "American Revolutionary War: The war's last action, the Siege of Cuddalore, is ended by a preliminary peace agreement."
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Hasan Piker, American Twitch streamer"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "John Robinson, American football player and coach (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1722",
+      "text": "Dummer's War begins along the Maine-Massachusetts border."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Midge Decter, American journalist and author (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Tracy Murray, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Dale Shearer, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: The United States Congress passes the Crittenden–Johnson Resolution, stating that the war is being fought to preserve the Union and not to end slavery, in the wake of the defeat at the First Battle of Bull Run."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Conor Casey, American soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Natalia Vieru, Russian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Gerard Warren, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Brian Gibson, American bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Matt LeBlanc, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: An American attack on Canada is repulsed."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Barbara Harris, American actress and singer (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Shawn Riggans, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "John Gibson, American radio host"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Bob Kauffman, American basketball player and coach (born 1946)"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "Spanish–American War: The American invasion of Spanish-held Puerto Rico begins, as United States Army troops under General Nelson A. Miles land and secure the port at Guánica."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Benito Mussolini is forced out of office by the King (encouraged by the Grand Council of Fascism) and is replaced by Pietro Badoglio."
+    },
+    {
+      "type": "Event",
+      "year": "1759",
+      "text": "French and Indian War: In Western New York, British forces capture Fort Niagara from the French, who subsequently abandon Fort Rouillé."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "David Denman, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1609",
+      "text": "The English ship Sea Venture, en route to Virginia, is deliberately driven ashore during a storm at Bermuda to prevent its sinking; the survivors go on to found a new colony there."
+    },
+    {
+      "type": "Event",
+      "year": "315",
+      "text": "The Arch of Constantine is completed near the Colosseum in Rome to commemorate Constantine I's victory over Maxentius at the Milvian Bridge."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The African Regroupment Party holds its first congress in Cotonou."
     }
   ],
   "source": "Wikipedia"
