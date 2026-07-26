@@ -2,84 +2,24 @@
   "date": "2026-07-26",
   "items": [
     {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Tommy Rich, American wrestler"
+      "type": "Event",
+      "year": "1977",
+      "text": "The National Assembly of Quebec imposes the use of French as the official language of the provincial government."
     },
     {
       "type": "Birth",
+      "year": "1943",
+      "text": "Peter Hyams, American director, screenwriter, and cinematographer"
+    },
+    {
+      "type": "Event",
       "year": "1971",
-      "text": "Chris Harrison, American television personality"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "United States Attorney General Charles Joseph Bonaparte issues an order to immediately staff the Office of the Chief Examiner (later renamed the Federal Bureau of Investigation)."
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "Following the World Bank's refusal to fund building the Aswan Dam, Egyptian leader Gamal Abdel Nasser nationalizes the Suez Canal, sparking international condemnation."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: In response to the Japanese occupation of French Indochina, the United States, Britain and the Netherlands freeze all Japanese assets and cut off oil shipments."
+      "text": "Apollo program: Launch of Apollo 15 on the first Apollo \"J-Mission\", and first use of a Lunar Roving Vehicle."
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Bianca Santos, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "Space Shuttle program: STS-114 Mission: Launch of Discovery, NASA's first scheduled flight mission after the Columbia Disaster in 2003."
-    },
-    {
-      "type": "Death",
-      "year": "1984",
-      "text": "Ed Gein, American serial killer (born 1906)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Susan George, English actress and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Joan Wasser, American rock violinist, guitarist, singer-songwriter and producer (Joan As Police Woman)"
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Paul Gallico, American journalist and author (died 1976)"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Cold War: Fidel Castro leads an unsuccessful attack on the Moncada Barracks, thus beginning the Cuban Revolution. The movement took the name of the date: 26th of July Movement"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "Cold War: U.S. president Harry S. Truman signs the National Security Act of 1947 into United States law creating the Central Intelligence Agency, United States Department of Defense, United States Air Force, Joint Chiefs of Staff, and the United States National Security Council."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Joseph Engelberger, American physicist and engineer (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Spanish Civil War: Germany and Italy decide to intervene in the war in support for Francisco Franco and the Nationalist faction."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Bobby Hebb, American singer-songwriter (died 2010)"
+      "year": "1928",
+      "text": "Joe Jackson, American talent manager, father of Michael Jackson (died 2018)"
     },
     {
       "type": "Event",
@@ -88,118 +28,13 @@
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "Dean Brooks, American physician and actor (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Kargil conflict officially comes to an end. The Indian Army announces the complete eviction of Pakistani intruders."
+      "year": "1904",
+      "text": "Edwin Albert Link, American industrialist and entrepreneur, invented the flight simulator (died 1981)"
     },
     {
       "type": "Birth",
-      "year": "1893",
-      "text": "George Grosz, German painter and illustrator (died 1959)"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "The Americans with Disabilities Act of 1990 is signed into law by President George H. W. Bush."
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Liberia declares its independence from the United States. France and the United Kingdom are the first to recognize the new nation."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Roderick Strong, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jeremy Piven, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Tommy McDonald, American football player (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: The USS Indianapolis arrives at Tinian with components and enriched uranium for the Little Boy nuclear bomb."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Virginia Gilmore, American actress (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "The University of Wisconsin–Madison is established by Nelson Dewey, first Governor of Wisconsin."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Jean Shepherd, American radio host, actor, and screenwriter (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Bob Lilly, American football player and photographer"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "The office that would later become the United States Post Office Department is established by the Second Continental Congress. Benjamin Franklin of Pennsylvania takes office as Postmaster General."
-    },
-    {
-      "type": "Event",
-      "year": "1579",
-      "text": "Francis Drake, the English explorer, discovers a \"fair and good\" bay on the coast of the Pacific Northwest (probably Oregon or Washington)."
-    },
-    {
-      "type": "Death",
-      "year": "1926",
-      "text": "Robert Todd Lincoln, American lawyer and politician, 35th United States Secretary of War, son of Abraham Lincoln (born 1843)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Alec Martinez, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Blake Edwards, American director, producer, and screenwriter (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "U.S. president Harry S. Truman signs Executive Order 9981, desegregating the military of the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: George B. McClellan assumes command of the Army of the Potomac following a disastrous Union defeat at the First Battle of Bull Run."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Norm Siebern, American baseball player (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1703",
-      "text": "During the Bavarian Rummel the rural population of Tyrol drove the Bavarian Prince-Elector Maximilian II Emanuel out of North Tyrol with a victory at the Pontlatzer Bridge and thus prevented the Bavarian Army, which was allied with France, from marching as planned on Vienna during the War of the Spanish Succession."
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Arizona Governor John Howard Pyle orders an anti-polygamy law enforcement crackdown on residents of Short Creek, Arizona, which becomes known as the Short Creek raid."
+      "year": "1956",
+      "text": "Dorothy Hamill, American figure skater"
     },
     {
       "type": "Event",
@@ -208,38 +43,33 @@
     },
     {
       "type": "Event",
-      "year": "2016",
-      "text": "Hillary Clinton becomes the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jim Lindberg, American singer and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Greg Colbrunn, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Jason Robards, American actor (died 2000)"
+      "year": "1956",
+      "text": "Following the World Bank's refusal to fund building the Aswan Dam, Egyptian leader Gamal Abdel Nasser nationalizes the Suez Canal, sparking international condemnation."
     },
     {
       "type": "Event",
-      "year": "1977",
-      "text": "The National Assembly of Quebec imposes the use of French as the official language of the provincial government."
+      "year": "1703",
+      "text": "During the Bavarian Rummel the rural population of Tyrol drove the Bavarian Prince-Elector Maximilian II Emanuel out of North Tyrol with a victory at the Pontlatzer Bridge and thus prevented the Bavarian Army, which was allied with France, from marching as planned on Vienna during the War of the Spanish Succession."
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Iron & Wine, American singer-songwriter"
+      "year": "1979",
+      "text": "Erik Westrum, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Liz Truss, former Prime Minister of the United Kingdom"
     },
     {
       "type": "Event",
-      "year": "811",
-      "text": "Battle of Pliska: Byzantine Emperor Nikephoros I is killed and his heir Staurakios is seriously wounded."
+      "year": "1847",
+      "text": "Liberia declares its independence from the United States. France and the United Kingdom are the first to recognize the new nation."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Vitas Gerulaitis, American tennis player and coach (died 1994)"
     },
     {
       "type": "Event",
@@ -247,49 +77,29 @@
       "text": "King Edward VIII, in one of his few official duties before he abdicates the throne, officially unveils the Canadian National Vimy Memorial."
     },
     {
-      "type": "Event",
-      "year": "1788",
-      "text": "New York ratifies the United States Constitution and becomes the 11th state of the United States."
+      "type": "Birth",
+      "year": "1953",
+      "text": "Robert Phillips, American guitarist"
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Jan Berenstain, American author and illustrator (died 2012)"
+      "year": "1986",
+      "text": "Monica Raymund, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Cold War: Fidel Castro leads an unsuccessful attack on the Moncada Barracks, thus beginning the Cuban Revolution. The movement took the name of the date: 26th of July Movement"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "U.S. president Harry S. Truman signs Executive Order 9981, desegregating the military of the United States."
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Joe Smith, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Ken Wallace, Australian kayaker"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "Syncom 2, the world's first geosynchronous satellite, is launched from Cape Canaveral on a Delta B booster."
-    },
-    {
-      "type": "Event",
-      "year": "920",
-      "text": "Rout of an alliance of Christian troops from Navarre and Léon against the Muslims at the Battle of Valdejunquera."
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Apollo program: Launch of Apollo 15 on the first Apollo \"J-Mission\", and first use of a Lunar Roving Vehicle."
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "Spanish Civil War: End of the Battle of Brunete with the Nationalist victory."
-    },
-    {
-      "type": "Death",
-      "year": "2023",
-      "text": "Sinéad O'Connor, Irish singer and musician (born 1966)"
+      "year": "1909",
+      "text": "Vivian Vance, American actress and singer (died 1979)"
     },
     {
       "type": "Event",
@@ -298,8 +108,198 @@
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Monica Raymund, American actress"
+      "year": "1923",
+      "text": "Hoyt Wilhelm, American baseball player and coach (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "James Best, American actor, director, and screenwriter (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Spanish Civil War: Germany and Italy decide to intervene in the war in support for Francisco Franco and the Nationalist faction."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Thaksin Shinawatra, Thai businessman and politician, 23rd Prime Minister of Thailand"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Joan Wasser, American rock violinist, guitarist, singer-songwriter and producer (Joan As Police Woman)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Jason Robards, American actor (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Hillary Clinton becomes the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia."
+    },
+    {
+      "type": "Event",
+      "year": "1579",
+      "text": "Francis Drake, the English explorer, discovers a \"fair and good\" bay on the coast of the Pacific Northwest (probably Oregon or Washington)."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "The Americans with Disabilities Act of 1990 is signed into law by President George H. W. Bush."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Nana Visitor, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Erskine Hawkins, American trumpet player and bandleader (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Arizona Governor John Howard Pyle orders an anti-polygamy law enforcement crackdown on residents of Short Creek, Arizona, which becomes known as the Short Creek raid."
+    },
+    {
+      "type": "Death",
+      "year": "2011",
+      "text": "Tom Borton, American jazz saxophonist, songwriter and composer (born 1956)"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Paul Gallico, American journalist and author (died 1976)"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "Cold War: U.S. president Harry S. Truman signs the National Security Act of 1947 into United States law creating the Central Intelligence Agency, United States Department of Defense, United States Air Force, Joint Chiefs of Staff, and the United States National Security Council."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Joe Smith, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "811",
+      "text": "Battle of Pliska: Byzantine Emperor Nikephoros I is killed and his heir Staurakios is seriously wounded."
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "New York ratifies the United States Constitution and becomes the 11th state of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Marjorie Lord, American actress (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "920",
+      "text": "Rout of an alliance of Christian troops from Navarre and Léon against the Muslims at the Battle of Valdejunquera."
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "The University of Wisconsin–Madison is established by Nelson Dewey, first Governor of Wisconsin."
+    },
+    {
+      "type": "Birth",
+      "year": "1890",
+      "text": "Daniel J. Callaghan, American admiral, Medal of Honor recipient (died 1942)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Syncom 2, the world's first geosynchronous satellite, is launched from Cape Canaveral on a Delta B booster."
+    },
+    {
+      "type": "Death",
+      "year": "2000",
+      "text": "John Tukey, American mathematician and academic (born 1915)"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: In response to the Japanese occupation of French Indochina, the United States, Britain and the Netherlands freeze all Japanese assets and cut off oil shipments."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Greg Colbrunn, American baseball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "Space Shuttle program: STS-114 Mission: Launch of Discovery, NASA's first scheduled flight mission after the Columbia Disaster in 2003."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Earl Tatum, American professional basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Kelly Clark, American snowboarder"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "United States Attorney General Charles Joseph Bonaparte issues an order to immediately staff the Office of the Chief Examiner (later renamed the Federal Bureau of Investigation)."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Norm Siebern, American baseball player (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Kargil conflict officially comes to an end. The Indian Army announces the complete eviction of Pakistani intruders."
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "Spanish Civil War: End of the Battle of Brunete with the Nationalist victory."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: The USS Indianapolis arrives at Tinian with components and enriched uranium for the Little Boy nuclear bomb."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Jack Morrison, Australian rugby league player (died 1994)"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "The office that would later become the United States Post Office Department is established by the Second Continental Congress. Benjamin Franklin of Pennsylvania takes office as Postmaster General."
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Roy Castleton, American baseball player (died 1967)"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Lupe Ontiveros, American actress (born 1942)"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: George B. McClellan assumes command of the Army of the Potomac following a disastrous Union defeat at the First Battle of Bull Run."
     }
   ],
   "source": "Wikipedia"
