@@ -2,194 +2,39 @@
   "date": "2026-07-28",
   "items": [
     {
-      "type": "Death",
-      "year": "1981",
-      "text": "Stanley Rother, American priest and missionary (born 1935)"
+      "type": "Birth",
+      "year": "1960",
+      "text": "Yōichi Takahashi, Japanese illustrator"
     },
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "Russ Jackson, Canadian football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Jacques d'Amboise, American dancer and choreographer (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Bill Bradley, American basketball player and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1866",
-      "text": "Albertson Van Zo Post, American fencer (died 1938)"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Marcel Duchamp, French-American painter and sculptor (died 1968)"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "Catastrophic floods devastate Eastern Kentucky, resulting in 45 fatalities and causing damage to thousands of homes and businesses."
-    },
-    {
-      "type": "Event",
-      "year": "1540",
-      "text": "Thomas Cromwell is executed after having been condemned untried, using a bill of attainder which Cromwell had used against his opponents."
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "The 14th Amendment to the United States Constitution is certified, establishing African American citizenship and guaranteeing due process of law."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Susan Roces, Filipino actress and producer (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Pulkovo Aviation Enterprise Flight 9560 crashes after takeoff from Sheremetyevo International Airport in Moscow, Russia, killing 14 of the 16 people on board."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "William Scranton, American captain and politician, 13th United States Ambassador to the United Nations (born 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "Ballington Booth, English-American activist, co-founded Volunteers of America (died 1940)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Operation Gomorrah: The Royal Air Force bombs Hamburg, Germany causing a firestorm that kills 42,000 German civilians."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Alexandra Chando, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "French Revolution: Maximilien Robespierre and Louis Antoine de Saint-Just are executed by guillotine in Paris, France."
-    },
-    {
-      "type": "Event",
-      "year": "1854",
-      "text": "USS Constellation (1854), the last all-sail warship built by the United States Navy and current museum ship in Baltimore Harbor, is commissioned."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Jim Davis, American cartoonist, created Garfield"
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "Constitution of the province of Cantabria ratified at the Assembly Hall in Bárcena la Puente, Reocín, Spain."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: U.S. president Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000."
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "Heavy rain and a mudslide in Isahaya, western Kyushu, Japan, kills 992."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Sally Struthers, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Carmen Dragon, American conductor and composer (died 1984)"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Anti-lynching movement: The Silent Parade takes place in New York City, in protest against murders, lynchings, and other violence directed towards African Americans."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "The remains of a prehistoric man are discovered near Kennewick, Washington. Such remains will be known as the Kennewick Man."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Charlie Biddle, American-Canadian bassist (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Georgia Engel, American actress and comedian (died 2019)"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Abraham Pais, Dutch-American physicist and historian (born 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1867",
-      "text": "Charles Dillon Perrine, American-Argentinian astronomer (died 1951)"
-    },
-    {
-      "type": "Event",
-      "year": "1911",
-      "text": "The Australasian Antarctic Expedition began as the SY Aurora departed London."
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Willard Price, Canadian-American journalist and author (died 1983)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Afroman, American rapper and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Andrew V. McLaglen, English-American director and producer (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "The United States begins a 19-year occupation of Haiti."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "A U.S. Army B-25 bomber crashes into the 79th floor of the Empire State Building killing 14 and injuring 26."
+      "year": "1924",
+      "text": "Luigi Musso, Italian racing driver (died 1958)"
     },
     {
       "type": "Birth",
       "year": "1915",
       "text": "Dick Sprang, American illustrator (died 2000)"
+    },
+    {
+      "type": "Death",
+      "year": "1969",
+      "text": "Frank Loesser, American composer (born 1910)"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "At the age of 18, Vinnie Ream becomes the first and youngest female artist to receive a commission from the United States government for a statue (of Abraham Lincoln)."
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Frankie Yankovic, American polka musician (died 1998)"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service."
     },
     {
       "type": "Event",
@@ -198,33 +43,28 @@
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Michael Hitchcock, American actor, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Bullet Rogan, American baseball player (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Willie Green, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "DeMeco Ryans, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Jean Roba, Belgian author and illustrator (died 2006)"
+      "year": "1974",
+      "text": "Afroman, American rapper and comedian"
     },
     {
       "type": "Event",
-      "year": "1914",
-      "text": "World War I: In the culmination of the July Crisis, Austria-Hungary declares war on the Kingdom of Serbia and begins the Great War."
+      "year": "1917",
+      "text": "Anti-lynching movement: The Silent Parade takes place in New York City, in protest against murders, lynchings, and other violence directed towards African Americans."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Gerald Casale, American singer-songwriter, guitarist, and director"
+    },
+    {
+      "type": "Death",
+      "year": "1982",
+      "text": "Keith Green, American singer-songwriter and pianist (born 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Charlie Biddle, American-Canadian bassist (died 2003)"
     },
     {
       "type": "Event",
@@ -232,59 +72,109 @@
       "text": "Spetsgruppa A, Russia's elite special force, was formed."
     },
     {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Lawrence Gray, American actor (died 1970)"
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jon J. Muth, American author and illustrator"
-    },
-    {
       "type": "Event",
       "year": "2018",
       "text": "Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race."
     },
     {
-      "type": "Event",
-      "year": "1932",
-      "text": "During the Great Depression, U.S. president Herbert Hoover orders the United States Army to forcibly evict the \"Bonus Army\" of World War I veterans gathered in Washington, D.C."
-    },
-    {
       "type": "Birth",
-      "year": "1796",
-      "text": "Ignaz Bösendorfer, Austrian businessman, founded the Bösendorfer Company (died 1859)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Cain Velasquez, Mexican-American mixed martial artist and wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Miyabiyama Tetsushi, Japanese sumo wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Doug Collins, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Mike Bloomfield, American guitarist and songwriter (died 1981)"
+      "year": "1958",
+      "text": "Michael Hitchcock, American actor, producer, and screenwriter"
     },
     {
       "type": "Event",
-      "year": "1866",
-      "text": "At the age of 18, Vinnie Ream becomes the first and youngest female artist to receive a commission from the United States government for a statue (of Abraham Lincoln)."
+      "year": "1996",
+      "text": "The remains of a prehistoric man are discovered near Kennewick, Washington. Such remains will be known as the Kennewick Man."
+    },
+    {
+      "type": "Event",
+      "year": "1854",
+      "text": "USS Constellation (1854), the last all-sail warship built by the United States Navy and current museum ship in Baltimore Harbor, is commissioned."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "David Brown, American journalist and producer (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Jacqueline Kennedy Onassis, American journalist and socialite, 37th First Lady of the United States (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Rachel Sweet, American singer, television writer, and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "The United States begins a 19-year occupation of Haiti."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Nnenna Freelon, American jazz singer, composer, and arranger"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Catastrophic floods devastate Eastern Kentucky, resulting in 45 fatalities and causing damage to thousands of homes and businesses."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Sally Struthers, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1540",
+      "text": "Thomas Cromwell is executed after having been condemned untried, using a bill of attainder which Cromwell had used against his opponents."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Andrew V. McLaglen, English-American director and producer (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Alena Popchanka, Belarusian-French swimmer and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "Heavy rain and a mudslide in Isahaya, western Kyushu, Japan, kills 992."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Pulkovo Aviation Enterprise Flight 9560 crashes after takeoff from Sheremetyevo International Airport in Moscow, Russia, killing 14 of the 16 people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Jacoby Shaddix, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Jonathan Edwards, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Death",
+      "year": "1971",
+      "text": "Myril Hoag, American baseball player (born 1908)"
+    },
+    {
+      "type": "Event",
+      "year": "1778",
+      "text": "Constitution of the province of Cantabria ratified at the Assembly Hall in Bárcena la Puente, Reocín, Spain."
     },
     {
       "type": "Event",
@@ -293,13 +183,123 @@
     },
     {
       "type": "Event",
-      "year": "484",
-      "text": "Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism."
+      "year": "1943",
+      "text": "World War II: Operation Gomorrah: The Royal Air Force bombs Hamburg, Germany causing a firestorm that kills 42,000 German civilians."
+    },
+    {
+      "type": "Event",
+      "year": "1794",
+      "text": "French Revolution: Maximilien Robespierre and Louis Antoine de Saint-Just are executed by guillotine in Paris, France."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "A U.S. Army B-25 bomber crashes into the 79th floor of the Empire State Building killing 14 and injuring 26."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Carmen Dragon, American conductor and composer (died 1984)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Cain Velasquez, Mexican-American mixed martial artist and wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Albert Namatjira, Australian painter (died 1959)"
+    },
+    {
+      "type": "Birth",
+      "year": "1860",
+      "text": "Grand Duchess Anastasia Mikhailovna of Russia (died 1922)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "John Ashbery, American poet (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Delfeayo Marsalis, American jazz musician (trombonist), member of the Marsalis family"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Charles H. Townes, American physicist and academic, Nobel Prize laureate (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Scott Pelley, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321."
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "During the Great Depression, U.S. president Herbert Hoover orders the United States Army to forcibly evict the \"Bonus Army\" of World War I veterans gathered in Washington, D.C."
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Vietnam War: U.S. president Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000."
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "The Australasian Antarctic Expedition began as the SY Aurora departed London."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Gregg Giuffria, American rock musician and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Randall Wallace, American screenwriter and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Mark Meadows, American politician, Donald Trump's former Chief of Staff"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Stephen Lynch, American singer-songwriter and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "The 14th Amendment to the United States Constitution is certified, establishing African American citizenship and guaranteeing due process of law."
     },
     {
       "type": "Event",
       "year": "2001",
       "text": "Australian Ian Thorpe becomes the first swimmer to win six gold medals at a single World Championship meeting."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Essence Carson, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: In the culmination of the July Crisis, Austria-Hungary declares war on the Kingdom of Serbia and begins the Great War."
+    },
+    {
+      "type": "Event",
+      "year": "484",
+      "text": "Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism."
     }
   ],
   "source": "Wikipedia"
