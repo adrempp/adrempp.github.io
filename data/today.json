@@ -3,63 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "2021",
-      "text": "The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Bernard Lafayette, American civil rights movement activist (died 2026)"
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "United States and Japan sign the Harris Treaty."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Jason Belmonte, Australian bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Leslie Easterbrook, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "-587",
-      "text": "The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Jennifer Dunn, American engineer and politician (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "Founding of the U.S. Army Judge Advocate General's Corps: General George Washington appoints William Tudor as Judge Advocate of the Continental Army."
-    },
-    {
-      "type": "Event",
-      "year": "1907",
-      "text": "Sir Robert Baden-Powell sets up the Brownsea Island Scout camp in Poole Harbour on the south coast of England. The camp runs from August 1 to August 9 and is regarded as the foundation of the Scouting movement."
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Foster Furcolo, American lawyer and politician, 60th Governor of Massachusetts (died 1995)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Driver Roger Williamson is killed during the Dutch Grand Prix, after a suspected tire failure causes his car to pitch into the barriers at high speed."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Clara Bow, American actress (died 1965)"
+      "year": "1910",
+      "text": "The two-day Slocum massacre commences in Texas, a race riot in which more than 100 African Americans are murdered."
     },
     {
       "type": "Event",
@@ -67,19 +12,39 @@
       "text": "U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA)."
     },
     {
-      "type": "Event",
-      "year": "238",
-      "text": "The Praetorian guard revolts against emperors Balbinus and Pupienus and arrests them."
-    },
-    {
-      "type": "Event",
-      "year": "1932",
-      "text": "Great Depression: In Washington, D.C., troops disperse the last of the \"Bonus Army\" of World War I veterans using arson, bayonets, sabers, tanks, tear gas, and vomit gas."
+      "type": "Birth",
+      "year": "1964",
+      "text": "Jaanus Veensalu, Estonian footballer"
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Ronald Murray, American basketball player"
+      "year": "1980",
+      "text": "Ben Koller, American drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Luis Alicea, Puerto Rican-American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Stanley Kunitz, American poet and translator (died 2006)"
+    },
+    {
+      "type": "Death",
+      "year": "1844",
+      "text": "Franz Xaver Wolfgang Mozart, Austrian pianist, composer, and conductor (born 1791)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The BBC Light Programme radio station is launched for mainstream light entertainment and music."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people."
     },
     {
       "type": "Event",
@@ -88,18 +53,18 @@
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Stan Koziol, American soccer player (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1014",
-      "text": "Byzantine–Bulgarian wars: Battle of Kleidion: Byzantine emperor Basil II inflicts a decisive defeat on the Bulgarian army, and his subsequent treatment of 15,000 prisoners reportedly causes Tsar Samuil of Bulgaria to die of a heart attack less than three months later, on October 6."
+      "year": "1920",
+      "text": "Neville Jeffress, Australian businessman (died 2007)"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Adele Griffin, American author"
+      "year": "1991",
+      "text": "Dale Copley, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Elizabeth Dole, American lawyer and politician, 20th United States Secretary of Labor"
     },
     {
       "type": "Event",
@@ -108,38 +73,28 @@
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Timothy Omundson, American actor"
+      "year": "1950",
+      "text": "Korean War: After four days, the No Gun Ri Massacre ends when the US Army 7th Cavalry Regiment is withdrawn."
     },
     {
       "type": "Event",
-      "year": "1996",
-      "text": "The child protection portion of the Communications Decency Act is struck down by a U.S. federal court as too broad."
-    },
-    {
-      "type": "Event",
-      "year": "923",
-      "text": "Battle of Firenzuola: Lombard forces under King Rudolph II and Adalbert I, margrave of Ivrea, defeat the dethroned Emperor Berengar I of Italy at Firenzuola (Tuscany)."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "Land lottery begins in Oklahoma."
+      "year": "1858",
+      "text": "United States and Japan sign the Harris Treaty."
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Edgar Cortright, American scientist and engineer (died 2014)"
+      "year": "1892",
+      "text": "William Powell, American actor and singer (died 1984)"
     },
     {
       "type": "Birth",
-      "year": "1899",
-      "text": "Walter Beall, American baseball player (died 1959)"
+      "year": "1915",
+      "text": "Bruce R. McConkie, American colonel and religious leader (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1014",
+      "text": "Byzantine–Bulgarian wars: Battle of Kleidion: Byzantine emperor Basil II inflicts a decisive defeat on the Bulgarian army, and his subsequent treatment of 15,000 prisoners reportedly causes Tsar Samuil of Bulgaria to die of a heart attack less than three months later, on October 6."
     },
     {
       "type": "Birth",
@@ -147,24 +102,14 @@
       "text": "Irakli Logua, Russian footballer"
     },
     {
-      "type": "Event",
-      "year": "1910",
-      "text": "The two-day Slocum massacre commences in Texas, a race riot in which more than 100 African Americans are murdered."
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "Adolf Hitler becomes leader of the National Socialist German Workers' Party."
-    },
-    {
       "type": "Birth",
-      "year": "1950",
-      "text": "Jenny Holzer, American painter, author, and dancer"
+      "year": "1923",
+      "text": "Jim Marshall, English businessman, founded Marshall Amplification (died 2012)"
     },
     {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Tony Sirico, American actor (died 2022)"
+      "type": "Event",
+      "year": "1967",
+      "text": "Vietnam War: Off the coast of North Vietnam the USS Forrestal catches on fire in the worst U.S. naval disaster since World War II, killing 134."
     },
     {
       "type": "Event",
@@ -173,88 +118,23 @@
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Harold W. Kuhn, American mathematician and academic (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Stephen Dorff, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "John Clarke, New Zealand-Australian comedian, actor, producer, and screenwriter (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The BBC Light Programme radio station is launched for mainstream light entertainment and music."
-    },
-    {
-      "type": "Death",
-      "year": "1994",
-      "text": "John Britton, American physician (born 1925)"
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Benito Mussolini, Italian fascist revolutionary and politician, 27th Prime Minister of Italy (died 1945)"
-    },
-    {
-      "type": "Birth",
       "year": "1957",
-      "text": "Liam Davison, Australian author and educator (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Vietnam War: Off the coast of North Vietnam the USS Forrestal catches on fire in the worst U.S. naval disaster since World War II, killing 134."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Lou Albano, Italian-American wrestler, manager, and actor (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Confederate spy Belle Boyd is arrested by Union troops and detained at the Old Capitol Prison in Washington, D.C."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Vincent Rousseau, Belgian runner"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people."
+      "text": "Nellie Kim, Russian gymnast and coach"
     },
     {
       "type": "Death",
-      "year": "2014",
-      "text": "Thomas R. St. George, American soldier and author (born 1919)"
+      "year": "2018",
+      "text": "Nikolai Volkoff, Yugoslav-born American professional wrestler (born 1947)"
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Scott Steiner, American wrestler"
+      "year": "1959",
+      "text": "Dave LaPoint, American baseball player and manager"
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Susan Blackmore, English psychologist and theorist"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Robert Horton, American actor (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "In New York City, David Berkowitz (a.k.a. the \"Son of Sam\") kills one person and seriously wounds another in the first of a series of attacks."
+      "year": "1974",
+      "text": "Josh Radnor, American actor and musician"
     },
     {
       "type": "Event",
@@ -263,8 +143,148 @@
     },
     {
       "type": "Event",
+      "year": "2021",
+      "text": "The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Dick Harmon, American golfer and coach (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Vincent Rousseau, Belgian runner"
+    },
+    {
+      "type": "Birth",
+      "year": "1872",
+      "text": "Eric Alfred Knudsen, American author, lawyer, and politician (died 1957)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Tony Gaze, Australian soldier, pilot, and race car driver (born 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "In New York City, David Berkowitz (a.k.a. the \"Son of Sam\") kills one person and seriously wounds another in the first of a series of attacks."
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "The child protection portion of the Communications Decency Act is struck down by a U.S. federal court as too broad."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Daniel McFadden, American economist and academic, Nobel Prize Laureate"
+    },
+    {
+      "type": "Event",
+      "year": "238",
+      "text": "The Praetorian guard revolts against emperors Balbinus and Pupienus and arrests them."
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "Sir Robert Baden-Powell sets up the Brownsea Island Scout camp in Poole Harbour on the south coast of England. The camp runs from August 1 to August 9 and is regarded as the foundation of the Scouting movement."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Rochus Misch, German SS officer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Gail Dines, English-American author, activist, and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "Adolf Hitler becomes leader of the National Socialist German Workers' Party."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Tony Sirico, American actor (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Tim Gunn, American television host and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Driver Roger Williamson is killed during the Dutch Grand Prix, after a suspected tire failure causes his car to pitch into the barriers at high speed."
+    },
+    {
+      "type": "Event",
+      "year": "923",
+      "text": "Battle of Firenzuola: Lombard forces under King Rudolph II and Adalbert I, margrave of Ivrea, defeat the dethroned Emperor Berengar I of Italy at Firenzuola (Tuscany)."
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "Ralph Austin Bard, American financier and politician, 2nd Under Secretary of the Navy (died 1975)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Robert Horton, American actor (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1888",
+      "text": "Vladimir K. Zworykin, Russian-American inventor, engineer, invented the cathode ray tube system (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Teddy Atlas, American boxer, trainer, and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "Great Depression: In Washington, D.C., troops disperse the last of the \"Bonus Army\" of World War I veterans using arson, bayonets, sabers, tanks, tear gas, and vomit gas."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Rupert Hamer, Australian politician, 39th Premier of Victoria (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Dave Stevens, American illustrator (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "-587",
+      "text": "The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Alexandra Paul, American actress and producer"
+    },
+    {
+      "type": "Event",
       "year": "2015",
       "text": "The first piece of suspected debris from Malaysia Airlines Flight 370 is discovered on Réunion Island."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Confederate spy Belle Boyd is arrested by Union troops and detained at the Old Capitol Prison in Washington, D.C."
     },
     {
       "type": "Event",
@@ -272,34 +292,14 @@
       "text": "The Connecticut Valley Railroad opens between Old Saybrook, Connecticut and Hartford, Connecticut in the United States."
     },
     {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Richard Egan, American actor (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Isidor Isaac Rabi, American physicist and academic, Nobel Prize Laureate (died 1988)"
-    },
-    {
-      "type": "Death",
-      "year": "1984",
-      "text": "Fred Waring, American television host and bandleader (born 1900)"
+      "type": "Event",
+      "year": "1901",
+      "text": "Land lottery begins in Oklahoma."
     },
     {
       "type": "Event",
-      "year": "1950",
-      "text": "Korean War: After four days, the No Gun Ri Massacre ends when the US Army 7th Cavalry Regiment is withdrawn."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Neal Pionk, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Jerious Norwood, American football player"
+      "year": "1775",
+      "text": "Founding of the U.S. Army Judge Advocate General's Corps: General George Washington appoints William Tudor as Judge Advocate of the Continental Army."
     }
   ],
   "source": "Wikipedia"
