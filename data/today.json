@@ -3,248 +3,28 @@
   "items": [
     {
       "type": "Event",
-      "year": "1733",
-      "text": "The first Masonic Grand Lodge in the future United States is constituted in Massachusetts."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Sam Saunders, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Bootsy Thornton, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1502",
-      "text": "Christopher Columbus lands at Guanaja in the Bay Islands off the coast of Honduras during his fourth voyage."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Patricia Schroeder, American lawyer and politician (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone)  sign the Treaty of Box Elder."
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "A series of landslides occurs in Kerala, India, causing over 420 fatalities."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Allan Langer, Australian rugby league player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Tom Morris, Australian journalist"
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "A magnitude 8.8 earthquake hits Russia, causing tsunamis over the Pacific Ocean."
-    },
-    {
-      "type": "Event",
-      "year": "1932",
-      "text": "Premiere of Walt Disney's Flowers and Trees, the first cartoon short to use Technicolor and the first Academy Award winning cartoon short."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Israel's Knesset passes the Jerusalem Law."
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Casey Stengel, American baseball player and manager (died 1975)"
-    },
-    {
-      "type": "Event",
-      "year": "1645",
-      "text": "English Civil War: Scottish Covenanter forces under the Earl of Leven launch the Siege of Hereford, a remaining Royalist stronghold."
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years."
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant in Bloomfield Hills, Michigan, a suburb of Detroit, at about 2:30 p.m. He is never seen or heard from again."
+      "year": "1609",
+      "text": "Beaver Wars: At Ticonderoga (now Crown Point, New York), Samuel de Champlain shoots and kills two Iroquois chiefs on behalf of his native allies."
     },
     {
       "type": "Birth",
       "year": "1947",
-      "text": "William Atherton, American actor and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1729",
-      "text": "Founding of Baltimore, Maryland."
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "The Black Tom explosion in New York Harbor kills four and destroys some $20,000,000 worth of military goods."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Delta Burke, American actress"
+      "text": "Jonathan Mann, American physician and author (died 1998)"
     },
     {
       "type": "Death",
-      "year": "1992",
-      "text": "Joe Shuster, Canadian-American illustrator, co-created Superman (born 1914)"
+      "year": "2012",
+      "text": "Mary Louise Rasmuson, American colonel (born 1911)"
     },
     {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Justin Rose, South African-English golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "C. T. Vivian, American minister, author, and activist (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Jehad Al-Hussain, Syrian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Elvis Crespo, American-Puerto Rican singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "William Zillman, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1619",
-      "text": "In Jamestown, Virginia, the first Colonial European representative assembly in the Americas, the Virginia General Assembly, convenes for the first time."
+      "type": "Death",
+      "year": "2013",
+      "text": "Cecil Alexander, American architect, designed the State of Georgia Building (born 1918)"
     },
     {
       "type": "Birth",
       "year": "1927",
       "text": "Victor Wong, American actor (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "Armed Confederate veterans in New Orleans riot against a meeting of Radical Republicans, killing 48 people and injuring another 100."
-    },
-    {
-      "type": "Event",
-      "year": "657",
-      "text": "Election of pope Vitalian following the death of pope Eugene I in the previous month."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Alek Keshishian, Lebanese-American director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Watergate scandal: U.S. President Richard Nixon releases subpoenaed White House recordings after being ordered to do so by the Supreme Court of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Gabrielle Christian, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Sid Krofft, Canadian-American puppeteer and producer (died 2026)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Laurence Fishburne, American actor and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "A joint resolution of the U.S. Congress is signed by President Dwight D. Eisenhower, authorizing In God We Trust as the U.S. national motto."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station."
-    },
-    {
-      "type": "Death",
-      "year": "1718",
-      "text": "William Penn, English businessman and philosopher, founded the Province of Pennsylvania (born 1644)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Dean Edwards, American comedian, actor, and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "U.S. president Lyndon B. Johnson signs the Social Security Act of 1965 into law, establishing Medicare and Medicaid."
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "Smedley Butler, American general, Medal of Honor recipient (died 1940)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Martin Starr, American actor and comedian"
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "The steamboat Brother Jonathan sinks off the coast of Crescent City, California, killing 225 passengers, the deadliest shipwreck on the Pacific Coast of the U.S. at the time."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Edgar de Evia, Mexican-American photographer (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Jake Faria, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Ossie Schectman, American basketball player (born 1919)"
-    },
-    {
-      "type": "Birth",
-      "year": "1549",
-      "text": "Ferdinando I de' Medici, Grand Duke of Tuscany (died 1609)"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "The Trans-Canada Highway, the then-longest national highway in the world, is officially opened."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches."
     },
     {
       "type": "Birth",
@@ -253,38 +33,98 @@
     },
     {
       "type": "Event",
-      "year": "1609",
-      "text": "Beaver Wars: At Ticonderoga (now Crown Point, New York), Samuel de Champlain shoots and kills two Iroquois chiefs on behalf of his native allies."
+      "year": "1863",
+      "text": "American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone)  sign the Treaty of Box Elder."
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Sean Patrick Maloney, American politician"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Vietnam War: U.S. president Richard Nixon makes an unscheduled visit to South Vietnam and meets with President Nguyễn Văn Thiệu and U.S. military commanders."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Japanese submarine I-58 sinks the USS Indianapolis, killing 883 seamen. Most die during the following four days, until an aircraft notices the survivors."
-    },
-    {
-      "type": "Event",
-      "year": "1676",
-      "text": "Nathaniel Bacon issues the \"Declaration of the People of Virginia\", beginning Bacon's Rebellion against the rule of Governor William Berkeley."
+      "year": "1950",
+      "text": "Frank Stallone, American singer-songwriter and actor"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Ron Block, American singer-songwriter and banjo player"
+      "year": "1957",
+      "text": "Clint Hurdle, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches."
+    },
+    {
+      "type": "Event",
+      "year": "1645",
+      "text": "English Civil War: Scottish Covenanter forces under the Earl of Leven launch the Siege of Hereford, a remaining Royalist stronghold."
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Anthony Galla-Rini, American accordion player and composer (born 1904)"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "Armed Confederate veterans in New Orleans riot against a meeting of Radical Republicans, killing 48 people and injuring another 100."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Terry Crews, American actor and football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1857",
+      "text": "Thorstein Veblen, American economist and sociologist (died 1929)"
+    },
+    {
+      "type": "Event",
+      "year": "657",
+      "text": "Election of pope Vitalian following the death of pope Eugene I in the previous month."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Dean Edwards, American comedian, actor, and singer"
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "A series of landslides occurs in Kerala, India, causing over 420 fatalities."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Arnold Schwarzenegger, Austrian-American bodybuilder, actor, and politician, 38th Governor of California"
     },
     {
       "type": "Birth",
       "year": "1972",
       "text": "Jim McIlvaine, American basketball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Pete Schoening, American mountaineer (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1619",
+      "text": "In Jamestown, Virginia, the first Colonial European representative assembly in the Americas, the Virginia General Assembly, convenes for the first time."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "The Trans-Canada Highway, the then-longest national highway in the world, is officially opened."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Buddy Guy, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Israel's Knesset passes the Jerusalem Law."
     },
     {
       "type": "Event",
@@ -293,13 +133,173 @@
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Grant Johannesen, American pianist and educator (died 2005)"
+      "year": "1881",
+      "text": "Smedley Butler, American general, Medal of Honor recipient (died 1940)"
+    },
+    {
+      "type": "Event",
+      "year": "1733",
+      "text": "The first Masonic Grand Lodge in the future United States is constituted in Massachusetts."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Jennifer Barnes, American-English musicologist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1502",
+      "text": "Christopher Columbus lands at Guanaja in the Bay Islands off the coast of Honduras during his fourth voyage."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant in Bloomfield Hills, Michigan, a suburb of Detroit, at about 2:30 p.m. He is never seen or heard from again."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Peter Bowler, English-Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "Watergate scandal: U.S. President Richard Nixon releases subpoenaed White House recordings after being ordered to do so by the Supreme Court of the United States."
     },
     {
       "type": "Event",
       "year": "1419",
       "text": "First Defenestration of Prague: A crowd of radical Hussites kill seven members of the Prague city council."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Neil Bonnett, American race car driver and sportscaster (died 1994)"
+    },
+    {
+      "type": "Event",
+      "year": "1676",
+      "text": "Nathaniel Bacon issues the \"Declaration of the People of Virginia\", beginning Bacon's Rebellion against the rule of Governor William Berkeley."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Vietnam War: U.S. president Richard Nixon makes an unscheduled visit to South Vietnam and meets with President Nguyễn Văn Thiệu and U.S. military commanders."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Justin Rose, South African-English golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Françoise Barré-Sinoussi, French virologist and biologist, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Eleanor Smeal, American activist, founded the Feminist Majority Foundation"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Nicky Hayden, American motorcycle racer (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Sean Patrick Maloney, American politician"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years."
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "A joint resolution of the U.S. Congress is signed by President Dwight D. Eisenhower, authorizing In God We Trust as the U.S. national motto."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Alek Keshishian, Lebanese-American director, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "Premiere of Walt Disney's Flowers and Trees, the first cartoon short to use Technicolor and the first Academy Award winning cartoon short."
+    },
+    {
+      "type": "Event",
+      "year": "1729",
+      "text": "Founding of Baltimore, Maryland."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Gina Rodriguez, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "A magnitude 8.8 earthquake hits Russia, causing tsunamis over the Pacific Ocean."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "William Zillman, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "U.S. president Lyndon B. Johnson signs the Social Security Act of 1965 into law, establishing Medicare and Medicaid."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Billy Paultz, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "The steamboat Brother Jonathan sinks off the coast of Crescent City, California, killing 225 passengers, the deadliest shipwreck on the Pacific Coast of the U.S. at the time."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Kate Starbird, American basketball player and computer scientist"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Misty May-Treanor, American volleyball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Japanese submarine I-58 sinks the USS Indianapolis, killing 883 seamen. Most die during the following four days, until an aircraft notices the survivors."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Seth Avett, American folk-rock singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Kate Bush, English singer-songwriter and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "The Black Tom explosion in New York Harbor kills four and destroys some $20,000,000 worth of military goods."
     }
   ],
   "source": "Wikipedia"
