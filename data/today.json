@@ -2,79 +2,34 @@
   "date": "2026-07-31",
   "items": [
     {
-      "type": "Event",
+      "type": "Birth",
+      "year": "1956",
+      "text": "Lynn \"Lynja\" Yamada Davis, American online celebrity chef (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Kyle Larson, American race car driver"
+    },
+    {
+      "type": "Birth",
       "year": "1948",
-      "text": "USS Nevada is sunk by an aerial torpedo after surviving hits from two atomic bombs (as part of post-war tests) and being used for target practice by three other ships."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Dean Cain, American actor, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Robert C. Merton, American economist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Kevin Greene, American football player and coach (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Geoffrey Lewis, American actor and screenwriter (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Paul J. Christiansen, American conductor and composer (died 1997)"
+      "text": "Russell Morris, Australian singer-songwriter and guitarist"
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "At Idlewild Field in New York, New York International Airport (later renamed John F. Kennedy International Airport) is dedicated."
-    },
-    {
-      "type": "Event",
-      "year": "1009",
-      "text": "Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII."
-    },
-    {
-      "type": "Event",
-      "year": "1703",
-      "text": "Daniel Defoe is placed in a pillory for the crime of seditious libel after publishing a politically satirical pamphlet, but is pelted with flowers."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "A De Havilland Canada DHC-2 Beaver and Piper PA-12 Super Cruiser collide over Soldotna, Alaska, killing all seven people on board both aircraft, including state representative Gary Knopp."
-    },
-    {
-      "type": "Birth",
-      "year": "1835",
-      "text": "Paul Du Chaillu, French-American anthropologist and explorer (died 1903)"
-    },
-    {
-      "type": "Event",
-      "year": "1904",
-      "text": "Russo-Japanese War: Battle of Hsimucheng: Units of the Imperial Japanese Army defeat units of the Imperial Russian Army in a strategic confrontation."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "A. J. Green, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1715",
-      "text": "Seven days after a Spanish treasure fleet of 12 ships left Havana, Cuba for Spain, 11 of them sink in a storm off the coast of Florida. A few centuries later, treasure is salvaged from these wrecks."
+      "year": "1874",
+      "text": "Patrick Francis Healy became the first African-American inaugurated as president of a predominantly white university, Georgetown University."
     },
     {
       "type": "Event",
       "year": "398",
       "text": "End of the Gildonic rebellion after Gildo's forces are defeated by forces loyal to Western Roman Emperor Honorius under Gildo's brother Mascezel and Gildo's subsequent death."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Trevor Storer, English businessman, founded Pukka Pies (born 1930)"
     },
     {
       "type": "Event",
@@ -83,73 +38,8 @@
     },
     {
       "type": "Event",
-      "year": "1992",
-      "text": "The nation of Georgia joins the United Nations."
-    },
-    {
-      "type": "Event",
-      "year": "1865",
-      "text": "The first narrow-gauge mainline railway in the world opens at Grandchester, Queensland, Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Ahmet Ertegun, Turkish-American songwriter and producer, founded Atlantic Records (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1498",
-      "text": "On his third voyage to the Western Hemisphere, Christopher Columbus becomes the first European to discover the island of Trinidad."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Alan Autry, American football player, actor, and politician, 23rd Mayor of Fresno, California"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Justin Wilson, English race car driver (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Brian Orakpo, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Kenneth D. Schisler, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "East Coast Jets Flight 81 crashes near Owatonna Degner Regional Airport in Owatonna, Minnesota, killing all eight people on board."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Leona Naess, American-English singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Pierre Laval, the fugitive former leader of Vichy France, surrenders to Allied soldiers in Austria."
-    },
-    {
-      "type": "Event",
-      "year": "1655",
-      "text": "Russo-Polish War (1654–67): The Russian army enters the capital of the Grand Duchy of Lithuania, Vilnius, which it holds for six years."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Bill Frenzel, American lieutenant and politician (died 2014)"
+      "year": "2020",
+      "text": "A De Havilland Canada DHC-2 Beaver and Piper PA-12 Super Cruiser collide over Soldotna, Alaska, killing all seven people on board both aircraft, including state representative Gary Knopp."
     },
     {
       "type": "Event",
@@ -158,23 +48,133 @@
     },
     {
       "type": "Birth",
-      "year": "1886",
-      "text": "Salvatore Maranzano, Italian-American mob boss (died 1931)"
+      "year": "1923",
+      "text": "Ahmet Ertegun, Turkish-American songwriter and producer, founded Atlantic Records (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Jonathan Ogden, American football player"
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "The United States and Soviet Union both sign the START I Strategic Arms Reduction Treaty, the first to reduce (with verification) both countries' stockpiles."
+      "year": "1948",
+      "text": "USS Nevada is sunk by an aerial torpedo after surviving hits from two atomic bombs (as part of post-war tests) and being used for target practice by three other ships."
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Gabe Kapler, American baseball player and manager"
+      "year": "1962",
+      "text": "John Chiang, American lawyer and politician, 31st California State Controller"
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Joshua Cain, American guitarist and producer"
+      "year": "1969",
+      "text": "Kenneth D. Schisler, American lawyer and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Donald Malarkey, American sergeant and author (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Tony Massenburg, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Bill Berry, American drummer and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "At Idlewild Field in New York, New York International Airport (later renamed John F. Kennedy International Airport) is dedicated."
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Brett Halliday, American engineer, surveyor, and author (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "432",
+      "text": "Election of pope Sixtus III following the death of pope Celestine I four days prior."
+    },
+    {
+      "type": "Event",
+      "year": "1904",
+      "text": "Russo-Japanese War: Battle of Hsimucheng: Units of the Imperial Japanese Army defeat units of the Imperial Russian Army in a strategic confrontation."
+    },
+    {
+      "type": "Event",
+      "year": "1201",
+      "text": "Attempted usurpation by John Komnenos the Fat for the throne of Alexios III Angelos."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "James E. Faust, American religious leader, lawyer, and politician (died 2007)"
+    },
+    {
+      "type": "Death",
+      "year": "1953",
+      "text": "Robert A. Taft, American soldier and politician (born 1889)"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "The nation of Georgia joins the United Nations."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Suzanne Giraud, French music editor and composer"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "East Coast Jets Flight 81 crashes near Owatonna Degner Regional Airport in Owatonna, Minnesota, killing all eight people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Loren Dean, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Jaco Erasmus, South African-Italian rugby player"
+    },
+    {
+      "type": "Event",
+      "year": "1655",
+      "text": "Russo-Polish War (1654–67): The Russian army enters the capital of the Grand Duchy of Lithuania, Vilnius, which it holds for six years."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Erik von Kuehnelt-Leddihn, Austrian theorist and author (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Brian Orakpo, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1741",
+      "text": "Charles Albert of Bavaria invades Upper Austria and Bohemia."
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "The first narrow-gauge mainline railway in the world opens at Grandchester, Queensland, Australia."
     },
     {
       "type": "Birth",
@@ -183,28 +183,18 @@
     },
     {
       "type": "Birth",
-      "year": "1886",
-      "text": "Fred Quimby, American animation producer (died 1965)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Susan Flannery, American actress"
+      "year": "1918",
+      "text": "Frank Renouf, New Zealand businessman and financier (died 1998)"
     },
     {
       "type": "Event",
-      "year": "1741",
-      "text": "Charles Albert of Bavaria invades Upper Austria and Bohemia."
+      "year": "1991",
+      "text": "The United States and Soviet Union both sign the START I Strategic Arms Reduction Treaty, the first to reduce (with verification) both countries' stockpiles."
     },
     {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Mark Thompson, English business executive"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Stanley R. Jaffe, American film producer and director (died 2025)"
+      "type": "Event",
+      "year": "1715",
+      "text": "Seven days after a Spanish treasure fleet of 12 ships left Havana, Cuba for Spain, 11 of them sink in a storm off the coast of Florida. A few centuries later, treasure is salvaged from these wrecks."
     },
     {
       "type": "Event",
@@ -212,44 +202,39 @@
       "text": "The Holocaust: Under instructions from Adolf Hitler, Nazi official Hermann Göring orders SS General Reinhard Heydrich to \"submit to me as soon as possible a general plan of the administrative material and financial measures necessary for carrying out the desired Final Solution of the Jewish question.\""
     },
     {
-      "type": "Event",
-      "year": "1790",
-      "text": "The first U.S. patent is issued, to inventor Samuel Hopkins for a potash process."
-    },
-    {
       "type": "Birth",
-      "year": "1959",
-      "text": "Stanley Jordan, American guitarist, pianist, and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Sherry Lansing, American film producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Alexis Knapp, American actress"
+      "year": "1975",
+      "text": "Randy Flores, American baseball player and coach"
     },
     {
       "type": "Event",
-      "year": "1874",
-      "text": "Patrick Francis Healy became the first African-American inaugurated as president of a predominantly white university, Georgetown University."
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Paul Bucha, United States Army Medal of Honor recipient (born 1943)"
-    },
-    {
-      "type": "Death",
-      "year": "450",
-      "text": "Peter Chrysologus, Italian bishop and saint (born 380)"
+      "year": "1498",
+      "text": "On his third voyage to the Western Hemisphere, Christopher Columbus becomes the first European to discover the island of Trinidad."
     },
     {
       "type": "Birth",
-      "year": "1816",
-      "text": "George Henry Thomas, American general (died 1870)"
+      "year": "1932",
+      "text": "John Searle, American philosopher and academic (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Ted Cassidy, American actor and screenwriter (died 1979)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Kevin Greene, American football player and coach (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Pierre Laval, the fugitive former leader of Vichy France, surrenders to Allied soldiers in Austria."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Lil Uzi Vert, American hip hop artist"
     },
     {
       "type": "Event",
@@ -258,23 +243,13 @@
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Paul D. Boyer, American biochemist and academic, Nobel Prize laureate (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "John Laurinaitis, American wrestler and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Donald Malarkey, American sergeant and author (died 2017)"
+      "year": "1998",
+      "text": "Rico Rodriguez, American actor"
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "Black Tot Day: The last day of the officially sanctioned rum ration in the Royal Navy."
+      "year": "1790",
+      "text": "The first U.S. patent is issued, to inventor Samuel Hopkins for a potash process."
     },
     {
       "type": "Event",
@@ -282,24 +257,49 @@
       "text": "Discovery Program: Lunar Prospector: NASA intentionally crashes the spacecraft into the Moon, thus ending its mission to detect frozen water on the Moon's surface."
     },
     {
-      "type": "Event",
-      "year": "1201",
-      "text": "Attempted usurpation by John Komnenos the Fat for the throne of Alexios III Angelos."
-    },
-    {
-      "type": "Event",
-      "year": "432",
-      "text": "Election of pope Sixtus III following the death of pope Celestine I four days prior."
-    },
-    {
       "type": "Death",
-      "year": "2015",
-      "text": "Alan Cheuse, American writer and critic (born 1940)"
+      "year": "1556",
+      "text": "Ignatius of Loyola, Spanish priest and theologian, founded the Society of Jesus (born 1491)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Black Tot Day: The last day of the officially sanctioned rum ration in the Royal Navy."
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "William Bennett, American journalist and politician, 3rd United States Secretary of Education"
+      "year": "1926",
+      "text": "Hilary Putnam, American mathematician, computer scientist, and philosopher (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1009",
+      "text": "Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "John Swainson, Canadian-American jurist and politician, 42nd Governor of Michigan (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Fergus Henderson, English chef and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Ted Baillieu, Australian architect and politician, 46th Premier of Victoria"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Faye Kellerman, American author"
+    },
+    {
+      "type": "Event",
+      "year": "1703",
+      "text": "Daniel Defoe is placed in a pillory for the crime of seditious libel after publishing a politically satirical pamphlet, but is pelted with flowers."
     }
   ],
   "source": "Wikipedia"
