@@ -2,184 +2,24 @@
   "date": "2026-08-02",
   "items": [
     {
-      "type": "Birth",
-      "year": "1949",
-      "text": "James Fallows, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Per Westerberg, Swedish businessman and politician, Speaker of the Parliament of Sweden"
-    },
-    {
       "type": "Event",
-      "year": "1973",
-      "text": "A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Tim Wakefield, American baseball player and sportscaster (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Laremy Tunsil, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Alfonso A. Ossorio, Filipino-American painter and sculptor (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Mary Hamman, American journalist and author (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Pierre DuMaine, American bishop and academic (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolution: The signing of the United States Declaration of Independence by the Second Continental Congress takes place."
-    },
-    {
-      "type": "Event",
-      "year": "1873",
-      "text": "The Clay Street Hill Railroad begins operating the first cable car in San Francisco's famous cable car system."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Joe Hockey, Australian lawyer and politician, 38th Treasurer of Australia"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Billy Cannon, American football player and dentist (died 2018)"
+      "year": "1274",
+      "text": "Edward I of England returns from the Ninth Crusade and is crowned King seventeen days later."
     },
     {
       "type": "Death",
-      "year": "1983",
-      "text": "James Jamerson, American bass player (born 1936)"
+      "year": "1990",
+      "text": "Norman Maclean, American short story writer and essayist (born 1902)"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Nell Irvin Painter, American author and historian"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Wes Craven, American director, producer, and screenwriter (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "-49",
-      "text": "Caesar, who marched to Spain earlier in the year, leaving Marcus Antonius in charge of Italy, defeats Pompey's general Afranius and Petreius in Ilerda (Lerida) north of the Ebro river."
-    },
-    {
-      "type": "Death",
-      "year": "1972",
-      "text": "Brian Cole, American bass player (born 1942)"
-    },
-    {
-      "type": "Event",
-      "year": "1798",
-      "text": "French Revolutionary Wars: The Battle of the Nile concludes in a British victory."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Butch Vig, American drummer, songwriter, and record producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Tim Bowden, Australian historian and television presenter (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto."
+      "year": "1982",
+      "text": "Kerry Rhodes, American football player"
     },
     {
       "type": "Event",
       "year": "1990",
       "text": "Iraqi invasion of Kuwait: Iraq invades Kuwait and temporarily establishes the Republic of Kuwait puppet state on the orders of Saddam Hussein, eventually leading to the Gulf War."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "James Howe, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Vali Myers, Australian painter and dancer (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Jason Bell, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Betsy Bloomingdale, American philanthropist and socialite (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "David Yow, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Big Walter Price, American singer-songwriter and pianist (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "-47",
-      "text": "Julius Caesar defeats Pharnaces II of Pontus in the battle of Zela."
-    },
-    {
-      "type": "Event",
-      "year": "1790",
-      "text": "The first United States Census is conducted."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Mary-Louise Parker, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Linda Fratianne, American figure skater"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Cr1TiKaL, American YouTuber and streamer"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Marguerite Piazza, American soprano (born 1920)"
     },
     {
       "type": "Event",
@@ -188,13 +28,113 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Jay Heaps, American soccer player and coach"
+      "year": "1920",
+      "text": "Augustus Rowe, Canadian physician and politician (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "2000",
-      "text": "Varvara Gracheva, Russian tennis player"
+      "year": "1993",
+      "text": "Joey Florez, American scholar and cultural critic"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Big Walter Price, American singer-songwriter and pianist (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Benjamin Barber, American theorist, author, and academic (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "JD Vance, American politician, 50th vice president of the United States"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "U.S. Vice President Calvin Coolidge becomes president upon the death of President Warren G. Harding."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Burgess Owens, American football player and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Joe Lynn Turner, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Kevin Smith, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Dennis Prager, American radio host and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Edward Furlong, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Susie O'Neill, Australian swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Wah Chang, Chinese-American artist and designer (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1790",
+      "text": "The first United States Census is conducted."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Michael Weiss, American figure skater"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Tim Bowden, Australian historian and television presenter (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Sam Worthington, English-Australian actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Grady Sizemore, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1222",
+      "text": "Raymond VI, Count of Toulouse (born 1156)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "James Street, American football and baseball player (died 2013)"
     },
     {
       "type": "Event",
@@ -203,38 +143,38 @@
     },
     {
       "type": "Birth",
-      "year": "1902",
-      "text": "Mina Rees, American mathematician (died 1997)"
+      "year": "1959",
+      "text": "Victoria Jackson, American actress and singer"
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Cedric Ceballos, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Andrew Gold, American singer-songwriter and producer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Ann Dvorak, American actress (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Lamar Hunt, American businessman, co-founded the American Football League and World Championship Tennis (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Lawrence Wright, American journalist, author, and screenwriter"
+      "year": "1949",
+      "text": "James Fallows, American journalist and author"
     },
     {
       "type": "Event",
-      "year": "1909",
-      "text": "End of the Tragic Week in Barcelona, a series of antiwar and antigovernment protests in Spain and especially in Barcelona."
+      "year": "1973",
+      "text": "A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Vali Myers, Australian painter and dancer (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Joe Hockey, Australian lawyer and politician, 38th Treasurer of Australia"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Golden Tate, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "-47",
+      "text": "Julius Caesar defeats Pharnaces II of Pontus in the battle of Zela."
     },
     {
       "type": "Birth",
@@ -243,23 +183,103 @@
     },
     {
       "type": "Birth",
+      "year": "1905",
+      "text": "Ruth Nelson, American actress (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Doris Coley, American singer (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1873",
+      "text": "The Clay Street Hill Railroad begins operating the first cable car in San Francisco's famous cable car system."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Jussi Adler-Olsen, Danish author and publisher"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Varvara Gracheva, Russian tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Pierre DuMaine, American bishop and academic (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Huston Street, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Geoffrey Dutton, Australian historian and author (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Carroll O'Connor, American actor, director, producer, and screenwriter (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "End of the Tragic Week in Barcelona, a series of antiwar and antigovernment protests in Spain and especially in Barcelona."
+    },
+    {
+      "type": "Event",
+      "year": "1343",
+      "text": "After the execution of her husband, Jeanne de Clisson sells her estates and raises a force of men with which to attack French shipping and ports."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Jason Bell, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
       "year": "1945",
-      "text": "Joanna Cassidy, American actress"
+      "text": "Eric Simms, Australian rugby league player and coach"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Julius L. Chambers, American lawyer and activist (born 1936)"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Golden Tate, American football player"
+      "year": "1969",
+      "text": "Cedric Ceballos, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Fulvio Melia, Italian-American physicist, astrophysicist, and author"
+      "year": "1922",
+      "text": "Betsy Bloomingdale, American philanthropist and socialite (died 2016)"
     },
     {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Victoria Jackson, American actress and singer"
+      "type": "Event",
+      "year": "-49",
+      "text": "Caesar, who marched to Spain earlier in the year, leaving Marcus Antonius in charge of Italy, defeats Pompey's general Afranius and Petreius in Ilerda (Lerida) north of the Ebro river."
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolution: The signing of the United States Declaration of Independence by the Second Continental Congress takes place."
     },
     {
       "type": "Event",
@@ -268,38 +288,18 @@
     },
     {
       "type": "Birth",
-      "year": "1905",
-      "text": "Karl Amadeus Hartmann, German composer (died 1963)"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia."
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "U.S. Vice President Calvin Coolidge becomes president upon the death of President Warren G. Harding."
-    },
-    {
-      "type": "Event",
-      "year": "1274",
-      "text": "Edward I of England returns from the Ninth Crusade and is crowned King seventeen days later."
-    },
-    {
-      "type": "Event",
-      "year": "1343",
-      "text": "After the execution of her husband, Jeanne de Clisson sells her estates and raises a force of men with which to attack French shipping and ports."
+      "year": "1955",
+      "text": "Butch Vig, American drummer, songwriter, and record producer"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Aaron Krickstein, American tennis player"
+      "year": "1996",
+      "text": "Keston Hiura, American baseball player"
     },
     {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Wah Chang, Chinese-American artist and designer (died 2003)"
+      "type": "Event",
+      "year": "1798",
+      "text": "French Revolutionary Wars: The Battle of the Nile concludes in a British victory."
     }
   ],
   "source": "Wikipedia"
