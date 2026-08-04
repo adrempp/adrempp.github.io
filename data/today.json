@@ -3,8 +3,58 @@
   "items": [
     {
       "type": "Event",
-      "year": "2018",
-      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) expel the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border, concluding the second phase of the Deir ez-Zor campaign."
+      "year": "1265",
+      "text": "Second Barons' War: Battle of Evesham: The army of Prince Edward (the future king Edward I of England) defeats the forces of rebellious barons led by Simon de Montfort, 6th Earl of Leicester, killing de Montfort and many of his allies."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Brooks D. Simpson, American historian and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Anita Page, American actress (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Andy Hallett, American actor and singer (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "John Riggins, American football player, sportscaster, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Jean-Baptiste Ouédraogo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Captain Thomas Sankara."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Art Donovan, American football player and radio host (born 1925)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The Constitution of the Cook Islands comes into force, giving the Cook Islands self-governing status within New Zealand."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Civil rights movement: Civil rights workers Michael Schwerner, Andrew Goodman and James Chaney are found dead in Mississippi after disappearing on June 21."
+    },
+    {
+      "type": "Event",
+      "year": "1854",
+      "text": "The Hinomaru is established as the official flag to be flown from Japanese ships."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Terry Campese, Australian rugby league player"
     },
     {
       "type": "Event",
@@ -13,178 +63,8 @@
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Keith Maurice Ellison, 30th Attorney General of Minnesota"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Ted Strickland, American psychologist and politician, 68th Governor of Ohio"
-    },
-    {
-      "type": "Event",
-      "year": "1873",
-      "text": "American Indian Wars: While protecting a railroad survey party in Montana, the United States 7th Cavalry, under Lieutenant Colonel George Armstrong Custer clashes for the first time with the Cheyenne and Lakota people near the Tongue River; only one man on each side is killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Billy Bob Thornton, American actor, director, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "The Great Fire of Spokane, Washington destroys some 32 blocks of the city, prompting a mass rebuilding project."
-    },
-    {
-      "type": "Death",
       "year": "1940",
-      "text": "Ze'ev Jabotinsky, Ukrainian-American general, journalist, and activist (born 1880)"
-    },
-    {
-      "type": "Death",
-      "year": "1962",
-      "text": "Marilyn Monroe, American model and actress (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Lil Skies, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Raoul Wallenberg, Swedish architect and diplomat, savior of thousands of Jews from The Holocaust (died ~1947)"
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "A bomb explodes in the Italicus Express train at San Benedetto Val di Sambro, Italy, killing 12 people and wounding 22."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "The Supreme Court of Japan is established."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "Matica slovenská, Slovakia's public-law cultural and scientific institution focusing on topics around the Slovak nation, is established in Martin."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Don S. Davis, American actor (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Barack Obama, American lawyer and politician, 44th President of the United States, Nobel Prize laureate"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Jean-Baptiste Ouédraogo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Captain Thomas Sankara."
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "The Ariane 3 rocket is launched for the first time, carrying the Eutelsat I F-2 and Télécom 1A satellites into geosynchronous transfer orbit."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Johnny Grubb, American baseball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "The father and stepmother of Lizzie Borden are found murdered in their Fall River, Massachusetts home. She will be tried and acquitted for the crimes a year later."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "The Holocaust: A tip from a Dutch informer leads the Gestapo to a sealed-off area in an Amsterdam warehouse, where they find and arrest Jewish diarist Anne Frank, her family, and four others."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Prime Minister of Greece Ioannis Metaxas suspends parliament and the Constitution and establishes the 4th of August Regime."
-    },
-    {
-      "type": "Birth",
-      "year": "1876",
-      "text": "John Scaddan, Australian politician, 10th Premier of Western Australia (died 1934)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Luke Allen, American baseball player (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "John Riggins, American football player, sportscaster, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1821",
-      "text": "James Springer White, American religious leader, co-founded the Seventh-day Adventist Church (died 1881)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "The Japanese Red Army takes more than 50 hostages at the AIA Building housing several embassies in Kuala Lumpur, Malaysia. The hostages include the U.S. consul and the Swedish Chargé d'affaires. The gunmen win the release of five imprisoned comrades and fly with them to Libya."
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Second Gulf of Tonkin Incident: U.S. destroyers USS Maddox and USS Turner Joy mistakenly report coming under attack in the Gulf of Tonkin."
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: The ultimately unsuccessful Siege of Fort Erie begins as British forces attempt to recapture the fort and drive American forces out of Canada."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "David Raksin, American composer and educator (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Andy Hallett, American actor and singer (died 2009)"
-    },
-    {
-      "type": "Death",
-      "year": "1932",
-      "text": "Alfred Henry Maurer, American painter (born 1868)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Jessica Mauboy, Australian singer-songwriter and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: In response to the German invasion of Belgium, Belgium and the British Empire declare war on Germany. The United States declares its neutrality."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Robbin Crosby, American guitarist and songwriter (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "NASA's Phoenix Mars lander is launched."
-    },
-    {
-      "type": "Event",
-      "year": "1790",
-      "text": "A newly passed tariff act creates the Revenue Cutter Service (the forerunner of the United States Coast Guard)."
+      "text": "Larry Knechtel, American bass player and pianist (died 2009)"
     },
     {
       "type": "Event",
@@ -193,48 +73,28 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Paul Goldstein, American tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "Bolshevik–Makhnovist conflict: Mikhail Frunze declares victory over the Makhnovshchina."
+      "year": "1926",
+      "text": "George Irving Bell, American physicist, biologist, and mountaineer (died 2000)"
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Dallas Green, American baseball player and manager (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "James Arbuthnot, English lawyer and politician, Secretary of State for Business, Innovation and Skills"
-    },
-    {
-      "type": "Event",
-      "year": "1854",
-      "text": "The Hinomaru is established as the official flag to be flown from Japanese ships."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The Constitution of the Cook Islands comes into force, giving the Cook Islands self-governing status within New Zealand."
+      "year": "1909",
+      "text": "Glenn Cunningham, American runner and academic (died 1988)"
     },
     {
       "type": "Birth",
       "year": "1928",
-      "text": "Nadežka Mosusova, Serbian composer"
+      "text": "Clarke Reed, American businessman and politician (died 2024)"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "John August, American director and screenwriter"
+      "year": "1987",
+      "text": "Marreese Speights American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Hedda Sterne, Romanian-American painter and photographer (died 2011)"
+      "year": "1989",
+      "text": "Jessica Mauboy, Australian singer-songwriter and actress"
     },
     {
       "type": "Event",
@@ -242,14 +102,24 @@
       "text": "French Revolutionary Wars: Napoleon leads the French Army of Italy to victory in the Battle of Lonato."
     },
     {
-      "type": "Event",
-      "year": "1887",
-      "text": "Granny, a sea anemone, died in Edinburgh after nearly 60 years in captivity. Her death was reported in The Scotsman and The New York Times."
+      "type": "Birth",
+      "year": "1920",
+      "text": "Helen Thomas, American journalist and author (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Barack Obama, American lawyer and politician, 44th President of the United States, Nobel Prize laureate"
     },
     {
       "type": "Event",
-      "year": "1265",
-      "text": "Second Barons' War: Battle of Evesham: The army of Prince Edward (the future king Edward I of England) defeats the forces of rebellious barons led by Simon de Montfort, 6th Earl of Leicester, killing de Montfort and many of his allies."
+      "year": "1814",
+      "text": "War of 1812: The ultimately unsuccessful Siege of Fort Erie begins as British forces attempt to recapture the fort and drive American forces out of Canada."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Mary Decker, American runner"
     },
     {
       "type": "Event",
@@ -258,23 +128,28 @@
     },
     {
       "type": "Event",
-      "year": "2019",
-      "text": "Nine people are killed and 26 injured in a shooting in Dayton, Ohio. This comes only 13 hours after another mass shooting in El Paso, Texas, where 23 people were killed."
+      "year": "2007",
+      "text": "NASA's Phoenix Mars lander is launched."
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Helen Thomas, American journalist and author (died 2013)"
+      "year": "1968",
+      "text": "Daniel Dae Kim, South Korean-American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Dylan Sprouse, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Vishal Bhardwaj, Indian film director, screenwriter, producer, music composer and playback singer"
     },
     {
       "type": "Event",
-      "year": "-70",
-      "text": "The trial against Gaius Verres for corruption is opened, with Marcus Tullius Cicero as prosecutor and renowned orator Quintus Hortensius as defending lawyer."
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "Mount Asama erupts in Japan, killing about 1,400 people (Tenmei eruption). The eruption causes a famine, which results in an additional 20,000 deaths."
+      "year": "1790",
+      "text": "A newly passed tariff act creates the Revenue Cutter Service (the forerunner of the United States Coast Guard)."
     },
     {
       "type": "Birth",
@@ -283,8 +158,18 @@
     },
     {
       "type": "Event",
-      "year": "1964",
-      "text": "Civil rights movement: Civil rights workers Michael Schwerner, Andrew Goodman and James Chaney are found dead in Mississippi after disappearing on June 21."
+      "year": "1783",
+      "text": "Mount Asama erupts in Japan, killing about 1,400 people (Tenmei eruption). The eruption causes a famine, which results in an additional 20,000 deaths."
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "The father and stepmother of Lizzie Borden are found murdered in their Fall River, Massachusetts home. She will be tried and acquitted for the crimes a year later."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "Matica slovenská, Slovakia's public-law cultural and scientific institution focusing on topics around the Slovak nation, is established in Martin."
     },
     {
       "type": "Birth",
@@ -292,14 +177,129 @@
       "text": "Jake Beckley, American baseball player and coach (died 1918)"
     },
     {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Mary Decker, American runner"
+      "type": "Event",
+      "year": "1947",
+      "text": "The Supreme Court of Japan is established."
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "The Ariane 3 rocket is launched for the first time, carrying the Eutelsat I F-2 and Télécom 1A satellites into geosynchronous transfer orbit."
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Perry Moss, American football player and coach (died 2014)"
+      "year": "1945",
+      "text": "Paul McCarthy, American painter and sculptor"
+    },
+    {
+      "type": "Death",
+      "year": "1919",
+      "text": "Dave Gregory, Australian cricketer and umpire (born 1845)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "John Fitch, American race car driver and engineer (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "Nine people are killed and 26 injured in a shooting in Dayton, Ohio. This comes only 13 hours after another mass shooting in El Paso, Texas, where 23 people were killed."
+    },
+    {
+      "type": "Event",
+      "year": "1887",
+      "text": "Granny, a sea anemone, died in Edinburgh after nearly 60 years in captivity. Her death was reported in The Scotsman and The New York Times."
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Aleksandr Danilovich Aleksandrov, Russian mathematician, physicist, and mountaineer (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1873",
+      "text": "American Indian Wars: While protecting a railroad survey party in Montana, the United States 7th Cavalry, under Lieutenant Colonel George Armstrong Custer clashes for the first time with the Cheyenne and Lakota people near the Tongue River; only one man on each side is killed."
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "A bomb explodes in the Italicus Express train at San Benedetto Val di Sambro, Italy, killing 12 people and wounding 22."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Second Gulf of Tonkin Incident: U.S. destroyers USS Maddox and USS Turner Joy mistakenly report coming under attack in the Gulf of Tonkin."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Alan Mulally, American engineer and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "Bolshevik–Makhnovist conflict: Mikhail Frunze declares victory over the Makhnovshchina."
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Prime Minister of Greece Ioannis Metaxas suspends parliament and the Constitution and establishes the 4th of August Regime."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) expel the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border, concluding the second phase of the Deir ez-Zor campaign."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "William Schuman, American composer and educator (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "-70",
+      "text": "The trial against Gaius Verres for corruption is opened, with Marcus Tullius Cicero as prosecutor and renowned orator Quintus Hortensius as defending lawyer."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Coriún Aharonián, Uruguayan composer and musicologist (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: In response to the German invasion of Belgium, Belgium and the British Empire declare war on Germany. The United States declares its neutrality."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "The Holocaust: A tip from a Dutch informer leads the Gestapo to a sealed-off area in an Amsterdam warehouse, where they find and arrest Jewish diarist Anne Frank, her family, and four others."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Billy Bob Thornton, American actor, director, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Klaus Schulze, German keyboard player and songwriter (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "The Japanese Red Army takes more than 50 hostages at the AIA Building housing several embassies in Kuala Lumpur, Malaysia. The hostages include the U.S. consul and the Swedish Chargé d'affaires. The gunmen win the release of five imprisoned comrades and fly with them to Libya."
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "The Great Fire of Spokane, Washington destroys some 32 blocks of the city, prompting a mass rebuilding project."
+    },
+    {
+      "type": "Death",
+      "year": "1795",
+      "text": "Timothy Ruggles, American lawyer, jurist, and politician (born 1711)"
     }
   ],
   "source": "Wikipedia"
