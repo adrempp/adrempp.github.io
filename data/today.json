@@ -3,13 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "642",
-      "text": "Battle of Maserfield: Penda of Mercia defeats and kills Oswald of Northumbria."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Neil Armstrong, American pilot, engineer, and astronaut, first man to walk on the Moon (died 2012)"
+      "year": "1861",
+      "text": "The United States Army abolishes flogging."
     },
     {
       "type": "Birth",
@@ -18,18 +13,28 @@
     },
     {
       "type": "Event",
-      "year": "1796",
-      "text": "The Battle of Castiglione in Napoleon's first Italian campaigns of the French Revolutionary Wars results in a French victory."
+      "year": "1882",
+      "text": "Standard Oil Company of New Jersey, today known as ExxonMobil, is established officially. The company would later grow to become the holder of all Standard Oil companies and the entity at the center of the breakup of Standard Oil."
     },
     {
       "type": "Event",
-      "year": "1884",
-      "text": "The cornerstone for the Statue of Liberty is laid on Bedloe's Island (now Liberty Island) in New York Harbor."
+      "year": "1962",
+      "text": "American actress Marilyn Monroe is found dead at her home from a drug overdose."
     },
     {
-      "type": "Event",
-      "year": "1735",
-      "text": "Freedom of the press: New York Weekly Journal writer John Peter Zenger is acquitted of seditious libel against the royal governor of New York, on the basis that what he had published was true."
+      "type": "Birth",
+      "year": "1982",
+      "text": "Jamie Houston, English-German rugby player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "John Olerud, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1968",
+      "text": "Luther Perkins, American guitarist (born 1928)"
     },
     {
       "type": "Event",
@@ -38,233 +43,13 @@
     },
     {
       "type": "Event",
-      "year": "70",
-      "text": "Fires resulting from the destruction of the Second Temple in Jerusalem are extinguished."
-    },
-    {
-      "type": "Event",
-      "year": "1816",
-      "text": "The British Admiralty dismisses Francis Ronalds's new invention of the first working electric telegraph as \"wholly unnecessary\", preferring to continue using the semaphore."
-    },
-    {
-      "type": "Event",
-      "year": "1600",
-      "text": "The Gowrie Conspiracy against King James VI of Scotland (later to become King James I of England) takes place at Gowrie House (Perth, Scotland)."
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Carl Crawford, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "The New England Revolution win the 2008 North American SuperLiga final against the Houston Dynamo."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Jeri Southern, American jazz singer and pianist (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Damita Jo DeBlanc, American comedian, actress, and singer (died 1998)"
-    },
-    {
-      "type": "Death",
-      "year": "2025",
-      "text": "Col Joye, Australian singer-songwriter and guitarist (born 1937)"
-    },
-    {
-      "type": "Event",
       "year": "1939",
       "text": "The Thirteen Roses: Thirteen female members of the Unified Socialist Youth are executed by Francoist forces in Madrid, Spain."
     },
     {
-      "type": "Event",
-      "year": "1966",
-      "text": "A group of red guards at Experimental High in Beijing, including Deng Rong and Liu Pingping, daughters of Deng Xiaoping and Liu Shaoqi respectively, beat the deputy vice principal, Bian Zhongyun, to death with sticks after accusing her of counter-revolutionary revisionism, producing one of the first fatalities of the Cultural Revolution."
-    },
-    {
-      "type": "Event",
-      "year": "1716",
-      "text": "Austro-Turkish War (1716–1718):The Austrians defeat the Ottomans in the Battle of Petrovaradin. One-fifth of a Turkish army and the Grand Vizier are killed."
-    },
-    {
       "type": "Birth",
-      "year": "1962",
-      "text": "Patrick Ewing, Jamaican-American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Paul Carige, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Roy Benavidez, American soldier, Medal of Honor Winner (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Don Matheson, American soldier, police officer, and actor (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Darren Shahlavi, English-American actor and martial artist (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "910",
-      "text": "The last major Danish army to raid England for nearly a century is defeated at the Battle of Tettenhall by the allied forces of Mercia and Wessex, led by King Edward the Elder and Æthelred, Lord of the Mercians."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Bobby Braddock, American country music songwriter, musician, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Robert Taylor, American actor and singer (died 1969)"
-    },
-    {
-      "type": "Event",
-      "year": "1192",
-      "text": "Richard I of England defeats Saladin in the battle of Jaffa, which enables him to conclude a favourable treaty for the crusaders."
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "American Bandstand, a show dedicated to the teenage \"baby-boomers\" by playing the songs and showing popular dances of the time, debuts on the ABC television network."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Battle of Baton Rouge: Along the Mississippi River near Baton Rouge, Louisiana, Confederate troops attempt to take the city, but are driven back by fire from Union gunboats."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: The guns of Point Nepean fort at Port Phillip Heads in Victoria (Australia) fire across the bows of the Norddeutscher Lloyd steamer SS Pfalz which is attempting to leave the Port of Melbourne in ignorance of the declaration of war and she is detained; this is said to be the first Allied shot of the War."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Mars 6 is launched from the USSR."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Roman Gabriel, American football player, coach, and actor (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Tom Hafey, Australian footballer and coach (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "In Cleveland, Ohio, the first electric traffic light is installed."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "John H. Moore II, American lawyer and judge (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire."
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Ruth Asawa, American sculptor and educator (born 1926)"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "American actress Marilyn Monroe is found dead at her home from a drug overdose."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "The Lonesome Cowboys police raid occurs in Atlanta, Georgia, leading to the creation of the Georgia Gay Liberation Front."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Sammi Smith, American country music singer-songwriter (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "Cyrus West Field and others complete the first transatlantic telegraph cable after several unsuccessful attempts. It will operate for less than a month."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Rachel Scott, American murder victim, inspired the Rachel's Challenge (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "1763",
-      "text": "Pontiac's War: Battle of Bushy Run: British forces led by Henry Bouquet defeat Chief Pontiac's Indians at Bushy Run."
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of Mobile Bay begins at Mobile Bay near Mobile, Alabama, Admiral David Farragut leads a Union flotilla through Confederate defenses and seals one of the last major Southern ports."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "The United States Army abolishes flogging."
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Vietnam War: Operation Pierce Arrow: American aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "David Baldacci, American lawyer and author"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: In order to help pay for the war effort, the United States government levies the first income tax as part of the Revenue Act of 1861 (3% of all incomes over US$800; rescinded in 1872)."
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "Watergate scandal: President Richard Nixon, under orders of the US Supreme Court, releases the \"Smoking Gun\" tape, recorded on June 23, 1972, clearly revealing his actions in covering up and interfering investigations into the break-in. His political support vanishes completely."
+      "year": "1997",
+      "text": "Olivia Holt, American actress and singer"
     },
     {
       "type": "Event",
@@ -273,13 +58,48 @@
     },
     {
       "type": "Event",
-      "year": "1772",
-      "text": "First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the \"anarchy\" of the Polish–Lithuanian Commonwealth and imputing to the three powers \"ancient and legitimate rights\" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months."
+      "year": "1861",
+      "text": "American Civil War: In order to help pay for the war effort, the United States government levies the first income tax as part of the Revenue Act of 1861 (3% of all incomes over US$800; rescinded in 1872)."
     },
     {
       "type": "Event",
-      "year": "1882",
-      "text": "Standard Oil Company of New Jersey, today known as ExxonMobil, is established officially. The company would later grow to become the holder of all Standard Oil companies and the entity at the center of the breakup of Standard Oil."
+      "year": "1884",
+      "text": "The cornerstone for the Statue of Liberty is laid on Bedloe's Island (now Liberty Island) in New York Harbor."
+    },
+    {
+      "type": "Event",
+      "year": "1600",
+      "text": "The Gowrie Conspiracy against King James VI of Scotland (later to become King James I of England) takes place at Gowrie House (Perth, Scotland)."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Mars 6 is launched from the USSR."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Battle of Mobile Bay begins at Mobile Bay near Mobile, Alabama, Admiral David Farragut leads a Union flotilla through Confederate defenses and seals one of the last major Southern ports."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: The guns of Point Nepean fort at Port Phillip Heads in Victoria (Australia) fire across the bows of the Norddeutscher Lloyd steamer SS Pfalz which is attempting to leave the Port of Melbourne in ignorance of the declaration of war and she is detained; this is said to be the first Allied shot of the War."
+    },
+    {
+      "type": "Event",
+      "year": "642",
+      "text": "Battle of Maserfield: Penda of Mercia defeats and kills Oswald of Northumbria."
+    },
+    {
+      "type": "Event",
+      "year": "1858",
+      "text": "Cyrus West Field and others complete the first transatlantic telegraph cable after several unsuccessful attempts. It will operate for less than a month."
     },
     {
       "type": "Event",
@@ -288,18 +108,198 @@
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Jesse Williams, American actor, director, producer, and political activist"
+      "year": "1968",
+      "text": "Funkmaster Flex, American DJ, radio and television host, rapper, and record producer"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "A group of red guards at Experimental High in Beijing, including Deng Rong and Liu Pingping, daughters of Deng Xiaoping and Liu Shaoqi respectively, beat the deputy vice principal, Bian Zhongyun, to death with sticks after accusing her of counter-revolutionary revisionism, producing one of the first fatalities of the Cultural Revolution."
     },
     {
       "type": "Birth",
-      "year": "1905",
-      "text": "Wassily Leontief, German-American economist and academic, Nobel Prize laureate (died 1999)"
+      "year": "1946",
+      "text": "Erika Slezak, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Christian Olde Wolbers, Belgian-American guitarist, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Maureen McCormick, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Bob Clark, American director, producer, and screenwriter (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Battle of Baton Rouge: Along the Mississippi River near Baton Rouge, Louisiana, Confederate troops attempt to take the city, but are driven back by fire from Union gunboats."
+    },
+    {
+      "type": "Event",
+      "year": "1763",
+      "text": "Pontiac's War: Battle of Bushy Run: British forces led by Henry Bouquet defeat Chief Pontiac's Indians at Bushy Run."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "France A. Córdova, American astrophysicist and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1772",
+      "text": "First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the \"anarchy\" of the Polish–Lithuanian Commonwealth and imputing to the three powers \"ancient and legitimate rights\" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Vietnam War: Operation Pierce Arrow: American aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Brian G. Marsden, English-American astronomer and academic (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Peter Viereck, American poet and academic (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1735",
+      "text": "Freedom of the press: New York Weekly Journal writer John Peter Zenger is acquitted of seditious libel against the royal governor of New York, on the basis that what he had published was true."
+    },
+    {
+      "type": "Event",
+      "year": "1816",
+      "text": "The British Admiralty dismisses Francis Ronalds's new invention of the first working electric telegraph as \"wholly unnecessary\", preferring to continue using the semaphore."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Joe Boyd, American record producer, founded Hannibal Records"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "In Cleveland, Ohio, the first electric traffic light is installed."
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "American Bandstand, a show dedicated to the teenage \"baby-boomers\" by playing the songs and showing popular dances of the time, debuts on the ABC television network."
+    },
+    {
+      "type": "Event",
+      "year": "1716",
+      "text": "Austro-Turkish War (1716–1718):The Austrians defeat the Ottomans in the Battle of Petrovaradin. One-fifth of a Turkish army and the Grand Vizier are killed."
+    },
+    {
+      "type": "Event",
+      "year": "1192",
+      "text": "Richard I of England defeats Saladin in the battle of Jaffa, which enables him to conclude a favourable treaty for the crusaders."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Kathrin Zettel, Austrian skier"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "L. Tom Perry, American businessman and religious leader (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "The Lonesome Cowboys police raid occurs in Atlanta, Georgia, leading to the creation of the Georgia Gay Liberation Front."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The New England Revolution win the 2008 North American SuperLiga final against the Houston Dynamo."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police."
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Jeri Southern, American jazz singer and pianist (died 1991)"
     },
     {
       "type": "Death",
-      "year": "2002",
-      "text": "Josh Ryan Evans, American actor (born 1982)"
+      "year": "2013",
+      "text": "Rob Wyda, American commander and judge (born 1959)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Neil Armstrong, American pilot, engineer, and astronaut, first man to walk on the Moon (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "910",
+      "text": "The last major Danish army to raid England for nearly a century is defeated at the Battle of Tettenhall by the allied forces of Mercia and Wessex, led by King Edward the Elder and Æthelred, Lord of the Mercians."
+    },
+    {
+      "type": "Death",
+      "year": "1933",
+      "text": "Charles Harold Davis, American painter and academic (born 1856)"
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "Watergate scandal: President Richard Nixon, under orders of the US Supreme Court, releases the \"Smoking Gun\" tape, recorded on June 23, 1972, clearly revealing his actions in covering up and interfering investigations into the break-in. His political support vanishes completely."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Jack Cogger, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Don Matheson, American soldier, police officer, and actor (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "70",
+      "text": "Fires resulting from the destruction of the Second Temple in Jerusalem are extinguished."
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Reginald Owen, English-American actor and singer (died 1972)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado."
+    },
+    {
+      "type": "Event",
+      "year": "1796",
+      "text": "The Battle of Castiglione in Napoleon's first Italian campaigns of the French Revolutionary Wars results in a French victory."
     }
   ],
   "source": "Wikipedia"
