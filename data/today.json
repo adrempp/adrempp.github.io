@@ -2,229 +2,9 @@
   "date": "2026-08-08",
   "items": [
     {
-      "type": "Event",
-      "year": "2024",
-      "text": "Nobel laureate Muhammad Yunus takes oath as Chief Adviser to form an interim government in Bangladesh."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Mark Wills, American singer-songwriter"
-    },
-    {
-      "type": "Death",
-      "year": "1887",
-      "text": "Alexander William Doniphan, American colonel, lawyer, and politician (born 1808)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Kim Dae-jung, a South Korean politician and later president of South Korea, is kidnapped."
-    },
-    {
-      "type": "Event",
-      "year": "1831",
-      "text": "Four hundred Shawnee people agree to relinquish their lands in Ohio in exchange for land west of the Mississippi River in the Treaty of Wapakoneta."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "The 7.8 Mw Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Richard Anderson, American actor and producer (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Larry Wilcox, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Larisa Bogoraz, Russian linguist and activist (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "The Federal Bureau of Investigation (FBI) executes a search warrant at former president Donald Trump's residence in Mar-a-Lago, Palm Beach, Florida."
-    },
-    {
-      "type": "Event",
-      "year": "1844",
-      "text": "The Quorum of the Twelve Apostles, headed by Brigham Young, is reaffirmed as the leading body of the Church of Jesus Christ of Latter-day Saints (LDS Church)."
-    },
-    {
-      "type": "Event",
-      "year": "1709",
-      "text": "Bartolomeu de Gusmão demonstrates the lifting power of hot air in an audience before the king of Portugal in Lisbon, Portugal."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "Albanian rebels ambush a convoy of the Army of the Republic of Macedonia near Tetovo, killing 10 soldiers."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Angus Fraser, English cricketer, manager, and journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Ken Baumann, American actor and author"
-    },
-    {
-      "type": "Event",
-      "year": "-685",
-      "text": "Spring and Autumn period: Battle of Qianshi: Upon the death of the previous Duke of Qi, Gongsun Wuzhi, Duke Zhuang of Lu sends an army into the Duchy of Qi to install the exiled Qi prince Gongzi Jiu as the new Duke of Qi – but is defeated at Qianshi by Jiu's brother and rival claimant, the newly inaugurated Duke Huan of Qi."
-    },
-    {
-      "type": "Event",
-      "year": "1647",
-      "text": "The Irish Confederate Wars and Wars of the Three Kingdoms: Battle of Dungan's Hill: English Parliamentary forces defeat Irish forces."
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "Joseph Whidbey leads an expedition to search for the Northwest Passage near Juneau, Alaska."
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Martin Brest, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Death",
-      "year": "1902",
-      "text": "James Tissot, French painter and illustrator (born 1836)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Phil Carlson, Australian cricketer (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Don Most, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Kate Langbroek, Australian talk show host"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Rashard Lewis, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Scott Sandelin, American ice hockey player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Casey Cott, American actor"
-    },
-    {
       "type": "Birth",
       "year": "1957",
       "text": "Dennis Drew, American keyboard player"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Manjul Bhargava, Canadian-American mathematician and academic"
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Anton Fig, South African-American drummer"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "James Blanchard, American diplomat and politician, 45th Governor of Michigan"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Johnny Temple, American baseball player and coach (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The Association of Southeast Asian Nations (ASEAN) is founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The London Charter is signed by France, the United Kingdom, the Soviet Union and the United States, establishing the laws and procedures for the Nuremberg trials."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Mel Tillis, American singer-songwriter and guitarist (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "The 29th modern summer Olympic Games take place in Beijing, China until August 24."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Károly Reich, Hungarian illustrator (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Ron Karkovice, American baseball player and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "The first night baseball game in the history of Chicago's Wrigley Field (game was rained out in the fourth inning)."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Vardo Rumessen, Estonian pianist and musicologist (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "Eight people are killed in a shooting in Harris County, Texas."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889."
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Patricia Neal, American actress (born 1926)"
     },
     {
       "type": "Birth",
@@ -233,13 +13,43 @@
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Donald P. Bellisario, American director, producer, and screenwriter"
+      "year": "1942",
+      "text": "John Gustafson, English singer-songwriter and bass player (died 2014)"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Jack Cassel, American baseball player"
+      "year": "1967",
+      "text": "Marcelo Balboa, American soccer player, coach, and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1264",
+      "text": "Mudéjar revolt: Muslim rebel forces take the Alcázar of Jerez de la Frontera after defeating the Castilian garrison."
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people."
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "Nobel laureate Muhammad Yunus takes oath as Chief Adviser to form an interim government in Bangladesh."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Mustafa Balbay, Turkish journalist and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Daniel House, American bass player and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt)."
     },
     {
       "type": "Event",
@@ -248,23 +58,163 @@
     },
     {
       "type": "Event",
-      "year": "1264",
-      "text": "Mudéjar revolt: Muslim rebel forces take the Alcázar of Jerez de la Frontera after defeating the Castilian garrison."
+      "year": "1794",
+      "text": "Joseph Whidbey leads an expedition to search for the Northwest Passage near Juneau, Alaska."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889."
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Darren Manzella, American sergeant (died 2013)"
+      "year": "1981",
+      "text": "Vanessa Amorosi, Australian singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "2005",
+      "text": "Alysa Liu, American figure skater"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Parker Kligerman, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Willie Tonga, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Terry Nation, Welsh-American author and screenwriter (died 1997)"
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Charles Keating, English-American actor (born 1941)"
+    },
+    {
+      "type": "Event",
+      "year": "1647",
+      "text": "The Irish Confederate Wars and Wars of the Three Kingdoms: Battle of Dungan's Hill: English Parliamentary forces defeat Irish forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Svetlana Savitskaya, Russian engineer and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Pierre Garçon, American football player"
     },
     {
       "type": "Birth",
       "year": "1961",
-      "text": "The Edge, British-Irish musician, singer and songwriter"
+      "text": "Bruce Matthews, American football player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "The 8888 Uprising begins in Rangoon (Yangon), Burma (Myanmar). Led by students, hundreds of thousands join in nationwide protests against the one-party regime. On September 18, the demonstrations end in a military crackdown, killing thousands."
+    },
+    {
+      "type": "Event",
+      "year": "1974",
+      "text": "President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "The Association of Southeast Asian Nations (ASEAN) is founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "The 7.8 Mw Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people."
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "Eight people are killed in a shooting in Harris County, Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Ken Baumann, American actor and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Ron Karkovice, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "The Federal Bureau of Investigation (FBI) executes a search warrant at former president Donald Trump's residence in Mar-a-Lago, Palm Beach, Florida."
+    },
+    {
+      "type": "Event",
+      "year": "1709",
+      "text": "Bartolomeu de Gusmão demonstrates the lifting power of hot air in an audience before the king of Portugal in Lisbon, Portugal."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee, despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state."
+    },
+    {
+      "type": "Event",
+      "year": "1844",
+      "text": "The Quorum of the Twelve Apostles, headed by Brigham Young, is reaffirmed as the leading body of the Church of Jesus Christ of Latter-day Saints (LDS Church)."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Cameron Payne, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "William Asher, American director, producer, and screenwriter (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Igor Kurnosov, Russian chess player (born 1985)"
     },
     {
       "type": "Birth",
       "year": "1980",
       "text": "Michael Urie, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "Albanian rebels ambush a convoy of the Army of the Republic of Macedonia near Tetovo, killing 10 soldiers."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "John C. Holmes, American film actor (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Gertrude Himmelfarb, American historian, author, and academic (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "The Edge, British-Irish musician, singer and songwriter"
     },
     {
       "type": "Event",
@@ -274,32 +224,82 @@
     {
       "type": "Event",
       "year": "1988",
-      "text": "The 8888 Uprising begins in Rangoon (Yangon), Burma (Myanmar). Led by students, hundreds of thousands join in nationwide protests against the one-party regime. On September 18, the demonstrations end in a military crackdown, killing thousands."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee, despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state."
+      "text": "The first night baseball game in the history of Chicago's Wrigley Field (game was rained out in the fourth inning)."
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Ken Kutaragi, Japanese businessman, created PlayStation"
+      "year": "1976",
+      "text": "JC Chasez, American singer and dancer"
     },
     {
       "type": "Birth",
-      "year": "1996",
-      "text": "A'ja Wilson, American basketball player"
+      "year": "1936",
+      "text": "Frank Howard, American baseball player and manager (died 2023)"
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt)."
+      "year": "1973",
+      "text": "Kim Dae-jung, a South Korean politician and later president of South Korea, is kidnapped."
     },
     {
       "type": "Event",
-      "year": "1974",
-      "text": "President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day."
+      "year": "2008",
+      "text": "The 29th modern summer Olympic Games take place in Beijing, China until August 24."
+    },
+    {
+      "type": "Event",
+      "year": "-685",
+      "text": "Spring and Autumn period: Battle of Qianshi: Upon the death of the previous Duke of Qi, Gongsun Wuzhi, Duke Zhuang of Lu sends an army into the Duchy of Qi to install the exiled Qi prince Gongzi Jiu as the new Duke of Qi – but is defeated at Qianshi by Jiu's brother and rival claimant, the newly inaugurated Duke Huan of Qi."
+    },
+    {
+      "type": "Event",
+      "year": "1831",
+      "text": "Four hundred Shawnee people agree to relinquish their lands in Ohio in exchange for land west of the Mississippi River in the Treaty of Wapakoneta."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Casey Cott, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Richard Anderson, American actor and producer (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Anthony Rizzo, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Shane Lee, Australian cricketer and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Rory Calhoun, American actor (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The London Charter is signed by France, the United Kingdom, the Soviet Union and the United States, establishing the laws and procedures for the Nuremberg trials."
+    },
+    {
+      "type": "Death",
+      "year": "1991",
+      "text": "James Irwin, American colonel, pilot, and astronaut, eighth man to walk on the moon (born 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Martin Brest, American director, producer, and screenwriter"
     }
   ],
   "source": "Wikipedia"
