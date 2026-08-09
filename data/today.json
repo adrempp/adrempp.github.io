@@ -3,153 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Kelli Hubly, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Julián Javier, Dominican-American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Ralph Houk, American baseball player and manager (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Eddie Futch, American boxer and trainer (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Mike Lamb, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "John Willcock, Australian politician, 15th Premier of Western Australia, (died 1956)"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Jay Leggett, American actor, director, producer, and screenwriter (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Kurtis Blow, American rapper, producer, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1897",
-      "text": "The first International Congress of Mathematicians is held in Zürich, Switzerland."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Yekaterina Samutsevich, Russian singer and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Tove Jansson, Finnish author and illustrator (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Daniel Preussner, German rugby player"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The State of Singapore separates from the Malaysian federation due to a heated ideological conflict between their ruling parties.[citation needed][needs copy edit]"
-    },
-    {
-      "type": "Event",
-      "year": "1877",
-      "text": "American Indian Wars: Battle of the Big Hole: A small band of Nez Percé Indians clash with the United States Army."
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "The Webster–Ashburton Treaty is signed, establishing the United States–Canada border east of the Rocky Mountains."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Gene Luen Yang, American author and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1329",
-      "text": "Quilon, the first Indian Christian Diocese, is erected by Pope John XXII; the French-born Jordanus is appointed the first Bishop."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Battle of Cedar Mountain: At Cedar Mountain, Virginia, Confederate General Stonewall Jackson narrowly defeats Union forces under General John Pope."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time."
-    },
-    {
-      "type": "Event",
-      "year": "-48",
-      "text": "Caesar's Civil War: Battle of Pharsalus: Julius Caesar decisively defeats Pompey at Pharsalus and Pompey flees to Egypt."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Louis Lipps, American football player and radio host"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Ken Norton, American boxer and actor (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "P. L. Travers, Australian-English author and actress (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Camilla Wicks, American violinist and educator (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Milt Bolling, American baseball player and scout (died 2013)"
-    },
-    {
-      "type": "Event",
       "year": "1974",
-      "text": "As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president."
+      "text": "Matt Morris, American baseball player"
     },
     {
-      "type": "Death",
-      "year": "2012",
-      "text": "Mel Stuart, American director and producer (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Ernest Angley, American evangelist and author (died 2021)"
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Nagasaki is devastated when an atomic bomb, Fat Man, is dropped by the United States B-29 Bockscar. Thirty-five thousand people are killed outright, including 23,200–28,200 Japanese war workers, 2,000 Korean forced workers, and 150 Japanese soldiers."
     },
     {
       "type": "Birth",
@@ -158,48 +18,18 @@
     },
     {
       "type": "Birth",
-      "year": "1911",
-      "text": "William Alfred Fowler, American astronomer and astrophysicist, Nobel Laureate (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "The Tampere light rail officially starts operating."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Russian president Boris Yeltsin fires his prime minister, Sergei Stepashin, and for the fourth time fires his entire cabinet."
+      "year": "1982",
+      "text": "Kanstantsin Sivtsov, Belarusian cyclist"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Jonathan Kellerman, American psychologist and author"
+      "year": "1962",
+      "text": "John \"Hot Rod\" Williams, American basketball player (died 2015)"
     },
     {
       "type": "Event",
-      "year": "1610",
-      "text": "The First Anglo-Powhatan War begins in colonial Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "J. James Exon, American soldier and politician, 33rd Governor of Nebraska (died 2005)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "Shannon Eastin becomes the first woman to officiate an NFL game."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Michael Kingma, Australian basketball player"
+      "year": "1897",
+      "text": "The first International Congress of Mathematicians is held in Zürich, Switzerland."
     },
     {
       "type": "Event",
@@ -208,53 +38,53 @@
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Kirill Reznik, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1854",
-      "text": "American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Brad Gilbert, American tennis player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Anthony Castonzo, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "David A. Huffman, American computer scientist, developed Huffman coding (died 1999)"
-    },
-    {
-      "type": "Death",
-      "year": "1516",
-      "text": "Hieronymus Bosch, Early Netherlandish painter (born circa 1450)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "The Mighty Hannibal, American singer-songwriter and producer (died 2014)"
-    },
-    {
-      "type": "Birth",
       "year": "1982",
-      "text": "Kanstantsin Sivtsov, Belarusian cyclist"
+      "text": "Tyson Gay, American sprinter"
     },
     {
       "type": "Birth",
-      "year": "1900",
-      "text": "Charles Farrell, American actor and singer (died 1990)"
+      "year": "1963",
+      "text": "Barton Lynch, Australian surfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Chamique Holdsclaw, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Hayley Peirsol, American swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "1842",
+      "text": "The Webster–Ashburton Treaty is signed, establishing the United States–Canada border east of the Rocky Mountains."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Beverlee McKinsey, American actress (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Melanie Griffith, American actress and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Milt Bolling, American baseball player and scout (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "John E. Sweeney, American lawyer and politician"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city."
     },
     {
       "type": "Event",
@@ -263,18 +93,43 @@
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Deion Sanders, American football and baseball player and coach"
+      "year": "1963",
+      "text": "Jay Leggett, American actor, director, producer, and screenwriter (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "1920",
+      "text": "Samuel Griffith, Welsh-Australian politician, 9th Premier of Queensland (born 1845)"
     },
     {
       "type": "Birth",
-      "year": "2000",
-      "text": "Aidan Hutchinson, American football player"
+      "year": "1945",
+      "text": "Barbara Delinsky, American author"
     },
     {
       "type": "Event",
-      "year": "1814",
-      "text": "American Indian Wars: The Creek sign the Treaty of Fort Jackson, giving up huge parts of Alabama and Georgia."
+      "year": "2021",
+      "text": "The Tampere light rail officially starts operating."
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes."
+    },
+    {
+      "type": "Event",
+      "year": "-48",
+      "text": "Caesar's Civil War: Battle of Pharsalus: Julius Caesar decisively defeats Pompey at Pharsalus and Pompey flees to Egypt."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Battle of Cedar Mountain: At Cedar Mountain, Virginia, Confederate General Stonewall Jackson narrowly defeats Union forces under General John Pope."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Chris Cuomo, American lawyer and journalist"
     },
     {
       "type": "Birth",
@@ -283,23 +138,168 @@
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Kermit Beahan, American Air Force colonel (died 1989)"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Frank Gifford, American football player, sportscaster, and actor (born 1930)"
+      "year": "1985",
+      "text": "JaMarcus Russell, American football player"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Chris Cuomo, American lawyer and journalist"
+      "year": "1943",
+      "text": "Ken Norton, American boxer and actor (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Michael Kors, American fashion designer"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Adewale Ogunleye, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Billy Henderson, American singer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Vinny Del Negro, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Mike Lamb, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "World War II: Nagasaki is devastated when an atomic bomb, Fat Man, is dropped by the United States B-29 Bockscar. Thirty-five thousand people are killed outright, including 23,200–28,200 Japanese war workers, 2,000 Korean forced workers, and 150 Japanese soldiers."
+      "year": "1974",
+      "text": "As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Sarah McBride, American LGBT activist"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Russian president Boris Yeltsin fires his prime minister, Sergei Stepashin, and for the fourth time fires his entire cabinet."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Justice Smith, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "American Indian Wars: The Creek sign the Treaty of Fort Jackson, giving up huge parts of Alabama and Georgia."
+    },
+    {
+      "type": "Event",
+      "year": "1329",
+      "text": "Quilon, the first Indian Christian Diocese, is erected by Pope John XXII; the French-born Jordanus is appointed the first Bishop."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Charles Farrell, American actor and singer (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Amanda Bearse, American actress, comedian and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Tyler Smith, American singer-songwriter and bass player"
+    },
+    {
+      "type": "Event",
+      "year": "1610",
+      "text": "The First Anglo-Powhatan War begins in colonial Virginia."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Kelli Hubly, American soccer player"
+    },
+    {
+      "type": "Event",
+      "year": "1854",
+      "text": "American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "David A. Huffman, American computer scientist, developed Huffman coding (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Brett Hull, Canadian-American ice hockey player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Butch Warren, American bassist (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Michael Kingma, Australian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Ferenc Fricsay, Hungarian-Austrian conductor and director (died 1963)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Sam Elliott, American actor and producer"
+    },
+    {
+      "type": "Death",
+      "year": "1048",
+      "text": "Pope Damasus II"
+    },
+    {
+      "type": "Event",
+      "year": "1877",
+      "text": "American Indian Wars: Battle of the Big Hole: A small band of Nez Percé Indians clash with the United States Army."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "Shannon Eastin becomes the first woman to officiate an NFL game."
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The State of Singapore separates from the Malaysian federation due to a heated ideological conflict between their ruling parties.[citation needed][needs copy edit]"
+    },
+    {
+      "type": "Death",
+      "year": "1978",
+      "text": "James Gould Cozzens, American novelist and short story writer (born 1903)"
     }
   ],
   "source": "Wikipedia"
