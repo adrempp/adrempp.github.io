@@ -2,24 +2,279 @@
   "date": "2026-08-10",
   "items": [
     {
+      "type": "Event",
+      "year": "1808",
+      "text": "Finnish War: Swedish forces led by General von Döbeln defeat Russian forces led by General Šepelev in the Battle of Kauhajoki."
+    },
+    {
       "type": "Birth",
-      "year": "1999",
-      "text": "Ja Morant, American basketball player"
+      "year": "1927",
+      "text": "Jimmy Martin, American singer and guitarist (died 2005)"
     },
     {
       "type": "Event",
-      "year": "1864",
-      "text": "After Uruguay's governing Blanco Party refuses Brazil's demands, José Antônio Saraiva announces that the Brazilian military will begin reprisals, beginning the Uruguayan War."
+      "year": "1990",
+      "text": "The Magellan space probe reaches Venus."
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Justin Theroux, American actor"
+      "year": "1943",
+      "text": "Michael Mantler, American trumpet player and composer"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "In Yonkers, New York, 24-year-old postal employee David Berkowitz (\"Son of Sam\") is arrested for a series of killings in the New York City area over the period of one year."
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "Philip Manshaus shoots his stepsister and attacks a mosque in the Bærum mosque shooting."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "An amendment to the National Security Act of 1947 enhances the authority of the United States Secretary of Defense over the Army, Navy and Air Force, and replaces the National Military Establishment with the Department of Defense."
+    },
+    {
+      "type": "Event",
+      "year": "1904",
+      "text": "Russo-Japanese War: The Battle of the Yellow Sea between the Russian and Japanese battleship fleets takes place."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Rainer Wimmer, Austrian politician"
     },
     {
       "type": "Event",
       "year": "1961",
       "text": "Vietnam War: The U.S. Army begins Operation Ranch Hand, spraying an estimated 20 million US gallons (76,000 m3) of defoliants and herbicides over rural areas of South Vietnam in an attempt to deprive the Viet Cong of food and vegetation cover."
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "Spanish Civil War: The Regional Defence Council of Aragon is dissolved by the Second Spanish Republic."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "William P. Clark Jr., American judge and politician, 12th United States National Security Advisor (born 1931)"
+    },
+    {
+      "type": "Event",
+      "year": "1512",
+      "text": "The naval Battle of Saint-Mathieu, during the War of the League of Cambrai, sees the simultaneous destruction of the Breton ship La Cordelière and the English ship The Regent."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Emily Symons, Australian actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Bret Hedican, American ice hockey player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Aaron Hall, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Diane Venora, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Henrik Fisker, Danish automotive designer and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "The 2001 Angola train attack occurs, causing 252 deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Rick Overton, American screenwriter, actor and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Todd Nichols, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Rosie Winterton, English nurse and politician, Shadow Leader of the House of Commons"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "The Marikana massacre begins near Rustenburg, South Africa, resulting in the deaths of 47 people."
+    },
+    {
+      "type": "Death",
+      "year": "1904",
+      "text": "Pierre Waldeck-Rousseau, French lawyer and politician, 68th Prime Minister of France (born 1846)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Bobby Hatfield, American singer-songwriter (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "John Starks, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1680",
+      "text": "The Pueblo Revolt begins in New Mexico."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Brandon Lyon, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "Russo-Japanese War: Peace negotiations begin in Portsmouth, New Hampshire."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Marcus Fizer, American basketball player"
+    },
+    {
+      "type": "Death",
+      "year": "1916",
+      "text": "John J. Loud, American inventor (born 1844)"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "At Massena, New York, the groundbreaking ceremony for the Saint Lawrence Seaway is held."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Horizon Air employee Richard Russell hijacks and performs an unauthorized takeoff on a Horizon Air Bombardier Dash 8 Q400 plane at Seattle–Tacoma International Airport in Washington, flying it for more than an hour before crashing the plane and killing himself on Ketron Island in Puget Sound."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Rachel Simmons, American scholar and author"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Oklahoma City bombing: Timothy McVeigh and Terry Nichols are indicted for the bombing. Michael Fortier pleads guilty in a plea-bargain for his testimony."
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "P. T. Barnum begins his career as a showman and circus entrepreneur by exhibiting Joice Heth, an octogenerian African slave whom he claims was George Washington's nursemaid."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Ryan Eggold, American actor and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Kalevi Kotkas, Estonian-Finnish high jumper and discus thrower (died 1983)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "C. B. Dollaway, American mixed martial artist"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Gus Mercurio, American-Australian actor (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Marcus Foligno, American-Canadian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "654",
+      "text": "Pope Eugene I elected to succeed Martinus I."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Rocky Colavito,  American baseball player and sportscaster (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Speedy Duncan, American football player (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "The Society for American Baseball Research is founded in Cooperstown, New York."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Lucas Till, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "Japanese American internment: U.S. President Ronald Reagan signs the Civil Liberties Act of 1988, providing $20,000 payments to Japanese Americans who were either interned in or relocated by the United States during World War II."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Kyle Brown, American soccer player"
+    },
+    {
+      "type": "Event",
+      "year": "1856",
+      "text": "The Last Island hurricane strikes Louisiana, resulting in over 200 deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Daniel Hugh Kelly, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Jon Farriss, Australian drummer, songwriter, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Battle of Wilson's Creek: A mixed force of Confederate, Missouri State Guard, and Arkansas State troops defeat outnumbered attacking Union forces in the southwestern part of the state."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Eugene P. Wilkinson, American admiral (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Archie Bradley, American baseball player"
     },
     {
       "type": "Birth",
@@ -33,273 +288,18 @@
     },
     {
       "type": "Event",
-      "year": "1990",
-      "text": "The Magellan space probe reaches Venus."
+      "year": "2019",
+      "text": "Thirty-two are killed and one million are evacuated as Typhoon Lekima makes landfall in Zhejiang, China. Earlier it had caused flooding in the Philippines."
     },
     {
       "type": "Event",
-      "year": "1988",
-      "text": "Japanese American internment: U.S. President Ronald Reagan signs the Civil Liberties Act of 1988, providing $20,000 payments to Japanese Americans who were either interned in or relocated by the United States during World War II."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Lisa Raymond, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "John Starks, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Oklahoma City bombing: Timothy McVeigh and Terry Nichols are indicted for the bombing. Michael Fortier pleads guilty in a plea-bargain for his testimony."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Roadkill, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Rachel Simmons, American scholar and author"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "In Yonkers, New York, 24-year-old postal employee David Berkowitz (\"Son of Sam\") is arrested for a series of killings in the New York City area over the period of one year."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Jimmy Dean, American singer, actor, and businessman, founded the Jimmy Dean Food Company  (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "The Marikana massacre begins near Rustenburg, South Africa, resulting in the deaths of 47 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Patti Austin, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Doug Flach, American tennis player"
+      "year": "1864",
+      "text": "After Uruguay's governing Blanco Party refuses Brazil's demands, José Antônio Saraiva announces that the Brazilian military will begin reprisals, beginning the Uruguayan War."
     },
     {
       "type": "Event",
       "year": "1792",
       "text": "French Revolution: Storming of the Tuileries Palace: Louis XVI is arrested and taken into custody as his Swiss Guards are massacred by the Parisian mob."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Michael Mantler, American trumpet player and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Aaron Staton, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "At Massena, New York, the groundbreaking ceremony for the Saint Lawrence Seaway is held."
-    },
-    {
-      "type": "Event",
-      "year": "654",
-      "text": "Pope Eugene I elected to succeed Martinus I."
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "The Last Island hurricane strikes Louisiana, resulting in over 200 deaths."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Doyle Brunson, American poker player (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1680",
-      "text": "The Pueblo Revolt begins in New Mexico."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Eddie Fisher, American singer and actor (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "P. T. Barnum begins his career as a showman and circus entrepreneur by exhibiting Joice Heth, an octogenerian African slave whom he claims was George Washington's nursemaid."
-    },
-    {
-      "type": "Event",
-      "year": "1904",
-      "text": "Russo-Japanese War: The Battle of the Yellow Sea between the Russian and Japanese battleship fleets takes place."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Michelle Khare, American YouTuber and television host"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Dalvin Cook, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Matt Prater, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Susan Dorothea White, Australian painter and sculptor"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Battle of Wilson's Creek: A mixed force of Confederate, Missouri State Guard, and Arkansas State troops defeat outnumbered attacking Union forces in the southwestern part of the state."
-    },
-    {
-      "type": "Event",
-      "year": "1512",
-      "text": "The naval Battle of Saint-Mathieu, during the War of the League of Cambrai, sees the simultaneous destruction of the Breton ship La Cordelière and the English ship The Regent."
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "Spanish Civil War: The Regional Defence Council of Aragon is dissolved by the Second Spanish Republic."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Tony Ross, English author and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Ian Murray, Scottish businessman and politician, Shadow Secretary of State for Scotland"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Red Holzman, American basketball player and coach (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Chris Tremain, Australian cricketer"
-    },
-    {
-      "type": "Death",
-      "year": "1961",
-      "text": "Julia Peterkin, American author (born 1880)"
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "Finnish War: Swedish forces led by General von Döbeln defeat Russian forces led by General Šepelev in the Battle of Kauhajoki."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Horizon Air employee Richard Russell hijacks and performs an unauthorized takeoff on a Horizon Air Bombardier Dash 8 Q400 plane at Seattle–Tacoma International Airport in Washington, flying it for more than an hour before crashing the plane and killing himself on Ketron Island in Puget Sound."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Michael Dokes, American boxer (died 2012)"
-    },
-    {
-      "type": "Death",
-      "year": "1933",
-      "text": "Alf Morgans, Welsh-Australian politician, 4th Premier of Western Australia (born 1850)"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "An amendment to the National Security Act of 1947 enhances the authority of the United States Secretary of Defense over the Army, Navy and Air Force, and replaces the National Military Establishment with the Department of Defense."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Archie Bradley, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Andre Drummond, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "The 2001 Angola train attack occurs, causing 252 deaths."
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "Russo-Japanese War: Peace negotiations begin in Portsmouth, New Hampshire."
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "Thirty-two are killed and one million are evacuated as Typhoon Lekima makes landfall in Zhejiang, China. Earlier it had caused flooding in the Philippines."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Thomas Kidd, American illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "Philip Manshaus shoots his stepsister and attacks a mosque in the Bærum mosque shooting."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Fred Ho, American saxophonist, composer, and playwright (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Alexander Perezhogin, Russian ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "The Society for American Baseball Research is founded in Cooperstown, New York."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Eydie Gormé, American singer and actress (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Rhonda Fleming, American actress (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Cruze Ah-Nau, Australian rugby player"
     }
   ],
   "source": "Wikipedia"
