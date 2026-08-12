@@ -2,139 +2,9 @@
   "date": "2026-08-12",
   "items": [
     {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Bob Buhl, American baseball player (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Dominique Swain, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Casey Affleck, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Maggie Lawson, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Matt Thiessen, Canadian-American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Jonathan Coachman, American sportscaster and wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Del the Funky Homosapien, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "August \"Kid Creole\" Darnell, American musician, bandleader, singer-songwriter, and record producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Dream, American YouTuber"
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Mark Gruenwald, American author and illustrator (born 1953)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "George Wetherill, American physicist and academic (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Porter Wagoner, American singer-songwriter and guitarist (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Bruce Matthews, Canadian general and businessman (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Sam J. Jones, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army."
-    },
-    {
-      "type": "Event",
-      "year": "1164",
-      "text": "Battle of Harim: Nur ad-Din Zangi defeats the Crusader armies of the County of Tripoli and the Principality of Antioch."
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union."
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew."
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Charlie O'Donnell, American radio and television announcer (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Antoine Walker, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota."
-    },
-    {
       "type": "Event",
       "year": "1994",
       "text": "Major League Baseball players go on strike, eventually forcing the cancellation of the 1994 World Series."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Kerry Boustead, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "D. J. Houlton, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Charles Blackman, Australian painter and illustrator (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Plaxico Burress, American football player"
     },
     {
       "type": "Event",
@@ -143,18 +13,143 @@
     },
     {
       "type": "Event",
+      "year": "2016",
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL)."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Campbell Newman, Australian politician, 38th Premier of Queensland"
+    },
+    {
+      "type": "Event",
       "year": "1976",
       "text": "Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War."
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Peter Krause, American actor"
+      "year": "1916",
+      "text": "Edward Pinkowski, American writer, journalist and Polonia historian (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "George Wetherill, American physicist and academic (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Leung Chun-ying, Hong Kong businessman and politician, 3rd Chief Executive of Hong Kong"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Charles Blackman, Australian painter and illustrator (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Jamie Dunn, Australian actor, radio and television host (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I:  France, the United Kingdom and the British Empire declare war on Austria-Hungary."
+    },
+    {
+      "type": "Death",
+      "year": "1982",
+      "text": "Henry Fonda, American actor (born 1905)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Anthony Swofford, American soldier and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Buck Owens, American singer-songwriter and guitarist (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Pat Metheny, American jazz guitarist and composer"
+    },
+    {
+      "type": "Event",
+      "year": "1121",
+      "text": "Battle of Didgori: The Georgian army under King David IV wins a decisive victory over the famous Seljuk commander Ilghazi."
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Dan Curtis, American director and producer (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Klaus Toppmöller, German football manager and former player"
     },
     {
       "type": "Birth",
       "year": "1970",
       "text": "Charles Mesure, English-Australian actor and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Rob Borbidge, Australian politician, 35th Premier of Queensland"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Bob Buhl, American baseball player (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Del the Funky Homosapien, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Ibolya Dávid, Hungarian lawyer and politician, Minister of Justice of Hungary"
+    },
+    {
+      "type": "Event",
+      "year": "1099",
+      "text": "First Crusade: Battle of Ascalon: Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade."
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Douglas Croft, American child actor (died 1963)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Matt Gillett, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Dorothy E. Denning, American computer scientist and academic"
     },
     {
       "type": "Event",
@@ -164,72 +159,42 @@
     {
       "type": "Birth",
       "year": "1945",
-      "text": "Dorothy E. Denning, American computer scientist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I:  France, the United Kingdom and the British Empire declare war on Austria-Hungary."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Andrei Agius, Maltese footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1121",
-      "text": "Battle of Didgori: The Georgian army under King David IV wins a decisive victory over the famous Seljuk commander Ilghazi."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Dana Ivey, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Thermonuclear bomb testing: The Soviet atomic bomb project continues with the detonation of \"RDS-6s\" (Joe 4) using a \"layered\" scheme."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Jamie Dunn, Australian actor, radio and television host (died 2026)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Anthony Swofford, American soldier and author"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Pauline Maier, American historian and academic (born 1938)"
+      "text": "Ron Mael, American keyboard player and songwriter"
     },
     {
       "type": "Birth",
       "year": "1971",
-      "text": "Yvette Nicole Brown, American actress, comedian, and talk show host"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres."
+      "text": "Michael Ian Black, American comedian, actor, director, producer, and screenwriter"
     },
     {
       "type": "Birth",
-      "year": "1912",
-      "text": "Samuel Fuller, American actor, director, and screenwriter (died 1997)"
+      "year": "1991",
+      "text": "Jesinta Campbell, Australian model"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Pat Metheny, American jazz guitarist and composer"
+      "year": "1950",
+      "text": "Jim Beaver, American actor, director, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Peter Krause, American actor"
     },
     {
       "type": "Event",
       "year": "1960",
       "text": "Echo 1A, NASA's first successful communications satellite, is launched."
+    },
+    {
+      "type": "Death",
+      "year": "1992",
+      "text": "John Cage, American composer and theorist (born 1912)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Oliver Crawford, American screenwriter and author (died 2008)"
     },
     {
       "type": "Birth",
@@ -238,23 +203,33 @@
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Campbell Newman, Australian politician, 38th Premier of Queensland"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA)."
-    },
-    {
-      "type": "Event",
-      "year": "1099",
-      "text": "First Crusade: Battle of Ascalon: Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade."
+      "year": "1956",
+      "text": "Lee Freedman, Australian horse trainer"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Leung Chun-ying, Hong Kong businessman and politician, 3rd Chief Executive of Hong Kong"
+      "year": "1939",
+      "text": "David Jacobs, American television writer and producer (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "D. J. Houlton, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Ian Happ, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union."
     },
     {
       "type": "Event",
@@ -263,8 +238,23 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Charles Gibson, American ethnohistorian (died 1985)"
+      "year": "1991",
+      "text": "Sam Hoare, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Kerry Boustead, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA)."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Matt Thiessen, Canadian-American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
@@ -273,33 +263,43 @@
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "George McGinnis, American basketball player (died 2023)"
+      "year": "1909",
+      "text": "Bruce Matthews, Canadian general and businessman (died 1991)"
     },
     {
       "type": "Event",
-      "year": "2016",
-      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL)."
+      "year": "1953",
+      "text": "Thermonuclear bomb testing: The Soviet atomic bomb project continues with the detonation of \"RDS-6s\" (Joe 4) using a \"layered\" scheme."
     },
     {
       "type": "Birth",
-      "year": "1907",
-      "text": "Boy Charlton, Australian swimmer (died 1975)"
+      "year": "1920",
+      "text": "Percy Mayfield, American R&B singer-songwriter (died 1984)"
     },
     {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Jane Wyatt, American actress (died 2006)"
+      "type": "Event",
+      "year": "1950",
+      "text": "Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army."
     },
     {
       "type": "Death",
-      "year": "2010",
-      "text": "Richie Hayward, American drummer and songwriter (born 1946)"
+      "year": "2007",
+      "text": "Mike Wieringo, American author and illustrator (born 1963)"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "George Hamilton, American actor"
+      "year": "1920",
+      "text": "Charles Gibson, American ethnohistorian (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Jim Schlossnagle, American baseball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1164",
+      "text": "Battle of Harim: Nur ad-Din Zangi defeats the Crusader armies of the County of Tripoli and the Principality of Antioch."
     }
   ],
   "source": "Wikipedia"
