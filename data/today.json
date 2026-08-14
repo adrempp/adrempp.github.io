@@ -3,8 +3,73 @@
   "items": [
     {
       "type": "Event",
-      "year": "1790",
-      "text": "The Treaty of Wereloe ends the 1788–1790 Russo-Swedish War."
+      "year": "-70",
+      "text": "Gaius Verres is found guilty of corruption after his defense lawyer Quintus Hortensius abandons the case as hopeless."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Mark Fidrych, American baseball player and sportscaster (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Founding and first official meeting of the American Football League."
+    },
+    {
+      "type": "Birth",
+      "year": "1890",
+      "text": "Bruno Tesch, German chemist and businessman (died 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Catherine Bell, English-American actress and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "John Brodie, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Spencer Pratt, American television personality"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Mila Kunis, Ukrainian-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Lee Hoffman, American author (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Russell Baker, American critic and essayist (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Carl Lumbly, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1842",
+      "text": "American Indian Wars: Second Seminole War ends, with the Seminoles forced from Florida."
     },
     {
       "type": "Event",
@@ -13,78 +78,23 @@
     },
     {
       "type": "Event",
+      "year": "1040",
+      "text": "King Duncan I is killed in battle against his first cousin and rival Macbeth. The latter succeeds him as King of Scotland."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Steve Martin, American actor, comedian, musician, producer, and screenwriter"
+    },
+    {
+      "type": "Death",
+      "year": "1988",
+      "text": "Enzo Ferrari, Italian racing driver and businessman, founded Ferrari (born 1898)"
+    },
+    {
+      "type": "Event",
       "year": "1933",
       "text": "Loggers cause a forest fire in the Coast Range of Oregon, later known as the first forest fire of the Tillamook Burn;  destroying 240,000 acres (970 km2) of land."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Mark Gubicza, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Spencer Pratt, American television personality"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "John Brodie, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Tracy Caldwell Dyson, American chemist and astronaut"
-    },
-    {
-      "type": "Birth",
-      "year": "1860",
-      "text": "Ernest Thompson Seton, American author, artist, and naturalist (died 1946)"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "Franklin D. Roosevelt signs the Social Security Act, creating a government pension system for the retired."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "A widescale power blackout affects the northeast United States and Canada."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Magic Johnson, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "-74",
-      "text": "A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Paul Gallen, Australian rugby league player, boxer, and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Marcia Gay Harden, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "The first claimed powered flight, by Gustave Whitehead in his Number 21."
     },
     {
       "type": "Event",
@@ -93,18 +103,13 @@
     },
     {
       "type": "Event",
-      "year": "1921",
-      "text": "Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia)."
+      "year": "1790",
+      "text": "The Treaty of Wereloe ends the 1788–1790 Russo-Swedish War."
     },
     {
-      "type": "Event",
-      "year": "2023",
-      "text": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023."
-    },
-    {
-      "type": "Event",
-      "year": "1842",
-      "text": "American Indian Wars: Second Seminole War ends, with the Seminoles forced from Florida."
+      "type": "Birth",
+      "year": "1916",
+      "text": "Wellington Mara, American businessman (died 2005)"
     },
     {
       "type": "Birth",
@@ -113,33 +118,13 @@
     },
     {
       "type": "Event",
-      "year": "1040",
-      "text": "King Duncan I is killed in battle against his first cousin and rival Macbeth. The latter succeeds him as King of Scotland."
+      "year": "1784",
+      "text": "Russian colonization of North America: Awa'uq Massacre: The Russian fur trader Grigory Shelikhov storms a Kodiak Island Alutiit refuge rock on Sitkalidak Island, killing 500+ Alutiit."
     },
     {
-      "type": "Birth",
-      "year": "1866",
-      "text": "Charles Jean de la Vallée-Poussin, Belgian mathematician and academic (died 1962)"
-    },
-    {
-      "type": "Death",
-      "year": "1984",
-      "text": "Spud Davis, American baseball player, coach, and manager (born 1904)"
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Fyvush Finkel, American actor (born 1922)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Susan Olsen, American actress and radio host"
-    },
-    {
-      "type": "Birth",
-      "year": "1814",
-      "text": "Charlotte Fowler Wells, American phrenologist and publisher (died 1901)"
+      "type": "Event",
+      "year": "2015",
+      "text": "The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba–United States relations were broken off."
     },
     {
       "type": "Event",
@@ -148,68 +133,38 @@
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Susan Saint James, American actress"
+      "year": "1947",
+      "text": "Danielle Steel, American author"
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "B. A. Santamaria, Australian political activist and publisher (died 1998)"
+      "year": "1943",
+      "text": "Ben Sidran, American jazz and rock keyboardist"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Scott Lipsky, American tennis player"
     },
     {
       "type": "Event",
-      "year": "1972",
-      "text": "An Ilyushin Il-62 airliner crashes near Königs Wusterhausen, East Germany killing 156 people."
-    },
-    {
-      "type": "Event",
-      "year": "1720",
-      "text": "The Spanish military Villasur expedition is defeated by Pawnee and Otoe warriors near present-day Columbus, Nebraska."
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba–United States relations were broken off."
-    },
-    {
-      "type": "Death",
-      "year": "2018",
-      "text": "Jill Janus, American singer (born 1975)"
+      "year": "1935",
+      "text": "Franklin D. Roosevelt signs the Social Security Act, creating a government pension system for the retired."
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Alice Ghostley, American actress (died 2007)"
+      "year": "1814",
+      "text": "Charlotte Fowler Wells, American phrenologist and publisher (died 1901)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "René Goscinny, French author and illustrator (died 1977)"
+      "year": "1959",
+      "text": "Marcia Gay Harden, American actress"
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Peter Costello, Australian lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Paul Burgess, Australian pole vaulter"
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "Oregon Territory is organized by act of Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1784",
-      "text": "Russian colonization of North America: Awa'uq Massacre: The Russian fur trader Grigory Shelikhov storms a Kodiak Island Alutiit refuge rock on Sitkalidak Island, killing 500+ Alutiit."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Russell Baker, American critic and essayist (died 2019)"
+      "year": "1974",
+      "text": "Christopher Gorham, American actor"
     },
     {
       "type": "Event",
@@ -218,53 +173,23 @@
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Johnny Gargano, American wrestler"
+      "year": "1964",
+      "text": "Jason Dunstall, Australian footballer"
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Clay Buchholz, American baseball player"
+      "year": "1863",
+      "text": "Ernest Thayer, American poet and author (died 1940)"
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Chucky Atkins, American basketball player"
+      "year": "1941",
+      "text": "David Crosby, American singer-songwriter and guitarist (died 2023)"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Lee Hoffman, American author (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1880",
-      "text": "Construction of Cologne Cathedral, the most famous landmark in Cologne, Germany, is completed."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "World War I: The Republic of China, which had heretofore been shipping labourers to Europe to assist in the war effort, officially declares war on the Central Powers, although it will continue to send to Europe labourers instead of combatants for the remaining duration of the war."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Gary Larson, American cartoonist"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Juan Pierre, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "An Idaho Department of Fish and Game program to relocate beavers known as Beaver drop occurred. This program relocated beavers from Northwestern Idaho to Central Idaho by airplane and then parachuting the beavers into the Chamberlain Basin."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Founding and first official meeting of the American Football League."
+      "year": "1981",
+      "text": "Earl Barron, American basketball player"
     },
     {
       "type": "Event",
@@ -273,33 +198,108 @@
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Neal Anderson, American football player and coach"
+      "year": "1975",
+      "text": "Mike Vrabel, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Alice Ghostley, American actress (died 2007)"
+    },
+    {
+      "type": "Death",
+      "year": "1943",
+      "text": "Joe Kelley, American baseball player and manager (born 1871)"
     },
     {
       "type": "Event",
-      "year": "-70",
-      "text": "Gaius Verres is found guilty of corruption after his defense lawyer Quintus Hortensius abandons the case as hopeless."
+      "year": "1917",
+      "text": "World War I: The Republic of China, which had heretofore been shipping labourers to Europe to assist in the war effort, officially declares war on the Central Powers, although it will continue to send to Europe labourers instead of combatants for the remaining duration of the war."
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "James Horner, American composer and conductor (died 2015)"
+      "year": "1946",
+      "text": "Tom Walkinshaw, Scottish racing driver and businessman (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "-74",
+      "text": "A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan."
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Mark Loretta, American baseball player"
+      "year": "1851",
+      "text": "Doc Holliday, American dentist and gambler (died 1887)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis."
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Slim Dunlap, American singer-songwriter and guitarist (died 2024)"
+      "year": "1981",
+      "text": "Julius Jones, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "An Idaho Department of Fish and Game program to relocate beavers known as Beaver drop occurred. This program relocated beavers from Northwestern Idaho to Central Idaho by airplane and then parachuting the beavers into the Chamberlain Basin."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia)."
+    },
+    {
+      "type": "Event",
+      "year": "1720",
+      "text": "The Spanish military Villasur expedition is defeated by Pawnee and Otoe warriors near present-day Columbus, Nebraska."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "The first claimed powered flight, by Gustave Whitehead in his Number 21."
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "Oregon Territory is organized by act of Congress."
     },
     {
       "type": "Event",
       "year": "1885",
       "text": "Japan's first patent is issued to the inventor of a rust-proof paint."
+    },
+    {
+      "type": "Event",
+      "year": "1880",
+      "text": "Construction of Cologne Cathedral, the most famous landmark in Cologne, Germany, is completed."
+    },
+    {
+      "type": "Death",
+      "year": "1973",
+      "text": "Fred Gipson, American journalist and author (born 1908)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "A widescale power blackout affects the northeast United States and Canada."
+    },
+    {
+      "type": "Birth",
+      "year": "1881",
+      "text": "Francis Ford, American actor, director, producer, and screenwriter (died 1953)"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "An Ilyushin Il-62 airliner crashes near Königs Wusterhausen, East Germany killing 156 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1742",
+      "text": "Pope Pius VII (died 1823)"
     }
   ],
   "source": "Wikipedia"
