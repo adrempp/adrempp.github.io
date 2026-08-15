@@ -3,143 +3,13 @@
   "items": [
     {
       "type": "Event",
-      "year": "1224",
-      "text": "The Livonian Brothers of the Sword, a Catholic military order, occupy Tarbatu (today Tartu) as part of the Livonian Crusade."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Jarrod Dyson, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "2025",
-      "text": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine."
-    },
-    {
-      "type": "Event",
-      "year": "1695",
-      "text": "French forces end the bombardment of Brussels."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Jennifer Lawrence, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "Will Rogers and Wiley Post are killed after their aircraft develops engine problems during takeoff in Barrow, Alaska."
-    },
-    {
-      "type": "Event",
-      "year": "1899",
-      "text": "Fratton Park football ground in Portsmouth, England is officially first opened."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later)."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Tess Harper, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The Beatles play to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: The First Russian Army, led by Paul von Rennenkampf, enters East Prussia."
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "A story in the New York World newspaper reveals that the Imperial German government had purchased excess phenol from Thomas Edison that could be used to make explosives for the war effort and diverted it to Bayer for aspirin production."
-    },
-    {
-      "type": "Event",
-      "year": "747",
-      "text": "Carloman, mayor of the palace of Austrasia, renounces his position as majordomo and retires to a monastery near Rome. His brother, Pepin the Short, becomes the sole ruler (de facto) of the Frankish Kingdom."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Jack Tworkov, Polish-American painter and educator (died 1982)"
-    },
-    {
-      "type": "Event",
-      "year": "1517",
-      "text": "Seven Portuguese armed vessels led by Fernão Pires de Andrade meet Chinese officials at the Pearl River estuary."
-    },
-    {
-      "type": "Event",
       "year": "1483",
       "text": "Pope Sixtus IV consecrates the Sistine Chapel."
     },
     {
-      "type": "Event",
-      "year": "1096",
-      "text": "Starting date of the First Crusade as set by Pope Urban II."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "The Wizard of Oz premieres at Grauman's Chinese Theater in Los Angeles, California."
-    },
-    {
-      "type": "Event",
-      "year": "1248",
-      "text": "The foundation stone of Cologne Cathedral, built to house the relics of the Three Wise Men, is laid. (Construction is eventually completed in 1880.)"
-    },
-    {
       "type": "Birth",
-      "year": "1984",
-      "text": "Emily Kinney, American actress and singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Bernard Fanning, Australian singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Matt Johnson, English singer-songwriter and musician"
-    },
-    {
-      "type": "Event",
-      "year": "1599",
-      "text": "Nine Years' War: Battle of Curlew Pass: Irish forces led by Hugh Roe O'Donnell successfully ambush English forces, led by Sir Conyers Clifford, sent to relieve Collooney Castle."
-    },
-    {
-      "type": "Birth",
-      "year": "1863",
-      "text": "Aleksey Krylov, Russian mathematician and engineer (died 1945)"
-    },
-    {
-      "type": "Event",
-      "year": "1185",
-      "text": "The cave city of Vardzia is consecrated by Queen Tamar of Georgia."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the \"Wow! signal\" from the notation made by a volunteer on the project."
+      "year": "1926",
+      "text": "Eddie Little Sky, American actor (died 1997)"
     },
     {
       "type": "Event",
@@ -148,38 +18,108 @@
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Oussama Assaidi, Moroccan footballer"
+      "year": "1933",
+      "text": "Mike Seeger, American folk musician and folklorist (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors."
+    },
+    {
+      "type": "Event",
+      "year": "1899",
+      "text": "Fratton Park football ground in Portsmouth, England is officially first opened."
     },
     {
       "type": "Death",
-      "year": "2017",
-      "text": "Gunnar Birkerts, Latvian-American architect (born 1925)"
+      "year": "2013",
+      "text": "August Schellenberg, Canadian actor (born 1936)"
+    },
+    {
+      "type": "Event",
+      "year": "1096",
+      "text": "Starting date of the First Crusade as set by Pope Urban II."
+    },
+    {
+      "type": "Event",
+      "year": "1695",
+      "text": "French forces end the bombardment of Brussels."
+    },
+    {
+      "type": "Event",
+      "year": "747",
+      "text": "Carloman, mayor of the palace of Austrasia, renounces his position as majordomo and retires to a monastery near Rome. His brother, Pepin the Short, becomes the sole ruler (de facto) of the Frankish Kingdom."
+    },
+    {
+      "type": "Event",
+      "year": "1599",
+      "text": "Nine Years' War: Battle of Curlew Pass: Irish forces led by Hugh Roe O'Donnell successfully ambush English forces, led by Sir Conyers Clifford, sent to relieve Collooney Castle."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "An Italian submarine torpedoes and sinks the Greek cruiser Elli at Tinos harbor during peacetime, marking the most serious Italian provocation prior to the outbreak of the Greco-Italian War in October."
+    },
+    {
+      "type": "Event",
+      "year": "1248",
+      "text": "The foundation stone of Cologne Cathedral, built to house the relics of the Three Wise Men, is laid. (Construction is eventually completed in 1880.)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The Beatles play to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Harry Harrison, American author and illustrator (born 1925)"
     },
     {
       "type": "Birth",
-      "year": "1992",
-      "text": "Matthew Judon, American football player"
+      "year": "1961",
+      "text": "Gary Kubiak, American football player and coach"
     },
     {
       "type": "Event",
-      "year": "1973",
-      "text": "Vietnam War: The US Air Force bombing of Cambodia ends."
+      "year": "1907",
+      "text": "Ordination in Constantinople of Fr. Raphael Morgan, the first African-American Orthodox priest, \"Priest-Apostolic\" to America and the West Indies."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Tess Harper, American actress"
     },
     {
       "type": "Event",
-      "year": "1914",
-      "text": "A servant of American architect, Frank Lloyd Wright, sets fire to the living quarters of Wright's Wisconsin home, Taliesin, and murders seven people there."
+      "year": "1224",
+      "text": "The Livonian Brothers of the Sword, a Catholic military order, occupy Tarbatu (today Tartu) as part of the Livonian Crusade."
     },
     {
-      "type": "Death",
-      "year": "1977",
-      "text": "Raymond A. Palmer, American author and magazine editor (born 1910)"
+      "type": "Birth",
+      "year": "1979",
+      "text": "Carl Edwards, American race car driver"
     },
     {
       "type": "Event",
-      "year": "2020",
-      "text": "Russia begins production on the Sputnik V COVID-19 vaccine."
+      "year": "2025",
+      "text": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine."
+    },
+    {
+      "type": "Event",
+      "year": "1760",
+      "text": "Seven Years' War: Battle of Liegnitz: Frederick the Great's victory over the Austrians under Ernst Gideon von Laudon."
+    },
+    {
+      "type": "Event",
+      "year": "1824",
+      "text": "The Marquis de Lafayette, the last surviving French general of the American Revolutionary War, arrives in New York and begins a tour of 24 states."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era."
     },
     {
       "type": "Event",
@@ -187,24 +127,44 @@
       "text": "Albigensian Crusade: The Cathar stronghold of Carcassonne falls to the crusaders."
     },
     {
+      "type": "Birth",
+      "year": "1845",
+      "text": "Walter Crane, English artist and book illustrator (died 1915)"
+    },
+    {
       "type": "Event",
-      "year": "2007",
-      "text": "An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru, killing 514 and injuring 1,090."
+      "year": "1935",
+      "text": "Will Rogers and Wiley Post are killed after their aircraft develops engine problems during takeoff in Barrow, Alaska."
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the \"Wow! signal\" from the notation made by a volunteer on the project."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Mike Connors, American actor and producer (died 2017)"
+      "year": "1938",
+      "text": "Janusz Zajdel, Polish engineer and author (died 1985)"
     },
     {
       "type": "Event",
-      "year": "2013",
-      "text": "At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video."
+      "year": "1018",
+      "text": "Byzantine general Eustathios Daphnomeles blinds and captures Ibatzes of Bulgaria by a ruse, thereby ending Bulgarian resistance against Emperor Basil II's conquest of Bulgaria."
     },
     {
       "type": "Event",
-      "year": "1534",
-      "text": "Ignatius of Loyola and six classmates take initial vows, leading to the creation of the Society of Jesus in September 1540."
+      "year": "1914",
+      "text": "A servant of American architect, Frank Lloyd Wright, sets fire to the living quarters of Wright's Wisconsin home, Taliesin, and murders seven people there."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Takeo Miki makes the first official pilgrimage to Yasukuni Shrine by an incumbent prime minister on the anniversary of the end of World War II."
+    },
+    {
+      "type": "Event",
+      "year": "1185",
+      "text": "The cave city of Vardzia is consecrated by Queen Tamar of Georgia."
     },
     {
       "type": "Event",
@@ -217,54 +177,9 @@
       "text": "Edna Ferber, American novelist, short story writer, and playwright (died 1968)"
     },
     {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Adnan Sami, Indian singer, musician, music composer, pianist and actor"
-    },
-    {
       "type": "Event",
-      "year": "1824",
-      "text": "The Marquis de Lafayette, the last surviving French general of the American Revolutionary War, arrives in New York and begins a tour of 24 states."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "American Airlines Flight 514, a Boeing 707, crashes near the Calverton Executive Airpark in Calverton, New York, killing all five people on board."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Kerri Walsh Jennings, American volleyball player"
-    },
-    {
-      "type": "Death",
-      "year": "465",
-      "text": "Libius Severus, Roman emperor (born 420)"
-    },
-    {
-      "type": "Event",
-      "year": "1843",
-      "text": "The Cathedral of Our Lady of Peace in Honolulu, Hawaii is dedicated. Now the cathedral of the Roman Catholic Diocese of Honolulu, it is the oldest Roman Catholic cathedral in continuous use in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1018",
-      "text": "Byzantine general Eustathios Daphnomeles blinds and captures Ibatzes of Bulgaria by a ruse, thereby ending Bulgarian resistance against Emperor Basil II's conquest of Bulgaria."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Bertrand Berry, American football player and radio host"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "An Italian submarine torpedoes and sinks the Greek cruiser Elli at Tinos harbor during peacetime, marking the most serious Italian provocation prior to the outbreak of the Greco-Italian War in October."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era."
+      "year": "1973",
+      "text": "Vietnam War: The US Air Force bombing of Cambodia ends."
     },
     {
       "type": "Event",
@@ -273,8 +188,38 @@
     },
     {
       "type": "Event",
-      "year": "1907",
-      "text": "Ordination in Constantinople of Fr. Raphael Morgan, the first African-American Orthodox priest, \"Priest-Apostolic\" to America and the West Indies."
+      "year": "2013",
+      "text": "The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Anthony Anderson, American comedian, actor, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later)."
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "The Cathedral of Our Lady of Peace in Honolulu, Hawaii is dedicated. Now the cathedral of the Roman Catholic Diocese of Honolulu, it is the oldest Roman Catholic cathedral in continuous use in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Paul Rand, American graphic designer and art director (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Ed Gillespie, American political strategist"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "American Airlines Flight 514, a Boeing 707, crashes near the Calverton Executive Airpark in Calverton, New York, killing all five people on board."
     },
     {
       "type": "Event",
@@ -283,23 +228,78 @@
     },
     {
       "type": "Event",
+      "year": "1914",
+      "text": "World War I: The First Russian Army, led by Paul von Rennenkampf, enters East Prussia."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Russia begins production on the Sputnik V COVID-19 vaccine."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "The Wizard of Oz premieres at Grauman's Chinese Theater in Los Angeles, California."
+    },
+    {
+      "type": "Death",
+      "year": "1992",
+      "text": "Linda Laubenstein, American physician and academic (born 1947)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "A story in the New York World newspaper reveals that the Imperial German government had purchased excess phenol from Thomas Edison that could be used to make explosives for the war effort and diverted it to Bayer for aspirin production."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Oussama Assaidi, Moroccan footballer"
+    },
+    {
+      "type": "Event",
       "year": "1237",
       "text": "Spanish Reconquista: The Battle of the Puig between the Moorish forces of Taifa of Valencia against the Crown of Aragon culminates in an Aragonese victory."
     },
     {
       "type": "Event",
-      "year": "1760",
-      "text": "Seven Years' War: Battle of Liegnitz: Frederick the Great's victory over the Austrians under Ernst Gideon von Laudon."
+      "year": "1517",
+      "text": "Seven Portuguese armed vessels led by Fernão Pires de Andrade meet Chinese officials at the Pearl River estuary."
     },
     {
       "type": "Event",
-      "year": "1975",
-      "text": "Takeo Miki makes the first official pilgrimage to Yasukuni Shrine by an incumbent prime minister on the anniversary of the end of World War II."
+      "year": "1534",
+      "text": "Ignatius of Loyola and six classmates take initial vows, leading to the creation of the Society of Jesus in September 1540."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru, killing 514 and injuring 1,090."
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Joe Jonas, American singer, songwriter, and actor"
+      "year": "1970",
+      "text": "Ben Silverman, American actor, producer, and screenwriter, founded Electus Studios"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Robert L. Forward, American physicist and engineer (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Rose Marie, American actress and singer (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Ernest C. Brace, American captain and pilot (died 2014)"
     }
   ],
   "source": "Wikipedia"
