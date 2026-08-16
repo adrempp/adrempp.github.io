@@ -2,74 +2,19 @@
   "date": "2026-08-16",
   "items": [
     {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Mike Jorgensen, American baseball player and manager"
-    },
-    {
       "type": "Event",
-      "year": "1896",
-      "text": "Skookum Jim Mason, George Carmack and Dawson Charlie discover gold in a tributary of the Klondike River in Canada, setting off the Klondike Gold Rush."
+      "year": "1777",
+      "text": "American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York."
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Fess Parker, American actor (died 2010)"
+      "year": "1848",
+      "text": "Vladimir Sukhomlinov, Russian general (died 1926)"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Madonna, American singer-songwriter, producer, actress, and director"
-    },
-    {
-      "type": "Event",
-      "year": "1550",
-      "text": "Rabbi Moses Isserles issues his ruling in the Bragadin-Giustiniani dispute, one of the earliest instances of a copyright suit over any book."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The All Hyderabad Trade Union Congress is founded in Secunderabad."
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg."
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "The Migratory Bird Treaty between Canada and the United States is signed."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Angela Bassett, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested."
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration."
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "War of 1812: American General William Hull surrenders Fort Detroit without a fight to the British Army."
-    },
-    {
-      "type": "Death",
-      "year": "1358",
-      "text": "Albert II, Duke of Austria (born 1298)"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Armand J. Piron, American violinist, composer, and bandleader (died 1943)"
+      "year": "1947",
+      "text": "Carol Moseley Braun, American lawyer and politician, United States Ambassador to New Zealand"
     },
     {
       "type": "Birth",
@@ -77,39 +22,14 @@
       "text": "Timothy Hutton, American actor, producer and director"
     },
     {
-      "type": "Event",
-      "year": "1927",
-      "text": "The Dole Air Race begins from Oakland, California, to Honolulu, Hawaii, during which six out of the eight participating planes crash or disappear."
+      "type": "Birth",
+      "year": "1946",
+      "text": "Lesley Ann Warren, American actress"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Shawn Pyfrom, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Vietnam War: A coup d'état replaces Dương Văn Minh with General Nguyễn Khánh as President of South Vietnam. A new constitution is established with aid from the U.S. Embassy."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The August Complex fire in California burns more than one million acres of land."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Jimmy Arias, American tennis player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Eddie Olczyk, American ice hockey player, coach, and commentator"
-    },
-    {
-      "type": "Event",
-      "year": "1328",
-      "text": "The House of Gonzaga seizes power in the Duchy of Mantua, and will rule until 1708."
+      "year": "1888",
+      "text": "Armand J. Piron, American violinist, composer, and bandleader (died 1943)"
     },
     {
       "type": "Event",
@@ -117,59 +37,9 @@
       "text": "AIRES Flight 8250 crashes at Gustavo Rojas Pinilla International Airport in San Andrés, San Andrés y Providencia, Colombia, killing two people."
     },
     {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Paul Callaway, American organist and conductor (died 1995)"
-    },
-    {
       "type": "Event",
-      "year": "1987",
-      "text": "Northwest Airlines Flight 255, a McDonnell Douglas MD-82, crashes after takeoff in Detroit, Michigan, killing 154 of the 155 on board, plus two people on the ground."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "The first issue of Sports Illustrated is published."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Cyprus gains its independence from the United Kingdom."
-    },
-    {
-      "type": "Birth",
-      "year": "1868",
-      "text": "Bernarr Macfadden, American bodybuilder and publisher, founded Macfadden Publications (died 1955)"
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolutionary War: Battle of Camden: The British defeat the Americans near Camden, South Carolina."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The congress of the Communist Party of Bukhara opens. The congress would call for armed revolution."
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "The Grand Duchy of Tuscany formally deposes the exiled House of Lorraine."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Inez Voyce, American baseball player (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1841",
-      "text": "U.S. President John Tyler vetoes a bill which called for the re-establishment of the Second Bank of the United States. Enraged Whig Party members riot outside the White House in the most violent demonstration on White House grounds in U.S. history."
-    },
-    {
-      "type": "Event",
-      "year": "965",
-      "text": "Nikephoros II Phokas captures the city of Tarsus, finalising the Byzantine conquest of Cilicia."
+      "year": "1652",
+      "text": "Battle of Plymouth: Inconclusive naval action between the fleets of Michiel de Ruyter and George Ayscue in the First Anglo-Dutch War."
     },
     {
       "type": "Death",
@@ -178,53 +48,33 @@
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "The National Representatives' Congress, the precursor of the current National Assembly of Vietnam, convenes in Sơn Dương."
+      "year": "1876",
+      "text": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus."
     },
     {
       "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York."
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "Ray Chapman of the Cleveland Indians is hit on the head by a fastball thrown by Carl Mays of the New York Yankees. Next day, Chapman will become the second player to die from injuries sustained in a Major League Baseball game."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found."
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "The Battle of Elands River during the Second Boer War ends after a 13-day siege is lifted by the British. The battle had begun when a force of between 2,000 and 3,000 Boers had surrounded a force of 500 Australians, Rhodesians, Canadians and British soldiers at a supply dump at Brakfontein Drift."
+      "year": "1780",
+      "text": "American Revolutionary War: Battle of Camden: The British defeat the Americans near Camden, South Carolina."
     },
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "Anita Gillette, American actress and singer"
+      "year": "1892",
+      "text": "Otto Messmer, American cartoonist and animator, co-created Felix the Cat (died 1983)"
     },
     {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Ketty Lester, American singer and actress"
+      "type": "Event",
+      "year": "1946",
+      "text": "The All Hyderabad Trade Union Congress is founded in Secunderabad."
     },
     {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Julie Newmar, American actress"
+      "type": "Event",
+      "year": "1916",
+      "text": "The Migratory Bird Treaty between Canada and the United States is signed."
+    },
+    {
+      "type": "Event",
+      "year": "963",
+      "text": "Nikephoros II Phokas is crowned emperor of the Byzantine Empire, swearing to protect the two sons of the previous emperor Romanos II, who are already crowned co-emperors."
     },
     {
       "type": "Event",
@@ -233,38 +83,93 @@
     },
     {
       "type": "Birth",
-      "year": "1876",
-      "text": "Ivan Bilibin, Russian illustrator and stage designer (died 1942)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "James \"J.T.\" Taylor, American R&B singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Steve Carell, American actor, director, producer, and screenwriter"
+      "year": "1950",
+      "text": "Jeff Thomson, Australian cricketer"
     },
     {
       "type": "Event",
-      "year": "1652",
-      "text": "Battle of Plymouth: Inconclusive naval action between the fleets of Michiel de Ruyter and George Ayscue in the First Anglo-Dutch War."
+      "year": "1859",
+      "text": "The Grand Duchy of Tuscany formally deposes the exiled House of Lorraine."
     },
     {
       "type": "Event",
-      "year": "1876",
-      "text": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus."
+      "year": "1960",
+      "text": "Cyprus gains its independence from the United Kingdom."
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "Northwest Airlines Flight 255, a McDonnell Douglas MD-82, crashes after takeoff in Detroit, Michigan, killing 154 of the 155 on board, plus two people on the ground."
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Ann Blyth, American actress and singer (died 2026)"
+      "year": "1929",
+      "text": "Fritz Von Erich, American wrestler and trainer (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "965",
+      "text": "Nikephoros II Phokas captures the city of Tarsus, finalising the Byzantine conquest of Cilicia."
+    },
+    {
+      "type": "Event",
+      "year": "1927",
+      "text": "The Dole Air Race begins from Oakland, California, to Honolulu, Hawaii, during which six out of the eight participating planes crash or disappear."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "The August Complex fire in California burns more than one million acres of land."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Vietnam War: A coup d'état replaces Dương Văn Minh with General Nguyễn Khánh as President of South Vietnam. A new constitution is established with aid from the U.S. Embassy."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "The first issue of Sports Illustrated is published."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg."
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Cliff Fletcher, Canadian businessman"
+      "year": "1892",
+      "text": "Hal Foster, Canadian-American author and illustrator (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Greyson Chance, American musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Stuart Roosa, American colonel, pilot, and astronaut (died 1994)"
+    },
+    {
+      "type": "Death",
+      "year": "1998",
+      "text": "Dorothy West, American journalist and author (born 1907)"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration."
+    },
+    {
+      "type": "Event",
+      "year": "1841",
+      "text": "U.S. President John Tyler vetoes a bill which called for the re-establishment of the Second Bank of the United States. Enraged Whig Party members riot outside the White House in the most violent demonstration on White House grounds in U.S. history."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Ray Chapman of the Cleveland Indians is hit on the head by a fastball thrown by Carl Mays of the New York Yankees. Next day, Chapman will become the second player to die from injuries sustained in a Major League Baseball game."
     },
     {
       "type": "Event",
@@ -272,14 +177,59 @@
       "text": "Wang Mang consolidates his power in China and is declared marshal of state. Emperor Ai of Han, who died the previous day, had no heirs."
     },
     {
-      "type": "Death",
-      "year": "1989",
-      "text": "Amanda Blake, American actress (born 1929)"
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found."
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft."
+    },
+    {
+      "type": "Event",
+      "year": "1328",
+      "text": "The House of Gonzaga seizes power in the Duchy of Mantua, and will rule until 1708."
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Eric Weissberg, American singer, banjo player, and multi-instrumentalist (died 2020)"
+      "year": "1958",
+      "text": "Madonna, American singer-songwriter, producer, actress, and director"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested."
+    },
+    {
+      "type": "Birth",
+      "year": "1876",
+      "text": "Ivan Bilibin, Russian illustrator and stage designer (died 1942)"
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Earl Averill, American baseball player (born 1902)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Jeff Perry, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Jimmy Arias, American tennis player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The National Representatives' Congress, the precursor of the current National Assembly of Vietnam, convenes in Sơn Dương."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "The Battle of Elands River during the Second Boer War ends after a 13-day siege is lifted by the British. The battle had begun when a force of between 2,000 and 3,000 Boers had surrounded a force of 500 Australians, Rhodesians, Canadians and British soldiers at a supply dump at Brakfontein Drift."
     },
     {
       "type": "Event",
@@ -288,18 +238,68 @@
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Umaru Musa Yar'Adua, Nigerian businessman and politician, 13th President of Nigeria (died 2010)"
+      "year": "1980",
+      "text": "Vanessa Carlton, American singer-songwriter"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Billy Joe Shaver, American singer-songwriter and guitarist (died 2020)"
+      "year": "1894",
+      "text": "George Meany, American plumber and labor leader (died 1980)"
+    },
+    {
+      "type": "Birth",
+      "year": "1824",
+      "text": "John Chisum, American cattle baron (died 1884)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Barbara George, American R&B singer-songwriter (died 2006)"
     },
     {
       "type": "Event",
-      "year": "963",
-      "text": "Nikephoros II Phokas is crowned emperor of the Byzantine Empire, swearing to protect the two sons of the previous emperor Romanos II, who are already crowned co-emperors."
+      "year": "1550",
+      "text": "Rabbi Moses Isserles issues his ruling in the Bragadin-Giustiniani dispute, one of the earliest instances of a copyright suit over any book."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Menachem Begin, Belarusian-Israeli politician, Prime Minister of Israel, Nobel Prize laureate (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Ann Blyth, American actress and singer (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "1896",
+      "text": "Skookum Jim Mason, George Carmack and Dawson Charlie discover gold in a tributary of the Klondike River in Canada, setting off the Klondike Gold Rush."
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "War of 1812: American General William Hull surrenders Fort Detroit without a fight to the British Army."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Julie Newmar, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The congress of the Communist Party of Bukhara opens. The congress would call for armed revolution."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Angela Bassett, American actress"
     }
   ],
   "source": "Wikipedia"
