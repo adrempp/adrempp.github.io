@@ -3,6 +3,181 @@
   "items": [
     {
       "type": "Event",
+      "year": "1969",
+      "text": "Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage."
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "Robert Fulton's North River Steamboat leaves New York City for Albany, New York, on the Hudson River, inaugurating the first commercial steamboat service in the world."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus)."
+    },
+    {
+      "type": "Event",
+      "year": "1955",
+      "text": "Hurricane Diane made landfall near Wilmington, North Carolina, and it went on to cause major floods and kill more than 184 people."
+    },
+    {
+      "type": "Event",
+      "year": "1717",
+      "text": "Austro-Turkish War of 1716–18: The month-long Siege of Belgrade ends with Prince Eugene of Savoy's Austrian troops capturing the city from the Ottoman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots and kills seven people and injures six others before turning the gun on himself."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Mark Dinning, American pop singer (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Sam Butera, American saxophonist and bandleader (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Mario Theissen, German engineer and businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Quake Lake is formed by the magnitude 7.2 1959 Hebgen Lake earthquake near Hebgen Lake in Montana."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The National Assembly of Serbia unanimously adopts new state symbols for Serbia: Bože pravde becomes the new anthem and the coat of arms is adopted for the whole country."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Gary Talley, American guitarist, singer-songwriter, and author"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: Battle of Stallupönen: The German army of General Hermann von François defeats the Russian force commanded by Paul von Rennenkampf near modern-day Nesterov, Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: In Charleston, South Carolina, Union batteries and ships bombard Confederate-held Fort Sumter."
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "The Grand Duchy of Baden announces its withdrawal from the German Confederation and signs a treaty of peace and alliance with Prussia."
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "The 1985–86 Hormel strike begins in Austin, Minnesota."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Larry Clinton, American trumpet player and bandleader (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Laurence Overmire, American poet, author, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "Pike Place Market, one of the oldest continuously operated public farmers' markets in the U.S. and a popular tourist attraction, opens in Seattle, Washington."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "A Category 4 hurricane hits Galveston, Texas with winds at 135 miles per hour (217 km/h)."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "Matsukawa derailment: Unknown saboteurs cause a passenger train to derail and overturn in Fukushima Prefecture, Japan, killing three crew members and igniting a political firestorm between the Japanese Communist Party and the government of Occupied Japan that will eventually lead to the Japanese Red Purge."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Garrett Wolfe, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of Gainesville: Confederate forces defeat Union troops near Gainesville, Florida."
+    },
+    {
+      "type": "Event",
+      "year": "1876",
+      "text": "Richard Wagner's Götterdämmerung, the last opera in his Ring cycle, premieres at the Bayreuth Festspielhaus."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Martha Coolidge, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Jorge Posada, Puerto Rican-American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ed McCaffrey, American football player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "Double Eagle II becomes first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Lewinsky scandal: US President Bill Clinton admits in taped testimony that he had an \"improper physical relationship\" with White House intern Monica Lewinsky; later that same day he admits before the nation that he \"misled people\" about the relationship."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Odilia Dank, American educator and politician (born 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "1585",
+      "text": "A first group of colonists sent by Sir Walter Raleigh under the charge of Ralph Lane lands in the New World to create Roanoke Colony on Roanoke Island, off the coast of present-day North Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1808",
+      "text": "The Finnish War: The Battle of Alavus is fought."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Dee Brown, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John Slaton."
+    },
+    {
+      "type": "Event",
       "year": "1862",
       "text": "American Civil War: Major General J. E. B. Stuart is assigned command of all the cavalry of the Confederate Army of Northern Virginia."
     },
@@ -12,24 +187,9 @@
       "text": "World War II: The U.S. Eighth Air Force suffers the loss of 60 bombers on the Schweinfurt–Regensburg mission."
     },
     {
-      "type": "Event",
-      "year": "1991",
-      "text": "Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots and kills seven people and injures six others before turning the gun on himself."
-    },
-    {
       "type": "Birth",
-      "year": "1865",
-      "text": "Julia Marlowe, English-American actress (died 1950)"
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "The Finnish War: The Battle of Alavus is fought."
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "Matsukawa derailment: Unknown saboteurs cause a passenger train to derail and overturn in Fukushima Prefecture, Japan, killing three crew members and igniting a political firestorm between the Japanese Communist Party and the government of Occupied Japan that will eventually lead to the Japanese Red Purge."
+      "year": "1962",
+      "text": "Gilby Clarke, American singer-songwriter, guitarist, and producer"
     },
     {
       "type": "Event",
@@ -38,158 +198,8 @@
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Gilby Clarke, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "Korean War: Forty-two American prisoners of war were massacred by the Korean People's Army on a hill above Waegwan, South Korea."
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Harry Hopkins, American politician and diplomat, 8th United States Secretary of Commerce (died 1946)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Dave \"Snaker\" Ray, American singer-songwriter and guitarist (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "An accident at the Sayano-Shushenskaya Dam in Khakassia, Russia, kills 75 and shuts down the hydroelectric power station, leading to widespread power failure in the local area."
-    },
-    {
-      "type": "Event",
-      "year": "1876",
-      "text": "Richard Wagner's Götterdämmerung, the last opera in his Ring cycle, premieres at the Bayreuth Festspielhaus."
-    },
-    {
-      "type": "Death",
-      "year": "1768",
-      "text": "Vasily Trediakovsky, Russian poet and playwright (born 1703)"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Mae West, American stage and film actress (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Gainesville: Confederate forces defeat Union troops near Gainesville, Florida."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Geraint Jarman, Welsh musician, poet and television producer (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Evan S. Connell, American novelist, poet, and short story writer (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Chanel Mata'utia, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1717",
-      "text": "Austro-Turkish War of 1716–18: The month-long Siege of Belgrade ends with Prince Eugene of Savoy's Austrian troops capturing the city from the Ottoman Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1907",
-      "text": "Pike Place Market, one of the oldest continuously operated public farmers' markets in the U.S. and a popular tourist attraction, opens in Seattle, Washington."
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "The 1985–86 Hormel strike begins in Austin, Minnesota."
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Marcus Garvey, Jamaican journalist and activist, founded Black Star Line (died 1940)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Mario Theissen, German engineer and businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Donnie Wahlberg, American singer-songwriter, actor and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1866",
-      "text": "The Grand Duchy of Baden announces its withdrawal from the German Confederation and signs a treaty of peace and alliance with Prussia."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage."
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "Hurricane Diane made landfall near Wilmington, North Carolina, and it went on to cause major floods and kill more than 184 people."
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "The National Assembly of Serbia unanimously adopts new state symbols for Serbia: Bože pravde becomes the new anthem and the coat of arms is adopted for the whole country."
-    },
-    {
-      "type": "Event",
-      "year": "1585",
-      "text": "A first group of colonists sent by Sir Walter Raleigh under the charge of Ralph Lane lands in the New World to create Roanoke Colony on Roanoke Island, off the coast of present-day North Carolina."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Quake Lake is formed by the magnitude 7.2 1959 Hebgen Lake earthquake near Hebgen Lake in Montana."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Nicole Sunitsch, Austrian politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Harve Bennett, American screenwriter and producer (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Sue Draheim, American fiddler and composer (died 2013)"
-    },
-    {
-      "type": "Death",
-      "year": "1940",
-      "text": "Billy Fiske, American soldier and pilot (born 1911)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "T. J. Anderson, American composer, conductor, and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Jon Gruden, American football player, coach, and sportscaster"
+      "year": "1964",
+      "text": "Maria McKee, American singer-songwriter"
     },
     {
       "type": "Event",
@@ -198,33 +208,78 @@
     },
     {
       "type": "Event",
-      "year": "1978",
-      "text": "Double Eagle II becomes first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine."
+      "year": "1740",
+      "text": "Pope Benedict XIV, previously known as Prospero Lambertini, succeeds Clement XII as the 247th Pope."
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Maria McKee, American singer-songwriter"
+      "year": "1957",
+      "text": "Ken Kwapis, American director and screenwriter"
     },
     {
       "type": "Event",
-      "year": "1807",
-      "text": "Robert Fulton's North River Steamboat leaves New York City for Albany, New York, on the Hudson River, inaugurating the first commercial steamboat service in the world."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: Battle of Stallupönen: The German army of General Hermann von François defeats the Russian force commanded by Paul von Rennenkampf near modern-day Nesterov, Russia."
+      "year": "1950",
+      "text": "Korean War: Forty-two American prisoners of war were massacred by the Korean People's Army on a hill above Waegwan, South Korea."
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Lothar Bisky, German businessman and politician (died 2013)"
+      "year": "1962",
+      "text": "Dan Dakich, American basketball player, coach, and sportscaster"
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "World War II: The U.S. Seventh Army under General George S. Patton arrives in Messina, Italy, followed several hours later by the British 8th Army under Field Marshal Bernard Montgomery, thus completing the Allied conquest of Sicily."
+      "year": "1186",
+      "text": "Georgenberg Pact: Ottokar IV, Duke of Styria and Leopold V, Duke of Austria sign a heritage agreement in which Ottokar gives his duchy to Leopold and to his son Frederick under the stipulation that Austria and Styria would henceforth remain undivided."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Johannes Maria Staud, Austrian composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Rachel Pollack, American author, poet, and educator (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Joyner Lucas, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Jim Courier, American tennis player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Norm Coleman, American lawyer and politician, 52nd Mayor of St. Paul"
+    },
+    {
+      "type": "Death",
+      "year": "2004",
+      "text": "Thea Astley, Australian author and educator (born 1925)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "An accident at the Sayano-Shushenskaya Dam in Khakassia, Russia, kills 75 and shuts down the hydroelectric power station, leading to widespread power failure in the local area."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Indian Wars: The Dakota War of 1862 begins in Minnesota as Dakota warriors attack white settlements along the Minnesota River."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Chanel Mata'utia, Australian rugby league player"
     },
     {
       "type": "Event",
@@ -233,73 +288,18 @@
     },
     {
       "type": "Event",
-      "year": "1915",
-      "text": "A Category 4 hurricane hits Galveston, Texas with winds at 135 miles per hour (217 km/h)."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Mark Dinning, American pop singer (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus)."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Indian Wars: The Dakota War of 1862 begins in Minnesota as Dakota warriors attack white settlements along the Minnesota River."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: In Charleston, South Carolina, Union batteries and ships bombard Confederate-held Fort Sumter."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Lewinsky scandal: US President Bill Clinton admits in taped testimony that he had an \"improper physical relationship\" with White House intern Monica Lewinsky; later that same day he admits before the nation that he \"misled people\" about the relationship."
-    },
-    {
-      "type": "Event",
-      "year": "1740",
-      "text": "Pope Benedict XIV, previously known as Prospero Lambertini, succeeds Clement XII as the 247th Pope."
-    },
-    {
-      "type": "Birth",
-      "year": "1849",
-      "text": "William Kidston, Scottish-Australian politician, 17th Premier of Queensland (died 1919)"
-    },
-    {
-      "type": "Event",
-      "year": "1186",
-      "text": "Georgenberg Pact: Ottokar IV, Duke of Styria and Leopold V, Duke of Austria sign a heritage agreement in which Ottokar gives his duchy to Leopold and to his son Frederick under the stipulation that Austria and Styria would henceforth remain undivided."
+      "year": "1943",
+      "text": "World War II: The U.S. Seventh Army under General George S. Patton arrives in Messina, Italy, followed several hours later by the British 8th Army under Field Marshal Bernard Montgomery, thus completing the Allied conquest of Sicily."
     },
     {
       "type": "Death",
-      "year": "1510",
-      "text": "Edmund Dudley, English politician, Speaker of the House of Commons (born 1462)"
+      "year": "2007",
+      "text": "Eddie Griffin, American basketball player (born 1982)"
     },
     {
       "type": "Event",
       "year": "1958",
       "text": "Pioneer 0, America's first attempt at lunar orbit, is launched using the first Thor-Able rocket and fails. Notable as one of the first attempted launches beyond Earth orbit by any country."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John Slaton."
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Franklin Delano Roosevelt Jr., American lawyer and politician (died 1988)"
     }
   ],
   "source": "Wikipedia"
