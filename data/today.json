@@ -2,274 +2,9 @@
   "date": "2026-08-18",
   "items": [
     {
-      "type": "Death",
-      "year": "2015",
-      "text": "Louis Stokes, American lawyer and politician (born 1925)"
-    },
-    {
-      "type": "Death",
-      "year": "1613",
-      "text": "Giovanni Artusi, Italian composer and theorist (born 1540)"
-    },
-    {
-      "type": "Event",
-      "year": "1634",
-      "text": "Father Urbain Grandier, accused and convicted of sorcery, is burned alive in Loudun, France."
-    },
-    {
       "type": "Birth",
-      "year": "1942",
-      "text": "Henry G. Sanders, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1877",
-      "text": "American astronomer Asaph Hall discovers Phobos, one of Mars's moons."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Louie Gohmert, American captain, lawyer, and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "World War II: The Hardest Day air battle, part of the Battle of Britain, takes place. At that point, it is the largest aerial engagement in history with heavy losses sustained on both sides."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Rosalynn Carter, 41st First Lady of the United States (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Frank Salemme, American gangster and hitman (died 2022)"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars)."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "The Korean axe murder incident in Panmunjom results in the deaths of two US Army officers."
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Nick Fuentes, American far-right political commentator"
-    },
-    {
-      "type": "Birth",
-      "year": "1792",
-      "text": "John Russell, 1st Earl Russell, English politician, Prime Minister of the United Kingdom (died 1878)"
-    },
-    {
-      "type": "Birth",
-      "year": "1834",
-      "text": "Marshall Field, American businessman, founded Marshall Field's (died 1906)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Lewis Burwell Puller, Jr., American soldier, lawyer, and author (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Sonny Til, American R&B singer (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Brian Michael Bendis, American author and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Kelly Willard, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2)."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Johnny Preston, American pop singer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Christian Slater, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1830",
-      "text": "Franz Joseph I, Emperor of Austria from 1848-1916 (died 1916)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Grant Williams, American film, theater and television actor (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1819",
-      "text": "Grand Duchess Maria Nikolaevna of Russia (died 1876)"
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Nettie Palmer, Australian poet and critic (died 1964)"
-    },
-    {
-      "type": "Death",
-      "year": "2004",
-      "text": "Hiram Fong, American soldier and politician (born 1906)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Even Kruse Skatrud, Norwegian musician and educator"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members."
-    },
-    {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Margaret Murie, American environmentalist and author (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Jeremy Shockey, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Adam Storke, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Battle of Globe Tavern: Union forces try to cut a vital Confederate supply-line into Petersburg, Virginia, by attacking the Wilmington and Weldon Railroad."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "One-year-old Zachary Turner is murdered in Newfoundland by his mother, who was awarded custody despite facing trial for the murder of Zachary's father. The case was documented in the film Dear Zachary and led to reform of Canada's bail laws."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Enoch Light, American bandleader, violinist, and recording engineer (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Masta Killa, American rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1612",
-      "text": "The trials of the Pendle witches and Samlesbury witches, one of England's most famous witch trials, begin at the Lancaster Assizes."
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Timothy Geithner, American banker and politician, 75th United States Secretary of the Treasury"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Shelley Winters, American actress (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Maxine Brown, American soul/R&B singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Mike LaValliere, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "Vladimir Nabokov's controversial novel Lolita is published in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Nicole Krauss, American novelist and critic"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: Operation Starlite begins: United States Marines destroy a Viet Cong stronghold on the Van Tuong peninsula in the first major American ground battle of the war."
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "The Senate of Finland is established in the Grand Duchy of Finland after the official adoption of the Statute of the Government Council by Tsar Alexander I of Russia."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "War of Afghanistan: The Uzbin Valley ambush occurs."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Stuart Dew, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1937",
-      "text": "A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Caspar Weinberger, American captain, lawyer, and politician, 15th United States Secretary of Defense (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: Battle of Gravelotte is fought."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Max Factor, Jr., American businessman (died 1996)"
+      "year": "1934",
+      "text": "Rafer Johnson, American decathlete and actor (died 2020)"
     },
     {
       "type": "Event",
@@ -278,13 +13,13 @@
     },
     {
       "type": "Event",
-      "year": "2008",
-      "text": "The President of Pakistan, Pervez Musharraf, resigns under threat of impeachment."
+      "year": "1958",
+      "text": "Vladimir Nabokov's controversial novel Lolita is published in the United States."
     },
     {
-      "type": "Event",
-      "year": "1966",
-      "text": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province."
+      "type": "Birth",
+      "year": "1992",
+      "text": "Elizabeth Beisel, American swimmer"
     },
     {
       "type": "Event",
@@ -293,13 +28,278 @@
     },
     {
       "type": "Birth",
+      "year": "1998",
+      "text": "Brian To'o, Australian-Samoan rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Nettie Palmer, Australian poet and critic (died 1964)"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies."
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Nikolaus Pevsner, German-English historian and scholar (born 1902)"
+    },
+    {
+      "type": "Event",
+      "year": "1937",
+      "text": "A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Craig Bierko, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1834",
+      "text": "Marshall Field, American businessman, founded Marshall Field's (died 1906)"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "World War II: The Hardest Day air battle, part of the Battle of Britain, takes place. At that point, it is the largest aerial engagement in history with heavy losses sustained on both sides."
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Stuart Dew, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Maia Mitchell, Australian actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Gil Whitney, American journalist (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Jon Schwartz, American drummer and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Katherine Victor, American actress (died 2004)[better source needed]"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Vietnam War: Operation Starlite begins: United States Marines destroy a Viet Cong stronghold on the Van Tuong peninsula in the first major American ground battle of the war."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Lydia Litvyak, Russian lieutenant and pilot (died 1943)"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Battle of Globe Tavern: Union forces try to cut a vital Confederate supply-line into Petersburg, Virginia, by attacking the Wilmington and Weldon Railroad."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Ryan O'Hara, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "War of Afghanistan: The Uzbin Valley ambush occurs."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "One-year-old Zachary Turner is murdered in Newfoundland by his mother, who was awarded custody despite facing trial for the murder of Zachary's father. The case was documented in the film Dear Zachary and led to reform of Canada's bail laws."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The President of Pakistan, Pervez Musharraf, resigns under threat of impeachment."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Enoch Light, American bandleader, violinist, and recording engineer (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1792",
+      "text": "John Russell, 1st Earl Russell, English politician, Prime Minister of the United Kingdom (died 1878)"
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Gordon Faber, American soldier and politician, 39th Mayor of Hillsboro, Oregon (born 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Margaret Murie, American environmentalist and author (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Johnny Preston, American pop singer (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Denis Leary, American comedian, actor, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Cameron White, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Herman Berlinski, Polish-American pianist, composer, and conductor (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars)."
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Louis Stokes, American lawyer and politician (born 1925)"
+    },
+    {
+      "type": "Event",
+      "year": "1877",
+      "text": "American astronomer Asaph Hall discovers Phobos, one of Mars's moons."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Jeremy Shockey, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Malcolm-Jamal Warner, American actor and producer (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Grant Williams, American film, theater and television actor (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Frances Bean Cobain, American visual artist and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1841",
+      "text": "William Halford, English-American lieutenant, Medal of Honor recipient (died 1919)"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "The Senate of Finland is established in the Grand Duchy of Finland after the official adoption of the Statute of the Government Council by Tsar Alexander I of Russia."
+    },
+    {
+      "type": "Birth",
       "year": "1966",
       "text": "Gustavo Charif, Argentinian director and producer"
     },
     {
+      "type": "Event",
+      "year": "1920",
+      "text": "The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage."
+    },
+    {
       "type": "Birth",
-      "year": "1975",
-      "text": "Kaitlin Olson, American actress and comedian"
+      "year": "1955",
+      "text": "Bruce Benedict, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Justin Wilson, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Martin Mull, American actor and comedian (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Bob Woodruff, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2)."
+    },
+    {
+      "type": "Event",
+      "year": "1612",
+      "text": "The trials of the Pendle witches and Samlesbury witches, one of England's most famous witch trials, begin at the Lancaster Assizes."
+    },
+    {
+      "type": "Event",
+      "year": "1634",
+      "text": "Father Urbain Grandier, accused and convicted of sorcery, is burned alive in Loudun, France."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Marge Schott, American businesswoman (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1807",
+      "text": "B. T. Finniss, Australian politician, 1st Premier of South Australia (died 1893)"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "The Korean axe murder incident in Panmunjom results in the deaths of two US Army officers."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Rosalynn Carter, 41st First Lady of the United States (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Franco-Prussian War: Battle of Gravelotte is fought."
     }
   ],
   "source": "Wikipedia"
