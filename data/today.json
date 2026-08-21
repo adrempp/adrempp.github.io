@@ -2,19 +2,119 @@
   "date": "2026-08-21",
   "items": [
     {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Bo Burnham, American comedian, musician, actor, filmmaker and poet"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Paul Menard, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Jodie Meeks, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Loretta Devine, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Jim Bullinger, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Ramón Vázquez, Puerto Rican-American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Steve Case, American businessman, co-founder of America Online (AOL)"
+    },
+    {
       "type": "Event",
-      "year": "1778",
-      "text": "American Revolutionary War: British forces begin besieging the French outpost at Pondichéry."
+      "year": "1988",
+      "text": "The 6.9 Mw Nepal earthquake shakes the Nepal–India border with a maximum Mercalli intensity of VIII (Severe), leaving 709–1,450 people killed and thousands injured."
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Herman Badillo, Puerto Rican-American lawyer and politician (died 2014)"
+      "year": "1976",
+      "text": "Robert Miles, Australian rugby league player"
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Willie Lanier, American football player"
+      "year": "1928",
+      "text": "Art Farmer, American trumpet player and composer (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Brooks Wheelan, American comedian and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1856",
+      "text": "Medora de Vallombrosa, Marquise de Morès, American heiress (died 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Corbin Carroll, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The Socialist Republic of Romania is proclaimed, following the adoption of a new constitution."
+    },
+    {
+      "type": "Event",
+      "year": "1772",
+      "text": "King Gustav III completes his coup d'état by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and installing himself as an enlightened despot."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Mark Williams, New Zealand-Australian singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Brody Jenner, American television personality and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1854",
+      "text": "Frank Munsey, American publisher, banker, political financier and author (died 1925)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Carl Giammarese, American singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Kelis, American singer-songwriter, producer, chef and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Hugh Wilson, American actor, director, producer, and screenwriter (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Lebanese Civil War: The first troops of a multinational force lands in Beirut to oversee the Palestine Liberation Organization's withdrawal from Lebanon."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Bill Lee, American actor and singer (died 1980)"
     },
     {
       "type": "Event",
@@ -27,49 +127,9 @@
       "text": "Nat Turner leads black slaves and free blacks in a rebellion in Southampton County, Virginia, which will claim the lives of 55 to 65 whites and about twice that number of blacks."
     },
     {
-      "type": "Event",
-      "year": "1968",
-      "text": "Cold War: Nicolae Ceaușescu, leader of the Socialist Republic of Romania, publicly condemns the Soviet-led Warsaw Pact invasion of Czechoslovakia, encouraging the Romanian population to arm itself against possible Soviet reprisals."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "Atlantic Southeast Airlines Flight 529, an Embraer EMB 120 Brasilia, attempts to divert to West Georgia Regional Airport after the left engine fails, but the aircraft crashes in Carroll County near Carrollton, Georgia, killing nine of the 29 people on board."
-    },
-    {
-      "type": "Event",
-      "year": "1888",
-      "text": "The first successful adding machine in the United States is patented by William Seward Burroughs."
-    },
-    {
-      "type": "Event",
-      "year": "959",
-      "text": "Eraclus becomes the 25th bishop of Liège."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: The Guadalcanal campaign: American forces defeat an attack by Imperial Japanese Army soldiers in the Battle of the Tenaru."
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "Xá Lợi Pagoda raids: The Army of the Republic of Vietnam Special Forces loyal to Ngô Đình Nhu, brother of President Ngo Dinh Diem, vandalizes Buddhist pagodas across the country, arresting thousands and leaving an estimated hundreds dead."
-    },
-    {
-      "type": "Death",
-      "year": "1814",
-      "text": "Benjamin Thompson, American-English physicist and colonel (born 1753)"
-    },
-    {
       "type": "Birth",
-      "year": "1976",
-      "text": "Alex Brooks, American ice hockey player and scout"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Simon Katich, Australian cricketer and manager"
+      "year": "1962",
+      "text": "John Korfas, Greek-American basketball player and coach"
     },
     {
       "type": "Event",
@@ -77,59 +137,9 @@
       "text": "American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year."
     },
     {
-      "type": "Death",
-      "year": "1796",
-      "text": "John McKinly, American physician and politician, first Governor of Delaware (born 1721)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Alex Cooper, American podcaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Serj Tankian, Lebanese-born Armenian-American singer-songwriter, multi-instrumentalist, and record producer"
-    },
-    {
       "type": "Event",
-      "year": "1982",
-      "text": "Lebanese Civil War: The first troops of a multinational force lands in Beirut to oversee the Palestine Liberation Organization's withdrawal from Lebanon."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Usain Bolt, Jamaican sprinter"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The Socialist Republic of Romania is proclaimed, following the adoption of a new constitution."
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "The first of the Lincoln–Douglas debates is held in Ottawa, Illinois."
-    },
-    {
-      "type": "Event",
-      "year": "1883",
-      "text": "An F5 tornado strikes Rochester, Minnesota, leading to the creation of the Mayo Clinic."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Cameron Winklevoss, American rower and businessman, co-founded ConnectU"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Count Basie, American pianist, composer, and bandleader (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Robert Stone, American novelist and short story writer (died 2015)"
+      "year": "1778",
+      "text": "American Revolutionary War: British forces begin besieging the French outpost at Pondichéry."
     },
     {
       "type": "Event",
@@ -137,54 +147,9 @@
       "text": "Lawrence, Kansas is destroyed by pro-Confederate guerrillas known as Quantrill's Raiders."
     },
     {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Mark Williams, Australian footballer and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "John Korfas, Greek-American basketball player and coach"
-    },
-    {
       "type": "Death",
-      "year": "2006",
-      "text": "Bismillah Khan, Indian musician, Bharat Ratna recipient (born 1916)"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Corbin Carroll, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1854",
-      "text": "Frank Munsey, American publisher, banker, political financier and author (died 1925)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jarrod Lyle, Australian golfer (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "John Wetteland, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Ivan Stang, American author, publisher, and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1856",
-      "text": "Medora de Vallombrosa, Marquise de Morès, American heiress (died 1921)"
-    },
-    {
-      "type": "Event",
-      "year": "1772",
-      "text": "King Gustav III completes his coup d'état by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and installing himself as an enlightened despot."
+      "year": "2005",
+      "text": "Martin Dillon, American tenor and educator (born 1957)"
     },
     {
       "type": "Event",
@@ -193,43 +158,68 @@
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Festus Mogae, Botswana economist and politician, third President of Botswana (died 2026)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Arthur Bremer, American attempted assassin of George Wallace"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Bo Burnham, American comedian, musician, actor, filmmaker and poet"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Aleksandra Kiryashova, Russian pole vaulter"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Brooks Wheelan, American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Billy Reay, Canadian-American ice hockey player and coach (died 2004)"
+      "year": "1954",
+      "text": "Steve Smith, American drummer"
     },
     {
       "type": "Event",
+      "year": "1858",
+      "text": "The first of the Lincoln–Douglas debates is held in Ottawa, Illinois."
+    },
+    {
+      "type": "Birth",
       "year": "1988",
-      "text": "The 6.9 Mw Nepal earthquake shakes the Nepal–India border with a maximum Mercalli intensity of VIII (Severe), leaving 709–1,450 people killed and thousands injured."
+      "text": "Kacey Musgraves, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
-      "year": "1901",
-      "text": "Six hundred American school teachers, Thomasites, arrived in Manila on the USAT Thomas."
+      "year": "1888",
+      "text": "The first successful adding machine in the United States is patented by William Seward Burroughs."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Sergey Brin, Russian-American computer scientist and businessman, co-founded Google"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: The Guadalcanal campaign: American forces defeat an attack by Imperial Japanese Army soldiers in the Battle of the Tenaru."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Lee Gronkiewicz, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Ivan Stang, American author, publisher, and director"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "John Amos, American actor (born 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Burney Lamar, American race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Xá Lợi Pagoda raids: The Army of the Republic of Vietnam Special Forces loyal to Ngô Đình Nhu, brother of President Ngo Dinh Diem, vandalizes Buddhist pagodas across the country, arresting thousands and leaving an estimated hundreds dead."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Alex Cooper, American podcaster"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "William Thurston, American mathematician and academic (born 1946)"
     },
     {
       "type": "Event",
@@ -238,13 +228,18 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Jeff Cunningham, Jamaican-American soccer player"
+      "year": "1945",
+      "text": "Willie Lanier, American football player"
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Robert Miles, Australian rugby league player"
+      "year": "1938",
+      "text": "Kenny Rogers, American singer-songwriter, guitarist, producer, and actor (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "Six hundred American school teachers, Thomasites, arrived in Manila on the USAT Thomas."
     },
     {
       "type": "Event",
@@ -252,24 +247,44 @@
       "text": "The American Bar Association is founded in Saratoga Springs, New York."
     },
     {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Robert Harvey, Australian footballer and coach"
+      "type": "Event",
+      "year": "1968",
+      "text": "Cold War: Nicolae Ceaușescu, leader of the Socialist Republic of Romania, publicly condemns the Soviet-led Warsaw Pact invasion of Czechoslovakia, encouraging the Romanian population to arm itself against possible Soviet reprisals."
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Jonathan Schell, American journalist and author (died 2014)"
+      "year": "1951",
+      "text": "Chesley V. Morton, American businessman and politician"
+    },
+    {
+      "type": "Event",
+      "year": "959",
+      "text": "Eraclus becomes the 25th bishop of Liège."
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Cleo King, American actress"
+      "year": "1945",
+      "text": "Basil Poledouris, Greek-American composer, conductor (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "Atlantic Southeast Airlines Flight 529, an Embraer EMB 120 Brasilia, attempts to divert to West Georgia Regional Airport after the left engine fails, but the aircraft crashes in Carroll County near Carrollton, Georgia, killing nine of the 29 people on board."
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Kacey Musgraves, American singer-songwriter and guitarist"
+      "year": "1858",
+      "text": "Rudolf, Crown Prince of Austria (died 1889)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Thomas S. Monson, American religious leader, 16th President of The Church of Jesus Christ of Latter-day Saints (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Gary Elkerton, Australian surfer"
     },
     {
       "type": "Event",
@@ -282,24 +297,9 @@
       "text": "United States President Dwight D. Eisenhower signs an executive order proclaiming Hawaii the 50th state of the union. Hawaii's admission is currently commemorated by Hawaii Admission Day."
     },
     {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Jesse Rutherford, American singer and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Jerry DaVanon, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Friz Freleng, American animator, director, and producer (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Gary Elkerton, Australian surfer"
+      "type": "Event",
+      "year": "1883",
+      "text": "An F5 tornado strikes Rochester, Minnesota, leading to the creation of the Mayo Clinic."
     }
   ],
   "source": "Wikipedia"
