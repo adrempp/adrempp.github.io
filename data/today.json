@@ -2,9 +2,29 @@
   "date": "2026-08-23",
   "items": [
     {
+      "type": "Death",
+      "year": "1977",
+      "text": "Naum Gabo, Russian sculptor and academic (born 1890)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Robert Curl, American chemist, Nobel Prize laureate (died 2022)"
+    },
+    {
       "type": "Event",
-      "year": "1975",
-      "text": "The start of the Wave Hill walk-off by Gurindji people in Australia, lasting eight years, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 Paul Kelly song and an annual celebration."
+      "year": "2007",
+      "text": "The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Jimi Jamison, American singer-songwriter and musician (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1382",
+      "text": "The Golden Horde, led by Khan Tokhtamysh, begins the Siege of Moscow, which ends four days later with the storming of the city and the death of Muscovite Prince Ostei."
     },
     {
       "type": "Event",
@@ -12,19 +32,84 @@
       "text": "World War II: Soviet–Japanese War: The USSR State Defense Committee issues Decree no. 9898cc \"About Receiving, Accommodation, and Labor Utilization of the Japanese Army Prisoners of War\"."
     },
     {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Robert Solow, American economist and academic, Nobel Prize laureate (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Allan Kaprow, American painter and author (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Jared Fogle, American spokesman and criminal"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Ernie Bushmiller, American cartoonist (died 1982)"
+    },
+    {
       "type": "Event",
-      "year": "2011",
-      "text": "Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War."
+      "year": "1655",
+      "text": "Battle of Sobota: The Swedish Empire led by Charles X Gustav defeats the Polish–Lithuanian Commonwealth."
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Pete Wilson, American commander and politician, 36th Governor of California"
+      "year": "1926",
+      "text": "Clifford Geertz, American anthropologist and academic (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "TeddyLoid, Japanese musician"
+      "year": "1943",
+      "text": "Peter Lilley, English politician, Secretary of State for Business, Innovation and Skills"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Marian Seldes, American actress (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1831",
+      "text": "Nat Turner's rebellion of enslaved Virginians is suppressed."
+    },
+    {
+      "type": "Event",
+      "year": "79",
+      "text": "Mount Vesuvius begins stirring, on the feast day of Vulcan, the Roman god of fire."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Union Navy captures Fort Morgan, Alabama, thus breaking Confederate dominance of all ports on the Gulf of Mexico except Galveston, Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Jason Hetherington, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Randal Tye Thomas, American journalist and politician (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "The start of the Wave Hill walk-off by Gurindji people in Australia, lasting eight years, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 Paul Kelly song and an annual celebration."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Charles Busch, American actor and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Kenneth Arrow, American economist and academic, Nobel Prize laureate (died 2017)"
     },
     {
       "type": "Event",
@@ -34,87 +119,7 @@
     {
       "type": "Birth",
       "year": "1974",
-      "text": "Konstantin Novoselov, Russian-English physicist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Death",
-      "year": "1867",
-      "text": "Auguste-Marseille Barthélemy, French poet and author (born 1796)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Gary Hoey, American guitarist, songwriter, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Union Navy captures Fort Morgan, Alabama, thus breaking Confederate dominance of all ports on the Gulf of Mexico except Galveston, Texas."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Shelley Long, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1655",
-      "text": "Battle of Sobota: The Swedish Empire led by Charles X Gustav defeats the Polish–Lithuanian Commonwealth."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Tinus Linee, South African rugby player and coach (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Eliza Carthy, English folk musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Galen Rowell, American mountaineer and photographer (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "World War II: Nazi Germany and the Soviet Union sign the Molotov–Ribbentrop Pact. In a secret protocol to the pact, Poland, Finland, Estonia, Latvia, Lithuania, and Romania are divided into German and Soviet \"spheres of influence\"."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "Freckleton air disaster: A United States Army Air Forces B-24 Liberator bomber crashes into a school in Freckleton, England, killing 61 people."
-    },
-    {
-      "type": "Event",
-      "year": "1703",
-      "text": "Edirne event: Sultan Mustafa II of the Ottoman Empire is dethroned."
-    },
-    {
-      "type": "Event",
-      "year": "1382",
-      "text": "The Golden Horde, led by Khan Tokhtamysh, begins the Siege of Moscow, which ends four days later with the storming of the city and the death of Muscovite Prince Ostei."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Lexi Alexander, American film and television director"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Olga Govortsova, Belarusian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Allan Kaprow, American painter and author (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1244",
-      "text": "Siege of Jerusalem: The city surrenders to the Khwarazmiyya, ending Christian control of Jerusalem for the next 672 years."
+      "text": "Mark Bellhorn, American baseball player"
     },
     {
       "type": "Event",
@@ -123,153 +128,8 @@
     },
     {
       "type": "Event",
-      "year": "1866",
-      "text": "The Austro-Prussian War ends with the Treaty of Prague."
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Saddam Hussein appears on Iraqi state television with a number of Western \"guests\" (actually hostages) to try to prevent the Gulf War."
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington, D.C. and the resulted damage is estimated at 200 million–300 million USD."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Lev Zeleny, Russian physicist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Andrew Rannells, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Pat Garrity, American basketball player and executive"
-    },
-    {
-      "type": "Event",
-      "year": "1572",
-      "text": "French Wars of Religion: Mob violence against thousands of Huguenots in Paris results in the St. Bartholomew's Day massacre."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Ernie Bushmiller, American cartoonist (died 1982)"
-    },
-    {
-      "type": "Death",
-      "year": "1853",
-      "text": "Alexander Calder, American lawyer and politician (born 1806)"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Singing Revolution: Two million people from Estonia, Latvia and Lithuania stand on the Vilnius–Tallinn road, holding hands."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Jared Fogle, American spokesman and criminal"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "British airship R-38 experiences structural failure over Hull in England and crashes in the Humber Estuary; of her 49 British and American training crew, only four survive."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia."
-    },
-    {
-      "type": "Event",
       "year": "1775",
       "text": "American Revolutionary War: King George III delivers his Proclamation of Rebellion to the Court of St James's stating that the American colonies have proceeded to a state of open and avowed rebellion."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Organized by Mexican American labor union leader César Chávez, the Salad Bowl strike, the largest farm worker strike in U.S. history, begins."
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Maynard Ferguson, Canadian trumpet player and bandleader (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Peter Lilley, English politician, Secretary of State for Business, Innovation and Skills"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Will Toledo, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "At the Battle of Großbeeren, the Prussians under Von Bülow repulse the French army."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Bob Crosby, American swing singer and bandleader (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Miles Mikolas, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Natascha Kampusch, who had been abducted at the age of ten, escapes from her captor Wolfgang Přiklopil, after eight years of captivity."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jaime Lee Kirchner, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Chris DiMarco, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Natalie Coughlin, American swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board."
-    },
-    {
-      "type": "Event",
-      "year": "1831",
-      "text": "Nat Turner's rebellion of enslaved Virginians is suppressed."
-    },
-    {
-      "type": "Event",
-      "year": "1784",
-      "text": "Western North Carolina (now eastern Tennessee) declares itself an independent state under the name of Franklin; it is not accepted into the United States, and only lasts for four years."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Scott Caan, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "George Kell, American baseball player and sportscaster (died 2009)"
     },
     {
       "type": "Event",
@@ -278,8 +138,48 @@
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Cortez Kennedy, American football player (died 2017)"
+      "year": "1960",
+      "text": "Gary Hoey, American guitarist, songwriter, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1703",
+      "text": "Edirne event: Sultan Mustafa II of the Ottoman Empire is dethroned."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Lexi Alexander, American film and television director"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Taylor Decker, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Kobe Bryant, American basketball player and businessman (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "World War II: Nazi Germany and the Soviet Union sign the Molotov–Ribbentrop Pact. In a secret protocol to the pact, Poland, Finland, Estonia, Latvia, Lithuania, and Romania are divided into German and Soviet \"spheres of influence\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Mike Yastrzemski, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Willy Russell, English playwright and composer"
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "At the Battle of Großbeeren, the Prussians under Von Bülow repulse the French army."
     },
     {
       "type": "Event",
@@ -288,18 +188,118 @@
     },
     {
       "type": "Event",
-      "year": "79",
-      "text": "Mount Vesuvius begins stirring, on the feast day of Vulcan, the Roman god of fire."
+      "year": "2011",
+      "text": "Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Tony Moll, American football player"
+      "year": "1949",
+      "text": "Rick Springfield, Australian-American singer-songwriter, guitarist, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "Freckleton air disaster: A United States Army Air Forces B-24 Liberator bomber crashes into a school in Freckleton, England, killing 61 people."
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Barbara Eden, American actress and singer"
+      "year": "1999",
+      "text": "Saya Sakakibara, Australian cyclist"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Rik Smits, Dutch-American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Natascha Kampusch, who had been abducted at the age of ten, escapes from her captor Wolfgang Přiklopil, after eight years of captivity."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Sky Blu, American rapper and DJ"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "George Kell, American baseball player and sportscaster (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1244",
+      "text": "Siege of Jerusalem: The city surrenders to the Khwarazmiyya, ending Christian control of Jerusalem for the next 672 years."
+    },
+    {
+      "type": "Death",
+      "year": "93",
+      "text": "Gnaeus Julius Agricola, Roman general and politician (born AD 40)"
+    },
+    {
+      "type": "Event",
+      "year": "1784",
+      "text": "Western North Carolina (now eastern Tennessee) declares itself an independent state under the name of Franklin; it is not accepted into the United States, and only lasts for four years."
+    },
+    {
+      "type": "Death",
+      "year": "1982",
+      "text": "Stanford Moore, American biochemist and academic, Nobel Prize laureate (born 1913)"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington, D.C. and the resulted damage is estimated at 200 million–300 million USD."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Organized by Mexican American labor union leader César Chávez, the Salad Bowl strike, the largest farm worker strike in U.S. history, begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Dale Campbell-Savours, Baron Campbell-Savours, English businessman and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "The Austro-Prussian War ends with the Treaty of Prague."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Seth Curry, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Sonny Jurgensen, American football player and sportscaster (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "1572",
+      "text": "French Wars of Religion: Mob violence against thousands of Huguenots in Paris results in the St. Bartholomew's Day massacre."
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Singing Revolution: Two million people from Estonia, Latvia and Lithuania stand on the Vilnius–Tallinn road, holding hands."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "British airship R-38 experiences structural failure over Hull in England and crashes in the Humber Estuary; of her 49 British and American training crew, only four survive."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Saddam Hussein appears on Iraqi state television with a number of Western \"guests\" (actually hostages) to try to prevent the Gulf War."
     }
   ],
   "source": "Wikipedia"
