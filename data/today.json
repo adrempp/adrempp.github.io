@@ -2,189 +2,9 @@
   "date": "2026-08-25",
   "items": [
     {
-      "type": "Birth",
-      "year": "1939",
-      "text": "John Badham, English-American actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1258",
-      "text": "Regent George Mouzalon and his brothers are killed during a coup headed by the aristocratic faction under Michael VIII Palaiologos, paving the way for its leader to ultimately usurp the throne of the Empire of Nicaea."
-    },
-    {
-      "type": "Event",
-      "year": "1904",
-      "text": "Russo-Japanese War: The Battle of Liaoyang begins."
-    },
-    {
       "type": "Event",
       "year": "2003",
       "text": "NASA successfully launches the Spitzer Space Telescope into space."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Dowoon, South Korean musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Mel Ferrer, American actor, director, and producer (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Mia Zapata, American singer (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Billy Ray Cyrus, American singer-songwriter, guitarist, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "The House Un-American Activities Committee holds first-ever televised congressional hearing: \"Confrontation Day\" between Whittaker Chambers and Alger Hiss."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group."
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: On the second day of the Burning of Washington, British troops torch the Library of Congress, United States Treasury, Department of War, and other public buildings."
-    },
-    {
-      "type": "Event",
-      "year": "383",
-      "text": "Roman Emperor Gratian is murdered at a banquet after having surrendered to the forces of rival emperor Magnus Maximus."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Charles Wright, American poet"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Tim Cain, American video game designer"
-    },
-    {
-      "type": "Event",
-      "year": "1270",
-      "text": "Philip III, although suffering from dysentery, becomes King of France following the death of his father Louis IX, during the Eighth Crusade. His uncle, Charles I of Naples, is forced to begin peace negotiations with Muhammad I al-Mustansir, Hafsid Sultan of Tunis."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Justin Upton, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Carl Barks, American author and illustrator (born 1901)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Marshall Brickman, Brazilian-American director, producer, and screenwriter (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Damon Jones, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Petria Thomas, Australian swimmer and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Linus Torvalds announces the first version of what will become Linux."
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Arpad Elo, Hungarian-American chess player, created the Elo rating system (died 1992)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Van Johnson, American actor (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith."
-    },
-    {
-      "type": "Event",
-      "year": "1758",
-      "text": "Seven Years' War: Frederick II of Prussia defeats the Russian army at the Battle of Zorndorf."
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Frederick C. Bock, American soldier and pilot (born 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Gene Simmons, Israeli-American singer-songwriter, producer, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964."
-    },
-    {
-      "type": "Event",
-      "year": "1823",
-      "text": "American fur trapper Hugh Glass is mauled by a grizzly bear while on an expedition in South Dakota."
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Paul Herman Buck, American historian and author (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Theresa Andrews, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Doug Glanville, American baseball player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "The first Great Moon Hoax article is published in The New York Sun, announcing the discovery of life and civilization on the Moon."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Christian LeBlanc, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Frederick Chapman Robbins, American pediatrician and virologist, Nobel Prize laureate (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "Kitasato Shibasaburō discovers the infectious agent of the bubonic plague and publishes his findings in The Lancet."
     },
     {
       "type": "Event",
@@ -193,28 +13,78 @@
     },
     {
       "type": "Birth",
-      "year": "1978",
-      "text": "Kel Mitchell, American actor, producer, and screenwriter"
+      "year": "1938",
+      "text": "David Canary, American actor (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Blake Lively, American model and actress"
+    },
+    {
+      "type": "Death",
+      "year": "1925",
+      "text": "Franz Conrad von Hötzendorf, Austrian field marshal (born 1852)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Doug Glanville, American baseball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964."
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: On the second day of the Burning of Washington, British troops torch the Library of Congress, United States Treasury, Department of War, and other public buildings."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group."
+    },
+    {
+      "type": "Event",
+      "year": "766",
+      "text": "Emperor Constantine V humiliates nineteen high-ranking officials, after discovering a plot against him. He executes the leaders, Constantine Podopagouros and his brother Strategios."
+    },
+    {
+      "type": "Event",
+      "year": "1904",
+      "text": "Russo-Japanese War: The Battle of Liaoyang begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Adrian Lam, Papua New Guinean-Australian rugby league player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Caris LeVert, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Patrick F. McManus, American journalist and author (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1758",
+      "text": "Seven Years' War: Frederick II of Prussia defeats the Russian army at the Battle of Zorndorf."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Polish–Soviet War: Battle of Warsaw, which began on August 13, ends with the Red Army's defeat."
     },
     {
       "type": "Birth",
       "year": "1959",
-      "text": "Steve Levy, American lawyer and politician"
-    },
-    {
-      "type": "Death",
-      "year": "1631",
-      "text": "Nicholas Hyde, Lord Chief Justice of England (bornc. 1572)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence)."
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: The library of the Catholic University of Leuven is deliberately destroyed by the German Army. Hundreds of thousands of irreplaceable volumes and Gothic and Renaissance manuscripts are lost."
+      "text": "Ruth Ann Swenson, American soprano and actress"
     },
     {
       "type": "Event",
@@ -222,39 +92,29 @@
       "text": "The world's first publicly marketed instant noodles, Chikin Ramen, are introduced by Taiwanese-Japanese businessman Momofuku Ando."
     },
     {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: Japan declares war on Austria-Hungary."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "American singer Aaliyah and several members of her entourage are killed as their overloaded aircraft crashes shortly after takeoff from Marsh Harbour Airport, Bahamas."
+      "type": "Birth",
+      "year": "1946",
+      "text": "Charles Ghigna, American poet and author"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Michael Kaluta, American author and illustrator"
+      "year": "1958",
+      "text": "Christian LeBlanc, American actor"
     },
     {
       "type": "Event",
-      "year": "1945",
-      "text": "The August Revolution ends as Emperor Bảo Đại abdicates, ending the Nguyễn dynasty."
+      "year": "383",
+      "text": "Roman Emperor Gratian is murdered at a banquet after having surrendered to the forces of rival emperor Magnus Maximus."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "The House Un-American Activities Committee holds first-ever televised congressional hearing: \"Confrontation Day\" between Whittaker Chambers and Alger Hiss."
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Charles Fambrough, American bassist, composer, and producer (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Ten days after World War II ends with Japan announcing its surrender, armed supporters of the Chinese Communist Party kill U.S. intelligence officer John Birch, regarded by some of the American right as the first victim of the Cold War."
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "Fifty-two people are killed during an arson attack caused by members of the drug cartel Los Zetas."
+      "year": "1988",
+      "text": "Angela Park, Brazilian-American golfer"
     },
     {
       "type": "Event",
@@ -268,13 +128,88 @@
     },
     {
       "type": "Event",
-      "year": "766",
-      "text": "Emperor Constantine V humiliates nineteen high-ranking officials, after discovering a plot against him. He executes the leaders, Constantine Podopagouros and his brother Strategios."
+      "year": "1823",
+      "text": "American fur trapper Hugh Glass is mauled by a grizzly bear while on an expedition in South Dakota."
     },
     {
       "type": "Event",
-      "year": "1920",
-      "text": "Polish–Soviet War: Battle of Warsaw, which began on August 13, ends with the Red Army's defeat."
+      "year": "2001",
+      "text": "American singer Aaliyah and several members of her entourage are killed as their overloaded aircraft crashes shortly after takeoff from Marsh Harbour Airport, Bahamas."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Ten days after World War II ends with Japan announcing its surrender, armed supporters of the Chinese Communist Party kill U.S. intelligence officer John Birch, regarded by some of the American right as the first victim of the Cold War."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "The August Revolution ends as Emperor Bảo Đại abdicates, ending the Nguyễn dynasty."
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "Kitasato Shibasaburō discovers the infectious agent of the bubonic plague and publishes his findings in The Lancet."
+    },
+    {
+      "type": "Death",
+      "year": "2018",
+      "text": "John McCain, American politician (born 1936)"
+    },
+    {
+      "type": "Death",
+      "year": "1968",
+      "text": "Stan McCabe, Australian cricketer and coach (born 1910)"
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "The first Great Moon Hoax article is published in The New York Sun, announcing the discovery of life and civilization on the Moon."
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Conflict in Rakhine State (2016–present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation."
+    },
+    {
+      "type": "Event",
+      "year": "1270",
+      "text": "Philip III, although suffering from dysentery, becomes King of France following the death of his father Louis IX, during the Eighth Crusade. His uncle, Charles I of Naples, is forced to begin peace negotiations with Muhammad I al-Mustansir, Hafsid Sultan of Tunis."
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Van Johnson, American actor (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Rodney Ferguson, American footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Dowoon, South Korean musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Lane Smith, American author and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1258",
+      "text": "Regent George Mouzalon and his brothers are killed during a coup headed by the aristocratic faction under Michael VIII Palaiologos, paving the way for its leader to ultimately usurp the throne of the Empire of Nicaea."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Giga Chikadze, Georgian mixed martial artist and kickboxer"
     },
     {
       "type": "Birth",
@@ -283,13 +218,23 @@
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Derek Sherinian, American keyboard player, songwriter, and producer"
+      "year": "1962",
+      "text": "Theresa Andrews, American swimmer"
     },
     {
-      "type": "Event",
-      "year": "2017",
-      "text": "Conflict in Rakhine State (2016–present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation."
+      "type": "Birth",
+      "year": "1935",
+      "text": "Charles Wright, American poet"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Albert Belle, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Stefan Wolpe, German-American composer and educator (died 1972)"
     },
     {
       "type": "Event",
@@ -300,6 +245,61 @@
       "type": "Event",
       "year": "1916",
       "text": "The United States National Park Service is created."
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "Fifty-two people are killed during an arson attack caused by members of the drug cartel Los Zetas."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Olga Konkova, Norwegian-Russian pianist and composer"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: Japan declares war on Austria-Hungary."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Steve Levy, American lawyer and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence)."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: The library of the Catholic University of Leuven is deliberately destroyed by the German Army. Hundreds of thousands of irreplaceable volumes and Gothic and Renaissance manuscripts are lost."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Shock G, American rapper and producer (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Mia Zapata, American singer (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Adam Warren, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Linus Torvalds announces the first version of what will become Linux."
     }
   ],
   "source": "Wikipedia"
