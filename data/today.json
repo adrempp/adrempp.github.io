@@ -2,229 +2,19 @@
   "date": "2026-08-26",
   "items": [
     {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Pyotr Todorovsky, Ukrainian-Russian director, screenwriter, and cinematographer (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1833",
-      "text": "The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, a total of 500 people perish."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Spanish Civil War: Santander falls to the Nationalists and the Republican Interprovincial Council is dissolved."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Michael Jeter, American actor (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Peggy Guggenheim, American-Italian art collector and philanthropist (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Bill Whitaker, American journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Russia begins the Second Chechen War in response to the Invasion of Dagestan by the Islamic International Peacekeeping Brigade."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Stan Van Gundy, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido, are apprehended."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Don Bowman, American singer-songwriter (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Leon Redbone, Canadian-American singer-songwriter, guitarist, and producer (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Holocaust in Ukraine: At Chortkiv, the Ukrainian police and German Schutzpolizei deport two thousand Jews to Bełżec extermination camp. Five hundred of the sick and children are murdered on the spot. This continued until the next day."
-    },
-    {
-      "type": "Event",
-      "year": "1278",
-      "text": "Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Thalía, Mexican-American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Keke Palmer, American actress and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Kelvin Cato, American basketball player and coach"
-    },
-    {
-      "type": "Death",
-      "year": "1977",
-      "text": "H. A. Rey, German-American author and illustrator, created Curious George (born 1898)"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Gene Moore, American baseball player (died 1978)"
-    },
-    {
-      "type": "Death",
-      "year": "1945",
-      "text": "Franz Werfel, Austrian author and playwright (born 1890)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Giuseppe Resnati, Italian chemist and educator"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: During the retreat from Mons, the British II Corps commanded by General Sir Horace Smith-Dorrien fights a vigorous and successful defensive action at Le Cateau."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Valerie Simpson, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Christopher Isherwood, English-American author and academic (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The 19th amendment to United States Constitution, giving women the right to vote, is certified."
-    },
-    {
-      "type": "Event",
-      "year": "1444",
-      "text": "Battle of St. Jakob an der Birs: A vastly outnumbered force of Swiss Confederates is defeated by the Dauphin Louis (future Louis XI of France) and his army of 'Armagnacs' near Basel."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Vladislav Gussev, Estonian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Branford Marsalis, American saxophonist, composer, and bandleader"
-    },
-    {
-      "type": "Event",
-      "year": "1748",
-      "text": "The first Lutheran denomination in North America, the Pennsylvania Ministerium, is founded in Philadelphia."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Dylan O'Brien, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Brant Parker, American illustrator (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Lil Tecca, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Macaulay Culkin, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Elvis Andrus, Venezuelan baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Three people are killed and eleven wounded during a mass shooting at a Madden NFL '19 video game tournament in Jacksonville, Florida."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Edward Witten, American physicist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Chris Burke, American actor"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Clyde A. Wheeler, American soldier and politician (born 1921)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Chris Pine, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Don LaFontaine, American voice actor, producer, and screenwriter (died 2008)"
-    },
-    {
       "type": "Event",
       "year": "1980",
       "text": "After John Birges plants a bomb at Harvey's Resort Hotel in Stateline, Nevada, in the United States, the FBI inadvertently detonates the bomb during its disarming."
     },
     {
-      "type": "Event",
-      "year": "1813",
-      "text": "War of the Sixth Coalition: An impromptu battle takes place when French and Prussian-Russian forces accidentally run into each other near Liegnitz, Prussia (now Legnica, Poland)."
+      "type": "Birth",
+      "year": "2001",
+      "text": "Patrick Williams, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Brett Cullen, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians."
+      "year": "2000",
+      "text": "Kyren Williams, American football player"
     },
     {
       "type": "Event",
@@ -232,44 +22,39 @@
       "text": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead."
     },
     {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Maureen Tucker, American singer-songwriter and drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Evan Ross, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Kevin Ryan, Australian rugby player, coach, lawyer and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1865",
+      "text": "Arthur James Arnot, Scottish-Australian engineer, designed the Spencer Street Power Station (died 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Tom Ridge, American sergeant and politician, 1st Secretary of Homeland Security"
+    },
+    {
       "type": "Event",
-      "year": "1767",
-      "text": "Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus."
+      "year": "2003",
+      "text": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Jack Hirshleifer, American economist and academic (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Cassie Ventura, American singer, dancer, actress and model"
-    },
-    {
-      "type": "Event",
-      "year": "1366",
-      "text": "The Byzantine Empire retakes Gallipoli with the help of the Savoyard Crusade."
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "John Fitch is granted a United States patent for the steamboat."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Cordae, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Alex Kellner, American baseball player (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Helen Sharsmith, American biologist and educator (died 1982)"
+      "year": "1922",
+      "text": "Irving R. Levine, American journalist and author (died 2009)"
     },
     {
       "type": "Event",
@@ -278,8 +63,58 @@
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board."
+      "year": "2015",
+      "text": "Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Gustavo Becerra-Schmidt, Chilean composer (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Aubrey Schenck, American screenwriter and producer (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1888",
+      "text": "Gustavo R. Vincenti, Maltese architect and developer (died 1974)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido, are apprehended."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Ola Ray, American model and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Saint Jhn, Guyanese-American rapper, singer, and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Otto Binder, American author and screenwriter (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Albert Sabin, Polish-American physician and virologist, developed the polio vaccine (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Spanish Civil War: Santander falls to the Nationalists and the Republican Interprovincial Council is dissolved."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Three people are killed and eleven wounded during a mass shooting at a Madden NFL '19 video game tournament in Jacksonville, Florida."
     },
     {
       "type": "Event",
@@ -288,18 +123,183 @@
     },
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Walter Bruno Henning, Prussian-American linguist and scholar (died 1967)"
+      "year": "1939",
+      "text": "Pinchas Goldstein, Israeli businessman and politician (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1444",
+      "text": "Battle of St. Jakob an der Birs: A vastly outnumbered force of Swiss Confederates is defeated by the Dauphin Louis (future Louis XI of France) and his army of 'Armagnacs' near Basel."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Elvis Andrus, Venezuelan baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Roger Kingdom, American hurdler"
+    },
+    {
+      "type": "Birth",
+      "year": "1797",
+      "text": "Saint Innocent of Alaska, Russian Orthodox missionary priest, then the first Orthodox bishop and archbishop in the Americas, and finally the Metropolitan of Moscow and all Russia (died 1879)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Vladislav Gussev, Estonian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1366",
+      "text": "The Byzantine Empire retakes Gallipoli with the help of the Savoyard Crusade."
+    },
+    {
+      "type": "Event",
+      "year": "1748",
+      "text": "The first Lutheran denomination in North America, the Pennsylvania Ministerium, is founded in Philadelphia."
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Naz Reid, American basketball player"
+    },
+    {
+      "type": "Death",
+      "year": "2018",
+      "text": "Neil Simon, American playwright and author (born 1927)"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians."
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "John Fitch is granted a United States patent for the steamboat."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Don LaFontaine, American voice actor, producer, and screenwriter (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Adrian Young, American drummer and songwriter"
     },
     {
       "type": "Birth",
       "year": "1901",
-      "text": "Eleanor Dark, Australian author and poet (died 1985)"
+      "text": "Jimmy Rushing, American singer and bandleader (died 1972)"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Morgan Ensberg, American baseball player and coach"
+      "year": "1925",
+      "text": "Pyotr Todorovsky, Ukrainian-Russian director, screenwriter, and cinematographer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Sparky Adams, American baseball player and farmer (died 1989)"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Maxwell D. Taylor, American general and diplomat, United States Ambassador to South Vietnam (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Benedict Anderson, American political scientist and academic (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "War of the Sixth Coalition: An impromptu battle takes place when French and Prussian-Russian forces accidentally run into each other near Liegnitz, Prussia (now Legnica, Poland)."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Russia begins the Second Chechen War in response to the Invasion of Dagestan by the Islamic International Peacekeeping Brigade."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Margaret Utinsky, American nurse, recipient of the Medal of Freedom (died 1970)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Brett Cullen, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Holocaust in Ukraine: At Chortkiv, the Ukrainian police and German Schutzpolizei deport two thousand Jews to Bełżec extermination camp. Five hundred of the sick and children are murdered on the spot. This continued until the next day."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: During the retreat from Mons, the British II Corps commanded by General Sir Horace Smith-Dorrien fights a vigorous and successful defensive action at Le Cateau."
+    },
+    {
+      "type": "Event",
+      "year": "1767",
+      "text": "Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Bunny Austin, English tennis player (died 2000)"
+    },
+    {
+      "type": "Death",
+      "year": "1991",
+      "text": "Mildred Albert, American fashion commentator, TV and radio personality, and fashion show producer (born 1905)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The 19th amendment to United States Constitution, giving women the right to vote, is certified."
+    },
+    {
+      "type": "Event",
+      "year": "1278",
+      "text": "Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Gene Moore, American baseball player (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Don Bowman, American singer-songwriter (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Melissa McCarthy, American actress, comedian, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1833",
+      "text": "The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, a total of 500 people perish."
+    },
+    {
+      "type": "Death",
+      "year": "1976",
+      "text": "Lotte Lehmann, German-American soprano (born 1888)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality."
     }
   ],
   "source": "Wikipedia"
