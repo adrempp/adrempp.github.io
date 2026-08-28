@@ -2,79 +2,9 @@
   "date": "2026-08-28",
   "items": [
     {
-      "type": "Event",
-      "year": "1993",
-      "text": "NASA's Galileo probe performs a flyby of the asteroid 243 Ida. Astronomers later discover a moon, the first known asteroid moon, in pictures from the flyby and name it Dactyl."
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Union forces attack Cape Hatteras, North Carolina in the Battle of Hatteras Inlet Batteries which lasts for two days."
-    },
-    {
       "type": "Birth",
-      "year": "1970",
-      "text": "Rick Recht, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1609",
-      "text": "Henry Hudson discovers Delaware Bay."
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "Phoenix shooting: A man opens fire on pedestrians outside of a hotel in Phoenix, Arizona, resulting in the deaths of three people, including the perpetrator."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The Russian space mission Soyuz TM-29 reaches completion, ending nearly 10 years of continuous occupation on the space station Mir as it approaches the end of its life."
-    },
-    {
-      "type": "Event",
-      "year": "1565",
-      "text": "Pedro Menéndez de Avilés sights land near St. Augustine, Florida and founds the oldest continuously occupied European-established city in the continental United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Ola L. Mize, American colonel, Medal of Honor recipient (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "James Wong Howe, Chinese American cinematographer (died 1976)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "David Fincher, American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The Workers' Party of North Korea, predecessor of the ruling Workers' Party of Korea, is founded at a congress held in Pyongyang, North Korea."
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Tjalling Koopmans, Dutch-American mathematician and economist Nobel Prize laureate (died 1985)"
-    },
-    {
-      "type": "Event",
-      "year": "1189",
-      "text": "Third Crusade: The Crusaders begin the Siege of Acre under Guy of Lusignan."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Raúl Márquez, Mexican-American boxer and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "An F5 tornado strikes the Illinois cities of Plainfield and Joliet, killing 29 people."
+      "year": "1941",
+      "text": "Paul Plishka, American opera singer"
     },
     {
       "type": "Event",
@@ -82,44 +12,9 @@
       "text": "The first issue of Scientific American magazine is published."
     },
     {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Evadne Price, Australian actress, astrologer, and author (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Ryan Madson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Tõnu Kaljuste, Estonian conductor and journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Weston McKennie, American soccer player"
-    },
-    {
-      "type": "Death",
-      "year": "1888",
-      "text": "Julius Krohn, Finnish poet and journalist (born 1835)"
-    },
-    {
-      "type": "Event",
-      "year": "1648",
-      "text": "Second English Civil War: The Siege of Colchester ends when Royalist Forces surrender to the Parliamentary Forces after eleven weeks."
-    },
-    {
       "type": "Event",
       "year": "1830",
       "text": "The Baltimore and Ohio Railroad's new Tom Thumb steam locomotive races a horse-drawn car, presaging steam's role in U.S. railroads."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Pierre Turgeon, Canadian-American ice hockey player"
     },
     {
       "type": "Event",
@@ -128,88 +23,23 @@
     },
     {
       "type": "Event",
-      "year": "475",
-      "text": "The Roman general Orestes forces western Roman Emperor Julius Nepos to flee his capital city, Ravenna."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Greg Clark, English businessman and politician, Secretary of State for Communities and Local Government"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Tony Husband, English cartoonist (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "663",
-      "text": "Silla–Tang armies crush the Baekje restoration attempt and force Yamato Japan to withdraw from Korea in the Battle of Baekgang."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "The autonomous Croatian Community of Herzeg-Bosnia in Bosnia and Herzegovina is transformed into the Croatian Republic of Herzeg-Bosnia."
-    },
-    {
-      "type": "Event",
-      "year": "1879",
-      "text": "Anglo-Zulu War: Cetshwayo, last king of the Zulus, is captured by the British."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The Second Battle of Bull Run, also known as the Battle of Second Manassas, begins in Virginia.  The battle ends on August 30 with another Union defeat."
-    },
-    {
-      "type": "Death",
-      "year": "1955",
-      "text": "Emmett Till, African-American kidnapping and lynching victim (born 1941)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Secondo Campini, Italian-American engineer (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Ruth Riley, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Jack Dreyfus, American businessman, founded the Dreyfus Corporation (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Wayne Osmond, American singer-songwriter and actor (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Gilles Rocheleau, Canadian businessman and politician (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Ramstein air show disaster: Three aircraft of the Frecce Tricolori demonstration team collide and the wreckage falls into the crowd. Seventy-five are killed and 346 seriously injured."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "Silliman University is founded in the Philippines. It is the first American private school in the country."
-    },
-    {
-      "type": "Event",
       "year": "1955",
       "text": "Black teenager Emmett Till is lynched in Mississippi for whistling at a white woman, galvanizing the nascent civil rights movement."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Roger Tory Peterson, American ornithologist and author (died 1996)"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "The Georgian opposition stages the August Uprising against the Soviet Union."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "Russian Civil War: The Red Army dissolves the Makhnovshchina after driving the Revolutionary Insurgent Army out of Ukraine."
     },
     {
       "type": "Event",
@@ -223,53 +53,48 @@
     },
     {
       "type": "Event",
-      "year": "1924",
-      "text": "The Georgian opposition stages the August Uprising against the Soviet Union."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Tasha Tudor, American author and illustrator (died 2008)"
+      "year": "1999",
+      "text": "The Russian space mission Soyuz TM-29 reaches completion, ending nearly 10 years of continuous occupation on the space station Mir as it approaches the end of its life."
     },
     {
       "type": "Event",
+      "year": "475",
+      "text": "The Roman general Orestes forces western Roman Emperor Julius Nepos to flee his capital city, Ravenna."
+    },
+    {
+      "type": "Event",
+      "year": "1609",
+      "text": "Henry Hudson discovers Delaware Bay."
+    },
+    {
+      "type": "Birth",
       "year": "1963",
-      "text": "March on Washington for Jobs and Freedom: Rev. Dr. Martin Luther King Jr. gives his I Have a Dream speech."
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "Revolutions of 1848 in the Austrian Empire: After a month-long siege, Venice, which had declared itself independent as the Republic of San Marco, surrenders to Austria."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "In \"one of the most complicated and bizarre crimes in the annals of the FBI\", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Ten suffragists, members of the Silent Sentinels, are arrested while picketing the White House in favor of women's suffrage in the United States."
+      "text": "Regina Jacobs, American runner"
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "C. Wright Mills American sociologist and author (died 1962)"
-    },
-    {
-      "type": "Birth",
-      "year": "1894",
-      "text": "Karl Böhm, Austrian conductor and director (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Sonia Kruger, Australian television host and actress"
+      "year": "1929",
+      "text": "Roxie Roker, American actress (died 1995)"
     },
     {
       "type": "Event",
-      "year": "632",
-      "text": "Fatimah, daughter of the Islamic prophet Muhammad, dies, with her cause of death being a controversial topic among the Sunni Muslims and Shia Muslims."
+      "year": "1993",
+      "text": "The autonomous Croatian Community of Herzeg-Bosnia in Bosnia and Herzegovina is transformed into the Croatian Republic of Herzeg-Bosnia."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "George Szekeres, Hungarian-Australian mathematician and academic (born 1911)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Steve Whiteman, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Bruno Bettelheim, Austrian-American psychologist and author (died 1990)"
     },
     {
       "type": "Event",
@@ -278,8 +103,78 @@
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Will Harris, American baseball player"
+      "year": "1952",
+      "text": "Rita Dove, American poet and essayist"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "F. William Free, American businessman (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Union forces attack Cape Hatteras, North Carolina in the Battle of Hatteras Inlet Batteries which lasts for two days."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Dan Crowley, Australian rugby player"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "Ten suffragists, members of the Silent Sentinels, are arrested while picketing the White House in favor of women's suffrage in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1565",
+      "text": "Pedro Menéndez de Avilés sights land near St. Augustine, Florida and founds the oldest continuously occupied European-established city in the continental United States."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Shane Andrews, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Kamilla Rakhimova, Russian tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Marissa Bode, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Robert Greenwald, American director and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1879",
+      "text": "Anglo-Zulu War: Cetshwayo, last king of the Zulus, is captured by the British."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Richard Tucker, American tenor and actor (died 1975)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "NASA's Galileo probe performs a flyby of the asteroid 243 Ida. Astronomers later discover a moon, the first known asteroid moon, in pictures from the flyby and name it Dactyl."
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "Ramstein air show disaster: Three aircraft of the Frecce Tricolori demonstration team collide and the wreckage falls into the crowd. Seventy-five are killed and 346 seriously injured."
     },
     {
       "type": "Event",
@@ -288,18 +183,123 @@
     },
     {
       "type": "Event",
-      "year": "1921",
-      "text": "Russian Civil War: The Red Army dissolves the Makhnovshchina after driving the Revolutionary Insurgent Army out of Ukraine."
+      "year": "1946",
+      "text": "The Workers' Party of North Korea, predecessor of the ruling Workers' Party of Korea, is founded at a congress held in Pyongyang, North Korea."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Jeff Green, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Craig Anton, American actor and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Phoenix shooting: A man opens fire on pedestrians outside of a hotel in Phoenix, Arizona, resulting in the deaths of three people, including the perpetrator."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Don Denkinger, American baseball player and umpire (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Max Collins, American-Filipino actress and model"
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "Revolutions of 1848 in the Austrian Empire: After a month-long siege, Venice, which had declared itself independent as the Republic of San Marco, surrenders to Austria."
+    },
+    {
+      "type": "Event",
+      "year": "663",
+      "text": "Silla–Tang armies crush the Baekje restoration attempt and force Yamato Japan to withdraw from Korea in the Battle of Baekgang."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Vonda N. McIntyre, American author (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "An F5 tornado strikes the Illinois cities of Plainfield and Joliet, killing 29 people."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "Silliman University is founded in the Philippines. It is the first American private school in the country."
+    },
+    {
+      "type": "Event",
+      "year": "632",
+      "text": "Fatimah, daughter of the Islamic prophet Muhammad, dies, with her cause of death being a controversial topic among the Sunni Muslims and Shia Muslims."
     },
     {
       "type": "Death",
-      "year": "430",
-      "text": "Augustine of Hippo, Algerian bishop, theologian, and saint (born 354)"
+      "year": "2020",
+      "text": "Chadwick Boseman, American actor and playwright (born 1976)"
+    },
+    {
+      "type": "Event",
+      "year": "1648",
+      "text": "Second English Civil War: The Siege of Colchester ends when Royalist Forces surrender to the Parliamentary Forces after eleven weeks."
     },
     {
       "type": "Event",
       "year": "2009",
       "text": "NASA's Space Shuttle Discovery launches on STS-128."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Morris Graves, American painter and academic (died 2001)"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Al Arbour, Canadian-American ice hockey player and coach (born 1932)"
+    },
+    {
+      "type": "Event",
+      "year": "1189",
+      "text": "Third Crusade: The Crusaders begin the Siege of Acre under Guy of Lusignan."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "John Long, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Peggy Ryan, American actress and dancer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Wayne Osmond, American singer-songwriter and actor (died 2025)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "In \"one of the most complicated and bizarre crimes in the annals of the FBI\", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "March on Washington for Jobs and Freedom: Rev. Dr. Martin Luther King Jr. gives his I Have a Dream speech."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Second Battle of Bull Run, also known as the Battle of Second Manassas, begins in Virginia.  The battle ends on August 30 with another Union defeat."
     }
   ],
   "source": "Wikipedia"
