@@ -3,28 +3,78 @@
   "items": [
     {
       "type": "Event",
+      "year": "2016",
+      "text": "Brazil's President Dilma Rousseff is impeached and removed from office."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Ilnur Alshin, Russian football player"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War."
+    },
+    {
+      "type": "Event",
       "year": "1935",
       "text": "In an attempt to stay out of the growing tensions concerning Germany and Japan, the United States passes the first of its Neutrality Acts."
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Itzhak Perlman, Israeli-American violinist and conductor"
+      "year": "1997",
+      "text": "Jaylen Barron, American actress"
     },
     {
       "type": "Event",
-      "year": "1886",
-      "text": "The 7.0 Mw Charleston earthquake strikes southeastern South Carolina with a maximum Mercalli intensity of X (Extreme), killing 60 people and causing damage worth an estimated at $5 to $6 million."
+      "year": "1936",
+      "text": "Radio Prague, now the official international broadcasting station of the Czech Republic, goes on the air."
     },
     {
-      "type": "Death",
-      "year": "1941",
-      "text": "Thomas Bavin, New Zealand-Australian politician, 24th Premier of New South Wales (born 1874)"
+      "type": "Event",
+      "year": "1943",
+      "text": "USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Typhoon Rusa, the most powerful typhoon to hit South Korea in 43 years, makes landfall, killing at least 236 people."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Battle of Jonesborough, the culmination of the Atlanta campaign, begins as Union forces under General William T. Sherman clash with Confederate troops under General William J. Hardee south of Atlanta."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Ian Crocker, American swimmer"
+      "year": "1916",
+      "text": "Danny Litwhiler, American baseball player and coach (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "William Livingston, the first Governor of New Jersey, begins serving his first term."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "Pennsylvania Central Airlines Trip 19 crashes near Lovettsville, Virginia. The CAB investigation of the accident is the first investigation to be conducted under the Bureau of Air Commerce act of 1938."
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Aeroflot Flight 558 crashes in the Abzelilovsky District in Bashkortostan, Russia (then the Soviet Union), killing all 102 people aboard."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Chris Whitley, American singer-songwriter and guitarist (died 2005)"
     },
     {
       "type": "Event",
@@ -37,64 +87,19 @@
       "text": "A helicopter crashes in Kamchatka Krai in the Russian Far East, killing all 22 occupants."
     },
     {
-      "type": "Event",
-      "year": "1813",
-      "text": "Peninsular War: Spanish troops repel a French attack in the Battle of San Marcial."
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "William Livingston, the first Governor of New Jersey, begins serving his first term."
-    },
-    {
-      "type": "Event",
-      "year": "38",
-      "text": "The Roman governor of Egypt, Aulus Avilius Flaccus, forces the Jewish citi"
+      "type": "Birth",
+      "year": "1937",
+      "text": "Bobby Parker, American singer-songwriter and guitarist (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Ted Blakey, American historian, activist, and businessman (died 2004)"
+      "year": "1982",
+      "text": "Josh Kroeger, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Debbie Gibson, American singer-songwriter, producer, and actress"
-    },
-    {
-      "type": "Death",
-      "year": "1986",
-      "text": "Elizabeth Coatsworth, American author and poet (born 1893)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Diana, Princess of Wales, her partner, Dodi Fayed, and driver Henri Paul die in a car crash in Paris."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Roy Castle, English dancer, singer, comedian, actor, television presenter and musician (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Chris Tucker, American comedian and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Yara Martinez, Puerto Rican-American actress"
+      "year": "1946",
+      "text": "Tom Coughlin, American football player and coach"
     },
     {
       "type": "Birth",
@@ -103,103 +108,38 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Andrew Cunanan, American spree killer (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Radio Prague, now the official international broadcasting station of the Czech Republic, goes on the air."
+      "year": "1978",
+      "text": "Craig Stapleton, Australian rugby league player"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Tom Coughlin, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Russia completes removing its troops from Lithuania."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Joe Budden, American broadcaster and former rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1056",
-      "text": "After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "John S. Wold, American geologist and politician (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1420",
-      "text": "The 8.8–9.4 Caldera earthquake shakes Chile's Atacama Region causing tsunami in Chile, Hawaii, and Japan."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Typhoon Rusa, the most powerful typhoon to hit South Korea in 43 years, makes landfall, killing at least 236 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Serge Blanco, Venezuelan-French rugby player and businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Start of the Congress of Carrara, one of the major 20th century anarchist congresses."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Danny Litwhiler, American baseball player and coach (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Brazil's President Dilma Rousseff is impeached and removed from office."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Nazi Germany mounts a false flag attack on the Gleiwitz radio station, creating an excuse to attack Poland the following day, thus starting World War II in Europe."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Andrew Foster, Australian footballer"
+      "year": "1984",
+      "text": "Ted Ligety, American skier"
     },
     {
       "type": "Death",
-      "year": "1973",
-      "text": "John Ford, American actor, director, producer, and screenwriter (born 1894)"
+      "year": "1974",
+      "text": "William Pershing Benedict, American soldier and pilot (born 1918)"
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Susan Gritton, English soprano and actress"
+      "year": "1916",
+      "text": "Daniel Schorr, American journalist and author (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Jolene Watanabe, American tennis player (died 2019)"
     },
     {
       "type": "Birth",
       "year": "1940",
-      "text": "Jack Thompson, Australian actor"
+      "text": "Larry Hankin, American actor, director, and producer"
     },
     {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Stephen McKinley Henderson, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Anna Karnaukh, Russian water polo player"
+      "type": "Event",
+      "year": "1986",
+      "text": "Aeroméxico Flight 498 collides with a Piper PA-28 Cherokee over Cerritos, California, killing 67 in the air and 15 on the ground."
     },
     {
       "type": "Birth",
@@ -208,18 +148,73 @@
     },
     {
       "type": "Event",
-      "year": "1972",
-      "text": "Aeroflot Flight 558 crashes in the Abzelilovsky District in Bashkortostan, Russia (then the Soviet Union), killing all 102 people aboard."
+      "year": "1420",
+      "text": "The 8.8–9.4 Caldera earthquake shakes Chile's Atacama Region causing tsunami in Chile, Hawaii, and Japan."
+    },
+    {
+      "type": "Event",
+      "year": "38",
+      "text": "The Roman governor of Egypt, Aulus Avilius Flaccus, forces the Jewish citi"
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Amanda Anisimova, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Robbie Basho, American guitarist, pianist, and composer (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Alan Jay Lerner, American songwriter and composer (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Chris Tucker, American comedian and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1483",
+      "text": "Under the influence of the Ottoman government, patriarch Symeon I convenes a synod of the Eastern Orthodox Churches in Constantinople which defines the ritual for admitting Catholics to the Eastern Orthodox Churches and condemns the church union of Ferrara-Florence."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Sara Ramirez, Mexican-American actor and musician"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "Russia and the United Kingdom sign the Anglo-Russian Convention, by which the UK recognizes Russian preeminence in northern Persia, while Russia recognizes British preeminence in southeastern Persia and Afghanistan. Both powers pledge not to interfere in Tibet."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Ted Blakey, American historian, activist, and businessman (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1056",
+      "text": "After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty."
+    },
+    {
+      "type": "Event",
+      "year": "1886",
+      "text": "The 7.0 Mw Charleston earthquake strikes southeastern South Carolina with a maximum Mercalli intensity of X (Extreme), killing 60 people and causing damage worth an estimated at $5 to $6 million."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Chris Duhon, American basketball player"
     },
     {
       "type": "Event",
       "year": "1996",
       "text": "Saddam Hussein's troops seize Irbil after the Kurdish Masoud Barzani appealed for help to defeat his Kurdish rival PUK."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Lowell Ganz, American screenwriter and producer"
     },
     {
       "type": "Event",
@@ -229,22 +224,52 @@
     {
       "type": "Birth",
       "year": "1953",
-      "text": "Pavel Vinogradov, Russian astronaut and engineer"
+      "text": "Marcia Clark, American attorney and author"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Diana, Princess of Wales, her partner, Dodi Fayed, and driver Henri Paul die in a car crash in Paris."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Raymond P. Hammond, American poet and critic"
+    },
+    {
+      "type": "Death",
+      "year": "2008",
+      "text": "Ike Pappas, American journalist (born 1933)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Russia completes removing its troops from Lithuania."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Nazi Germany mounts a false flag attack on the Gleiwitz radio station, creating an excuse to attack Poland the following day, thus starting World War II in Europe."
     },
     {
       "type": "Birth",
       "year": "1979",
-      "text": "Clay Hensley, American baseball player"
+      "text": "Mickie James, American wrestler"
     },
     {
       "type": "Event",
-      "year": "1940",
-      "text": "Pennsylvania Central Airlines Trip 19 crashes near Lovettsville, Virginia. The CAB investigation of the accident is the first investigation to be conducted under the Bureau of Air Commerce act of 1938."
+      "year": "1813",
+      "text": "Peninsular War: Spanish troops repel a French attack in the Battle of San Marcial."
     },
     {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of Jonesborough, the culmination of the Atlanta campaign, begins as Union forces under General William T. Sherman clash with Confederate troops under General William J. Hardee south of Atlanta."
+      "type": "Death",
+      "year": "2012",
+      "text": "Joe Lewis, American martial artist and actor (born 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Magnus Ilmjärv, Estonian historian and author"
     },
     {
       "type": "Birth",
@@ -253,53 +278,28 @@
     },
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "Vladimir Orlov, Russian journalist and author (died 2014)"
+      "year": "1962",
+      "text": "Dee Bradley Baker, American voice actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Yara Martinez, Puerto Rican-American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Jeff Hardy, American wrestler and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Richard Gere, American actor and producer"
     },
     {
       "type": "Event",
-      "year": "1907",
-      "text": "Russia and the United Kingdom sign the Anglo-Russian Convention, by which the UK recognizes Russian preeminence in northern Persia, while Russia recognizes British preeminence in southeastern Persia and Afghanistan. Both powers pledge not to interfere in Tibet."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Otis G. Pike, American judge and politician (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1483",
-      "text": "Under the influence of the Ottoman government, patriarch Symeon I convenes a synod of the Eastern Orthodox Churches in Constantinople which defines the ritual for admitting Catholics to the Eastern Orthodox Churches and condemns the church union of Ferrara-Florence."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Aeroméxico Flight 498 collides with a Piper PA-28 Cherokee over Cerritos, California, killing 67 in the air and 15 on the ground."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Luca Cordero di Montezemolo, Italian businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Roger Dean, English illustrator and publisher"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Ted Ligety, American skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "John Davidson, American physician and politician (died 2012)"
+      "year": "1968",
+      "text": "Start of the Congress of Carrara, one of the major 20th century anarchist congresses."
     }
   ],
   "source": "Wikipedia"
