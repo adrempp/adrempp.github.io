@@ -2,134 +2,14 @@
   "date": "2026-09-01",
   "items": [
     {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Arsalan Iftikhar, American lawyer and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Stephen Kernahan, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Boney James, American saxophonist, composer and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Richard Arlen, American actor (died 1976)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Rachel Zoe, American fashion designer"
-    },
-    {
       "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: The Battle of Sedan is fought, resulting in a decisive Prussian victory."
+      "year": "1981",
+      "text": "Central African President David Dacko is ousted from power in a bloodless military coup led by General André Kolingba."
     },
     {
       "type": "Death",
-      "year": "2003",
-      "text": "Rand Brooks, American actor and producer (born 1918)"
-    },
-    {
-      "type": "Birth",
-      "year": "1877",
-      "text": "Rex Beach, American author, playwright, and water polo player (died 1949)"
-    },
-    {
-      "type": "Birth",
-      "year": "1875",
-      "text": "Edgar Rice Burroughs, American author (died 1950)"
-    },
-    {
-      "type": "Event",
-      "year": "1774",
-      "text": "Massachusetts Bay colonists rise up in the bloodless Powder Alarm."
-    },
-    {
-      "type": "Death",
-      "year": "1947",
-      "text": "Frederick Russell Burnham, American soldier and adventurer (born 1861)"
-    },
-    {
-      "type": "Birth",
-      "year": "1855",
-      "text": "Innokenty Annensky, Russian poet and critic (died 1909)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Archie Bell, American soul singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Cameron Borgas, Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "C. J. Cherryh, American author and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1850",
-      "text": "Jim O'Rourke, American baseball player and manager (died 1919)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Padma Lakshmi, Indian-American actress and author"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "The wreck of the Titanic is discovered by an American-French expedition led by Robert Ballard and Jean-Louis Michel."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Max Vieri, Australian-Italian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Art Pepper, American saxophonist, clarinet player and composer (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Guy Rodgers, American basketball player (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "John H. Adams, American jockey (died 1995)"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "The United States Air Force Space Command is founded."
-    },
-    {
-      "type": "Event",
-      "year": "1644",
-      "text": "Battle of Tippermuir: James Graham, 1st Marquess of Montrose defeats the Earl of Wemyss's Covenanters, reviving the Royalist cause."
-    },
-    {
-      "type": "Event",
-      "year": "-396",
-      "text": "The Temple of Juno Regina (Aventine) is dedicated in Rome by Marcus Furius Camillus."
+      "year": "1989",
+      "text": "Tadeusz Sendzimir, Polish-American engineer (born 1894)"
     },
     {
       "type": "Event",
@@ -138,8 +18,38 @@
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Cuttino Mobley, American basketball player"
+      "year": "1961",
+      "text": "Boney James, American saxophonist, composer and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "The United States Air Force Space Command is founded."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Cameron Borgas, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Charlie Robison, American singer-songwriter and guitarist (died 2023)"
+    },
+    {
+      "type": "Death",
+      "year": "1986",
+      "text": "Murray Hamilton, American actor (born 1923)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Jason Taylor, American football player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "The wreck of the Titanic is discovered by an American-French expedition led by Robert Ballard and Jean-Louis Michel."
     },
     {
       "type": "Event",
@@ -147,34 +57,44 @@
       "text": "Narcissa Whitman, one of the first English-speaking white women to settle west of the Rocky Mountains, arrives at Walla Walla, Washington."
     },
     {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Chanel West Coast, American rapper-songwriter and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Dorothy Cheney, American tennis player (died 2014)"
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign."
     },
     {
       "type": "Event",
-      "year": "1610",
-      "text": "Claudio Monteverdi's musical work Vespro della Beata Vergine (Vespers for the Blessed Virgin) is first published, printed in Venice and dedicated to Pope Paul V."
+      "year": "1763",
+      "text": "Catherine the Great, Empress of Russia, endorses Ivan Betskoy's plans for a Foundling Home in Moscow."
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Gustav Nyquist, Swedish ice hockey player"
+      "year": "1957",
+      "text": "Gloria Estefan, Cuban-American singer-songwriter and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Padma Lakshmi, Indian-American actress and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Richard Arlen, American actor (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "C. J. Cherryh, American author and educator"
     },
     {
       "type": "Event",
-      "year": "1529",
-      "text": "The Spanish fort of Sancti Spiritu, the first one built in modern Argentina, is destroyed by indigenous people."
+      "year": "1870",
+      "text": "Franco-Prussian War: The Battle of Sedan is fought, resulting in a decisive Prussian victory."
     },
     {
-      "type": "Event",
-      "year": "1961",
-      "text": "TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history."
+      "type": "Birth",
+      "year": "1971",
+      "text": "Maury Sterling, American actor"
     },
     {
       "type": "Event",
@@ -183,88 +103,28 @@
     },
     {
       "type": "Birth",
-      "year": "1892",
-      "text": "Leverett Saltonstall, American lieutenant and politician, 55th Governor of Massachusetts (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Don Stroud, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "Over 400 people die in the Great Hinckley Fire, a forest fire in Hinckley, Minnesota."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Jason Taylor, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Boxcar Willie, American singer-songwriter and guitarist (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Mava Lee Thomas, American baseball player (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Miles Plumlee, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1057",
-      "text": "Byzantine general Isaak Komnenos is crowned Byzantine Emperor by patriarch Cerularius at the Hagia Sophia."
-    },
-    {
-      "type": "Birth",
       "year": "1893",
       "text": "Yasuo Kuniyoshi, Japanese-American painter and photographer (died 1953)"
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Ricardo Antonio Chavira, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1772",
-      "text": "The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California."
+      "year": "1981",
+      "text": "Adam Quick, Australian basketball player"
     },
     {
       "type": "Birth",
-      "year": "1923",
-      "text": "Rocky Marciano, American boxer (died 1969)"
+      "year": "1851",
+      "text": "John Clum, American journalist and agent (died 1932)"
     },
     {
       "type": "Event",
-      "year": "2008",
-      "text": "Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces."
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Jerry Reed, American singer-songwriter, guitarist, and actor (born 1937)"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Cold War: Korean Air Lines Flight 007 is shot down by a Soviet jet fighter after the commercial aircraft strayed into Soviet airspace, killing all 269 on board, including Congressman Lawrence McDonald."
+      "year": "1610",
+      "text": "Claudio Monteverdi's musical work Vespro della Beata Vergine (Vespers for the Blessed Virgin) is first published, printed in Venice and dedicated to Pope Paul V."
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Joe Trohman, American singer-songwriter, guitarist and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1763",
-      "text": "Catherine the Great, Empress of Russia, endorses Ivan Betskoy's plans for a Foundling Home in Moscow."
+      "year": "1871",
+      "text": "J. Reuben Clark, American lawyer, civil servant, and religious leader (died 1961)"
     },
     {
       "type": "Event",
@@ -273,13 +133,113 @@
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Phil McGraw, American psychologist, author and talk show host"
+      "year": "1975",
+      "text": "Cuttino Mobley, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1866",
+      "text": "James J. Corbett, American boxer (died 1933)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Josh Battle, Australian rules footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Johnny Mack Brown, American football player and actor (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1869",
+      "text": "Frank Elbridge Webb, American engineer and presidential candidate (died 1949)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Soshana Afroyim, Austrian painter (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Mava Lee Thomas, American baseball player (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "John H. Adams, American jockey (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Greg Errico, American drummer and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1644",
+      "text": "Battle of Tippermuir: James Graham, 1st Marquess of Montrose defeats the Earl of Wemyss's Covenanters, reviving the Royalist cause."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Grant-Lee Phillips, American musician and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1774",
+      "text": "Massachusetts Bay colonists rise up in the bloodless Powder Alarm."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history."
+    },
+    {
+      "type": "Event",
+      "year": "-396",
+      "text": "The Temple of Juno Regina (Aventine) is dedicated in Rome by Marcus Furius Camillus."
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Henry M. Jackson, American lawyer and politician (born 1912)"
     },
     {
       "type": "Event",
       "year": "2004",
       "text": "The Beslan school siege begins when armed terrorists take schoolchildren and school staff hostage in North Ossetia, Russia; by the end of the siege, three days later, more than 385 people are dead (including hostages, other civilians, security personnel and terrorists)."
+    },
+    {
+      "type": "Birth",
+      "year": "1856",
+      "text": "Sergei Winogradsky, Ukrainian-Russian microbiologist and ecologist (died 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1850",
+      "text": "Jim O'Rourke, American baseball player and manager (died 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Boxcar Willie, American singer-songwriter and guitarist (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Cold War: Korean Air Lines Flight 007 is shot down by a Soviet jet fighter after the commercial aircraft strayed into Soviet airspace, killing all 269 on board, including Congressman Lawrence McDonald."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Christopher Ferguson, American captain, pilot and astronaut"
     },
     {
       "type": "Event",
@@ -288,18 +248,58 @@
     },
     {
       "type": "Event",
-      "year": "1981",
-      "text": "Central African President David Dacko is ousted from power in a bloodless military coup led by General André Kolingba."
+      "year": "1772",
+      "text": "The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California."
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Burn Gorman, American-born English actor and musician"
+      "year": "1939",
+      "text": "Lily Tomlin, American actress, comedian, screenwriter and producer"
     },
     {
       "type": "Birth",
-      "year": "1998",
-      "text": "Josh Battle, Australian rules footballer"
+      "year": "1977",
+      "text": "Aaron Schobel, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Rachel Zoe, American fashion designer"
+    },
+    {
+      "type": "Event",
+      "year": "1529",
+      "text": "The Spanish fort of Sancti Spiritu, the first one built in modern Argentina, is destroyed by indigenous people."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Marcos Ambrose, Australian racing driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Ricardo Antonio Chavira, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Phil McGraw, American psychologist, author and talk show host"
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Walter Reuther, American labor union leader and president of the United Auto Workers (died 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "Over 400 people die in the Great Hinckley Fire, a forest fire in Hinckley, Minnesota."
+    },
+    {
+      "type": "Event",
+      "year": "1057",
+      "text": "Byzantine general Isaak Komnenos is crowned Byzantine Emperor by patriarch Cerularius at the Hagia Sophia."
     }
   ],
   "source": "Wikipedia"
