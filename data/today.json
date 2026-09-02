@@ -2,14 +2,19 @@
   "date": "2026-09-02",
   "items": [
     {
-      "type": "Death",
-      "year": "1921",
-      "text": "Henry Austin Dobson, English poet and critic (born 1840)"
+      "type": "Birth",
+      "year": "1975",
+      "text": "Jill Janus, American singer (died 2018)"
     },
     {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Eric Dickerson, American football player and sportscaster"
+      "type": "Event",
+      "year": "1885",
+      "text": "Rock Springs massacre: In Rock Springs, Wyoming, 150 white miners, who are struggling to unionize so they could strike for better wages and work conditions, attack their Chinese fellow workers, killing 28, wounding 15 and forcing several hundred more out of town."
+    },
+    {
+      "type": "Death",
+      "year": "2016",
+      "text": "Jerry Heller, American music manager (born 1940)"
     },
     {
       "type": "Birth",
@@ -17,84 +22,14 @@
       "text": "Marge Champion, American actress, dancer, and choreographer (died 2020)"
     },
     {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Andrew Grove, Hungarian-American businessman, engineer, and author (died 2016)"
-    },
-    {
       "type": "Event",
-      "year": "1789",
-      "text": "The United States Department of the Treasury is founded."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Sam Rivers, American musician (died 2025)"
-    },
-    {
-      "type": "Death",
-      "year": "1934",
-      "text": "Russ Columbo, American singer, violinist, and actor (born 1908)"
-    },
-    {
-      "type": "Event",
-      "year": "911",
-      "text": "The Byzantine Empire and the Kievan Rus sign a treaty regulating trade."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Clifford Jordan, American saxophonist (died 1993)"
+      "year": "1864",
+      "text": "American Civil War: Union forces enter Atlanta as the city surrenders, ending the Atlanta campaign as a victory for General William T. Sherman."
     },
     {
       "type": "Birth",
       "year": "1946",
-      "text": "Marty Grebb, American keyboardist, guitarist, saxophonist, and music producer/arranger (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Aleksander Barkov, Russian-Finnish ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "Vice President of the United States Theodore Roosevelt utters the famous phrase, \"Speak softly and carry a big stick\" at the Minnesota State Fair."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Ed Conlin, American basketball player and coach (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Sidney Phillips, USMC WW2 combat veteran, physician, and author (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1894",
-      "text": "Joseph Roth, Austrian journalist and author (died 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "William F. Harrah, American businessman, founded Harrah's Entertainment (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Matthew Dunn, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: United States President Abraham Lincoln reluctantly restores Union General George B. McClellan to full command after General John Pope's disastrous defeat at the Second Battle of Bull Run."
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "A USAF RC-130 is shot down by fighters over Armenia when it strays into Soviet airspace while conducting a sigint mission. All crew members are killed."
+      "text": "Dan White, American assassin and politician (died 1985)"
     },
     {
       "type": "Event",
@@ -102,54 +37,9 @@
       "text": "The Labor Day Hurricane, the most intense hurricane to strike the United States, makes landfall at Long Key, Florida, killing at least 400."
     },
     {
-      "type": "Event",
-      "year": "1992",
-      "text": "The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft)."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Operation OAU begins during the Nigerian Civil War."
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States."
-    },
-    {
       "type": "Birth",
-      "year": "1975",
-      "text": "Tony Thompson, American singer (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "National Museum of Brazil fire, A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies."
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "K-Ci, American R&B singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Allen Drury, American journalist and author (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "MC Chris, American rapper, actor, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Aeroflot Flight 3630, a Tupolev Tu-124 en route from southern Russia to Lithuania, crashes after the pilots lost control of the aircraft at cruise altitude between Rostov-on-Don Airport and Vilnius Airport, on the second leg of the flight; all 37 passengers and crew are killed."
+      "year": "1953",
+      "text": "John Zorn, American saxophonist, composer, and producer"
     },
     {
       "type": "Event",
@@ -158,13 +48,183 @@
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Jason Hammel, American baseball player"
+      "year": "1950",
+      "text": "Rosanna DeSoto, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "The United States Department of the Treasury is founded."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Aeroflot Flight 3630, a Tupolev Tu-124 en route from southern Russia to Lithuania, crashes after the pilots lost control of the aircraft at cruise altitude between Rostov-on-Don Airport and Vilnius Airport, on the second leg of the flight; all 37 passengers and crew are killed."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "World War II: Following the start of the invasion of Poland the previous day, the Free City of Danzig (now Gdańsk, Poland) is annexed by Nazi Germany."
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Alan Simpson, American politician, US Senator from Wyoming (died 2025)"
+      "year": "1894",
+      "text": "Joseph Roth, Austrian journalist and author (died 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Frank Fontsere, American drummer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Walter Davis Jr., American pianist (died 1990)"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "James Darren, American actor (born 1936)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Dino Cazares, American guitarist, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Spencer Smith, American musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Andrew Grove, Hungarian-American businessman, engineer, and author (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Israel Gelfand, Russian-American mathematician and biologist (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1985",
+      "text": "Sri Lankan Civil War: Sri Lankan Tamil politicians and former MPs M. Alalasundaram and V. Dharmalingam are shot dead."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Operation OAU begins during the Nigerian Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Shayla Worley, American gymnast"
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Terry Bradshaw, American football player, sportscaster, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Franco-Prussian War: Battle of Sedan: Prussian forces take Napoleon III of France and 100,000 of his soldiers prisoner."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Kyle Hines, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15 (the designation is re-used by a later mission), and Apollo 19."
+    },
+    {
+      "type": "Event",
+      "year": "911",
+      "text": "The Byzantine Empire and the Kievan Rus sign a treaty regulating trade."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft)."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Rex Hudler, American baseball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "Napoleonic Wars: The British Royal Navy bombards Copenhagen with fire bombs and phosphorus rockets to prevent Denmark from surrendering its fleet to Napoleon."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Adolph Rupp, American basketball player and coach (died 1977)"
+    },
+    {
+      "type": "Death",
+      "year": "1941",
+      "text": "Lloyd Seay, American race car driver (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Sam Mitchell, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Kantō Massacre: Amid rumors that Koreans had been conducting acts of sabotage in the aftermath of the 1923 Great Kantō earthquake, lynch mobs of Japanese begin massacring thousands of civilians over the course of several weeks, mainly ethnic minorities such as Koreans and Chinese."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Ed Conlin, American basketball player and coach (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Cleveland Amory, American author and critic (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Zedd, Russian-German record producer, DJ, multi-instrumentalist and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Billi Gordon, American neuroscientist, author, and actor. (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "President Ngô Đình Diệm of South Vietnam becomes the first foreign head of state to make a state visit to Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Walt Simonson, American author and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: United States President Abraham Lincoln reluctantly restores Union General George B. McClellan to full command after General John Pope's disastrous defeat at the Second Battle of Bull Run."
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "Four people are killed in a mass shooting targeting homeless people on a Chicago Transit Authority train in Forest Park, Illinois, United States."
     },
     {
       "type": "Event",
@@ -177,69 +237,39 @@
       "text": "World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war."
     },
     {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Joe Simon, American singer-songwriter and producer (died 2021)"
+      "type": "Event",
+      "year": "1958",
+      "text": "A USAF RC-130 is shot down by fighters over Armenia when it strays into Soviet airspace while conducting a sigint mission. All crew members are killed."
     },
     {
       "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: Battle of Sedan: Prussian forces take Napoleon III of France and 100,000 of his soldiers prisoner."
+      "year": "2018",
+      "text": "National Museum of Brazil fire, A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Jimmy Connors, American tennis player, coach, and sportscaster"
+      "year": "1904",
+      "text": "August Jakobson, Estonian author and politician (died 1963)"
     },
     {
-      "type": "Death",
-      "year": "1953",
-      "text": "Jonathan M. Wainwright, American general, Medal of Honor recipient (born 1883)"
+      "type": "Event",
+      "year": "1901",
+      "text": "Vice President of the United States Theodore Roosevelt utters the famous phrase, \"Speak softly and carry a big stick\" at the Minnesota State Fair."
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Mik Kaminski, English musician, rock violinist"
+      "year": "1912",
+      "text": "Ernest Bromley, Australian cricketer (died 1967)"
     },
     {
       "type": "Event",
-      "year": "2024",
-      "text": "Four people are killed in a mass shooting targeting homeless people on a Chicago Transit Authority train in Forest Park, Illinois, United States."
+      "year": "1984",
+      "text": "Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia."
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Jim DeMint, American politician"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15 (the designation is re-used by a later mission), and Apollo 19."
-    },
-    {
-      "type": "Event",
-      "year": "1885",
-      "text": "Rock Springs massacre: In Rock Springs, Wyoming, 150 white miners, who are struggling to unionize so they could strike for better wages and work conditions, attack their Chinese fellow workers, killing 28, wounding 15 and forcing several hundred more out of town."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "John Zorn, American saxophonist, composer, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Mel Stuart, American director and producer (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "CBS Evening News becomes U.S. network television's first half-hour weeknight news broadcast, when the show is lengthened from 15 to 30 minutes."
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "Sri Lankan Civil War: Sri Lankan Tamil politicians and former MPs M. Alalasundaram and V. Dharmalingam are shot dead."
+      "year": "1995",
+      "text": "Aleksander Barkov, Russian-Finnish ice hockey player"
     },
     {
       "type": "Birth",
@@ -248,33 +278,18 @@
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Dan White, American assassin and politician (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Cleveland Amory, American author and critic (died 1997)"
-    },
-    {
-      "type": "Birth",
       "year": "1977",
-      "text": "Tiffany Hines, American actress"
+      "text": "Sam Rivers, American musician (died 2025)"
     },
     {
-      "type": "Event",
-      "year": "1807",
-      "text": "Napoleonic Wars: The British Royal Navy bombards Copenhagen with fire bombs and phosphorus rockets to prevent Denmark from surrendering its fleet to Napoleon."
+      "type": "Birth",
+      "year": "1960",
+      "text": "Eric Dickerson, American football player and sportscaster"
     },
     {
-      "type": "Event",
-      "year": "1923",
-      "text": "Kantō Massacre: Amid rumors that Koreans had been conducting acts of sabotage in the aftermath of the 1923 Great Kantō earthquake, lynch mobs of Japanese begin massacring thousands of civilians over the course of several weeks, mainly ethnic minorities such as Koreans and Chinese."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "World War II: Following the start of the invasion of Poland the previous day, the Free City of Danzig (now Gdańsk, Poland) is annexed by Nazi Germany."
+      "type": "Birth",
+      "year": "1908",
+      "text": "Ruth Bancroft, American landscape and garden designer (died 2017)"
     },
     {
       "type": "Event",
@@ -282,24 +297,9 @@
       "text": "In Moscow, the trial begins for 19-year-old pilot Mathias Rust, who flew his Cessna airplane into Red Square in May."
     },
     {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Jimmy Clanton, American pop singer-songwriter"
-    },
-    {
       "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Union forces enter Atlanta as the city surrenders, ending the Atlanta campaign as a victory for General William T. Sherman."
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "President Ngô Đình Diệm of South Vietnam becomes the first foreign head of state to make a state visit to Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Marcus Ericsson, Swedish race car driver"
+      "year": "1963",
+      "text": "CBS Evening News becomes U.S. network television's first half-hour weeknight news broadcast, when the show is lengthened from 15 to 30 minutes."
     }
   ],
   "source": "Wikipedia"
