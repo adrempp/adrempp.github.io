@@ -3,88 +3,18 @@
   "items": [
     {
       "type": "Event",
-      "year": "1335",
-      "text": "At the congress of Visegrád Charles I of Hungary mediates a reconciliation between two neighboring monarchs, John of Bohemia and Casimir III of Poland."
+      "year": "301",
+      "text": "San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus."
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Kitty Carlisle, American actress, singer, socialite, and game show panelist (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars."
+      "year": "1973",
+      "text": "Jennifer Paige, American singer"
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "George Peponis, Greek-Australian rugby league player and physician"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "The U.S. and China, together responsible for 40% of the world's carbon emissions, both formally ratify the Paris global climate agreement."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the Bonneville Salt Flats in Utah, becoming the first person to drive an automobile over 300 mph."
-    },
-    {
-      "type": "Event",
-      "year": "1875",
-      "text": "The first official game of polo is played in Argentina after being introduced by British ranchers."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Valdas Vasylius, Lithuanian basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Alan Ladd, American actor and producer (died 1964)"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs."
-    },
-    {
-      "type": "Event",
-      "year": "1911",
-      "text": "A fire that started on Fraser's Million Dollar Pier destroys six to eight square blocks of Ocean Park, California."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Thurston Dart, English pianist, conductor, and musicologist (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "George Lynch, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Tomo Miličević, Bosnian-American guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Neilson Powless, American cyclist"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later."
+      "year": "1925",
+      "text": "Hank Thompson, American singer-songwriter and guitarist (died 2007)"
     },
     {
       "type": "Birth",
@@ -92,19 +22,24 @@
       "text": "Ashley Jones, American actress"
     },
     {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Costas Mandylor, Australian actor"
+    },
+    {
       "type": "Event",
-      "year": "1812",
-      "text": "Twenty-four settlers are killed in the Pigeon Roost Massacre in Indiana."
+      "year": "-36",
+      "text": "In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate."
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Whitey Bulger, American organized crime boss (died 2018)"
+      "year": "1925",
+      "text": "Anne Jackson, American actress (died 2016)"
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days."
+      "year": "1944",
+      "text": "Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later."
     },
     {
       "type": "Event",
@@ -113,28 +48,123 @@
     },
     {
       "type": "Event",
-      "year": "1978",
-      "text": "During the Rhodesian Bush War a group of ZIPRA guerrillas shot down civilian Vickers Viscount aircraft (Air Rhodesia Flight 825) with a Soviet-made SAM Strela-2; of 56 passengers and crew 38 people died in crash, 10 were massacred by the guerrillas at the site."
+      "year": "1976",
+      "text": "Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars."
+    },
+    {
+      "type": "Event",
+      "year": "1335",
+      "text": "At the congress of Visegrád Charles I of Hungary mediates a reconciliation between two neighboring monarchs, John of Bohemia and Casimir III of Poland."
+    },
+    {
+      "type": "Event",
+      "year": "1879",
+      "text": "Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Earl Cureton, American basketball player and coach (died 2024)"
+    },
+    {
+      "type": "Death",
+      "year": "1857",
+      "text": "John McLoughlin, Canadian-American businessman (born 1784)"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Andrew McMahon, American singer-songwriter, pianist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "August Alsina, American singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Vaden Todd Lewis, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1895",
+      "text": "John Brallier becomes the first openly paid professional American football player, when he was paid US$10 by David Berry, to play for the Latrobe Athletic Association in a 12–0 win over the Jeanette Athletic Association."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Jevon Kearse, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: In response to news of its coming liquidation, Dov Lopatyn leads an uprising in the Ghetto of Lakhva (present-day Belarus)."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Valdas Vasylius, Lithuanian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Phil Stern, American soldier and photographer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "King Otto of Greece is forced to grant a constitution following an uprising in Athens."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "William Rehnquist, American lawyer and jurist, 16th Chief Justice of the United States (born 1924)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Noah Baumbach, American actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1911",
+      "text": "A fire that started on Fraser's Million Dollar Pier destroys six to eight square blocks of Ocean Park, California."
     },
     {
       "type": "Birth",
       "year": "1970",
-      "text": "Jeremy Glick, American businessman (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Fotis Kouvelis, Greek lawyer and politician, Greek Minister of Justice"
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: During the Battle of Cooch's Bridge, the Flag of the United States is flown in battle for the first time."
+      "text": "George Lynch, American basketball player and coach"
     },
     {
       "type": "Birth",
       "year": "1933",
       "text": "Tompall Glaser, American singer-songwriter (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Kitty Carlisle, American actress, singer, socialite, and game show panelist (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Franco-Prussian War: The Siege of Metz begins, resulting in a decisive Prussian victory on October 23."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Casey Hampton, American football player"
     },
     {
       "type": "Birth",
@@ -148,68 +178,33 @@
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Anne Jackson, American actress (died 2016)"
+      "year": "1995",
+      "text": "Myles Jack, American football player"
     },
     {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance."
+      "type": "Birth",
+      "year": "1961",
+      "text": "Andy Griffiths, Australian author"
     },
     {
-      "type": "Event",
-      "year": "1914",
-      "text": "Wilhelm, Prince of Albania leaves the country after just six months due to opposition to his rule."
+      "type": "Birth",
+      "year": "1967",
+      "text": "Luis Gonzalez, American baseball player"
     },
     {
-      "type": "Event",
-      "year": "1925",
-      "text": "USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne."
+      "type": "Birth",
+      "year": "1948",
+      "text": "Fotis Kouvelis, Greek lawyer and politician, Greek Minister of Justice"
     },
     {
-      "type": "Event",
-      "year": "1879",
-      "text": "Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire."
-    },
-    {
-      "type": "Event",
-      "year": "301",
-      "text": "San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus."
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: The Siege of Metz begins, resulting in a decisive Prussian victory on October 23."
+      "type": "Death",
+      "year": "2024",
+      "text": "Wayne Graham, American baseball player and coach (born 1936)"
     },
     {
       "type": "Birth",
       "year": "1984",
       "text": "Mason Crosby, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1895",
-      "text": "John Brallier becomes the first openly paid professional American football player, when he was paid US$10 by David Berry, to play for the Latrobe Athletic Association in a 12–0 win over the Jeanette Athletic Association."
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "William Rehnquist, American lawyer and jurist, 16th Chief Justice of the United States (born 1924)"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: In response to news of its coming liquidation, Dov Lopatyn leads an uprising in the Ghetto of Lakhva (present-day Belarus)."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Spike Feresten, American screenwriter and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1650",
-      "text": "Victory over the royalists in the Battle of Dunbar opens the way to Edinburgh for the New Model Army during the English invasion of Scotland."
     },
     {
       "type": "Birth",
@@ -218,53 +213,28 @@
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Vaden Todd Lewis, American singer-songwriter and guitarist"
+      "year": "1914",
+      "text": "Dixy Lee Ray, American biologist and politician, 17th Governor of Washington (died 1994)"
     },
     {
-      "type": "Death",
-      "year": "2001",
-      "text": "Pauline Kael, American film critic and author (born 1919)"
+      "type": "Birth",
+      "year": "1915",
+      "text": "Memphis Slim, American singer-songwriter and pianist (died 1988)"
     },
     {
       "type": "Event",
-      "year": "-36",
-      "text": "In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Martha Saxton, American Historian (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Earl Cureton, American basketball player and coach (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Steve Rickard, New Zealand-Australian wrestler, trainer, and promoter (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Augusto Farfus, Brazilian race car driver"
+      "year": "1935",
+      "text": "Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the Bonneville Salt Flats in Utah, becoming the first person to drive an automobile over 300 mph."
     },
     {
       "type": "Event",
-      "year": "1843",
-      "text": "King Otto of Greece is forced to grant a constitution following an uprising in Athens."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Sam Adams, American politician, 51st Mayor of Portland"
+      "year": "1925",
+      "text": "USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne."
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures."
+      "year": "1914",
+      "text": "Wilhelm, Prince of Albania leaves the country after just six months due to opposition to his rule."
     },
     {
       "type": "Birth",
@@ -273,33 +243,63 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Valery V. Afanasyev, Russian ice hockey player and coach"
+      "year": "1978",
+      "text": "Nichole Hiltz, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "Twenty-four settlers are killed in the Pigeon Roost Massacre in Indiana."
+    },
+    {
+      "type": "Event",
+      "year": "1777",
+      "text": "American Revolutionary War: During the Battle of Cooch's Bridge, the Flag of the United States is flown in battle for the first time."
+    },
+    {
+      "type": "Event",
+      "year": "1875",
+      "text": "The first official game of polo is played in Argentina after being introduced by British ranchers."
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Marguerite Higgins, American journalist and author (died 1966)"
+      "year": "1923",
+      "text": "Fred Hawkins, American golfer (died 2014)"
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Nate Robertson, American baseball player"
+      "year": "1997",
+      "text": "Devin Singletary, American football player"
     },
     {
-      "type": "Birth",
-      "year": "1980",
-      "text": "B.G., American rapper and actor"
+      "type": "Event",
+      "year": "1978",
+      "text": "During the Rhodesian Bush War a group of ZIPRA guerrillas shot down civilian Vickers Viscount aircraft (Air Rhodesia Flight 825) with a Soviet-made SAM Strela-2; of 56 passengers and crew 38 people died in crash, 10 were massacred by the guerrillas at the site."
     },
     {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Dixy Lee Ray, American biologist and politician, 17th Governor of Washington (died 1994)"
+      "type": "Event",
+      "year": "1981",
+      "text": "The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations."
     },
     {
-      "type": "Death",
-      "year": "2013",
-      "text": "Don Meineke, American basketball player (born 1930)"
+      "type": "Event",
+      "year": "2016",
+      "text": "The U.S. and China, together responsible for 40% of the world's carbon emissions, both formally ratify the Paris global climate agreement."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs."
+    },
+    {
+      "type": "Event",
+      "year": "1650",
+      "text": "Victory over the royalists in the Battle of Dunbar opens the way to Edinburgh for the New Model Army during the English invasion of Scotland."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures."
     }
   ],
   "source": "Wikipedia"
