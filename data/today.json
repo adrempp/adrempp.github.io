@@ -3,43 +3,23 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Dawn Fraser, Australian swimmer and politician"
+      "year": "1981",
+      "text": "Lacey Sturm, American singer-songwriter"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Deni Hines, Australian singer-songwriter"
+      "year": "1957",
+      "text": "Khandi Alexander, American actress, dancer, and choreographer"
+    },
+    {
+      "type": "Death",
+      "year": "1990",
+      "text": "Irene Dunne, American actress and singer (born 1898)"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Adam Duvall, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1813",
-      "text": "Future U.S. president Andrew Jackson is shot in a tavern brawl with future U.S. Senator Thomas Hart Benton and others."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "The Price Is Right premieres on CBS. It currently is the longest running game show on American television."
-    },
-    {
-      "type": "Event",
-      "year": "1882",
-      "text": "The Pearl Street Station in New York City becomes the first power plant to supply electricity to paying customers."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Dave Liebman, American saxophonist, flute player, and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Yanka Dyagileva, Russian singer-songwriter (died 1991)"
+      "year": "1944",
+      "text": "Gene Parsons, American singer-songwriter, drummer, guitarist, and banjo player"
     },
     {
       "type": "Event",
@@ -48,53 +28,38 @@
     },
     {
       "type": "Event",
-      "year": "1888",
-      "text": "George Eastman registers the trademark Kodak and receives a patent for his camera that uses roll film."
+      "year": "476",
+      "text": "Romulus Augustulus is deposed when Odoacer proclaims himself \"King of Italy\", thus ending the Western Roman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Xavier Woods, American wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Gene Ludwig, American organist and composer (died 2010)"
     },
     {
       "type": "Event",
-      "year": "1967",
-      "text": "Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley."
+      "year": "1839",
+      "text": "Battle of Kowloon: British vessels open fire on Chinese war junks enforcing a food sales embargo on the British community in China in the first armed conflict of the First Opium War."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Henry Ford II, American businessman (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jason David Frank, American actor and mixed martial artist (died 2022)"
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Marisa Kabas, American journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Hamish McIntosh, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Gene Parsons, American singer-songwriter, drummer, guitarist, and banjo player"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Syd Hoff, American author and illustrator (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference."
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Raymond Floyd, American golfer"
+      "year": "2007",
+      "text": "Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations."
     },
     {
       "type": "Event",
@@ -103,13 +68,18 @@
     },
     {
       "type": "Birth",
-      "year": "2001",
-      "text": "Talitha Bateman, American actress"
+      "year": "1955",
+      "text": "Brian Schweitzer, American politician, 23rd Governor of Montana"
+    },
+    {
+      "type": "Event",
+      "year": "1882",
+      "text": "The Pearl Street Station in New York City becomes the first power plant to supply electricity to paying customers."
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Dean Pees, American football player and coach"
+      "year": "1973",
+      "text": "Lazlow Jones, American radio presenter, producer and screenwriter"
     },
     {
       "type": "Event",
@@ -118,53 +88,8 @@
     },
     {
       "type": "Event",
-      "year": "1839",
-      "text": "Battle of Kowloon: British vessels open fire on Chinese war junks enforcing a food sales embargo on the British community in China in the first armed conflict of the First Opium War."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017."
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Scotland's Forth Road Bridge near Edinburgh officially opens."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Kevin Harrington, Australian actor"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Danny Gatton, American guitarist (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "The Sinai Interim Agreement relating to the Arab–Israeli conflict is signed."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Kia Stevens, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Mitzi Gaynor, American actress, singer, and dancer (died 2024)"
+      "year": "1941",
+      "text": "World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer."
     },
     {
       "type": "Event",
@@ -172,84 +97,39 @@
       "text": "American Indian Wars: After almost 30 years of fighting, Apache leader Geronimo, with his remaining warriors,  surrenders to General Nelson Miles in Arizona."
     },
     {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Jacqueline Hewitt, American astrophysicist and astronomer"
-    },
-    {
-      "type": "Death",
-      "year": "1332",
-      "text": "García de Ayerbe, Spanish bishop and crusade theorist"
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Colin Thiele, Australian author, poet, and educator (born 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Eduard Khil, Russian baritone singer (died 2012)"
+      "type": "Event",
+      "year": "1975",
+      "text": "The Sinai Interim Agreement relating to the Arab–Israeli conflict is signed."
     },
     {
       "type": "Event",
-      "year": "1923",
-      "text": "Maiden flight of the first U.S. airship, the USS Shenandoah."
-    },
-    {
-      "type": "Birth",
       "year": "1949",
-      "text": "Darryl Cotton, Australian singer-songwriter and guitarist (died 2012)"
+      "text": "Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots."
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Justinas Lagunavičius, Lithuanian basketball player (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Asa Earl Carter, American Ku Klux Klan leader and author (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Blackie Lawless, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Giorgi Margvelashvili, Georgian academic and politician, 4th President of Georgia"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Paul Sait, Australian rugby league player (died 2023)"
+      "year": "1970",
+      "text": "Deni Hines, Australian singer-songwriter"
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board."
+      "year": "1964",
+      "text": "Scotland's Forth Road Bridge near Edinburgh officially opens."
     },
     {
       "type": "Event",
-      "year": "2024",
-      "text": "A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia."
+      "year": "2002",
+      "text": "The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017."
     },
     {
       "type": "Birth",
-      "year": "1918",
-      "text": "Paul Harvey, American radio host (died 2009)"
+      "year": "1919",
+      "text": "Howard Morris, American actor, director, and screenwriter (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Jeff Tremaine, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "476",
-      "text": "Romulus Augustulus is deposed when Odoacer proclaims himself \"King of Italy\", thus ending the Western Roman Empire."
+      "year": "1908",
+      "text": "Edward Dmytryk, Canadian-American director and producer (died 1999)"
     },
     {
       "type": "Birth",
@@ -258,13 +138,158 @@
     },
     {
       "type": "Event",
-      "year": "1941",
-      "text": "World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer."
+      "year": "2024",
+      "text": "A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia."
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Maiden flight of the first U.S. airship, the USS Shenandoah."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Gerald Wilson, American trumpet player and composer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Gary Duncan, American guitarist (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Stephen Easley, American businessman and politician (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Mickey Cohen, American mob boss (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Noah Taylor, Australian actor"
+    },
+    {
+      "type": "Event",
+      "year": "1813",
+      "text": "Future U.S. president Andrew Jackson is shot in a tavern brawl with future U.S. Senator Thomas Hart Benton and others."
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board."
+    },
+    {
+      "type": "Event",
+      "year": "1888",
+      "text": "George Eastman registers the trademark Kodak and receives a patent for his camera that uses roll film."
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Stanford Moore, American biochemist and academic, Nobel Prize laureate (died 1982)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Stanislav Stepashkin, Russian boxer (born 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Ione Skye, English-American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Lance Klusener, South African cricketer and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Charles A. Hines, American general and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Judith Ivey, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Paul Harvey, American radio host (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Paul Sait, Australian rugby league player (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Konstantin Kalser, German-American film producer and advertising executive (died 1994)"
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Astrid Varnay, Swedish-American soprano (born 1918)"
     },
     {
       "type": "Birth",
       "year": "1960",
-      "text": "Damon Wayans, American actor, director, producer, and screenwriter"
+      "text": "Kim Thayil, American guitarist and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Mark Tuan, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Jerry Relph, American politician and member of the Minnesota Senate (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "The Price Is Right premieres on CBS. It currently is the longest running game show on American television."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Jennifer Salt, American actress, screenwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Dean Pees, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Wesley Blake, American wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort."
     },
     {
       "type": "Event",
@@ -273,33 +298,8 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Sushilkumar Shinde, Indian lawyer and politician, 19th Governor of Andhra Pradesh"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "George Savitsky, American football player (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Lacey Sturm, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Ivan Illich, Austrian priest and philosopher (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Dallas Willard, American philosopher and academic (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Howard Morris, American actor, director, and screenwriter (died 2005)"
+      "year": "1978",
+      "text": "Terence Newman, American football player"
     }
   ],
   "source": "Wikipedia"
