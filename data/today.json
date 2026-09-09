@@ -3,8 +3,223 @@
   "items": [
     {
       "type": "Event",
+      "year": "337",
+      "text": "Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Johnson Righeira, Italian singer-songwriter, musician, record producer and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Tom Foley, American baseball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1739",
+      "text": "Stono Rebellion, the largest slave uprising in Britain's mainland North American colonies prior to the American Revolution, erupts near Charleston, South Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Israeli–Palestinian peace process: The Palestine Liberation Organization officially recognizes Israel as a legitimate state."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Brad Guzan, American soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Cliff Robertson, American actor (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: The Union Army enters Chattanooga, Tennessee."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Haley Reinhart, American singer-songwriter and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Joe Negroni, American doo-wop singer (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The United States Department of Housing and Urban Development is established."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Shannon Boyd, Australian rugby league player"
+    },
+    {
+      "type": "Death",
+      "year": "1915",
+      "text": "Albert Spalding, American baseball player, manager, and businessman, co-founded Spalding (born 1850)"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Brahmarishi Hussain Sha, Indian philosopher and poet (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Constance Marie, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "John Passmore, Australian philosopher and academic (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Doug Ingle, American singer-songwriter and keyboard player (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Robert Wood Johnson III, American businessman and philanthropist (died 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "Mustafa Kemal Atatürk, the founder of the Republic of Turkey, founds the Republican People's Party."
+    },
+    {
+      "type": "Death",
+      "year": "1975",
+      "text": "John McGiver, American actor (born 1913)"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "Hanapepe massacre occurs on Kauai, Hawaii."
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "Amalthea becomes the last moon to be discovered without the use of photography."
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: A Japanese floatplane drops incendiary bombs on Oregon."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Kimberly Willis Holt, American author"
+    },
+    {
+      "type": "Event",
+      "year": "1801",
+      "text": "Alexander I of Russia confirms the privileges of Baltic provinces."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Russell M. Nelson, American captain, surgeon, and religious leader (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Paul Goodman, American author, poet, and playwright (died 1972)"
+    },
+    {
+      "type": "Event",
+      "year": "1850",
+      "text": "The Compromise of 1850 transfers a third of Texas's claimed territory to federal control in return for the U.S. federal government assuming $10 million of Texas's pre-annexation debt."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Michelle Williams, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "The Continental Congress officially names its union of states the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Kevin Hatcher, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Tom Wopat, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Joey Newman, American composer and conductor"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Jimmy Snyder, American sportscaster (died 1996)"
+    },
+    {
+      "type": "Event",
       "year": "1969",
       "text": "In Canada, the Official Languages Act comes into force, making French equal to English throughout the Federal government."
+    },
+    {
+      "type": "Event",
+      "year": "1855",
+      "text": "Crimean War: The Siege of Sevastopol comes to an end when Russian forces abandon the city."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Angela Cartwright, English-American actress, author, and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "Washington, D.C., the capital of the United States, is named after President George Washington."
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10–12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage."
+    },
+    {
+      "type": "Death",
+      "year": "1985",
+      "text": "Paul Flory, American chemist and engineer, Nobel Prize laureate (born 1910)"
+    },
+    {
+      "type": "Event",
+      "year": "1320",
+      "text": "In the Battle of Saint George, the Byzantines under Andronikos Asen ambush and defeat the forces of the Principality of Achaea, securing possession of Arcadia."
     },
     {
       "type": "Birth",
@@ -18,238 +233,13 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Natasha Stott Despoja, Australian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1493",
-      "text": "Christopher Columbus, with 17 ships and 1,200 men, sails on second voyage from Cadiz."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Brad Guzan, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Jane Greer, American actress (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1739",
-      "text": "Stono Rebellion, the largest slave uprising in Britain's mainland North American colonies prior to the American Revolution, erupts near Charleston, South Carolina."
-    },
-    {
-      "type": "Event",
-      "year": "337",
-      "text": "Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "J. R. Smith, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Edward Teller, Hungarian-American physicist and academic (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "B. J. Armstrong, American basketball player and sportscaster"
-    },
-    {
-      "type": "Death",
-      "year": "1997",
-      "text": "Richie Ashburn, American baseball player and sportscaster (born 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson."
-    },
-    {
-      "type": "Event",
-      "year": "1801",
-      "text": "Alexander I of Russia confirms the privileges of Baltic provinces."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Johnson Righeira, Italian singer-songwriter, musician, record producer and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Otis Redding, American singer-songwriter and producer (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Yuliana Korolkova, Russian model and beauty pageant titleholder"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: A Japanese floatplane drops incendiary bombs on Oregon."
-    },
-    {
-      "type": "Event",
-      "year": "1850",
-      "text": "California is admitted as the thirty-first U.S. state."
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "Amalthea becomes the last moon to be discovered without the use of photography."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Walter Davis, American basketball player (died 2023)"
+      "year": "1987",
+      "text": "Nicole Aniston, American actress and model"
     },
     {
       "type": "Event",
       "year": "2014",
       "text": "The album Songs of Innocence by U2 is digitally released at no charge to all customers of the iTunes Music Store, appearing automatically in the \"purchased\" section of over 500 million users worldwide."
-    },
-    {
-      "type": "Event",
-      "year": "1855",
-      "text": "Crimean War: The Siege of Sevastopol comes to an end when Russian forces abandon the city."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Hans Georg Dehmelt, German-American physicist and academic, Nobel Prize laureate (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "Mustafa Kemal Atatürk, the founder of the Republic of Turkey, founds the Republican People's Party."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "John McFee, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10–12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage."
-    },
-    {
-      "type": "Event",
-      "year": "1850",
-      "text": "The Compromise of 1850 transfers a third of Texas's claimed territory to federal control in return for the U.S. federal government assuming $10 million of Texas's pre-annexation debt."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Skip Kendall, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "John Passmore, Australian philosopher and academic (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Jay Ward, American baseball player, coach, and manager (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "Hanapepe massacre occurs on Kauai, Hawaii."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world."
-    },
-    {
-      "type": "Birth",
-      "year": "2003",
-      "text": "Luke Hughes, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Jim Keays, Scottish-Australian singer-songwriter (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1320",
-      "text": "In the Battle of Saint George, the Byzantines under Andronikos Asen ambush and defeat the forces of the Principality of Achaea, securing possession of Arcadia."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Israeli–Palestinian peace process: The Palestine Liberation Organization officially recognizes Israel as a legitimate state."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Tom Wopat, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Edwin Jackson, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Tom Foley, American baseball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1488",
-      "text": "Anne becomes sovereign Duchess of Brittany, becoming a central figure in the struggle for influence that leads to the union of Brittany and France."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Tatyana Zaslavskaya, Russian sociologist and economist (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Chris Coons, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "Washington, D.C., the capital of the United States, is named after President George Washington."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Yusuf al-Qaradawi, Egyptian theologian and author (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Cameron Cullen, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Joe Theismann, American football player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "The Continental Congress officially names its union of states the United States."
     },
     {
       "type": "Event",
@@ -262,44 +252,54 @@
       "text": "James Hilton, English-American author and screenwriter (died 1954)"
     },
     {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Aleksandar Hemon, Bosnian-American author and critic"
+      "type": "Event",
+      "year": "1493",
+      "text": "Christopher Columbus, with 17 ships and 1,200 men, sails on second voyage from Cadiz."
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Will Middlebrooks, American baseball player"
+      "year": "1965",
+      "text": "Charles Esten, American actor, comedian, and musician"
     },
     {
-      "type": "Death",
-      "year": "1815",
-      "text": "John Singleton Copley, American-English colonial and painter (born 1738)"
+      "type": "Event",
+      "year": "1850",
+      "text": "California is admitted as the thirty-first U.S. state."
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Eric Stonestreet, American actor"
+      "year": "1907",
+      "text": "Leon Edel, American author and critic (died 1997)"
     },
     {
       "type": "Birth",
       "year": "1960",
-      "text": "Kimberly Willis Holt, American author"
+      "text": "Bob Stoops, American football player and coach"
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Doug Ingle, American singer-songwriter and keyboard player (died 2024)"
+      "year": "1986",
+      "text": "Michael Bowden, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1965",
-      "text": "The United States Department of Housing and Urban Development is established."
+      "year": "1488",
+      "text": "Anne becomes sovereign Duchess of Brittany, becoming a central figure in the struggle for influence that leads to the union of Brittany and France."
     },
     {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Union Army enters Chattanooga, Tennessee."
+      "type": "Birth",
+      "year": "1977",
+      "text": "Kyle Snyder, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Alfonzo Dennard, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Timothy Granaderos, American actor and model"
     }
   ],
   "source": "Wikipedia"
