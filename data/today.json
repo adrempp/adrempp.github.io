@@ -2,59 +2,19 @@
   "date": "2026-09-12",
   "items": [
     {
-      "type": "Birth",
-      "year": "1902",
-      "text": "Juscelino Kubitschek, Brazilian physician and politician, 21st President of Brazil (died 1976)"
+      "type": "Death",
+      "year": "2007",
+      "text": "Bobby Byrd, American singer-songwriter and producer  (born 1934)"
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers."
+      "year": "1213",
+      "text": "Albigensian Crusade: Simon de Montfort, 5th Earl of Leicester, defeats Peter II of Aragon at the Battle of Muret."
     },
     {
-      "type": "Event",
-      "year": "2003",
-      "text": "Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Lonnie Mayne, American wrestler (died 1978)"
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Mexican–American War: the Battle of Chapultepec begins."
-    },
-    {
-      "type": "Event",
-      "year": "1683",
-      "text": "Austro-Ottoman War: Battle of Vienna: Several European armies join forces to defeat the Ottoman Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "Jack Kilby demonstrates the first working integrated circuit while working at Texas Instruments."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Staciana Stitts, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Larry Austin, American composer and educator (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions and Artemis II)."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Haskell Curry, American mathematician, logician, and academic (died 1982)"
+      "type": "Death",
+      "year": "1903",
+      "text": "Duncan Gillies, Scottish-Australian businessman and politician, 14th Premier of Victoria (born 1834)"
     },
     {
       "type": "Event",
@@ -62,154 +22,9 @@
       "text": "South African anti-apartheid activist Steve Biko dies in police custody."
     },
     {
-      "type": "Event",
-      "year": "1980",
-      "text": "Florida Commuter Airlines Flight 65 crashes into the Atlantic Ocean off West End, Bahamas, killing 34 people."
-    },
-    {
       "type": "Birth",
-      "year": "1969",
-      "text": "James Frey, American author and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "U.S. Senator and future President John Fitzgerald Kennedy marries Jacqueline Lee Bouvier at St. Mary's Church in Newport, Rhode Island."
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "The Hercules Powder plant disaster in the United States kills 51 people and injures over 200."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Frank McGee, American journalist (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "NASA launches Space Shuttle Discovery on STS-51."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Jaegwon Kim, South Korean-American philosopher and academic (died 2019)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Joe Pantoliano, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Emmy Rossum, American singer and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "Battle of North Point: an American detachment halts the British land advance to Baltimore in the War of 1812."
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Benito Mussolini is rescued from house arrest by German commando forces led by Otto Skorzeny."
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "French soldiers rescue over 4,000 Armenian genocide survivors stranded on Musa Dagh."
-    },
-    {
-      "type": "Death",
-      "year": "1907",
-      "text": "Ilia Chavchavadze, Georgian poet, journalist, and lawyer (born 1837)"
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "A new constitution marks the establishment of Switzerland as a federal state."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Grant Denyer, Australian racing driver and journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: First day of the Battle of Edson's Ridge during the Guadalcanal Campaign. U.S. Marines protecting Henderson Field are attacked by Imperial Japanese Army troops."
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Johnny Cash, American singer-songwriter, guitarist, and actor (born 1932)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Bonanza, the first regularly scheduled TV program presented in color, is launched in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "A Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Henry Waxman, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Harvey Schmidt, American composer and illustrator (died 2018)"
-    },
-    {
-      "type": "Event",
-      "year": "1723",
-      "text": "Iran and Russia sign the treaty of Saint Petersburg. Iran is forced to cede all lands on the western and southern coast of the Caspian Sea and Russia pledges to provide military support against the Ottoman Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Linda Gray, American model and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "NASA launches Space Shuttle Endeavour on STS-47, which marks the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spacecraft, and Mark Lee and Jan Davis, the first married couple in space."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Glenn Davis, American hurdler, sprinter, and football player (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "US President John F. Kennedy delivers his \"We choose to go to the Moon\" speech at Rice University."
-    },
-    {
-      "type": "Event",
-      "year": "1213",
-      "text": "Albigensian Crusade: Simon de Montfort, 5th Earl of Leicester, defeats Peter II of Aragon at the Battle of Muret."
+      "year": "1960",
+      "text": "Evan Jenkins, American academic and politician"
     },
     {
       "type": "Event",
@@ -218,53 +33,18 @@
     },
     {
       "type": "Event",
-      "year": "1910",
-      "text": "Premiere performance of Gustav Mahler's Symphony No. 8 in Munich (with a chorus of 852 singers and an orchestra of 171 players. Mahler's rehearsal assistant conductor was Bruno Walter)."
+      "year": "1966",
+      "text": "Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions and Artemis II)."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan."
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Mark Rosenzweig, American psychologist and academic (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "The Red Cross organizations of mainland China and Taiwan sign the Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait."
-    },
-    {
-      "type": "Event",
-      "year": "1857",
-      "text": "The SS Central America sinks about 160 miles east of Cape Hatteras, North Carolina, drowning a total of 426 passengers and crew, including Captain William Lewis Herndon. The ship was carrying 13–15 tons of gold from the California gold rush."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West Wing. There were no other casualties."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Daniel Muir, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Dawson's Field hijackings: Popular Front for the Liberation of Palestine terrorists blow up three hijacked airliners in Zarqa, Jordan, continuing to hold the passengers hostage in various undisclosed locations in Amman."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Jerome Ford, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1885",
-      "text": "Arbroath 36–0 Bon Accord, a world record scoreline in professional association football."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007."
+      "year": "1958",
+      "text": "Wilfred Benítez, American boxer"
     },
     {
       "type": "Event",
@@ -272,24 +52,104 @@
       "text": "Dwight Gooden sets the baseball record for strikeouts in a season by a rookie with 276, previously set by Herb Score with 246 in 1954. Gooden's 276 strikeouts that season, pitched in 218 innings, set the current record."
     },
     {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Kelsea Ballerini, American country pop singer"
+    },
+    {
       "type": "Event",
-      "year": "1897",
-      "text": "Tirah campaign: In the Battle of Saragarhi, ten thousand Pashtun tribesmen suffer several hundred casualties while attacking 21 Sikh soldiers in British service."
+      "year": "1857",
+      "text": "The SS Central America sinks about 160 miles east of Cape Hatteras, North Carolina, drowning a total of 426 passengers and crew, including Captain William Lewis Herndon. The ship was carrying 13–15 tons of gold from the California gold rush."
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Barry White, American singer-songwriter (died 2003)"
+      "year": "1957",
+      "text": "Rachel Ward, English-Australian actress"
     },
     {
-      "type": "Death",
+      "type": "Event",
+      "year": "1723",
+      "text": "Iran and Russia sign the treaty of Saint Petersburg. Iran is forced to cede all lands on the western and southern coast of the Caspian Sea and Russia pledges to provide military support against the Ottoman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West Wing. There were no other casualties."
+    },
+    {
+      "type": "Event",
+      "year": "1910",
+      "text": "Premiere performance of Gustav Mahler's Symphony No. 8 in Munich (with a chorus of 852 singers and an orchestra of 171 players. Mahler's rehearsal assistant conductor was Bruno Walter)."
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Bonanza, the first regularly scheduled TV program presented in color, is launched in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Grant Denyer, Australian racing driver and journalist"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Joe Pantoliano, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "Battle of North Point: an American detachment halts the British land advance to Baltimore in the War of 1812."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Charles Burlingame, American captain and pilot (died 2001)"
+    },
+    {
+      "type": "Event",
       "year": "2005",
-      "text": "Serge Lang, French-American mathematician, author and academic (born 1927)"
+      "text": "Israeli–Palestinian conflict: the Israeli disengagement from Gaza is completed, leaving some 2,530 homes demolished."
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "A Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "US President John F. Kennedy delivers his \"We choose to go to the Moon\" speech at Rice University."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers."
     },
     {
       "type": "Birth",
       "year": "1968",
-      "text": "Nicholas Russell, 6th Earl Russell, English politician (died 2014)"
+      "text": "Larry LaLonde, American guitarist and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "The Red Cross organizations of mainland China and Taiwan sign the Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Ben Folds, American singer-songwriter, guitarist, and producer"
     },
     {
       "type": "Event",
@@ -298,8 +158,148 @@
     },
     {
       "type": "Event",
-      "year": "2005",
-      "text": "Israeli–Palestinian conflict: the Israeli disengagement from Gaza is completed, leaving some 2,530 homes demolished."
+      "year": "1885",
+      "text": "Arbroath 36–0 Bon Accord, a world record scoreline in professional association football."
+    },
+    {
+      "type": "Event",
+      "year": "1897",
+      "text": "Tirah campaign: In the Battle of Saragarhi, ten thousand Pashtun tribesmen suffer several hundred casualties while attacking 21 Sikh soldiers in British service."
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "Mexican–American War: the Battle of Chapultepec begins."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Dawson's Field hijackings: Popular Front for the Liberation of Palestine terrorists blow up three hijacked airliners in Zarqa, Jordan, continuing to hold the passengers hostage in various undisclosed locations in Amman."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Benito Mussolini is rescued from house arrest by German commando forces led by Otto Skorzeny."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "NASA launches Space Shuttle Discovery on STS-51."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The Hercules Powder plant disaster in the United States kills 51 people and injures over 200."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Road Warrior Animal, American wrestler (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1683",
+      "text": "Austro-Ottoman War: Battle of Vienna: Several European armies join forces to defeat the Ottoman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Vladimir Spivakov, Russian violinist and conductor"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: First day of the Battle of Edson's Ridge during the Guadalcanal Campaign. U.S. Marines protecting Henderson Field are attacked by Imperial Japanese Army troops."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Irina Rodnina, Russian figure skater and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1898",
+      "text": "Alma Moodie, Australian violinist and educator (died 1943)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jennifer Hudson, American singer and actress"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Jon Finlayson, Australian actor and screenwriter (born 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Florida Commuter Airlines Flight 65 crashes into the Atlantic Ocean off West End, Bahamas, killing 34 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Bruce Mahler, American actor and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007."
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "French soldiers rescue over 4,000 Armenian genocide survivors stranded on Musa Dagh."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Deron Cherry, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Richard Hunt, American sculptor (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Russell \"Jungle Jim\" Liberman, American drag racer (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "1848",
+      "text": "A new constitution marks the establishment of Switzerland as a federal state."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "U.S. Senator and future President John Fitzgerald Kennedy marries Jacqueline Lee Bouvier at St. Mary's Church in Newport, Rhode Island."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "Jack Kilby demonstrates the first working integrated circuit while working at Texas Instruments."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Milo Manara, Italian author and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "NASA launches Space Shuttle Endeavour on STS-47, which marks the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spacecraft, and Mark Lee and Jan Davis, the first married couple in space."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Ruben Studdard, American R&B, pop, and gospel singer"
     }
   ],
   "source": "Wikipedia"
