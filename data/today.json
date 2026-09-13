@@ -3,248 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "1900",
-      "text": "Filipino insurgents defeat a small American column in the Battle of Pulang Lupa, during the Philippine–American War."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Brad Hooker, English-American philosopher and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Tatyana Mitkova, Russian journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "William Owusu, Ghanaian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Yuri Alexandrov, Russian boxer (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Nell Carter, American actress and singer (died 2003)"
-    },
-    {
-      "type": "Event",
-      "year": "1807",
-      "text": "Beethoven's Mass in C major, Op. 86, is premiered, commissioned by Nikolaus I, Prince Esterházy, and displeasing him."
-    },
-    {
-      "type": "Death",
-      "year": "1967",
-      "text": "Mohammed bin Awad bin Laden, Yemeni-Saudi Arabian businessman, founded Saudi Binladin Group (born 1903)"
-    },
-    {
-      "type": "Event",
-      "year": "-585",
-      "text": "Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Else Holmelund Minarik, Danish-American journalist and author (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1759",
-      "text": "Battle of the Plains of Abraham: the British defeat the French near Quebec City in the Seven Years' War, known in the United States as the French and Indian War."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jeff Ross, American comedian, director, and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Ben Savage, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "King Louis XVI accepts the new French constitution."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Union soldiers find a copy of Robert E. Lee's battle plans in a field outside Frederick, Maryland. It is the prelude to the Battle of Antietam."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces."
-    },
-    {
-      "type": "Event",
-      "year": "1843",
-      "text": "The Greek Army rebels (OS date: September 3) against the autocratic rule of king Otto of Greece, demanding the granting of a constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Frank Marshall, American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "Mexican–American War: Six teenage military cadets known as Niños Héroes die defending Chapultepec Castle in the Battle of Chapultepec. American troops under General Winfield Scott capture Mexico City in the Mexican–American War."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "Civilian aircraft traffic resumes in the United States after the September 11 attacks."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate."
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "Finnish War: In the Battle of Jutas, Swedish forces under Lieutenant General Georg Carl von Döbeln beat the Russians, making von Döbeln a Swedish war hero."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Louis Mandylor, Australian actor"
-    },
-    {
-      "type": "Event",
-      "year": "1788",
-      "text": "The Congress of the Confederation sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university."
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "War of 1812: A supply wagon sent to relieve Fort Harrison is ambushed in the Attack at the Narrows."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Brad Johnson, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1953",
-      "text": "Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union."
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Lex Marinos, Australian actor (born 1949)"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "The IBM 305 RAMAC is introduced, the first commercial computer to use disk storage."
-    },
-    {
-      "type": "Event",
-      "year": "-509",
-      "text": "The Temple of Jupiter Optimus Maximus on Rome's Capitoline Hill is dedicated on the ides of September."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Joe Morris, American guitarist and composer"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Israeli Prime Minister Yitzhak Rabin shakes hands with Palestine Liberation Organization chairman Yasser Arafat at the White House after signing the Oslo Accords granting limited Palestinian autonomy."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Joe Don Rooney, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1848",
-      "text": "Vermont railroad worker Phineas Gage survives an iron rod 1+1⁄4 inches (3.2 cm) in diameter being driven through his brain; the reported effects on his behavior and personality stimulate discussion of the nature of the brain and its functions."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Ro Khanna, American politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Neal Lancaster, American golfer"
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Toni Fritsch, Austrian footballer (born 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Tim \"Ripper\" Owens, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1743",
-      "text": "Great Britain, Austria and the Kingdom of Sardinia sign the Treaty of Worms."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Charles Brown, American singer and pianist (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Mildred D. Taylor, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Eileen Fulton, American actress (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Barbara Bain, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1814",
-      "text": "In a turning point in the War of 1812, the British fail to capture Baltimore. During the battle, Francis Scott Key composes his poem \"Defence of Fort McHenry\", which is later set to music and becomes the United States' national anthem."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Bob Eggleton, American artist"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne."
+      "year": "1997",
+      "text": "A German Air Force Tupolev Tu-154 and a United States Air Force Lockheed C-141 Starlifter collide in mid-air near Namibia, killing 33."
     },
     {
       "type": "Event",
@@ -253,8 +13,178 @@
     },
     {
       "type": "Event",
+      "year": "1848",
+      "text": "Vermont railroad worker Phineas Gage survives an iron rod 1+1⁄4 inches (3.2 cm) in diameter being driven through his brain; the reported effects on his behavior and personality stimulate discussion of the nature of the brain and its functions."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Joel-Peter Witkin, American photographer"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Sepp Kuss, American professional cyclist"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Don Was, American bass player and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1743",
+      "text": "Great Britain, Austria and the Kingdom of Sardinia sign the Treaty of Worms."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Else Holmelund Minarik, Danish-American journalist and author (died 2012)"
+    },
+    {
+      "type": "Death",
+      "year": "2000",
+      "text": "Betty Jeffrey, Australian nurse and author (born 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Isiah Whitlock Jr., American actor (died 2025)"
+    },
+    {
+      "type": "Event",
+      "year": "1807",
+      "text": "Beethoven's Mass in C major, Op. 86, is premiered, commissioned by Nikolaus I, Prince Esterházy, and displeasing him."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Darren Waller, American football player"
+    },
+    {
+      "type": "Birth",
       "year": "1971",
-      "text": "State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives."
+      "text": "Ben Alexander, Australian rugby league player (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "-585",
+      "text": "Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "Civilian aircraft traffic resumes in the United States after the September 11 attacks."
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "In a turning point in the War of 1812, the British fail to capture Baltimore. During the battle, Francis Scott Key composes his poem \"Defence of Fort McHenry\", which is later set to music and becomes the United States' national anthem."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Robert Indiana, American painter and sculptor (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Brad Johnson, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Cameron Munster, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Brad Hooker, English-American philosopher and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Frank Marshall, American director and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Lili Reinhart, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Judy Blumberg, American ice dancer and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "Mexican–American War: Six teenage military cadets known as Niños Héroes die defending Chapultepec Castle in the Battle of Chapultepec. American troops under General Winfield Scott capture Mexico City in the Mexican–American War."
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Stephen Perkins, American drummer and songwriter"
+    },
+    {
+      "type": "Death",
+      "year": "1987",
+      "text": "Mervyn LeRoy, American actor, director, and producer (born 1900)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Joni Sledge, American singer and songwriter (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Ksenia Afanasyeva, Russian gymnast"
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "The Greek Army rebels (OS date: September 3) against the autocratic rule of king Otto of Greece, demanding the granting of a constitution."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Igor Kravchuk, Russian ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1788",
+      "text": "The Congress of the Confederation sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Jon Mannah, Australian rugby league player (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "The IBM 305 RAMAC is introduced, the first commercial computer to use disk storage."
     },
     {
       "type": "Event",
@@ -263,18 +193,88 @@
     },
     {
       "type": "Event",
+      "year": "-509",
+      "text": "The Temple of Jupiter Optimus Maximus on Rome's Capitoline Hill is dedicated on the ides of September."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Yuri Alexandrov, Russian boxer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Brendan Hall, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Sean Williams, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1808",
+      "text": "Finnish War: In the Battle of Jutas, Swedish forces under Lieutenant General Georg Carl von Döbeln beat the Russians, making von Döbeln a Swedish war hero."
+    },
+    {
+      "type": "Death",
+      "year": "2009",
+      "text": "Paul Burke, American actor (born 1926)"
+    },
+    {
+      "type": "Event",
       "year": "533",
       "text": "Belisarius of the Byzantine Empire defeats Gelimer and the Vandals at the Battle of Ad Decimum, near Carthage, North Africa."
     },
     {
       "type": "Event",
-      "year": "1997",
-      "text": "A German Air Force Tupolev Tu-154 and a United States Air Force Lockheed C-141 Starlifter collide in mid-air near Namibia, killing 33."
+      "year": "1971",
+      "text": "State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives."
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "War of 1812: A supply wagon sent to relieve Fort Harrison is ambushed in the Attack at the Narrows."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Israeli Prime Minister Yitzhak Rabin shakes hands with Palestine Liberation Organization chairman Yasser Arafat at the White House after signing the Oslo Accords granting limited Palestinian autonomy."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Union soldiers find a copy of Robert E. Lee's battle plans in a field outside Frederick, Maryland. It is the prelude to the Battle of Antietam."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne."
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Michael Johnson, American former sprinter and journalist"
+      "year": "1946",
+      "text": "Henri Kuprashvili, Georgian swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured."
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "King Louis XVI accepts the new French constitution."
     },
     {
       "type": "Birth",
@@ -283,23 +283,23 @@
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Derek Hardman, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Tavis Smiley, American talk show host, journalist, and author"
+      "year": "1939",
+      "text": "Richard Kiel, American actor and voice artist (died 2014)"
     },
     {
       "type": "Event",
-      "year": "2007",
-      "text": "The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly."
+      "year": "1759",
+      "text": "Battle of the Plains of Abraham: the British defeat the French near Quebec City in the Seven Years' War, known in the United States as the French and Indian War."
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "Filipino insurgents defeat a small American column in the Battle of Pulang Lupa, during the Philippine–American War."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Don Was, American bass player and producer"
+      "year": "1969",
+      "text": "Dominic Fumusa, American actor"
     }
   ],
   "source": "Wikipedia"
