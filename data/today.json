@@ -3,18 +3,148 @@
   "items": [
     {
       "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought."
+      "year": "1994",
+      "text": "The rest of the Major League Baseball season is canceled because of a strike."
+    },
+    {
+      "type": "Event",
+      "year": "1752",
+      "text": "The British Empire adopts the Gregorian calendar, skipping eleven days (the previous day was September 2)."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Jim Fanning, American-Canadian baseball player and manager (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Paolo Gregoletto, American bass player and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1829",
+      "text": "The Ottoman Empire signs the Treaty of Adrianople with Russia, thus ending the Russo-Turkish War."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Nick Botterill, British business man"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Michael Crabtree, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Rowena Morrill, American artist (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Gardner Dickinson, American golfer (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Dee Milliner, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Frances Bergen, American model and actress (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Ron DeSantis, American politician, 46th Governor of Florida"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Raoul Villain, who assassinated the French Socialist Jean Jaurès, is himself killed by Spanish Republicans in Ibiza."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "U.S. president William McKinley dies after being mortally wounded on September 6 by anarchist Leon Czolgosz and is succeeded by Vice President Theodore Roosevelt."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Jim Angle, American soldier and journalist (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Chad Bradford, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Steve Gaines, American singer-songwriter and guitarist (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Jesse James, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "Battle of Baltimore: The poem Defence of Fort McHenry is written by Francis Scott Key. The poem is later used as the lyrics of The Star-Spangled Banner."
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Shayne Topp, American actor and Smosh cast member"
     },
     {
       "type": "Birth",
       "year": "1983",
-      "text": "Amy Winehouse, British singer-songwriter, musician, and businesswoman (died 2011)"
+      "text": "Frostee Rucker, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "2003",
+      "text": "John Serry Sr., American accordion player and composer (born 1915)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "David Wojnarowicz, American painter and photographer (died 1992)"
     },
     {
       "type": "Event",
-      "year": "1954",
-      "text": "In a top secret nuclear test, a Soviet Tu-4 bomber drops a 40 kiloton atomic weapon just north of Totskoye village."
+      "year": "1960",
+      "text": "Congo Crisis: Mobutu Sese Seko seizes power in a military coup, suspending parliament and the constitution."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "The Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Faith Leech, Australian swimmer (born 1941)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "Historic National Prayer Service held at Washington National Cathedral for victims of the September 11 attacks. A similar service is held in Canada on Parliament Hill, the largest vigil ever held in the nation's capital."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "The first American saint, Elizabeth Ann Seton, is canonized by Pope Paul VI."
     },
     {
       "type": "Birth",
@@ -22,14 +152,49 @@
       "text": "Angus Ogilvy, English businessman (died 2004)"
     },
     {
-      "type": "Event",
-      "year": "1782",
-      "text": "American Revolutionary War: Review of the French troops under General Rochambeau by General George Washington at Verplanck's Point, New York."
+      "type": "Birth",
+      "year": "1954",
+      "text": "Barry Cowsill, American singer-songwriter, keyboard player, and producer (died 2005)"
     },
     {
       "type": "Event",
-      "year": "1115",
-      "text": "Roger of Salerno's Crusader army defeats a numerically superior Seljuk army in the battle of Sarmin"
+      "year": "2008",
+      "text": "Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Prelude to the 2008 financial crisis: Northern Rock bank experiences the first bank run in the United Kingdom in 150 years."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Allan Bloom, American philosopher and academic (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Bissau-Guinean President Kumba Ialá is ousted from power in a bloodless military coup led by General Veríssimo Correia Seabra."
+    },
+    {
+      "type": "Event",
+      "year": "1141",
+      "text": "An army of queen Matilda defeats and disperses an army of empress Matilda which was besieging Winchester. Robert of Gloucester is captured and exchanged for king Stephen, husband of queen Matilda."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Joan Trumpauer Mulholland, American civil rights activist"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Lufthansa Flight 2904, an Airbus A320, crashes into an embankment after overshooting the runway at Okęcie International Airport (now Warsaw Chopin Airport), killing two people."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Danielle Peck, American singer-songwriter"
     },
     {
       "type": "Event",
@@ -38,48 +203,48 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Bruce Hyde, American actor and academic (died 2015)"
+      "year": "1989",
+      "text": "Tony Finau, American golfer"
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Jerry Coleman, American baseball player and manager (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Frostee Rucker, American football player"
+      "year": "1923",
+      "text": "Nicholas Georgiadis, Greek painter and costume designer (died 2001)"
     },
     {
       "type": "Event",
-      "year": "1939",
-      "text": "World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia."
+      "year": "1782",
+      "text": "American Revolutionary War: Review of the French troops under General Rochambeau by General George Washington at Verplanck's Point, New York."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Judy Playfair, Australian swimmer"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "LaWanda Page, American actress (born 1920)"
     },
     {
       "type": "Event",
-      "year": "1992",
-      "text": "The Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Terrell Fletcher, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Jonathan Monaghan, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Mike Nifong, American lawyer and politician"
+      "year": "1954",
+      "text": "In a top secret nuclear test, a Soviet Tu-4 bomber drops a 40 kiloton atomic weapon just north of Totskoye village."
     },
     {
       "type": "Event",
-      "year": "2007",
-      "text": "Prelude to the 2008 financial crisis: Northern Rock bank experiences the first bank run in the United Kingdom in 150 years."
+      "year": "81",
+      "text": "Domitian became Emperor of the Roman Empire upon the death of his brother Titus."
+    },
+    {
+      "type": "Event",
+      "year": "1115",
+      "text": "Roger of Salerno's Crusader army defeats a numerically superior Seljuk army in the battle of Sarmin"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Notah Begay III, American golfer"
     },
     {
       "type": "Event",
@@ -92,49 +257,34 @@
       "text": "The Russian Empire is formally replaced by the Russian Republic."
     },
     {
-      "type": "Event",
-      "year": "1752",
-      "text": "The British Empire adopts the Gregorian calendar, skipping eleven days (the previous day was September 2)."
+      "type": "Birth",
+      "year": "1984",
+      "text": "Ayushmann Khurrana, Indian actor, singer and anchor"
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Josh Outman, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Belinda Hocking, Australian backstroke swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Fred \"Sonic\" Smith, American guitarist and songwriter (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Romola Costantino, Australian pianist and critic (died 1988)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "David Wojnarowicz, American painter and photographer (died 1992)"
+      "year": "1989",
+      "text": "Jonathon Simmons, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1814",
-      "text": "Battle of Baltimore: The poem Defence of Fort McHenry is written by Francis Scott Key. The poem is later used as the lyrics of The Star-Spangled Banner."
-    },
-    {
-      "type": "Birth",
       "year": "1939",
-      "text": "DeWitt Weaver, American golfer (died 2021)"
+      "text": "World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia."
     },
     {
       "type": "Event",
-      "year": "1994",
-      "text": "The rest of the Major League Baseball season is canceled because of a strike."
+      "year": "1911",
+      "text": "Russian Premier Pyotr Stolypin is shot by Dmitry Bogrov while attending a performance of Rimsky-Korsakov's The Tale of Tsar Saltan at the Kiev Opera House, in the presence of Tsar Nicholas II."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Reggie Williams, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Trevis Smith, American football player"
     },
     {
       "type": "Event",
@@ -143,163 +293,13 @@
     },
     {
       "type": "Event",
-      "year": "1141",
-      "text": "An army of queen Matilda defeats and disperses an army of empress Matilda which was besieging Winchester. Robert of Gloucester is captured and exchanged for king Stephen, husband of queen Matilda."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Nicholas Georgiadis, Greek painter and costume designer (died 2001)"
-    },
-    {
-      "type": "Death",
-      "year": "1851",
-      "text": "James Fenimore Cooper, American novelist, short story writer, and historian (born 1789)"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Patricia Barringer, American baseball player and accountant (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Judy Playfair, Australian swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Frances Bergen, American model and actress (died 2006)"
-    },
-    {
-      "type": "Death",
-      "year": "1936",
-      "text": "Irving Thalberg, American screenwriter and producer (born 1899)"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Raoul Villain, who assassinated the French Socialist Jean Jaurès, is himself killed by Spanish Republicans in Ibiza."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Craig Montoya, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Gardner Dickinson, American golfer (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board."
-    },
-    {
-      "type": "Event",
-      "year": "81",
-      "text": "Domitian became Emperor of the Roman Empire upon the death of his brother Titus."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Jimmy Butler, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Harve Presnell, American actor and singer (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Gary Harris, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Chad Bradford, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Marc Reisner, American environmentalist and author (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "Historic National Prayer Service held at Washington National Cathedral for victims of the September 11 attacks. A similar service is held in Canada on Parliament Hill, the largest vigil ever held in the nation's capital."
-    },
-    {
-      "type": "Death",
-      "year": "2002",
-      "text": "LaWanda Page, American actress (born 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Ayushmann Khurrana, Indian actor, singer and anchor"
-    },
-    {
-      "type": "Event",
-      "year": "1829",
-      "text": "The Ottoman Empire signs the Treaty of Adrianople with Russia, thus ending the Russo-Turkish War."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Bissau-Guinean President Kumba Ialá is ousted from power in a bloodless military coup led by General Veríssimo Correia Seabra."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Eugene I. Gordon, American physicist and engineer (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Jim Fanning, American-Canadian baseball player and manager (died 2015)"
-    },
-    {
-      "type": "Event",
       "year": "1210",
       "text": "Maria of Montferrat, Queen of Jerusalem, marries French baron John of Brienne, who is later crowned king on 30 October in Tyre."
     },
     {
-      "type": "Event",
-      "year": "1960",
-      "text": "Congo Crisis: Mobutu Sese Seko seizes power in a military coup, suspending parliament and the constitution."
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "The first American saint, Elizabeth Ann Seton, is canonized by Pope Paul VI."
-    },
-    {
       "type": "Birth",
-      "year": "1933",
-      "text": "Zoe Caldwell, Australian actress (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Rowena Morrill, American artist (died 2021)"
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "U.S. president William McKinley dies after being mortally wounded on September 6 by anarchist Leon Czolgosz and is succeeded by Vice President Theodore Roosevelt."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Lufthansa Flight 2904, an Airbus A320, crashes into an embankment after overshooting the runway at Okęcie International Airport (now Warsaw Chopin Airport), killing two people."
-    },
-    {
-      "type": "Event",
-      "year": "1911",
-      "text": "Russian Premier Pyotr Stolypin is shot by Dmitry Bogrov while attending a performance of Rimsky-Korsakov's The Tale of Tsar Saltan at the Kiev Opera House, in the presence of Tsar Nicholas II."
+      "year": "1995",
+      "text": "Jevon Carter, American basketball player"
     }
   ],
   "source": "Wikipedia"
