@@ -2,54 +2,9 @@
   "date": "2026-09-16",
   "items": [
     {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Patricia Wald, American judge (died 2019)"
-    },
-    {
       "type": "Event",
-      "year": "1953",
-      "text": "American Airlines Flight 723 crashes in Colonie, New York, killing 28 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Butch Buchholz, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Justine Frischmann, English singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Clint Ratkovich, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Kevin Young, American hurdler"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "David Bellamy, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Joe Butler, American singer, autoharp player, and drummer"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "The United States National Hurricane Research Project drops eight cylinders of silver iodide into the eyewall of Hurricane Esther. Wind speed reduces by 10%, giving rise to Project Stormfury."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head."
+      "year": "1880",
+      "text": "The Cornell Daily Sun prints its first issue in Ithaca, New York."
     },
     {
       "type": "Birth",
@@ -57,34 +12,19 @@
       "text": "Camiel Eurlings, Dutch businessman and member of the International Olympic Committee"
     },
     {
-      "type": "Event",
-      "year": "1976",
-      "text": "Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir."
+      "type": "Birth",
+      "year": "1977",
+      "text": "Gregory Ball, American captain and politician"
     },
     {
-      "type": "Event",
-      "year": "1975",
-      "text": "Papua New Guinea gains independence from Australia."
+      "type": "Death",
+      "year": "1843",
+      "text": "Ezekiel Hart, Canadian businessman and politician (born 1770)"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Ed Begley Jr., American actor and environmental activist"
-    },
-    {
-      "type": "Event",
-      "year": "681",
-      "text": "Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Mike Reynolds, Australian lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1776",
-      "text": "American Revolutionary War: American forces win the Battle of Harlem Heights after General George Washington orders a counterattack on advancing British light infantry."
+      "year": "1974",
+      "text": "Julian Castro, American lawyer and politician, 16th United States Secretary of Housing and Urban Development"
     },
     {
       "type": "Event",
@@ -93,193 +33,18 @@
     },
     {
       "type": "Event",
-      "year": "1956",
-      "text": "TCN-9 Sydney is the first Australian television station to commence regular broadcasts."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jayne Brook, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Bryson DeChambeau, American golfer"
-    },
-    {
-      "type": "Event",
-      "year": "1779",
-      "text": "American Revolutionary War: The Franco-American Siege of Savannah begins."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Kyla Pratt, American actress and singer"
-    },
-    {
-      "type": "Death",
-      "year": "1914",
-      "text": "C. X. Larrabee, American businessman (born 1843)"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Nick Jonas, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "George Chakiris, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Earl Klugh, American musician"
-    },
-    {
-      "type": "Event",
-      "year": "1620",
-      "text": "Pilgrims set sail for Virginia from Plymouth, England in the Mayflower."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Musiq Soulchild, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Molly Shannon, American actress, comedian and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Anairis Quiñones, American voice actress"
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Edward Albee, American director and playwright (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Joji, Japanese-Australian singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Amy Poehler, American actress, comedian, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Anthony Padilla, American internet personality and filmmaker"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "The first successful photocopier, the Xerox 914, is introduced in a demonstration on live television from New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1880",
-      "text": "The Cornell Daily Sun prints its first issue in Ithaca, New York."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Steve Shirley, German-English businesswoman and philanthropist, founded Xansa (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Katy Kurtzman, American actress and producer"
-    },
-    {
-      "type": "Event",
       "year": "1992",
       "text": "The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering."
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "William McKeen, American author and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Wil McCarthy, American author and playwright"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Orel Hershiser, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "John Bel Edwards, American attorney and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Wall Street bombing: A bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City killing 38 and injuring 400."
-    },
-    {
-      "type": "Event",
-      "year": "1893",
-      "text": "Settlers make a land run for prime land in the Cherokee Strip in Oklahoma."
-    },
-    {
-      "type": "Event",
-      "year": "1822",
-      "text": "French physicist Augustin-Jean Fresnel, in a \"note\" read to the Academy of Sciences, reports a direct refraction experiment verifying David Brewster's hypothesis that photoelasticity (as it is now known) is stress-induced birefringence."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Brady Tkachuk, American ice hockey player"
-    },
-    {
-      "type": "Death",
-      "year": "1996",
-      "text": "Gene Nelson, American actor, dancer, and director (born 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Kurt Fuller, American character actor"
-    },
-    {
-      "type": "Birth",
       "year": "1950",
-      "text": "Henry Louis Gates Jr., American historian, scholar, and journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September."
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "A gunman kills twelve people at the Washington Navy Yard in Washington, D.C."
+      "text": "David Bellamy, American singer-songwriter and guitarist"
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Peter Falk, American actor (died 2011)"
+      "year": "1971",
+      "text": "Richard Slinger, American wrestler"
     },
     {
       "type": "Event",
@@ -288,18 +53,253 @@
     },
     {
       "type": "Birth",
+      "year": "1947",
+      "text": "Dusty Hughes, English director and playwright"
+    },
+    {
+      "type": "Death",
+      "year": "2001",
+      "text": "Samuel Z. Arkoff, American producer (born 1918)"
+    },
+    {
+      "type": "Event",
+      "year": "1620",
+      "text": "Pilgrims set sail for Virginia from Plymouth, England in the Mayflower."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Mark Schultz, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Christopher Rich, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Matt Harrison, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Robbie Grossman, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1822",
+      "text": "French physicist Augustin-Jean Fresnel, in a \"note\" read to the Academy of Sciences, reports a direct refraction experiment verifying David Brewster's hypothesis that photoelasticity (as it is now known) is stress-induced birefringence."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Jayne Brook, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1953",
+      "text": "American Airlines Flight 723 crashes in Colonie, New York, killing 28 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "William McKeen, American author and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1779",
+      "text": "American Revolutionary War: The Franco-American Siege of Savannah begins."
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "TCN-9 Sydney is the first Australian television station to commence regular broadcasts."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Greg Buckner, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Alexis Bledel, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "James Alan McPherson,  American short story writer and essayist (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "John Bel Edwards, American attorney and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Brady Tkachuk, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Nick Jonas, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Clint Ratkovich, American football player"
+    },
+    {
+      "type": "Birth",
       "year": "1972",
       "text": "Mike Doyle, American actor and producer"
     },
     {
+      "type": "Event",
+      "year": "1970",
+      "text": "King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September."
+    },
+    {
       "type": "Birth",
-      "year": "1927",
-      "text": "Jack Kelly, American actor and politician (died 1992)"
+      "year": "1952",
+      "text": "Česlovas Laurinavičius, Lithuanian historian"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Butch Buchholz, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "David Copperfield, American magician and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Vince Naimoli, American businessman and philanthropist (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Hamiet Bluiett, American jazz saxophonist and composer (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1893",
+      "text": "Settlers make a land run for prime land in the Cherokee Strip in Oklahoma."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "The United States National Hurricane Research Project drops eight cylinders of silver iodide into the eyewall of Hurricane Esther. Wind speed reduces by 10%, giving rise to Project Stormfury."
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "A gunman kills twelve people at the Washington Navy Yard in Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Monique Brumby, Australian singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Papua New Guinea gains independence from Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "John Knowles, American novelist (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The Wall Street bombing: A bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City killing 38 and injuring 400."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Charlie Jacobs, American businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Richard Marx, American singer-songwriter and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Rosemary Casals, American tennis player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "The first successful photocopier, the Xerox 914, is introduced in a demonstration on live television from New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Musiq Soulchild, American singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "681",
+      "text": "Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council."
     },
     {
       "type": "Event",
       "year": "1966",
       "text": "The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Anairis Quiñones, American voice actress"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: American forces win the Battle of Harlem Heights after General George Washington orders a counterattack on advancing British light infantry."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Dave Sabo, American guitarist and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Billy Boy Arnold, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Death",
+      "year": "1996",
+      "text": "Gene Nelson, American actor, dancer, and director (born 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane."
     }
   ],
   "source": "Wikipedia"
