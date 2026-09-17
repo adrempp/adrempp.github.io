@@ -2,19 +2,29 @@
   "date": "2026-09-17",
   "items": [
     {
-      "type": "Death",
-      "year": "2017",
-      "text": "Bobby Heenan, American professional wrestling manager (born 1944)"
+      "type": "Birth",
+      "year": "1942",
+      "text": "Lupe Ontiveros, American actress (died 2012)"
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Bryan Singer, American director, producer, and screenwriter"
+      "year": "1941",
+      "text": "Bob Matsui, American lawyer and politician (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "John Ritter, American actor and producer (died 2003)"
+      "year": "1960",
+      "text": "Alan Krueger, American economist and academic (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Edgar Mitchell, American captain, pilot, and astronaut (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Nurten Yılmaz, Austrian politician"
     },
     {
       "type": "Event",
@@ -23,178 +33,28 @@
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Dorothy Loudon, American actress and singer (died 2003)"
+      "year": "1956",
+      "text": "Thad Bosley, American baseball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Gail Carson Levine, American author"
-    },
-    {
-      "type": "Event",
-      "year": "1787",
-      "text": "The United States Constitution is signed at Independence Hall in Philadelphia, bringing the Constitutional Convention to an end."
+      "year": "1933",
+      "text": "Claude Provost, Canadian-American ice hockey player (died 1984)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Jean-Marie Lustiger, French cardinal (died 2007)"
+      "year": "1991",
+      "text": "Egor Yakovlev, Russian ice hockey player"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "John Franco, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Jimmie Johnson, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Hovie Lister, American minister and pianist (died 2001)"
+      "year": "1950",
+      "text": "Fee Waybill, American singer-songwriter and producer"
     },
     {
       "type": "Event",
-      "year": "1920",
-      "text": "The National Football League is organized as the American Professional Football Association in Canton, Ohio."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Nurten Yılmaz, Austrian politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Harold Solomon, American tennis player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Jean Taylor, American mathematician and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Kermit Washington, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Ken Kesey, American novelist, essayist, and poet (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Charles Martinet,  American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "Andrew Fisher becomes Prime Minister of Australia for the third time."
-    },
-    {
-      "type": "Event",
-      "year": "1932",
-      "text": "A speech by Laureano Gómez leads to the escalation of the Leticia Incident."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Matthew Settle, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1630",
-      "text": "The city of Boston, Massachusetts, is founded in North America."
-    },
-    {
-      "type": "Death",
-      "year": "1993",
-      "text": "Christian Nyby, American director and producer (born 1913)"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country."
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "The Okeechobee hurricane strikes southeastern Florida, killing more than 2,500 people."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: The invasion of Quebec by the Continental Army begins with the Siege of Fort St. Jean."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Northwest Orient Airlines Flight 706 crashes during takeoff from O'Hare International Airport in Chicago, Illinois, killing all 37 people on board."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: George B. McClellan's Army of the Potomac halts the first invasion of the North by Robert E. Lee and his Army of Northern Virginia in the single-day Battle of Antietam, the bloodiest day in American military history."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Michael Carbajal, American boxer"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Kevin Schubert, Australian rugby league player (died 2007)"
-    },
-    {
-      "type": "Death",
-      "year": "1025",
-      "text": "Hugh Magnus, king of France (born 1007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Edgar Mitchell, American captain, pilot, and astronaut (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1111",
-      "text": "Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as \"King of Galicia\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Chuck Comeau, Canadian musician"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "Argentine Civil Wars: The State of Buenos Aires defeats the Argentine Confederation at the Battle of Pavón."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks."
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "Joshua A. Norton declares himself \"Norton I, Emperor of the United States\"."
+      "year": "2016",
+      "text": "Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing."
     },
     {
       "type": "Event",
@@ -203,8 +63,233 @@
     },
     {
       "type": "Event",
+      "year": "1939",
+      "text": "World War II: German submarine U-29 sinks the British aircraft carrier HMS Courageous."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Northwest Orient Airlines Flight 706 crashes during takeoff from O'Hare International Airport in Chicago, Illinois, killing all 37 people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Mike Parson, American politician, 57th Governor of Missouri"
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "The Okeechobee hurricane strikes southeastern Florida, killing more than 2,500 people."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Kevin Schubert, Australian rugby league player (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Dorothy Loudon, American actress and singer (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Sophie, English music producer, disc jockey and singer (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Curtis Harrington, American actor, director, and screenwriter (died 2007)"
+    },
+    {
+      "type": "Death",
+      "year": "1984",
+      "text": "Richard Basehart, American actor and director (born 1914)"
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "Peace between Sweden and Russia in the Finnish War; the territory that will become Finland is ceded to Russia by the Treaty of Fredrikshamn."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Jim Rohn, American philosopher and author (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Rita Rudner, American actress, comedian, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Gerald Guralnik, American physicist and academic (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The National Football League is organized as the American Professional Football Association in Canton, Ohio."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: George B. McClellan's Army of the Potomac halts the first invasion of the North by Robert E. Lee and his Army of Northern Virginia in the single-day Battle of Antietam, the bloodiest day in American military history."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Nigel Boocock, English-Australian motorcycle racer (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "14",
+      "text": "The Roman Senate decides to deify the late emperor Augustus."
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "Joshua A. Norton declares himself \"Norton I, Emperor of the United States\"."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression."
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "American abolitionist Harriet Tubman makes her first attempt to escape from slavery."
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "Argentine Civil Wars: The State of Buenos Aires defeats the Argentine Confederation at the Battle of Pavón."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Tom Waddell, Scottish-American baseball player (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jeff MacNelly, American cartoonist (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1630",
+      "text": "The city of Boston, Massachusetts, is founded in North America."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Ralph Sharon, English-American pianist, composer, and conductor (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1111",
+      "text": "Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as \"King of Galicia\"."
+    },
+    {
+      "type": "Death",
+      "year": "1953",
+      "text": "David Munson, American runner (born 1884)"
+    },
+    {
+      "type": "Event",
       "year": "1900",
       "text": "Philippine–American War: Filipinos under Juan Cailles defeat Americans under Colonel Benjamin F. Cheatham Jr. at Mabitac."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country."
+    },
+    {
+      "type": "Event",
+      "year": "1778",
+      "text": "The Treaty of Fort Pitt is signed. It is the first formal treaty between the United States and a Native American tribe."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: The invasion of Quebec by the Continental Army begins with the Siege of Fort St. Jean."
+    },
+    {
+      "type": "Death",
+      "year": "1995",
+      "text": "Isadore Epstein, Estonian-American astronomer and academic (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Bulldog Brower, American wrestler (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "A speech by Laureano Gómez leads to the escalation of the Leticia Incident."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Thomas J. Bata, Czech-Canadian businessman (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Junior Bridgeman, American basketball player and businessman (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Matthew Settle, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "Andrew Fisher becomes Prime Minister of Australia for the third time."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Jean Taylor, American mathematician and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Bill Black, American bass player and bandleader  (died 1965)"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "The Space Shuttle Enterprise is unveiled by NASA."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Masahiro Chono, American-Japanese wrestler and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1787",
+      "text": "The United States Constitution is signed at Independence Hall in Philadelphia, bringing the Constitutional Convention to an end."
     },
     {
       "type": "Event",
@@ -215,91 +300,6 @@
       "type": "Event",
       "year": "2018",
       "text": "A Russian reconnaissance aircraft carrying 15 people on board is brought down by a Syrian surface-to-air missile over the Mediterranean Sea."
-    },
-    {
-      "type": "Event",
-      "year": "1809",
-      "text": "Peace between Sweden and Russia in the Finnish War; the territory that will become Finland is ceded to Russia by the Treaty of Fredrikshamn."
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "American abolitionist Harriet Tubman makes her first attempt to escape from slavery."
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "The Treaty of Fort Pitt is signed. It is the first formal treaty between the United States and a Native American tribe."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "The Space Shuttle Enterprise is unveiled by NASA."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Marcus Semien, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Bill Irwin, American wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Robert B. Parker, American author and academic (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Craig Spence, Australian golfer"
-    },
-    {
-      "type": "Event",
-      "year": "14",
-      "text": "The Roman Senate decides to deify the late emperor Augustus."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Mike Parson, American politician, 57th Governor of Missouri"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "George Blanda, American football player (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Hank Williams, American singer-songwriter and guitarist (died 1953)"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "M. F. Husain, Indian painter and director (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Jim Rohn, American philosopher and author (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "World War II: German submarine U-29 sinks the British aircraft carrier HMS Courageous."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression."
     }
   ],
   "source": "Wikipedia"
