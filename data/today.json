@@ -3,113 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "2018",
-      "text": "Cannabis is legalized in South Africa, through a ruling of the Constitutional Court."
-    },
-    {
-      "type": "Event",
-      "year": "1837",
-      "text": "Tiffany & Co. (first named Tiffany & Young) is founded by Charles Lewis Tiffany and Teddy Young in New York City. The store is called a \"stationery and fancy goods emporium\"."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "First mailing of anthrax letters from Trenton, New Jersey in the 2001 anthrax attacks."
-    },
-    {
-      "type": "Event",
-      "year": "1714",
-      "text": "George I arrives in Great Britain after becoming king on August 1."
-    },
-    {
-      "type": "Event",
-      "year": "1873",
-      "text": "The U.S. bank Jay Cooke & Company declares bankruptcy, contributing to the Panic of 1873."
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "TV Tupi Difusora, the first television station to broadcast in Brazil, begins transmissions on Channel 3 in São Paulo."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Stephen Flaherty, American composer"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Battle of Chickamauga begins between Confederate and Union forces. It involves the second highest amount of casualties for any American Civil War battle apart from Gettysburg."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Tommy Tuberville, American football player, coach, and Senator"
-    },
-    {
-      "type": "Event",
-      "year": "1851",
-      "text": "First publication of The New-York Daily Times, which later becomes The New York Times."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Julio Grondona, Argentinian businessman (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: John Bell Hood begins the Franklin–Nashville Campaign in an unsuccessful attempt to draw William Tecumseh Sherman back out of Georgia."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "A fuel leak from a Titan II intercontinental ballistic missile at a USAF base near Damascus, Arkansas, results in an explosion in a missile silo, killing one person and injuring 21 others."
-    },
-    {
-      "type": "Event",
-      "year": "1048",
-      "text": "Battle of Kapetron between a combined Byzantine-Georgian army and a Seljuq army."
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "Margaret Chase Smith of Maine becomes the first woman elected to the United States Senate without completing another senator's term."
-    },
-    {
-      "type": "Event",
-      "year": "1618",
-      "text": "The twelfth baktun in the Mesoamerican Long Count calendar begins."
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "During an expedition to the Wyoming Territory, Henry D. Washburn observes and names the Old Faithful Geyser."
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "After 72 years on radio and television, CBS Television broadcasts the final episode of Guiding Light, the longest-running soap opera in American history."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "Fritz Pollard becomes the first African American to play professional football for a major team, the Akron Pros."
-    },
-    {
-      "type": "Event",
-      "year": "1867",
-      "text": "The first provincial election for the Nova Scotia Legislative Assembly after Canada's Confederation returns a large majority for the Anti-Confederation Party, led by William Annand, who becomes Premier."
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "The National Security Act reorganizes the United States government's military and intelligence services."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Augustine Simo, Cameroonian footballer"
+      "year": "2006",
+      "text": "The CW Television Network debuts in the US, following the merger of UPN and The WB."
     },
     {
       "type": "Event",
@@ -117,49 +12,34 @@
       "text": "The U.S. Congress passes the Fugitive Slave Act of 1850."
     },
     {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Arvydas Eitutavičius, Lithuanian basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Kanstantsin Lukashyk, Belarusian target shooter"
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "The Bank of America introduces its first credit card, the BankAmericard (later renamed the VISA Card), in a test market in Fresno County, California."
-    },
-    {
-      "type": "Death",
-      "year": "1862",
-      "text": "Joseph K. Mansfield, American general (born 1803)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Ticha Penicheiro, Portuguese-American basketball player and agent"
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "Korean War: U.S. Eighth Army and United Nations forces break out of the Pusan Perimeter in southeast Korea."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Frankie Avalon, American singer and actor"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "A VIA Rail train crashes into a double-decker bus at a train station in Ottawa, Canada, killing six people and injuring 35 others."
-    },
-    {
       "type": "Event",
       "year": "1924",
       "text": "The U.S. ends its military occupation of the Dominican Republic, after invading in May 1916 to force the Dominican government to pay its debts to European creditors."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Cappadonna, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "John Jacob Rhodes, American lawyer and politician (died 2003)"
+    },
+    {
+      "type": "Death",
+      "year": "1792",
+      "text": "August Gottlieb Spangenberg, German bishop and theologian (born 1704)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "June Foray, American actress and voice artist (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Billy Eichner, American actor and comedian"
     },
     {
       "type": "Event",
@@ -167,39 +47,14 @@
       "text": "The Saturday Evening Post publishes the short story \"Extricating Young Gussie\" by P.G. Wodehouse, featuring the first appearance of Bertie Wooster and his valet Jeeves."
     },
     {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Leonid Kharitonov, Russian actor and singer (died 2017)"
+      "type": "Event",
+      "year": "2018",
+      "text": "Cannabis is legalized in South Africa, through a ruling of the Constitutional Court."
     },
     {
       "type": "Event",
-      "year": "2006",
-      "text": "The CW Television Network debuts in the US, following the merger of UPN and The WB."
-    },
-    {
-      "type": "Birth",
-      "year": "2008",
-      "text": "Jackson Robert Scott, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "The Confederate States celebrate for the first and only time a Thanksgiving Day."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Chris Hedges, American journalist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1926",
-      "text": "A hurricane devastates Miami, Florida, killing 372 people."
-    },
-    {
-      "type": "Event",
-      "year": "1739",
-      "text": "The Treaty of Belgrade is signed, whereby Austria cedes lands south of the Sava and Danube rivers to the Ottoman Empire."
+      "year": "1897",
+      "text": "Veal Oscar, a dish of veal, seafood, asparagus, and Bernaise sauce, is first served at the  Grand Hotel in Stockholm, in honour of the 25th anniversary of the reign of King Oscar II of Sweden and Norway."
     },
     {
       "type": "Event",
@@ -208,28 +63,13 @@
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Dizzee Rascal, British hip hop musician"
-    },
-    {
-      "type": "Event",
-      "year": "1910",
-      "text": "In Washington, D.C., George Owen Squier demonstrated the first system to allow multiplexing of telephone transmissions, sending a message between two laboratories of the U.S. Signal Corps."
-    },
-    {
-      "type": "Death",
-      "year": "1970",
-      "text": "Jimi Hendrix, American singer-songwriter, guitarist, and producer (born 1942)"
+      "year": "1920",
+      "text": "Jack Warden, American actor (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1907",
-      "text": "Edwin McMillan, American physicist and chemist, Nobel Prize laureate (died 1991)"
-    },
-    {
-      "type": "Event",
-      "year": "324",
-      "text": "Constantine the Great decisively defeats Licinius in the Battle of Chrysopolis, establishing Constantine's sole control over the Roman Empire."
+      "year": "1900",
+      "text": "Willis Laurence James, American violinist and educator (died 1966)"
     },
     {
       "type": "Event",
@@ -238,28 +78,83 @@
     },
     {
       "type": "Event",
-      "year": "1809",
-      "text": "The Royal Opera House in London opens."
-    },
-    {
-      "type": "Event",
-      "year": "1867",
-      "text": "The fourth and current State Constitution of Maryland is ratified by voters."
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Jamey Rodemeyer, American teenage activist (born 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Toy retail chain Toys \"R\" Us files for bankruptcy protection in the United States and Canada."
+      "year": "1618",
+      "text": "The twelfth baktun in the Mesoamerican Long Count calendar begins."
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Gailard Sartain, American actor (died 2025)"
+      "year": "1923",
+      "text": "Al Quie, American politician, 35th Governor of Minnesota (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Korean War: U.S. Eighth Army and United Nations forces break out of the Pusan Perimeter in southeast Korea."
+    },
+    {
+      "type": "Event",
+      "year": "1873",
+      "text": "The U.S. bank Jay Cooke & Company declares bankruptcy, contributing to the Panic of 1873."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Seewoosagur Ramgoolam, Mauritian philanthropist and politician, 1st Prime Minister of Mauritius (died 1985)"
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Edward J. King, American football player, lawyer, and politician, 66th Governor of Massachusetts (born 1925)"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "During an expedition to the Wyoming Territory, Henry D. Washburn observes and names the Old Faithful Geyser."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Leonid Kharitonov, Russian actor and singer (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "First mailing of anthrax letters from Trenton, New Jersey in the 2001 anthrax attacks."
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Edwin McMillan, American physicist and chemist, Nobel Prize laureate (died 1991)"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Fidel Castro arrives in New York City as the head of the Cuban delegation to the United Nations."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Louise Sauvage, Australian wheelchair racer"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Billy Robinson, English-American wrestler and trainer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "TV Tupi Difusora, the first television station to broadcast in Brazil, begins transmissions on Channel 3 in São Paulo."
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "After 72 years on radio and television, CBS Television broadcasts the final episode of Guiding Light, the longest-running soap opera in American history."
+    },
+    {
+      "type": "Death",
+      "year": "1975",
+      "text": "Fairfield Porter, American painter and critic (born 1907)"
     },
     {
       "type": "Event",
@@ -268,13 +163,103 @@
     },
     {
       "type": "Event",
-      "year": "1897",
-      "text": "Veal Oscar, a dish of veal, seafood, asparagus, and Bernaise sauce, is first served at the  Grand Hotel in Stockholm, in honour of the 25th anniversary of the reign of King Oscar II of Sweden and Norway."
+      "year": "1988",
+      "text": "General Henri Namphy, president of Haiti, is ousted from power in a coup d'état led by General Prosper Avril."
+    },
+    {
+      "type": "Event",
+      "year": "1910",
+      "text": "In Washington, D.C., George Owen Squier demonstrated the first system to allow multiplexing of telephone transmissions, sending a message between two laboratories of the U.S. Signal Corps."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: John Bell Hood begins the Franklin–Nashville Campaign in an unsuccessful attempt to draw William Tecumseh Sherman back out of Georgia."
+    },
+    {
+      "type": "Event",
+      "year": "1714",
+      "text": "George I arrives in Great Britain after becoming king on August 1."
+    },
+    {
+      "type": "Event",
+      "year": "1809",
+      "text": "The Royal Opera House in London opens."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Margaret Chase Smith of Maine becomes the first woman elected to the United States Senate without completing another senator's term."
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "June Foray, American actress and voice artist (died 2017)"
+      "year": "1954",
+      "text": "Steven Pinker, Canadian-American psychologist, linguist, and author"
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The Bank of America introduces its first credit card, the BankAmericard (later renamed the VISA Card), in a test market in Fresno County, California."
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Toy retail chain Toys \"R\" Us files for bankruptcy protection in the United States and Canada."
+    },
+    {
+      "type": "Event",
+      "year": "324",
+      "text": "Constantine the Great decisively defeats Licinius in the Battle of Chrysopolis, establishing Constantine's sole control over the Roman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "Tiffany & Co. (first named Tiffany & Young) is founded by Charles Lewis Tiffany and Teddy Young in New York City. The store is called a \"stationery and fancy goods emporium\"."
+    },
+    {
+      "type": "Event",
+      "year": "1926",
+      "text": "A hurricane devastates Miami, Florida, killing 372 people."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: The Battle of Chickamauga begins between Confederate and Union forces. It involves the second highest amount of casualties for any American Civil War battle apart from Gettysburg."
+    },
+    {
+      "type": "Event",
+      "year": "1739",
+      "text": "The Treaty of Belgrade is signed, whereby Austria cedes lands south of the Sava and Danube rivers to the Ottoman Empire."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "The Confederate States celebrate for the first and only time a Thanksgiving Day."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "James Gandolfini, American actor and producer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Robert Blake, American actor, producer, and screenwriter (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1048",
+      "text": "Battle of Kapetron between a combined Byzantine-Georgian army and a Seljuq army."
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "The National Security Act reorganizes the United States government's military and intelligence services."
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Fritz Pollard becomes the first African American to play professional football for a major team, the Akron Pros."
     },
     {
       "type": "Event",
@@ -282,24 +267,39 @@
       "text": "The first cornerstone of the United States Capitol is laid by George Washington."
     },
     {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Aisha Tyler, American actress, television host, and author"
+      "type": "Event",
+      "year": "1867",
+      "text": "The first provincial election for the Nova Scotia Legislative Assembly after Canada's Confederation returns a large majority for the Anti-Confederation Party, led by William Annand, who becomes Premier."
     },
     {
       "type": "Event",
-      "year": "1960",
-      "text": "Fidel Castro arrives in New York City as the head of the Cuban delegation to the United Nations."
+      "year": "2013",
+      "text": "A VIA Rail train crashes into a double-decker bus at a train station in Ottawa, Canada, killing six people and injuring 35 others."
     },
     {
       "type": "Event",
-      "year": "1988",
-      "text": "General Henri Namphy, president of Haiti, is ousted from power in a coup d'état led by General Prosper Avril."
+      "year": "1867",
+      "text": "The fourth and current State Constitution of Maryland is ratified by voters."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "A fuel leak from a Titan II intercontinental ballistic missile at a USAF base near Damascus, Arkansas, results in an explosion in a missile silo, killing one person and injuring 21 others."
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Anna Netrebko, Russian-Austrian soprano and actress"
+      "year": "1945",
+      "text": "John McAfee, British-American computer programmer and businessman, founded McAfee (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Şenes Erzik, Turkish businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1851",
+      "text": "First publication of The New-York Daily Times, which later becomes The New York Times."
     }
   ],
   "source": "Wikipedia"
