@@ -3,33 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "2001",
-      "text": "In an address to a joint session of Congress and the American people, U.S. President George W. Bush declares a \"war on terror\"."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "The Holocaust in Lithuania: Lithuanian Nazis and local police begin a mass execution of 403 Jews in Nemenčinė."
-    },
-    {
-      "type": "Event",
-      "year": "1737",
-      "text": "The Walking Purchase concludes, which forces the cession of 1.2 million acres (4,900 km2) of Lenape-Delaware tribal land to the Pennsylvania Colony."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Yung Joc, American rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "South Ossetia declares its independence from Georgia."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Ryan Simpkins, Australian rugby league player"
+      "year": "1881",
+      "text": "U.S. President Chester A. Arthur is sworn in upon the death of James A. Garfield the previous day."
     },
     {
       "type": "Event",
@@ -38,118 +13,33 @@
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Martin Harrison, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: The Battle of Chickamauga, in northwestern Georgia, ends in a Confederate victory."
-    },
-    {
-      "type": "Death",
-      "year": "1987",
-      "text": "Michael Stewart, American playwright and composer (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Debbi Morgan, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Charlie Weber, American actor"
-    },
-    {
-      "type": "Death",
-      "year": "1999",
-      "text": "Robert Lebel, Canadian businessman (born 1905)"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile."
-    },
-    {
-      "type": "Death",
-      "year": "1927",
-      "text": "George Nichols, American actor, director, and screenwriter (born 1864)"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Jim Taylor, American football player and sportscaster (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Trevon Diggs, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "NFL season: American football players in the National Football League begin a 57-day strike."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Matthew Nelson, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Birth",
       "year": "1975",
       "text": "Moon Bloodgood, American actress"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Gunnar Nelson, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1955",
-      "text": "The Treaty on Relations between the USSR and the GDR is signed."
-    },
-    {
-      "type": "Event",
-      "year": "1498",
-      "text": "The Nankai tsunami washes away the building housing the Great Buddha at Kōtoku-in; it has been located outside ever since."
+      "year": "1941",
+      "text": "Dale Chihuly, American sculptor and educator"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Jason Robinson, American saxophonist and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Tim Rogers, Australian singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "John Panozzo, American drummer (died 1996)"
+      "year": "1906",
+      "text": "Vera Faddeeva, Russian mathematician (died 1983)"
     },
     {
       "type": "Event",
-      "year": "1989",
-      "text": "USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people."
+      "year": "1973",
+      "text": "Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana."
     },
     {
       "type": "Event",
-      "year": "2019",
-      "text": "Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Between 15,000 and 20,000 protesters march on Jena, Louisiana, United States, in support of six black youths who had been convicted of assaulting a white classmate."
+      "year": "1971",
+      "text": "Having weakened after making landfall in Nicaragua the previous day, Hurricane Irene regains enough strength to be renamed Hurricane Olivia, making it the first known hurricane to cross from the Atlantic Ocean into the Pacific."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Brian Fortuna, American dancer and choreographer"
+      "year": "1988",
+      "text": "Ryan Simpkins, Australian rugby league player"
     },
     {
       "type": "Event",
@@ -158,43 +48,18 @@
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Kyle Anderson, American-Chinese basketball player"
+      "year": "1985",
+      "text": "Ian Desmond, American baseball player"
     },
     {
       "type": "Birth",
       "year": "1935",
-      "text": "Keith Roberts, English author and illustrator (died 2000)"
+      "text": "Jim Taylor, American football player and sportscaster (died 2018)"
     },
     {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Leo Strauss, German-American political scientist, philosopher, and academic (died 1973)"
-    },
-    {
-      "type": "Birth",
+      "type": "Event",
       "year": "1955",
-      "text": "Betsy Brantley, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Kristen Johnston, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Ainsley Earhardt, American political commentator"
+      "text": "The Treaty on Relations between the USSR and the GDR is signed."
     },
     {
       "type": "Event",
@@ -203,28 +68,73 @@
     },
     {
       "type": "Event",
-      "year": "1260",
-      "text": "The Great Prussian Uprising among the old Prussians begins against the Teutonic Knights."
+      "year": "1854",
+      "text": "Crimean War: British and French troops defeat Russians at the Battle of Alma."
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Vladimir Tkatchenko, Russian basketball player"
+      "year": "1968",
+      "text": "Norah Vincent, American writer (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Keith Roberts, English author and illustrator (died 2000)"
     },
     {
       "type": "Event",
-      "year": "1881",
-      "text": "U.S. President Chester A. Arthur is sworn in upon the death of James A. Garfield the previous day."
+      "year": "1498",
+      "text": "The Nankai tsunami washes away the building housing the Great Buddha at Kōtoku-in; it has been located outside ever since."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people."
+    },
+    {
+      "type": "Death",
+      "year": "1973",
+      "text": "Jim Croce, American singer-songwriter and guitarist (born 1943)"
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Matt Blair, American football player (died 2020)"
+      "year": "1967",
+      "text": "Gunnar Nelson, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people."
     },
     {
       "type": "Birth",
-      "year": "2003",
-      "text": "Thomas Matthew Crooks, American attempted assassin of Donald Trump (died 2024)"
+      "year": "1930",
+      "text": "Richard Montague, American mathematician and philosopher (died 1971)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Aldis Hodge, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Randy Bradbury, American bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Joel Gertner, American wrestling announcer"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: The Battle of Chickamauga, in northwestern Georgia, ends in a Confederate victory."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "South Ossetia declares its independence from Georgia."
     },
     {
       "type": "Event",
@@ -233,53 +143,28 @@
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "Having weakened after making landfall in Nicaragua the previous day, Hurricane Irene regains enough strength to be renamed Hurricane Olivia, making it the first known hurricane to cross from the Atlantic Ocean into the Pacific."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana."
+      "year": "2007",
+      "text": "Between 15,000 and 20,000 protesters march on Jena, Louisiana, United States, in support of six black youths who had been convicted of assaulting a white classmate."
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Lisa Bloom, American lawyer and journalist"
+      "year": "1987",
+      "text": "Jack Lawless, American drummer"
     },
     {
       "type": "Event",
-      "year": "1946",
-      "text": "Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands."
+      "year": "1737",
+      "text": "The Walking Purchase concludes, which forces the cession of 1.2 million acres (4,900 km2) of Lenape-Delaware tribal land to the Pennsylvania Colony."
     },
     {
       "type": "Event",
-      "year": "1854",
-      "text": "Crimean War: British and French troops defeat Russians at the Battle of Alma."
+      "year": "2000",
+      "text": "The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile."
     },
     {
-      "type": "Event",
-      "year": "1962",
-      "text": "James Meredith, an African American, is temporarily barred from entering the University of Mississippi."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Chris Mooney, American journalist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1893",
-      "text": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Red Auerbach, American basketball player and coach (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Rocky Mattioli, Italian-Australian boxer"
+      "type": "Death",
+      "year": "2023",
+      "text": "Maddy Cusack, English football player (born 1995)"
     },
     {
       "type": "Birth",
@@ -288,18 +173,133 @@
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Jennifer Tour Chayes, American mathematician and computer scientist"
+      "year": "1976",
+      "text": "Ainsley Earhardt, American political commentator"
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Chico Hamilton, American drummer, composer, and bandleader (died 2013)"
+      "year": "1981",
+      "text": "David McMillan, American football player (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Jason Bacashihua, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "The Holocaust in Lithuania: Lithuanian Nazis and local police begin a mass execution of 403 Jews in Nemenčinė."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "NFL season: American football players in the National Football League begin a 57-day strike."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Anne Meara, American actress and playwright (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1260",
+      "text": "The Great Prussian Uprising among the old Prussians begins against the Teutonic Knights."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Phillip Phillips, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Red Mitchell, American bassist, composer, and poet (died 1992)"
+    },
+    {
+      "type": "Death",
+      "year": "1971",
+      "text": "James Westerfield, American actor (born 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Debbi Morgan, American actress"
     },
     {
       "type": "Birth",
       "year": "1953",
       "text": "Steve Tom, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Lisa Bloom, American lawyer and journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Arn Anderson, American wrestler and trainer"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Tim Rogers, Australian singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome."
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "In an address to a joint session of Congress and the American people, U.S. President George W. Bush declares a \"war on terror\"."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "James Meredith, an African American, is temporarily barred from entering the University of Mississippi."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Brian Fortuna, American dancer and choreographer"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jordan Tata, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Ryan Tandy, Australian rugby league player (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Crystle Stewart, American actress and beauty queen"
+    },
+    {
+      "type": "Event",
+      "year": "1893",
+      "text": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile."
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Dorothy Vaughan, American mathematician (died 2008)"
     }
   ],
   "source": "Wikipedia"
