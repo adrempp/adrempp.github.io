@@ -3,243 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Mark Levin, American lawyer, radio host, and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Nancy Travis, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "The Great Hurricane of 1938 makes landfall on Long Island in New York. The death toll is estimated at 500–700 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Faith Hill, American singer-songwriter, producer, and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sokhumi, Georgia."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Al-Farouq Aminu, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Thomas S. Ray, American ecologist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Billy Porter, American actor and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Scott Evans, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Cecil Fielder, American baseball player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Ed Nimmervoll, Austrian-Australian journalist, historian, and author (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Jack Givens, American basketball player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California."
-    },
-    {
-      "type": "Birth",
       "year": "1960",
       "text": "Kelley Eskridge, American author and screenwriter"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Rick Mahorn, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Autumn Reeser, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Devyn Marble, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Artis Gilmore, American basketball player and radio host"
-    },
-    {
-      "type": "Event",
-      "year": "1217",
-      "text": "Livonian Crusade: The Estonian leader Lembitu and Livonian leader Caupo of Turaida are killed in the Battle of St. Matthew's Day."
-    },
-    {
-      "type": "Event",
-      "year": "1976",
-      "text": "Orlando Letelier is assassinated in Washington, D.C., at the order of Augusto Pinochet."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Nicole Richie, American actress, fashion designer, and author"
-    },
-    {
-      "type": "Event",
-      "year": "454",
-      "text": "Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Bill Murray, American actor, comedian, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Holocaust in Ukraine: On the Jewish holiday of Yom Kippur, Nazis send over 1,000 Jews of Pidhaitsi to Bełżec extermination camp."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "James Lesure, Americana actor"
-    },
-    {
-      "type": "Death",
-      "year": "1962",
-      "text": "Bo Carter, American singer-songwriter and guitarist (born 1892)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Anthony Don, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
       "year": "1984",
-      "text": "Ben Wildman-Tobriner, American swimmer"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Leonid Rogozov, Russian physician and surgeon (born 1934)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Luke Wilson, American actor, director, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "The Defense of Marriage Act is passed by the United States Congress."
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolutionary War: Benedict Arnold gives the British the plans to West Point."
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Sheldon Patinkin, American director and playwright (born 1935)"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Henry Butler, American pianist and photographer (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Samantha Power, Irish-American journalist, academic, and diplomat, 28th United States Ambassador to the United Nations"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Justin Durant, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Emma Watkins, Australian singer and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Jason Derulo, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Richard Childress, American race car driver and businessman"
-    },
-    {
-      "type": "Event",
-      "year": "1435",
-      "text": "The Treaty of Arras is promulgated, causing Burgundy to switch sides in the Hundred Years' War."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Ricki Lake, American actress, producer, and talk show host"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "John B. O'Reilly Jr., American politician (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Hamilton Jordan, American politician, 8th White House Chief of Staff (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Holocaust in Poland: At the end of Yom Kippur, Germans order Jews to permanently move from Konstantynów to Biała Podlaska."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews."
+      "text": "Ahna O'Reilly, American actress"
     },
     {
       "type": "Event",
@@ -248,33 +18,53 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "R. James Woolsey, Jr., American scholar and diplomat, 16th Director of Central Intelligence"
+      "year": "1947",
+      "text": "Don Felder, American musician and songwriter"
     },
     {
       "type": "Event",
-      "year": "455",
-      "text": "Emperor Avitus enters Italy with a Gallic army and consolidates his power."
+      "year": "1993",
+      "text": "Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution."
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Fannie Flagg, American actress, comedian, and author"
+      "year": "1973",
+      "text": "Virginia Ruano Pascual, Spanish tennis player"
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Jon Kitna, American football player and coach"
+      "year": "1940",
+      "text": "Hermann Knoflacher, Austrian engineer and academic"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Doug Davis, American baseball player"
+      "year": "1994",
+      "text": "Devin Williams, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Rupert Hine, English musician, songwriter, and record producer (died 2020)"
+      "year": "1983",
+      "text": "Greg Jennings, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1976",
+      "text": "Orlando Letelier is assassinated in Washington, D.C., at the order of Augusto Pinochet."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Allison Scagliotti, American actress and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "David Jude Jolicoeur, American rapper, songwriter, and producer (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "The Great Hurricane of 1938 makes landfall on Long Island in New York. The death toll is estimated at 500–700 people."
     },
     {
       "type": "Event",
@@ -283,13 +73,33 @@
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Vanessa Grigoriadis, American journalist and author"
+      "year": "1944",
+      "text": "Steve Beshear, American lawyer and politician, 61st Governor of Kentucky"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Artis Gilmore, American basketball player and radio host"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Ethan Coen, American director, producer, and screenwriter"
     },
     {
       "type": "Event",
-      "year": "1776",
-      "text": "Part of New York City is burned shortly after being occupied by British forces."
+      "year": "454",
+      "text": "Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "José Curbelo, Cuban-American pianist and manager (born 1917)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Rick Mahorn, American basketball player and coach"
     },
     {
       "type": "Birth",
@@ -298,8 +108,198 @@
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Dominic Perrottet, Australian politician, 46th Premier of New South Wales"
+      "year": "1973",
+      "text": "Vanessa Grigoriadis, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "455",
+      "text": "Emperor Avitus enters Italy with a Gallic army and consolidates his power."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sokhumi, Georgia."
+    },
+    {
+      "type": "Event",
+      "year": "1217",
+      "text": "Livonian Crusade: The Estonian leader Lembitu and Livonian leader Caupo of Turaida are killed in the Battle of St. Matthew's Day."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Devyn Marble, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1435",
+      "text": "The Treaty of Arras is promulgated, causing Burgundy to switch sides in the Hundred Years' War."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Rupert Hine, English musician, songwriter, and record producer (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Dan Borislow, American businessman and inventor (died 2014)"
+    },
+    {
+      "type": "Death",
+      "year": "2014",
+      "text": "Caldwell Jones, American basketball player and coach (born 1950)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Jason Christiansen, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "James Lesure, Americana actor"
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Holocaust in Ukraine: On the Jewish holiday of Yom Kippur, Nazis send over 1,000 Jews of Pidhaitsi to Bełżec extermination camp."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "John B. O'Reilly Jr., American politician (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Jason Citron, American businessman, co-founded Discord"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Craig Thompson, American graphic novelist"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Bill Kurtis, American journalist and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Holocaust in Poland: At the end of Yom Kippur, Germans order Jews to permanently move from Konstantynów to Biała Podlaska."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "David Hood, American session bassist and trombone player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Maggie Grace, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Anna Meares, Australian track cyclist"
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "The Defense of Marriage Act is passed by the United States Congress."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Jerry Bruckheimer, American film and television producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Jason Derulo, American singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Billy Porter, American actor and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi."
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Ray Warleigh, Australian-English saxophonist and flute player (born 1938)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Christian Serratos, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Samantha Power, Irish-American journalist, academic, and diplomat, 28th United States Ambassador to the United Nations"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Jack Givens, American basketball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Sam McDowell, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "Part of New York City is burned shortly after being occupied by British forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Mark Levin, American lawyer, radio host, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Lindsey Stirling, American violinist and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Marta Kauffman, American screenwriter and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolutionary War: Benedict Arnold gives the British the plans to West Point."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Reggie Nelson, American football player"
     }
   ],
   "source": "Wikipedia"
