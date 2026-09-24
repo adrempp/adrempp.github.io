@@ -2,59 +2,39 @@
   "date": "2026-09-24",
   "items": [
     {
+      "type": "Death",
+      "year": "2020",
+      "text": "Dean Jones, Australian cricketer, coach and commentator (born 1961)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Ruth Leach Amonette, American businesswoman and author (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Kabeer Gbaja-Biamila, American football player"
+    },
+    {
       "type": "Birth",
       "year": "1983",
       "text": "Randy Foye, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1954",
-      "text": "AEC Routemaster, the iconic London bus was introduced."
+      "year": "1890",
+      "text": "The Church of Jesus Christ of Latter-day Saints officially renounces polygamy."
+    },
+    {
+      "type": "Death",
+      "year": "2003",
+      "text": "Lyle Bettger, American actor (born 1915)"
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Bobby Brown, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Stephanie McMahon, American wrestler and businesswoman"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Arthur Malet, English-American actor and singer (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Donald Wrye, American director, screenwriter, and producer (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "John Mackey, American football player (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth."
-    },
-    {
-      "type": "Birth",
-      "year": "1894",
-      "text": "Billy Bletcher, American actor, singer, and screenwriter (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Riccardo Illy, Italian businessman and politician, President of Friuli Venezia Giulia"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Theo Paphitis, Cypriot-English businessman"
+      "year": "1929",
+      "text": "John Carter, American clarinet player, saxophonist, and flute player (died 1991)"
     },
     {
       "type": "Event",
@@ -63,173 +43,28 @@
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Carson Van Osten, American comics creator and musician (died 2015)"
+      "year": "1947",
+      "text": "Stephen Mueller, American painter (died 2011)"
     },
     {
       "type": "Birth",
-      "year": "1894",
-      "text": "Tommy Armour, Scottish-American golfer and sportscaster (died 1968)"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Paul Oliver, American football player (born 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Sonya Deville, American athlete"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Rodrick Rhodes, American basketball player and coach"
+      "year": "1980",
+      "text": "Dean Canto, Australian race car driver"
     },
     {
       "type": "Event",
-      "year": "2005",
-      "text": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas."
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "U.S. President Theodore Roosevelt proclaims Devils Tower in Wyoming as the nation's first National Monument."
+      "year": "2023",
+      "text": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth."
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "John Kessel, American author, poet, and playwright"
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "The Church of Jesus Christ of Latter-day Saints officially renounces polygamy."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Mark Sandman, American singer-songwriter, guitarist, and producer (died 1999)"
+      "year": "1966",
+      "text": "Bernard Gilkey, American baseball player"
     },
     {
       "type": "Birth",
       "year": "1993",
       "text": "Ben Platt, American actor, singer, and songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "President Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, to enforce desegregation."
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Racial tensions exacerbated by rumors lead to the Atlanta Race Riot, further increasing racial segregation."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Shawn Crahan, American drummer, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Paul Ray Smith, American sergeant, Medal of Honor recipient (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Drew Gooden, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Max Lercher, Austrian politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Steven Kampfer, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "John Logan, American screenwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Fats Navarro, American trumpet player and composer (died 1950)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Michael O. Varhola, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Grey Damon, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "Mexican–American War: General Zachary Taylor captures Monterrey."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Robert Lewis Taylor, American author (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Angelo Muscat, Maltese-English actor (died 1977)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Southwest Face expedition members become the first persons to reach the summit of Mount Everest by any of its faces, instead of using a ridge route."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Steve Douglas, American saxophonist, flute player, and producer (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Vontaze Burfict, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "Gustave Garrigou, French cyclist (died 1963)"
-    },
-    {
-      "type": "Event",
-      "year": "1869",
-      "text": "Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market."
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "The eastern United States is covered by a thick haze from the Chinchaga fire in western Canada."
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "William Dobell, Australian painter (died 1970)"
-    },
-    {
-      "type": "Death",
-      "year": "2008",
-      "text": "Oliver Crawford, American screenwriter and author (born 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Louis Edmonds, American actor (died 2001)"
     },
     {
       "type": "Birth",
@@ -238,8 +73,58 @@
     },
     {
       "type": "Birth",
+      "year": "1923",
+      "text": "Louis Edmonds, American actor (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1932",
+      "text": "Mahatma Gandhi and B. R. Ambedkar agree to the Poona Pact, which reserved seats in the Indian provincial legislatures for the \"Depressed Classes\" (Untouchables)."
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Konstantin Chernenko, Soviet politician, General Secretary of the Communist Party and de facto leader of the USSR (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1869",
+      "text": "Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Steven Kampfer, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "John Mackey, American football player (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Theo Paphitis, Cypriot-English businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Alexandra Adler, Austrian neurologist and psychologist (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "President Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, to enforce desegregation."
+    },
+    {
+      "type": "Birth",
       "year": "1971",
       "text": "Kevin Millar, American baseball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Michael Potter, Australian rugby player and coach"
     },
     {
       "type": "Event",
@@ -248,48 +133,118 @@
     },
     {
       "type": "Birth",
+      "year": "1939",
+      "text": "Wayne Henderson, American trombonist and producer (died 2014)"
+    },
+    {
+      "type": "Birth",
       "year": "1931",
       "text": "Cardiss Collins, American lawyer and politician (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Dean Canto, Australian race car driver"
+      "year": "1971",
+      "text": "Mike Michalowicz, American businessman and author"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Anders Arborelius, Swedish cardinal"
+      "year": "1952",
+      "text": "Mark Sandman, American singer-songwriter, guitarist, and producer (died 1999)"
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Ryan Briscoe, Australian race car driver"
+      "year": "1922",
+      "text": "Bert I. Gordon, American director, producer, and screenwriter (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Robert Lewis Taylor, American author (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Chick Willis, American singer and guitarist (died 2013)"
     },
     {
       "type": "Event",
-      "year": "1932",
-      "text": "Mahatma Gandhi and B. R. Ambedkar agree to the Poona Pact, which reserved seats in the Indian provincial legislatures for the \"Depressed Classes\" (Untouchables)."
+      "year": "1906",
+      "text": "U.S. President Theodore Roosevelt proclaims Devils Tower in Wyoming as the nation's first National Monument."
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "Mexican–American War: General Zachary Taylor captures Monterrey."
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "The eastern United States is covered by a thick haze from the Chinchaga fire in western Canada."
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Lou Dobbs, American journalist and author (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "F. Scott Fitzgerald, American novelist and short story writer (died 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Michael S. Engel, American paleontologist and entomologist"
     },
     {
       "type": "Death",
-      "year": "2014",
-      "text": "Christopher Hogwood, English harpsichord player and conductor, founded the Academy of Ancient Music (born 1941)"
+      "year": "366",
+      "text": "Pope Liberius"
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Ian Bohen, American actor"
+      "year": "1986",
+      "text": "Eloise Mumford, American actress"
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Esther Eng, Chinese-American film director (died 1970)"
+      "year": "1894",
+      "text": "Billy Bletcher, American actor, singer, and screenwriter (died 1979)"
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Nia Vardalos, Canadian-American actress and screenwriter"
+      "year": "1946",
+      "text": "Joe Greene, American football player, coach, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Paul Hamm, American gymnast"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Jeff Karstens, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "Racial tensions exacerbated by rumors lead to the Atlanta Race Riot, further increasing racial segregation."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Janet Weiss, American drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Sean McNabb, American singer and bass player"
     },
     {
       "type": "Birth",
@@ -298,8 +253,53 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Richard Bong, American soldier and pilot, Medal of Honor recipient (died 1945)"
+      "year": "1990",
+      "text": "Vontaze Burfict, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Southwest Face expedition members become the first persons to reach the summit of Mount Everest by any of its faces, instead of using a ridge route."
+    },
+    {
+      "type": "Birth",
+      "year": "1898",
+      "text": "Charlotte Moore Sitterly, American astronomer (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Spencer Treat Clark, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Mel Taylor, American drummer (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Kyle Sullivan, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Shawn Crahan, American drummer, songwriter, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "AEC Routemaster, the iconic London bus was introduced."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Ian Bohen, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Severo Ochoa, Spanish–American physician and biochemist, Nobel Prize laureate (died 1993)"
     }
   ],
   "source": "Wikipedia"
