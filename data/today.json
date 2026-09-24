@@ -2,149 +2,19 @@
   "date": "2026-09-24",
   "items": [
     {
-      "type": "Event",
-      "year": "2023",
-      "text": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Sheila MacRae, English-American actress, singer, and dancer (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Mike Michalowicz, American businessman and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Wayne Henderson, American trombonist and producer (died 2014)"
-    },
-    {
       "type": "Death",
-      "year": "1984",
-      "text": "Neil Hamilton, American actor (born 1899)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Eloise Mumford, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Konstantin Chernenko, Soviet politician, General Secretary of the Communist Party and de facto leader of the USSR (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Audra Lindley, American actress (died 1997)"
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Howard Florey, Australian pharmacologist and pathologist, Nobel Prize laureate (died 1968)"
+      "year": "2003",
+      "text": "Lyle Bettger, American actor (born 1915)"
     },
     {
       "type": "Event",
-      "year": "1950",
-      "text": "The eastern United States is covered by a thick haze from the Chinchaga fire in western Canada."
+      "year": "1960",
+      "text": "USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched."
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Vontaze Burfict, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "AEC Routemaster, the iconic London bus was introduced."
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "U.S. President Theodore Roosevelt proclaims Devils Tower in Wyoming as the nation's first National Monument."
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "Ruth Leach Amonette, American businesswoman and author (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Southwest Face expedition members become the first persons to reach the summit of Mount Everest by any of its faces, instead of using a ridge route."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Steve Douglas, American saxophonist, flute player, and producer (died 1993)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Joe Greene, American football player, coach, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Rafael Palmeiro, Cuban-American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Megan Ward, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Racial tensions exacerbated by rumors lead to the Atlanta Race Riot, further increasing racial segregation."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Christopher L. Eisgruber, American lawyer and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "The Church of Jesus Christ of Latter-day Saints officially renounces polygamy."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Cardiss Collins, American lawyer and politician (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1869",
-      "text": "Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market."
-    },
-    {
-      "type": "Event",
-      "year": "1846",
-      "text": "Mexican–American War: General Zachary Taylor captures Monterrey."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Mel Taylor, American drummer (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "John W. Young, American captain, engineer, and astronaut (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Spencer Treat Clark, American actor"
+      "year": "1976",
+      "text": "Stephanie McMahon, American wrestler and businesswoman"
     },
     {
       "type": "Event",
@@ -153,38 +23,93 @@
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Donald Wrye, American director, screenwriter, and producer (died 2015)"
+      "year": "1893",
+      "text": "Blind Lemon Jefferson, American singer-songwriter and guitarist (died 1929)"
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "John Mackey, American football player (died 2011)"
+      "year": "1930",
+      "text": "Angelo Muscat, Maltese-English actor (died 1977)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Michael Potter, Australian rugby player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1898",
+      "text": "Howard Florey, Australian pharmacologist and pathologist, Nobel Prize laureate (died 1968)"
+    },
+    {
+      "type": "Event",
+      "year": "1869",
+      "text": "Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market."
+    },
+    {
+      "type": "Event",
+      "year": "1890",
+      "text": "The Church of Jesus Christ of Latter-day Saints officially renounces polygamy."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Bert I. Gordon, American director, producer, and screenwriter (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Dean Canto, Australian race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Stephen Mueller, American painter (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Kevin Millar, American baseball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Arthur Malet, English-American actor and singer (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "1889",
+      "text": "D. H. Hill, American general and academic (born 1821)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Drew Gooden, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "Racial tensions exacerbated by rumors lead to the Atlanta Race Riot, further increasing racial segregation."
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "U.S. President Theodore Roosevelt proclaims Devils Tower in Wyoming as the nation's first National Monument."
+    },
+    {
+      "type": "Death",
+      "year": "1939",
+      "text": "Carl Laemmle, German-American film producer, founded Universal Studios (born 1867)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Janet Weiss, American drummer"
     },
     {
       "type": "Birth",
       "year": "1966",
       "text": "Michael O. Varhola, American journalist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Ben Platt, American actor, singer, and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Ham Fisher, American cartoonist (died 1955)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Jerry Donahue, American guitarist and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Ian Bohen, American actor"
     },
     {
       "type": "Birth",
@@ -198,38 +123,18 @@
     },
     {
       "type": "Birth",
+      "year": "1900",
+      "text": "Ham Fisher, American cartoonist (died 1955)"
+    },
+    {
+      "type": "Birth",
       "year": "1969",
-      "text": "Paul Ray Smith, American sergeant, Medal of Honor recipient (died 2003)"
+      "text": "Megan Ward, American actress"
     },
     {
       "type": "Birth",
-      "year": "1893",
-      "text": "Blind Lemon Jefferson, American singer-songwriter and guitarist (died 1929)"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Nikolas Cruz, American mass murderer"
-    },
-    {
-      "type": "Death",
-      "year": "2002",
-      "text": "Youssouf Togoïmi, Chadian politician (born 1953)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Bernard Gilkey, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Marc Guggenheim, American screenwriter, television producer, comic book writer, and novelist"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Louis Edmonds, American actor (died 2001)"
+      "year": "1894",
+      "text": "Billy Bletcher, American actor, singer, and screenwriter (died 1979)"
     },
     {
       "type": "Birth",
@@ -238,18 +143,48 @@
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "Angelo Muscat, Maltese-English actor (died 1977)"
+      "year": "1993",
+      "text": "Ben Platt, American actor, singer, and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "The United States Congress passes the Judiciary Act, creating the office of the Attorney General and federal judiciary system and ordering the composition of the Supreme Court."
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Lou Dobbs, American journalist and author (died 2024)"
+      "year": "1949",
+      "text": "Anders Arborelius, Swedish cardinal"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Steven Kampfer, American ice hockey player"
+      "year": "1901",
+      "text": "Alexandra Adler, Austrian neurologist and psychologist (died 2001)"
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Shawn Crahan, American drummer, songwriter, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Marc Guggenheim, American screenwriter, television producer, comic book writer, and novelist"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Michael J. S. Dewar, Indian-born American theoretical chemist who developed the Dewar–Chatt–Duncanson model (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Wayne Henderson, American trombonist and producer (died 2014)"
     },
     {
       "type": "Birth",
@@ -258,38 +193,38 @@
     },
     {
       "type": "Event",
-      "year": "1789",
-      "text": "The United States Congress passes the Judiciary Act, creating the office of the Attorney General and federal judiciary system and ordering the composition of the Supreme Court."
-    },
-    {
-      "type": "Death",
-      "year": "2020",
-      "text": "Dean Jones, Australian cricketer, coach and commentator (born 1961)"
-    },
-    {
-      "type": "Event",
       "year": "1957",
       "text": "President Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, to enforce desegregation."
     },
     {
-      "type": "Birth",
-      "year": "1896",
-      "text": "F. Scott Fitzgerald, American novelist and short story writer (died 1940)"
+      "type": "Event",
+      "year": "2023",
+      "text": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth."
+    },
+    {
+      "type": "Event",
+      "year": "1846",
+      "text": "Mexican–American War: General Zachary Taylor captures Monterrey."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "AEC Routemaster, the iconic London bus was introduced."
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "Theo Paphitis, Cypriot-English businessman"
+      "year": "1969",
+      "text": "Paul Ray Smith, American sergeant, Medal of Honor recipient (died 2003)"
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Janet Weiss, American drummer"
+      "year": "1948",
+      "text": "Gordon Clapp, American actor"
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Randy Foye, American basketball player"
+      "year": "1945",
+      "text": "Lou Dobbs, American journalist and author (died 2024)"
     },
     {
       "type": "Birth",
@@ -297,9 +232,74 @@
       "text": "Gustave Garrigou, French cyclist (died 1963)"
     },
     {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Douglas Kmiec, American scholar and diplomat, United States Ambassador to Malta"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "John W. Young, American captain, engineer, and astronaut (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Jan Carew, Guyanese-American author, poet, and playwright (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Donald Wrye, American director, screenwriter, and producer (died 2015)"
+    },
+    {
       "type": "Event",
-      "year": "1960",
-      "text": "USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched."
+      "year": "1950",
+      "text": "The eastern United States is covered by a thick haze from the Chinchaga fire in western Canada."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Morgan Hamm, American gymnast"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Chick Willis, American singer and guitarist (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Southwest Face expedition members become the first persons to reach the summit of Mount Everest by any of its faces, instead of using a ridge route."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Jim Henson, American puppeteer, director, producer, and screenwriter, created The Muppets (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Mario Cristobal, American college football coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Ben Oakland, American pianist, composer, and songwriter (died 1979)"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Richard Bong, American soldier and pilot, Medal of Honor recipient (died 1945)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Jerry Donahue, American guitarist and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Theresa Merritt, American actress and singer (died 1998)"
     }
   ],
   "source": "Wikipedia"
