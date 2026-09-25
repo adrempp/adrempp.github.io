@@ -3,93 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Aldon Smith, American football player"
+      "year": "1933",
+      "text": "Hubie Brown, American basketball player, coach, and sportscaster"
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "John Locke, American keyboard player (died 2006)"
+      "year": "1949",
+      "text": "Anson Williams, American actor, singer, and director"
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "John Lynch, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Aram Saroyan, American poet and novelist"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Daniel Kessler, English-American singer and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "275",
-      "text": "For the last time, the Roman Senate chooses an emperor; they elect 75-year-old Marcus Claudius Tacitus."
-    },
-    {
-      "type": "Event",
-      "year": "1643",
-      "text": "The House of Commons of England accepts the Solemn League and Covenant, which promises religious reforms in England and Ireland in exchange for support of Scottish troops against king Charles I in the First English Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Dat Nguyen, American football player and coach"
-    },
-    {
-      "type": "Death",
-      "year": "1984",
-      "text": "Walter Pidgeon, Canadian-American actor (born 1897)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Bryan MacLean, American singer-songwriter, guitarist, and producer (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "The United States Congress passes twelve constitutional amendments: the ten known as the Bill of Rights, the (unratified) Congressional Apportionment Amendment, and the Congressional Compensation Amendment."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Zach Woods, American actor and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "W. Daniel Hillis, American computer scientist, engineer, and author, founded the Thinking Machines Corporation"
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "The United States Congress establishes Sequoia National Park."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Rashad Evans, American mixed martial artist and wrestler"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Tommy Norden, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Luanne Rice, American author and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Rob Schmidt, American director and screenwriter"
+      "year": "1947",
+      "text": "Cecil Womack, American singer-songwriter and producer (died 2013)"
     },
     {
       "type": "Birth",
@@ -98,63 +23,8 @@
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "John Granville, American scholar and diplomat (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Antonia Gentry, American actress"
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "George Plimpton, American writer and literary editor (born 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "Central High School in Little Rock, Arkansas, is integrated by the use of United States Army troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Ron Rash, American novelist, short story writer, poet"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "bell hooks, American author and activist (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Tony Womack, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: Ethan Allen surrenders to British forces after attempting to capture Montreal in the Battle of Longue-Pointe during the invasion of Quebec."
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: Benedict Arnold's expedition to Quebec sets off to join the American invasion."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Hal Sparks, American actor, comedian, musician and political commentator"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "The North Yemen Civil War begins when Abdullah al-Sallal dethrones the newly crowned Imam al-Badr and declares Yemen a republic under his presidency."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Robert Gates, American lieutenant, academic, and politician, 22nd United States Secretary of Defense"
+      "year": "1984",
+      "text": "Matt Carle, American ice hockey player"
     },
     {
       "type": "Birth",
@@ -163,33 +33,78 @@
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Robbie Jones, American actor"
+      "year": "1995",
+      "text": "Todd Hazelwood, Australian race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Keauna McLaughlin, American figure skater"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Bryan MacLean, American singer-songwriter, guitarist, and producer (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Vladimir Yevtushenkov, Russian businessman"
     },
     {
       "type": "Event",
-      "year": "867",
-      "text": "Basil I is crowned Byzantine emperor in the Hagia Sophia after he murdered the previous emperor Michael III in the night before."
+      "year": "1775",
+      "text": "American Revolutionary War: Ethan Allen surrenders to British forces after attempting to capture Montreal in the Battle of Longue-Pointe during the invasion of Quebec."
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Matt Battaglia, American football player, actor, and producer"
+      "year": "1945",
+      "text": "Kathleen Brown, American lawyer and politician, 29th California State Treasurer"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "David Weathers, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Burleigh Drummond, American drummer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Dean Ween, American musician"
     },
     {
       "type": "Event",
-      "year": "1997",
-      "text": "NASA launches Space Shuttle Atlantis on STS-86 to the Mir space station."
+      "year": "1789",
+      "text": "The United States Congress passes twelve constitutional amendments: the ten known as the Bill of Rights, the (unratified) Congressional Apportionment Amendment, and the Congressional Compensation Amendment."
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Sylvester Croom, American football player and coach"
+      "year": "1968",
+      "text": "Will Smith, American actor, producer, and rapper"
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Robert Walden, American actor, director, and screenwriter"
+      "year": "1980",
+      "text": "T.I., American rapper, songwriter, producer, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1890",
+      "text": "The United States Congress establishes Sequoia National Park."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Ryan Leslie, American singer-songwriter and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1643",
+      "text": "The House of Commons of England accepts the Solemn League and Covenant, which promises religious reforms in England and Ireland in exchange for support of Scottish troops against king Charles I in the First English Civil War."
     },
     {
       "type": "Event",
@@ -197,24 +112,39 @@
       "text": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan."
     },
     {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Eric Moss, American football player (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Leon Brittan, English lawyer and politician, Secretary of State for Business, Innovation and Skills (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Jimmy Garvin, American wrestler and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "David S. Mann, American lawyer and politician, Mayor of Cincinnati"
+    },
+    {
       "type": "Event",
-      "year": "1868",
-      "text": "The Imperial Russian steam frigate Alexander Nevsky is shipwrecked off Jutland while carrying Grand Duke Alexei Alexandrovich of Russia."
+      "year": "1957",
+      "text": "Central High School in Little Rock, Arkansas, is integrated by the use of United States Army troops."
+    },
+    {
+      "type": "Event",
+      "year": "275",
+      "text": "For the last time, the Roman Senate chooses an emperor; they elect 75-year-old Marcus Claudius Tacitus."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Christopher Reeve, American actor, producer, and activist (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Scottie Pippen, American basketball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Cherríe Moraga, American poet, playwright, and activist"
+      "year": "1968",
+      "text": "John A. List, American economist and academic"
     },
     {
       "type": "Event",
@@ -223,33 +153,23 @@
     },
     {
       "type": "Birth",
-      "year": "1976",
-      "text": "Charlotte Ayanna, Puerto Rican-American actress"
+      "year": "1966",
+      "text": "Stanislav Bunin, Russian pianist and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Robbie Jones, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Keely Shaye Smith, American journalist and author"
     },
     {
       "type": "Birth",
       "year": "1969",
-      "text": "David Weathers, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "Columbia University Graduate School of Journalism is founded in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Janusz Majer, Polish mountaineer"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "NASA launches the Mars Observer. Eleven months later, the probe would fail while preparing for orbital insertion."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Kathleen Brown, American lawyer and politician, 29th California State Treasurer"
+      "text": "Tony Womack, American baseball player"
     },
     {
       "type": "Event",
@@ -258,28 +178,23 @@
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Randy Kerber, American keyboard player, composer, and conductor"
+      "year": "1947",
+      "text": "Cheryl Tiegs, American model and actress"
+    },
+    {
+      "type": "Death",
+      "year": "2016",
+      "text": "Arnold Palmer, American golfer (born 1929)"
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Rocco Baldelli, American baseball player and manager"
+      "year": "1943",
+      "text": "John Locke, American keyboard player (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Heather Locklear, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Gil Morgan, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Colin Friels, Scottish-Australian actor"
+      "year": "1976",
+      "text": "Chauncey Billups, American basketball player"
     },
     {
       "type": "Death",
@@ -289,17 +204,102 @@
     {
       "type": "Birth",
       "year": "1992",
-      "text": "Massimo Luongo, Australian footballer"
+      "text": "Teddy Swims, American singer and songwriter"
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Eric Moss, American football player (died 2019)"
+      "year": "1992",
+      "text": "Ruslan Zhiganshin, Russian ice dancer"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Dee Dee Warwick, American singer (died 2008)"
+      "year": "1965",
+      "text": "Scottie Pippen, American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "867",
+      "text": "Basil I is crowned Byzantine emperor in the Hagia Sophia after he murdered the previous emperor Michael III in the night before."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Todd Philcox, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Rob Schmidt, American director and screenwriter"
+    },
+    {
+      "type": "Death",
+      "year": "2003",
+      "text": "Franco Modigliani, Italian-American economist and academic, Nobel Prize laureate (born 1918)"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "The Imperial Russian steam frigate Alexander Nevsky is shipwrecked off Jutland while carrying Grand Duke Alexei Alexandrovich of Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "NASA launches the Mars Observer. Eleven months later, the probe would fail while preparing for orbital insertion."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "NASA launches Space Shuttle Atlantis on STS-86 to the Mir space station."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Ivory Latta, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Dat Nguyen, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Charlotte Ayanna, Puerto Rican-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "American Revolutionary War: Benedict Arnold's expedition to Quebec sets off to join the American invasion."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "The North Yemen Civil War begins when Abdullah al-Sallal dethrones the newly crowned Imam al-Badr and declares Yemen a republic under his presidency."
+    },
+    {
+      "type": "Event",
+      "year": "1912",
+      "text": "Columbia University Graduate School of Journalism is founded in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Robert Walden, American actor, director, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Mike Krahulik, American illustrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Aida Turturro, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Lee Norris, American actor"
     }
   ],
   "source": "Wikipedia"
