@@ -3,78 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "365",
-      "text": "Roman usurper Procopius bribes two legions passing by Constantinople, and proclaims himself emperor."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Anne White, American tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1238",
-      "text": "King James I of Aragon conquers Valencia from the Moors. Shortly thereafter, he proclaims himself king of Valencia."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Rhonda Hughes, American mathematician and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Quentin Kawānanakoa, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "235",
-      "text": "Pope Pontian resigns. He is exiled to the mines of Sardinia, along with Hippolytus of Rome."
-    },
-    {
-      "type": "Event",
-      "year": "1787",
-      "text": "The Congress of the Confederation votes to send the newly written United States Constitution to the state legislatures for approval."
-    },
-    {
-      "type": "Event",
-      "year": "1821",
-      "text": "The Declaration of Independence of the Mexican Empire is drafted. It will be made public on 13 October."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Stuart Kauffman, American biologist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Jennifer Rush, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "St. Vincent, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Aleksandr Anyukov, Russian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "Corporal Frank S. Scott of the United States Army becomes the first enlisted man to die in an airplane crash."
-    },
-    {
-      "type": "Event",
-      "year": "-48",
-      "text": "Pompey disembarks at Pelusium upon arriving in Egypt, whereupon he is assassinated by order of King Ptolemy XIII."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "Philippine–American War: Filipino guerrillas kill more than forty American soldiers while losing 28 of their own."
+      "year": "1975",
+      "text": "The Spaghetti House siege, in which nine people are taken hostage, takes place in London."
     },
     {
       "type": "Birth",
@@ -83,48 +13,38 @@
     },
     {
       "type": "Event",
-      "year": "995",
-      "text": "Boleslaus II, Duke of Bohemia, kills most members of the rival Slavník dynasty."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Laura Bruce, American artist"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Taki Tsan, American-Greek rapper and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "George Eustice, English lawyer and politician"
+      "year": "1779",
+      "text": "American Revolution: Samuel Huntington is elected President of the Continental Congress, succeeding John Jay."
     },
     {
       "type": "Event",
-      "year": "1868",
-      "text": "The Battle of Alcolea causes Queen Isabella II of Spain to flee to France."
+      "year": "-48",
+      "text": "Pompey disembarks at Pelusium upon arriving in Egypt, whereupon he is assassinated by order of King Ptolemy XIII."
     },
     {
       "type": "Event",
-      "year": "1973",
-      "text": "The ITT Building in New York City is bombed in protest at ITT's alleged involvement in the coup d'état in Chile."
+      "year": "1919",
+      "text": "Race riots begin in Omaha, Nebraska, United States."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "Philippine–American War: Filipino guerrillas kill more than forty American soldiers while losing 28 of their own."
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Aleks Vrteski, Australian footballer"
+      "year": "1941",
+      "text": "Charley Taylor, American football player (died 2022)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Bonnie Leman, American art historian, writer, and publisher of Quilter's Newsletter Magazine (died 2010)"
+      "year": "1964",
+      "text": "Janeane Garofalo, American comedian, actress, and screenwriter"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Isamu Jordan, American journalist and academic (died 2013)"
+      "year": "1954",
+      "text": "Steve Largent, American football player and politician"
     },
     {
       "type": "Event",
@@ -132,74 +52,19 @@
       "text": "Duke Wenceslaus I of Bohemia is murdered by a group of nobles led by his brother Boleslaus I, who succeeds him."
     },
     {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Warren Lieberfarb, American businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Bruce Crampton, Australian golfer"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "The Spaghetti House siege, in which nine people are taken hostage, takes place in London."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Kenny Kirkland, American pianist (died 1998)"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "Ted Williams achieves a .406 batting average for the season, and becomes the last major league baseball player to bat .400 or better."
-    },
-    {
-      "type": "Event",
-      "year": "1779",
-      "text": "American Revolution: Samuel Huntington is elected President of the Continental Congress, succeeding John Jay."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Emeka Okafor, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Edward \"Little Buster\" Forehand, American singer-songwriter and guitarist (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Marlon Parmer, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "The 2016 South Australian blackout occurs, lasting up to three days in some areas."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Kerri Chandler, electronic music producer and DJ"
-    },
-    {
-      "type": "Death",
-      "year": "1829",
-      "text": "Nikolay Raevsky, Russian general and politician (born 1771)"
-    },
-    {
       "type": "Event",
       "year": "2000",
       "text": "Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem."
     },
     {
+      "type": "Event",
+      "year": "1787",
+      "text": "The Congress of the Confederation votes to send the newly written United States Constitution to the state legislatures for approval."
+    },
+    {
       "type": "Birth",
-      "year": "1930",
-      "text": "Tommy Collins, American country music singer-songwriter (died 2000)"
+      "year": "1968",
+      "text": "Naomi Watts, English-Australian actress and producer"
     },
     {
       "type": "Event",
@@ -208,53 +73,13 @@
     },
     {
       "type": "Event",
-      "year": "1961",
-      "text": "A military coup in Damascus effectively ends the United Arab Republic, the union between Egypt and Syria."
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Gary Glasberg, American television writer and producer (born 1966)"
-    },
-    {
-      "type": "Event",
-      "year": "1322",
-      "text": "Louis IV, Holy Roman Emperor, defeats Frederick I of Austria in the Battle of Mühldorf."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Ben Greenman, American journalist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1781",
-      "text": "American Revolutionary War: French and American forces backed by a French fleet begin the siege of Yorktown."
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "The first aerial circumnavigation is completed by a team from the US Army."
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "The first night game for American football takes place in a contest between Wyoming Seminary and Mansfield State Normal."
-    },
-    {
-      "type": "Death",
-      "year": "1902",
-      "text": "John Marks Moore, American politician and attorney (born 1853)"
+      "year": "351",
+      "text": "Constantius II defeats the usurper Magnentius."
     },
     {
       "type": "Event",
       "year": "1542",
       "text": "Juan Rodríguez Cabrillo of Portugal arrives at what is now San Diego, California. He is the first European in California."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Seymour Cray, American computer scientist, founded the CRAY Computer Company (died 1996)"
     },
     {
       "type": "Event",
@@ -263,28 +88,138 @@
     },
     {
       "type": "Event",
-      "year": "2023",
-      "text": "The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center."
+      "year": "1941",
+      "text": "Ted Williams achieves a .406 batting average for the season, and becomes the last major league baseball player to bat .400 or better."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "A military coup in Damascus effectively ends the United Arab Republic, the union between Egypt and Syria."
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "Darius Johnson-Odom, American basketball player"
+      "year": "1936",
+      "text": "Emmett Chapman, American guitarist, invented the Chapman Stick (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Young Jeezy, American rapper"
     },
     {
       "type": "Event",
-      "year": "351",
-      "text": "Constantius II defeats the usurper Magnentius."
+      "year": "2016",
+      "text": "The 2016 South Australian blackout occurs, lasting up to three days in some areas."
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "Race riots begin in Omaha, Nebraska, United States."
+      "year": "1912",
+      "text": "Corporal Frank S. Scott of the United States Army becomes the first enlisted man to die in an airplane crash."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "George Eustice, English lawyer and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Stuart Kauffman, American biologist and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "B.G., the Prince of Rap, American rapper (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1781",
+      "text": "American Revolutionary War: French and American forces backed by a French fleet begin the siege of Yorktown."
+    },
+    {
+      "type": "Event",
+      "year": "235",
+      "text": "Pope Pontian resigns. He is exiled to the mines of Sardinia, along with Hippolytus of Rome."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Rob Moroso, American race car driver (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Gary Ayres, Australian footballer and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Chuck Taylor, American journalist"
     },
     {
       "type": "Birth",
       "year": "1975",
-      "text": "Lenny Krayzelburg, Russian-American swimmer"
+      "text": "Isamu Jordan, American journalist and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Laura Bruce, American artist"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Ben Greenman, American journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "365",
+      "text": "Roman usurper Procopius bribes two legions passing by Constantinople, and proclaims himself emperor."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Bonzi Wells, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Stuart Clark, Australian cricketer and manager"
+    },
+    {
+      "type": "Event",
+      "year": "995",
+      "text": "Boleslaus II, Duke of Bohemia, kills most members of the rival Slavník dynasty."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Joseph Arthur, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1821",
+      "text": "The Declaration of Independence of the Mexican Empire is drafted. It will be made public on 13 October."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Koko Taylor, American singer (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "The first night game for American football takes place in a contest between Wyoming Seminary and Mansfield State Normal."
+    },
+    {
+      "type": "Death",
+      "year": "1993",
+      "text": "Alexander A. Drabik, American sergeant (born 1910)"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "The Battle of Alcolea causes Queen Isabella II of Spain to flee to France."
     },
     {
       "type": "Event",
@@ -293,13 +228,78 @@
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Jerry Clower, American soldier, comedian, and author (died 1998)"
+      "year": "1954",
+      "text": "George Lynch, American guitarist and songwriter"
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Charley Taylor, American football player (died 2022)"
+      "year": "1988",
+      "text": "Hana Mae Lee, American actress, model, and fashion designer"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Mike DeJean, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "The first aerial circumnavigation is completed by a team from the US Army."
+    },
+    {
+      "type": "Death",
+      "year": "2019",
+      "text": "José José, Mexican musician and singer (born 1948)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Jeffrey Jones, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Martin David Kruskal, American physicist and mathematician (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1238",
+      "text": "King James I of Aragon conquers Valencia from the Moors. Shortly thereafter, he proclaims himself king of Valencia."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Gregory Jbara, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Tommy Collins, American country music singer-songwriter (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1322",
+      "text": "Louis IV, Holy Roman Emperor, defeats Frederick I of Austria in the Battle of Mühldorf."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Constance Baker Motley, American lawyer, judge, and politician (born 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Immanuel Wallerstein, American sociologist, author, and academic (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The ITT Building in New York City is bombed in protest at ITT's alleged involvement in the coup d'état in Chile."
     }
   ],
   "source": "Wikipedia"
