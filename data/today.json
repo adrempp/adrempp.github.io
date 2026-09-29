@@ -3,28 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "John M. McHugh, American politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "John Paxson, American basketball player and executive"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "NASA launches STS-26, the first Space Shuttle mission since the Challenger disaster."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Chrissy Metz, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Jerry Lee Lewis, American singer-songwriter and pianist (died 2022)"
+      "year": "1904",
+      "text": "Greer Garson, English-American actress (died 1996)"
     },
     {
       "type": "Birth",
@@ -32,219 +12,9 @@
       "text": "Sasha Lane, American actress"
     },
     {
-      "type": "Event",
-      "year": "2011",
-      "text": "The special court in India convicted all 269 accused officials for atrocity on Dalits and 17 for rape in the Vachathi case."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "James Fogle, American author (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Inika McPherson, American track and field athlete"
-    },
-    {
       "type": "Birth",
       "year": "1965",
-      "text": "Robert F. Worth, American journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Billy Butlin, South African-English businessman, founded Butlins (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Madeline Kahn, American actress and singer (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Diana Vreeland, American journalist (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Kevin Durant, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Pete Elliott, American football player and coach (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1714",
-      "text": "The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath."
-    },
-    {
-      "type": "Event",
-      "year": "2005",
-      "text": "John Roberts is confirmed as Chief Justice of the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Joseph M. McDade, American politician (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Bryant Gumbel, American journalist and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "S. H. Kapadia, Indian lawyer, judge, and politician, 38th Chief Justice of India (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Geoffrey Marcy, American astronomer"
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Japan establishes diplomatic relations with the People's Republic of China after breaking official ties with the Republic of China."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "The stock market crashes with the Dow Jones dropping a then record 778 points after the United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Steve Tesich, Serbian-American screenwriter and playwright (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Steve Forrest, American actor (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1567",
-      "text": "During the French War of Religion, Protestant coup officials in Nîmes massacre Catholic priests in an event now known as the Michelade."
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "The Tampere Hall, the largest concert and congress center in the Nordic countries, is inaugurated in Tampere, Finland."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Heath Bell, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Brenda Marshall, American actress (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Janis F. Kearney, American author, lecturer and publisher"
-    },
-    {
-      "type": "Event",
-      "year": "1227",
-      "text": "Frederick II, Holy Roman Emperor, is excommunicated by Pope Gregory IX for his failure to participate in the Crusades during the Investiture Controversy."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "Ukrainian War of Independence: The Ukrainian Soviet Socialist Republic agree to a truce with the Makhnovshchina."
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Eleven days after the Uri attack, the Indian Army conducts \"surgical strikes\" against suspected militants in Pakistani-administered Kashmir."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Stan Berenstain, American author and illustrator (died 2005)"
-    },
-    {
-      "type": "Death",
-      "year": "1966",
-      "text": "Bernard Gimbel, American businessman (born 1885)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Silvio Berlusconi, Italian businessman and politician, Prime Minister of Italy (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "A Lockheed L-188 Electra crashes in Buffalo, Texas, killing 34 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Mihaly Csikszentmihalyi, Hungarian-American psychologist and academic (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Carlos Watson, American entrepreneur, journalist and television host"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Construction of the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) is completed in Washington, D.C."
-    },
-    {
-      "type": "Event",
-      "year": "440",
-      "text": "Consecration of pope Leo I, later called Leo the Great, following the death of pope Sixtus III in the month before."
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "The First American Track and Field championships for women are held."
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Rutherford Ness Robertson, Australian botanist and biologist (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "Two Avro Ansons collide in mid-air over New South Wales, Australia, remain locked together, then land safely."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jill Whelan, American actress"
-    },
-    {
-      "type": "Death",
-      "year": "2011",
-      "text": "Sylvia Robinson, American singer-songwriter and producer (born 1936)"
-    },
-    {
-      "type": "Event",
-      "year": "1789",
-      "text": "The United States Department of War first establishes a regular army with a strength of several hundred men."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Russell Peters, Canadian comedian, actor, and producer"
+      "text": "Suzanne Kamata, American author and educator"
     },
     {
       "type": "Event",
@@ -253,33 +23,103 @@
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Chuck Cooper, American basketball player (died 1984)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Barbara Mertz, American historian and author (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Suzzy Roche, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Joanna Brooks, American author and professor"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Stephanie Klein, American author"
-    },
-    {
-      "type": "Birth",
       "year": "1955",
       "text": "Ann Bancroft, American explorer and author"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "The United States Department of War first establishes a regular army with a strength of several hundred men."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Roger Bart, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "The special court in India convicted all 269 accused officials for atrocity on Dalits and 17 for rape in the Vachathi case."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Andy Straka, American author"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Silvio Berlusconi, Italian businessman and politician, Prime Minister of Italy (died 2023)"
+    },
+    {
+      "type": "Death",
+      "year": "1944",
+      "text": "Douglas Crawford McMurtrie, American typeface designer, graphic designer, historian and author (born 1888)"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Charles Court, English-Australian politician, 21st Premier of Western Australia (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Jeffrey O'Connell, American legal expert, professor, and attorney (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Mark Farner, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Nathan West, American actor, musician, and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Bill Nelson, American politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Marissa Moss, American author"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Japan establishes diplomatic relations with the People's Republic of China after breaking official ties with the Republic of China."
+    },
+    {
+      "type": "Event",
+      "year": "1567",
+      "text": "During the French War of Religion, Protestant coup officials in Nîmes massacre Catholic priests in an event now known as the Michelade."
+    },
+    {
+      "type": "Event",
+      "year": "1227",
+      "text": "Frederick II, Holy Roman Emperor, is excommunicated by Pope Gregory IX for his failure to participate in the Crusades during the Investiture Controversy."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "Fidel LaBarba, American boxer and sportswriter (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Steve Tesich, Serbian-American screenwriter and playwright (died 1996)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "The Tampere Hall, the largest concert and congress center in the Nordic countries, is inaugurated in Tampere, Finland."
     },
     {
       "type": "Event",
@@ -288,8 +128,63 @@
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Janet Powell, Australian educator and politician (died 2013)"
+      "year": "1966",
+      "text": "Ken Norton Jr., American football player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "John Roberts is confirmed as Chief Justice of the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Ukrainian War of Independence: The Ukrainian Soviet Socialist Republic agree to a truce with the Makhnovshchina."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Pete McCloskey, American politician (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "James Cronin, American physicist and academic, Nobel Prize laureate (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Construction of the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) is completed in Washington, D.C."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "Two Avro Ansons collide in mid-air over New South Wales, Australia, remain locked together, then land safely."
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Clarence Ashley, American singer, guitarist, and banjo player (died 1967)"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "A Lockheed L-188 Electra crashes in Buffalo, Texas, killing 34 people."
+    },
+    {
+      "type": "Event",
+      "year": "440",
+      "text": "Consecration of pope Leo I, later called Leo the Great, following the death of pope Sixtus III in the month before."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Jon Brower Minnoch, famous for being the world's heaviest person recorded (died 1983)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Richard Bonynge, Australian pianist and conductor"
     },
     {
       "type": "Event",
@@ -297,9 +192,114 @@
       "text": "The cornerstone is laid at the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) in Washington, D.C."
     },
     {
+      "type": "Event",
+      "year": "1714",
+      "text": "The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The stock market crashes with the Dow Jones dropping a then record 778 points after the United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession."
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Virginia Bruce, American actress (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Joe Donnelly, American politician and lawyer"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Robert Lieber, American writer and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Tom McKeown, American poet and educator"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Eleven days after the Uri attack, the Indian Army conducts \"surgical strikes\" against suspected militants in Pakistani-administered Kashmir."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Adam Segal, American cybersecurity expert"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Stan Berenstain, American author and illustrator (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Stanley Kramer, American director and producer (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Harry E. Johnson, American lawyer and public servant"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "S. H. Kapadia, Indian lawyer, judge, and politician, 38th Chief Justice of India (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Joanna Brooks, American author and professor"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "NASA launches STS-26, the first Space Shuttle mission since the Challenger disaster."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Joseph M. McDade, American politician (died 2017)"
+    },
+    {
       "type": "Death",
-      "year": "1983",
-      "text": "Alan Moorehead, Australian war correspondent and author (born 1910)"
+      "year": "1992",
+      "text": "Don West, American writer, poet, educator, trade union organizer and civil-rights activist (born 1906)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Bum Phillips, American football player and coach (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Enrico Fermi, Italian-American physicist and academic, Nobel Prize laureate (died 1954)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Dedric Ward, American football wide receiver"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Gwen Ifill, American journalist (died 2016)"
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Austin Leslie, American chef and author (born 1934)"
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "The First American Track and Field championships for women are held."
     }
   ],
   "source": "Wikipedia"
