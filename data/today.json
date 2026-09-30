@@ -3,218 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Angie Dickinson, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Kenny Baker, American singer and actor (died 1985)"
-    },
-    {
-      "type": "Birth",
       "year": "1991",
       "text": "David Bakhtiari, American football player"
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Adam Cooney, Australian footballer"
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Vladimir Voevodsky, Russian-American mathematician (born 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Paul Sheahan, Australian cricketer and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Jenna Elfman, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The Hoover Dam, astride the border between the U.S. states of Arizona and Nevada, is dedicated."
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Lansdale Ghiselin Sasscer, American lieutenant, lawyer, and politician (died 1964)"
-    },
-    {
-      "type": "Event",
-      "year": "737",
-      "text": "The Türgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Yuri Lyubimov, Russian actor and director (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "The League of Nations unanimously outlaws \"intentional bombings of civilian populations\"."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "American journalists Herbert R. Ekins, reporter for the New York World-Telegram, Dorothy Kilgallen of the New York Journal and Leo Kieran of The New York Times start the race to travel around the world on commercial airline flights. The race takes 18 ½ days."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Lewis Nixon, U.S. Army captain (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Buddy Rich, American drummer, bandleader, and actor (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Jim Sasser, American lawyer and politician, 6th United States Ambassador to China (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Daniel Wu, American–born Hong Kong actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "NBC broadcasts the first televised American football game."
-    },
-    {
-      "type": "Event",
-      "year": "1541",
-      "text": "Spanish conquistador Hernando de Soto and his forces enter Tula territory in present-day western Arkansas, encountering fierce resistance."
-    },
-    {
-      "type": "Event",
-      "year": "1744",
-      "text": "War of the Austrian Succession: France and Spain defeat Sardinia at the Battle of Madonna dell'Olmo, but soon have to withdraw from Sardinia."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel."
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Trevi Moran, American YouTuber and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Bria Hartley, French-American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The United States Merchant Marine Academy is dedicated by President Roosevelt."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The Tokaimura nuclear accident causes the deaths of two technicians in Japan's second-worst nuclear accident."
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Cissy Houston, American singer (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Ta-Nehisi Coates, American author and journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Angus Taylor, Australian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain."
-    },
-    {
-      "type": "Event",
-      "year": "1882",
-      "text": "Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Barry Marshall, Australian physician and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Event",
-      "year": "1907",
-      "text": "The McKinley National Memorial, the final resting place of assassinated U.S. President William McKinley and his family, is dedicated in Canton, Ohio."
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Pete Rose, American baseball player and manager (born 1941)"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Israeli–Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada."
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "Edgar Parin d'Aulaire, German-American author and illustrator (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Craig Kusick, American baseball player and coach (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Claudia Card, American philosopher and academic (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Kieran Culkin, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Two paintings with a combined value of $100 million are recovered after having been stolen from the Van Gogh Museum in 2002."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Fran Drescher, American actress, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Eric Stoltz, American actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "The 1947 World Series begins. It is the first to be televised, to include an African-American player, to exceed $2 million in receipts, to see a pinch-hit home run, and to have six umpires on the field."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Frankie Lymon, American singer-songwriter (died 1968)"
+      "year": "1921",
+      "text": "Aldo Parisot, Brazilian-American cellist and educator (died 2018)"
     },
     {
       "type": "Event",
@@ -223,53 +18,78 @@
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Markus Burger, German pianist, composer, and educator"
+      "year": "1987",
+      "text": "Aida Garifullina, Russian operatic soprano"
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Anna Kashfi, Indian-American actress (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Elie Wiesel, Romanian-American author, academic, and activist, Nobel Prize laureate (died 2016)"
+      "year": "1908",
+      "text": "David Oistrakh, Ukrainian-Russian violinist and educator (died 1974)"
     },
     {
       "type": "Birth",
       "year": "1883",
-      "text": "Bernhard Rust, German educator and politician (died 1945)"
+      "text": "Nora Stanton Blatch Barney, American civil engineer, architect, and suffragist (died 1971)"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Emmanuelle Houdart, Swiss-French author and illustrator"
+      "year": "1928",
+      "text": "Ray Willsey, Canadian-American football player and coach (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Chris von Erich, American wrestler (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Tony Hale, American actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Johnny Podres, American baseball player and coach (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Patrice Rushen, American singer-songwriter and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Johnny Mathis, American singer and actor"
     },
     {
       "type": "Event",
-      "year": "1919",
-      "text": "The Elaine massacre in Arkansas commences."
+      "year": "1882",
+      "text": "Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation."
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Marty Stuart, American singer-songwriter and guitarist"
+      "year": "1982",
+      "text": "Andrew Hastie, Australian politician"
     },
     {
       "type": "Birth",
-      "year": "1977",
-      "text": "Nick Curran, American singer-songwriter, guitarist, and producer (died 2012)"
+      "year": "1934",
+      "text": "Udo Jürgens, Austrian-Swiss singer-songwriter and pianist (died 2014)"
+    },
+    {
+      "type": "Death",
+      "year": "1955",
+      "text": "James Dean, American actor (born 1931)"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The United States Merchant Marine Academy is dedicated by President Roosevelt."
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Blanche Lincoln, American politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Jay Asher, American author"
+      "year": "1969",
+      "text": "Amy Landecker, American actress"
     },
     {
       "type": "Event",
@@ -278,18 +98,148 @@
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Nicola Griffith, English-American author"
+      "year": "1925",
+      "text": "Arkady Ostashev, Russian engineer and scientist in the former Soviet space program (died 1998)"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Two paintings with a combined value of $100 million are recovered after having been stolen from the Van Gogh Museum in 2002."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Elizabeth Gilels, Ukrainian-Russian violinist and educator (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Marley Marl, American record producer and rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Gustave Gilbert, American psychologist (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "1541",
+      "text": "Spanish conquistador Hernando de Soto and his forces enter Tula territory in present-day western Arkansas, encountering fierce resistance."
+    },
+    {
+      "type": "Event",
+      "year": "737",
+      "text": "The Türgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Eric Stoltz, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Israeli–Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Emmanuelle Houdart, Swiss-French author and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel."
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Claude Dauphin, French businessman (born 1951)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Yuri Lyubimov, Russian actor and director (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Marilyn McCoo, American singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Lamont Johnson, American actor, director, and producer (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1744",
+      "text": "War of the Austrian Succession: France and Spain defeat Sardinia at the Battle of Madonna dell'Olmo, but soon have to withdraw from Sardinia."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Paul Sheahan, Australian cricketer and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Lacey Chabert, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "The McKinley National Memorial, the final resting place of assassinated U.S. President William McKinley and his family, is dedicated in Canton, Ohio."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Jim Sasser, American lawyer and politician, 6th United States Ambassador to China (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Dewey Martin, Canadian-American drummer (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "The Hoover Dam, astride the border between the U.S. states of Arizona and Nevada, is dedicated."
     },
     {
       "type": "Birth",
       "year": "1992",
-      "text": "Ezra Miller, American actor and singer"
+      "text": "Bria Hartley, French-American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "William L. Guy, American lieutenant and politician, 26th Governor of North Dakota (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Héctor Lavoe, Puerto Rican-American singer-songwriter (died 1993)"
     },
     {
       "type": "Death",
-      "year": "1990",
-      "text": "Patrick White, Australian novelist, poet, and playwright, Nobel Prize laureate (born 1912)"
+      "year": "653",
+      "text": "Honorius of Canterbury, Italian archbishop and saint"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Gary Coyne, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Lester Maddox, American businessman and politician, 75th Governor of Georgia (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "The Tokaimura nuclear accident causes the deaths of two technicians in Japan's second-worst nuclear accident."
     },
     {
       "type": "Birth",
@@ -297,9 +247,59 @@
       "text": "Fran Brill, American actress, singer, and puppeteer"
     },
     {
+      "type": "Event",
+      "year": "1939",
+      "text": "NBC broadcasts the first televised American football game."
+    },
+    {
       "type": "Birth",
-      "year": "1946",
-      "text": "Héctor Lavoe, Puerto Rican-American singer-songwriter (died 1993)"
+      "year": "1901",
+      "text": "Thelma Terry, American bassist and bandleader (died 1966)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "John Drew, American basketball player (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "John Finn, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "The 1947 World Series begins. It is the first to be televised, to include an African-American player, to exceed $2 million in receipts, to see a pinch-hit home run, and to have six umpires on the field."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Markus Burger, German pianist, composer, and educator"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "American journalists Herbert R. Ekins, reporter for the New York World-Telegram, Dorothy Kilgallen of the New York Journal and Leo Kieran of The New York Times start the race to travel around the world on commercial airline flights. The race takes 18 ½ days."
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Levi Miller, Australian actor and model"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain."
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The Elaine massacre in Arkansas commences."
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "The League of Nations unanimously outlaws \"intentional bombings of civilian populations\"."
     }
   ],
   "source": "Wikipedia"
