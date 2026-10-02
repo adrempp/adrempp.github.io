@@ -3,78 +3,53 @@
   "items": [
     {
       "type": "Event",
-      "year": "2018",
-      "text": "The Washington Post journalist Jamal Khashoggi is assassinated in the Saudi consulate in Istanbul, Turkey."
-    },
-    {
-      "type": "Event",
       "year": "2019",
       "text": "A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven."
     },
     {
       "type": "Event",
-      "year": "2002",
-      "text": "The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Freddie Jackson, American soul singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Badly Drawn Boy, English musician"
+      "year": "1996",
+      "text": "The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton."
     },
     {
       "type": "Event",
-      "year": "1789",
-      "text": "The United States Bill of Rights is sent to the various States for ratification."
+      "year": "1970",
+      "text": "An aircraft carrying the Wichita State University football team, administrators, and supporters crashes in Colorado, killing 31 people."
     },
     {
       "type": "Birth",
-      "year": "1815",
-      "text": "James Agnew, Irish-Australian politician, Premier of Tasmania (died 1901)"
+      "year": "1906",
+      "text": "Thomas Hollway, Australian politician, Premier of Victoria (died 1971)"
     },
     {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolutionary War: John André, a British Army officer, is hanged as a spy by the Continental Army."
+      "type": "Birth",
+      "year": "1971",
+      "text": "Tiffany Darwish, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Robin Riker, American actress"
     },
     {
       "type": "Birth",
       "year": "1973",
-      "text": "Melissa Harris-Perry, American journalist, author, and educator"
+      "text": "Efren Ramirez, American actor"
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Maury Wills, American baseball player and manager (died 2022)"
+      "year": "1897",
+      "text": "Bud Abbott, American comedian, actor, and producer. (died 1974)"
     },
     {
       "type": "Birth",
-      "year": "1879",
-      "text": "Wallace Stevens, American poet (died 1955)"
+      "year": "1962",
+      "text": "Mark Rypien, Canadian-American football player"
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Lene Nystrøm, Norwegian singer, songwriter, and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Peter Bronfman, Canadian businessman (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Connie Dierking, American basketball player (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1187",
-      "text": "Saladin wins Jerusalem after the city surrendered to his forces following a prolonged siege."
+      "year": "1967",
+      "text": "Thomas Muster, Austrian tennis player"
     },
     {
       "type": "Event",
@@ -83,8 +58,33 @@
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Lance McCullers Jr., American baseball player"
+      "year": "1960",
+      "text": "Django Bates, English musician and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Luke Wilkshire, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Chris Savino, American comic book artist, writer, animator and creator of The Loud House"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Alex Raymond, American cartoonist, creator of Flash Gordon (died 1956)"
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "Texas Revolution: Mexican troops attempt to disarm the people of Gonzales, but encounter stiff resistance from a hastily assembled militia."
+    },
+    {
+      "type": "Death",
+      "year": "2007",
+      "text": "Tex Coulter, American football player (born 1924)"
     },
     {
       "type": "Event",
@@ -93,168 +93,8 @@
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Richard Hell, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Camilla Belle, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "The \"Prelature of the Holy Cross and the Work of God\", commonly known as Opus Dei, is founded."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Nick Gravenites, American singer-songwriter (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Martin Hellman, American cryptographer and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Kelly Willis, American country music singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Dick Barnett, American basketball player (died 2025)"
-    },
-    {
-      "type": "Birth",
       "year": "1965",
-      "text": "Ferhan and Ferzan Önder, Turkish-Austrian pianists"
-    },
-    {
-      "type": "Birth",
-      "year": "1821",
-      "text": "Alexander P. Stewart, American general (died 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Kelly Ripa, American actress and talk show host"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Yokozuna, American wrestler (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Five Amish girls are murdered in a shooting at a school in Pennsylvania, United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1883",
-      "text": "Karl von Terzaghi, Austrian geologist and engineer (died 1963)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Aaron McKie, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "George Grizzard, American actor (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Ron Meagher, American rock bass player"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Frank Malina, American engineer and painter (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Thurgood Marshall is sworn in as the first African-American justice of the United States Supreme Court."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Eddie Guardado, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Bud Abbott, American comedian, actor, and producer. (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "939",
-      "text": "Battle of Andernach: Otto I, Holy Roman Emperor, crushes a rebellion against his rule, by a coalition of Eberhard of Franconia and other Frankish dukes."
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "Texas Revolution: Mexican troops attempt to disarm the people of Gonzales, but encounter stiff resistance from a hastily assembled militia."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "An aircraft carrying the Wichita State University football team, administrators, and supporters crashes in Colorado, killing 31 people."
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics."
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Ruth Cheney Streeter, American colonel (died 1990)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Darren Cahill, Australian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Tyson Chandler, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1909",
-      "text": "Alex Raymond, American cartoonist, creator of Flash Gordon (died 1956)"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Phil Kessel, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Maria Ressa, Filipino-American journalist"
+      "text": "Tom Moody, Australian cricketer"
     },
     {
       "type": "Birth",
@@ -263,8 +103,128 @@
     },
     {
       "type": "Birth",
+      "year": "1883",
+      "text": "Karl von Terzaghi, Austrian geologist and engineer (died 1963)"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Heinz von Foerster, Austrian-American physicist and philosopher (born 1911)"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Leroy Shield, American composer and conductor (died 1962)"
+    },
+    {
+      "type": "Event",
+      "year": "939",
+      "text": "Battle of Andernach: Otto I, Holy Roman Emperor, crushes a rebellion against his rule, by a coalition of Eberhard of Franconia and other Frankish dukes."
+    },
+    {
+      "type": "Birth",
+      "year": "1815",
+      "text": "James Agnew, Irish-Australian politician, Premier of Tasmania (died 1901)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Albert Scott Crossfield, American pilot and engineer (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Tom Trbojevic, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Earl Wilson, American baseball player (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Tom Boswell, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Joe Ingles, Australian basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people."
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "Tom Petty, American musician (born 1950)"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Lance McCullers Jr., American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Aaron Hicks, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "The Washington Post journalist Jamal Khashoggi is assassinated in the Saudi consulate in Istanbul, Turkey."
+    },
+    {
+      "type": "Event",
+      "year": "1187",
+      "text": "Saladin wins Jerusalem after the city surrendered to his forces following a prolonged siege."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Peter Bronfman, Canadian businessman (died 1996)"
+    },
+    {
+      "type": "Birth",
       "year": "1937",
       "text": "Johnnie Cochran, American lawyer (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Tyson Chandler, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolutionary War: John André, a British Army officer, is hanged as a spy by the Continental Army."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Kelly Ripa, American actress and talk show host"
+    },
+    {
+      "type": "Event",
+      "year": "-48",
+      "text": "Julius Caesar arrives in Ptolemaic Egypt in his pursuit of Pompey and learns of the latter's death."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Five Amish girls are murdered in a shooting at a school in Pennsylvania, United States."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War."
     },
     {
       "type": "Event",
@@ -273,8 +233,43 @@
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Don McLean, American singer-songwriter"
+      "year": "1943",
+      "text": "Henri Szeps, Australian actor (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Shane Larkin, American-Turkish basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "The \"Prelature of the Holy Cross and the Work of God\", commonly known as Opus Dei, is founded."
+    },
+    {
+      "type": "Birth",
+      "year": "1821",
+      "text": "Alexander P. Stewart, American general (died 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Lorraine Bracco, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Moses Gunn, American actor (died 1993)"
+    },
+    {
+      "type": "Event",
+      "year": "1789",
+      "text": "The United States Bill of Rights is sent to the various States for ratification."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Thurgood Marshall is sworn in as the first African-American justice of the United States Supreme Court."
     },
     {
       "type": "Birth",
@@ -282,24 +277,29 @@
       "text": "Leopold Figl, Austrian politician, Chancellor of Austria (died 1965)"
     },
     {
-      "type": "Death",
-      "year": "2005",
-      "text": "August Wilson, American author and playwright (born 1945)"
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Nguyễn Chí Thiện, Vietnamese-American poet and activist (born 1939)"
-    },
-    {
-      "type": "Event",
-      "year": "-48",
-      "text": "Julius Caesar arrives in Ptolemaic Egypt in his pursuit of Pompey and learns of the latter's death."
+      "type": "Birth",
+      "year": "1960",
+      "text": "Dereck Whittenburg, American basketball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1800",
-      "text": "Nat Turner, American slave and uprising leader (died 1831)"
+      "year": "1986",
+      "text": "Camilla Belle, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Maria Ressa, Filipino-American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Annie Leibovitz, American photographer"
     }
   ],
   "source": "Wikipedia"
