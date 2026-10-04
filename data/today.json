@@ -3,93 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Jim Cairns, Australian economist and politician, 4th Deputy Prime Minister of Australia (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1916",
-      "text": "George Sidney, American director and producer (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Buster Keaton, American film actor, director, and producer (died 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Truck Robinson, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Leroy Van Dyke, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Joe Boever, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Stanley K. Hathaway, American lawyer and politician, 40th United States Secretary of the Interior (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Chuck Hagel, American sergeant and politician, 24th United States Secretary of Defense"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Battle of Mogadishu occurs killing 18 U.S. Special Forces, two UN Peacekeepers and at least 600 Somalian militia men and civilians."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Philippe Russo, French singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "1853",
-      "text": "The Crimean War begins when the Ottoman Empire declares war on the Russian Empire."
-    },
-    {
-      "type": "Event",
-      "year": "1927",
-      "text": "Gutzon Borglum begins sculpting Mount Rushmore."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "The Metropolitan Police and various anti-fascist organizations violently clash in the Battle of Cable Street."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: The two-day Second Battle of Corinth ends in a Union victory, with General William Rosecrans protecting the critical rail junction of Corinth, Mississippi from Confederate forces under General Earl Van Dorn."
-    },
-    {
-      "type": "Birth",
-      "year": "1858",
-      "text": "Léon Serpollet, French businessman (died 1903)"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Steve Swallow, American bass player and composer"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Richard Noble sets a new land speed record of 633.468 miles per hour (1,019.468 km/h) at the Black Rock Desert in Nevada."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Kyle Lohse, American baseball player"
+      "year": "1965",
+      "text": "Micky Ward, American boxer"
     },
     {
       "type": "Event",
@@ -98,23 +13,18 @@
     },
     {
       "type": "Event",
-      "year": "1958",
-      "text": "The current constitution of France is adopted."
+      "year": "1876",
+      "text": "The Agricultural and Mechanical College of Texas (now known as Texas A&M) opens as the first public college in Texas."
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "David Crocker, American philosopher and academic"
+      "year": "1876",
+      "text": "Florence Eliza Allen, American mathematician and suffrage activist (died 1960)"
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Tony La Russa, American baseball player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Lena Katina, Russian singer-songwriter"
+      "year": "1910",
+      "text": "Frankie Crosetti, American baseball player and coach (died 2002)"
     },
     {
       "type": "Birth",
@@ -123,28 +33,8 @@
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Karl W. Richter, American lieutenant and pilot (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Dakota Johnson, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Shin Kyuk-ho, South Korean-Japanese businessman, founded Lotte Group (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1876",
-      "text": "The Agricultural and Mechanical College of Texas (now known as Texas A&M) opens as the first public college in Texas."
-    },
-    {
-      "type": "Death",
-      "year": "2001",
-      "text": "John Collins, American guitarist (born 1913)"
+      "year": "1938",
+      "text": "Norman D. Wilson, American actor (died 2004)"
     },
     {
       "type": "Event",
@@ -153,33 +43,33 @@
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Donald J. Sobol, American soldier and author (died 2012)"
+      "year": "1926",
+      "text": "Raymond Watson, American businessman (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "The Metropolitan Police and various anti-fascist organizations violently clash in the Battle of Cable Street."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "Battle of Mogadishu occurs killing 18 U.S. Special Forces, two UN Peacekeepers and at least 600 Somalian militia men and civilians."
+    },
+    {
+      "type": "Event",
+      "year": "1853",
+      "text": "The Crimean War begins when the Ottoman Empire declares war on the Russian Empire."
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "Vitaly Ginzburg, Russian physicist and academic, Nobel Prize laureate (died 2009)"
+      "year": "1942",
+      "text": "Christopher Stone, American actor and screenwriter (died 1995)"
     },
     {
       "type": "Birth",
-      "year": "1903",
-      "text": "Ernst Kaltenbrunner, Austrian-German lawyer and general, convicted Nuremberg war criminal (died 1946)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Richard Rorty, American philosopher and author (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1880",
-      "text": "Damon Runyon, American newspaperman and short story writer. (died 1946)"
-    },
-    {
-      "type": "Birth",
-      "year": "1861",
-      "text": "Frederic Remington, American painter, sculptor, and illustrator (died 1909)"
+      "year": "1949",
+      "text": "Stephen Gyllenhaal, American director, producer, and screenwriter"
     },
     {
       "type": "Event",
@@ -188,23 +78,28 @@
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Norman D. Wilson, American actor (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Tanks bombard the Russian parliament, while demonstrators against President Yeltsin rally outside."
+      "year": "1978",
+      "text": "Kyle Lohse, American baseball player"
     },
     {
       "type": "Death",
-      "year": "2024",
-      "text": "Christopher Ciccone, American artist (born 1960)"
+      "year": "1755",
+      "text": "Samuel von Cocceji, Prussian jurist and statesman (born 1679)"
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Malcolm Baldrige Jr., American businessman and politician, 26th United States Secretary of Commerce (died 1987)"
+      "year": "1940",
+      "text": "Alberto Vilar, American businessman and philanthropist (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Barbara Kooyman, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1927",
+      "text": "Gutzon Borglum begins sculpting Mount Rushmore."
     },
     {
       "type": "Event",
@@ -213,73 +108,88 @@
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Mitchell Swepson, Australian cricketer"
+      "year": "1982",
+      "text": "Jered Weaver, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1861",
-      "text": "Walter Rauschenbusch, American pastor and theologian (died 1918)"
+      "year": "1965",
+      "text": "Skip Heller, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: The two-day Second Battle of Corinth ends in a Union victory, with General William Rosecrans protecting the critical rail junction of Corinth, Mississippi from Confederate forces under General Earl Van Dorn."
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "John Vincent Atanasoff, American physicist and academic, invented the Atanasoff–Berry computer (died 1995)"
     },
     {
       "type": "Birth",
       "year": "1946",
-      "text": "Susan Sarandon, American actress and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Sarah Fisher, American race car driver"
+      "text": "Michael Mullen, American admiral"
     },
     {
       "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: Troops under George Washington are repelled by British troops under William Howe."
+      "year": "1993",
+      "text": "Tanks bombard the Russian parliament, while demonstrators against President Yeltsin rally outside."
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Jon Secada, Cuban-American singer-songwriter"
+      "year": "1956",
+      "text": "Charlie Leibrandt, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1895",
+      "text": "Horace Rawlins wins the first U.S. Open Men's Golf Championship."
+    },
+    {
+      "type": "Death",
+      "year": "1903",
+      "text": "Otto Weininger, Austrian philosopher and author (born 1880)"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Lonnie Chisenhall, American baseball player"
+      "year": "1952",
+      "text": "Anita DeFrantz, American rower and sports administrator"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Karl-Gustav Kaisla, Finnish ice hockey player and referee (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1862",
+      "text": "Johanna van Gogh-Bonger, sister-in-law of Vincent van Gogh, who is credited with promoting his posthumous fame (died 1925)."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Vitaly Ginzburg, Russian physicist and academic, Nobel Prize laureate (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Terence Conran, English designer and businessman (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Russell Simmons, American businessman, founded Def Jam Recordings and Phat Farm"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Charlton Heston, American actor, director and gun rights activist (died 2008)"
     },
     {
       "type": "Event",
       "year": "1957",
       "text": "Sputnik 1 becomes the first artificial satellite to orbit the Earth."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Nick Green, Australian rower"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Felicia Farr, American actress and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Jim Fielder, American bass player"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Micky Ward, American boxer"
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "Robert Edwards, American artist, musician, and writer (died 1948)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Jody Stephens, American rock drummer"
     },
     {
       "type": "Event",
@@ -288,18 +198,108 @@
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Koji Ishikawa, Japanese author and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "1895",
-      "text": "Horace Rawlins wins the first U.S. Open Men's Golf Championship."
+      "year": "1940",
+      "text": "Steve Swallow, American bass player and composer"
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Mike Williams, American football player"
+      "year": "1892",
+      "text": "Robert Lawson, American author and illustrator (died 1957)"
+    },
+    {
+      "type": "Birth",
+      "year": "1861",
+      "text": "Frederic Remington, American painter, sculptor, and illustrator (died 1909)"
+    },
+    {
+      "type": "Event",
+      "year": "1777",
+      "text": "American Revolutionary War: Troops under George Washington are repelled by British troops under William Howe."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Abraham Benrubi, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Roy Blount Jr., American humorist and journalist"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Richard Noble sets a new land speed record of 633.468 miles per hour (1,019.468 km/h) at the Black Rock Desert in Nevada."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Scotty Beckett, American actor and singer (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Melissa Benoist, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Liev Schreiber, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "H. Rap Brown, American activist (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Jackie Collins, English-American author and actress (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Truck Robinson, American basketball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Rachael Leigh Cook, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jim Fielder, American bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "M. Ward, American singer-songwriter"
+    },
+    {
+      "type": "Death",
+      "year": "1975",
+      "text": "Joan Whitney Payson, American businesswoman and philanthropist (born 1903)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Karl Oppitzhauser, Austrian race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The current constitution of France is adopted."
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "Jan Murray, American comedian, actor, and game show host (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1888",
+      "text": "Lucy Tayiah Eads, American tribal chief (died 1961)"
     }
   ],
   "source": "Wikipedia"
