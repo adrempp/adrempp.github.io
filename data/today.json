@@ -2,249 +2,9 @@
   "date": "2026-10-05",
   "items": [
     {
-      "type": "Death",
-      "year": "1986",
-      "text": "Mike Burgmann, Australian racing driver and accountant (born 1947)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Angelo Buono, American serial killer and rapist (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Carson Ellis, American painter and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Daniel Baldwin, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Scott Weinger, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Nate Thompson, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The World Series is broadcast on radio for the first time."
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "John Hoyt, American actor (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "James Rizzi, American painter and illustrator (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Ben Cardin, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Barry Switzer, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Pacific Theater: Ninety-eight American POWs are executed by Japanese forces on Wake Island."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Johnny Duncan, American country singer (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "816",
-      "text": "King Louis the Pious is crowned emperor of the Holy Roman Empire by the Pope."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Michael Andretti, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Allen Ludden, American television personality and  game show host (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Cody Zeller, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Grant Hill, American basketball player and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Holocaust: In Nazi Germany, Jews' passports are invalidated."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Frederic Morton, Austrian-American banker, journalist, and author (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "J. J. Yeley, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Naima Adedapo, American singer and dancer"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Josie Bissett, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Michael Roos, Estonian-American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1978",
-      "text": "Brother Eddie Villanueva and 15 others from the Polytechnic University of the Philippines begin the Jesus Is Lord Church."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Kelly Joe Phelps, American singer-songwriter and guitarist (died 2022)"
-    },
-    {
-      "type": "Death",
-      "year": "1540",
-      "text": "Helius Eobanus Hessus, German poet and educator (born 1488)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Thomas Roberts, American journalist and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Dillon Francis, American DJ and record producer"
-    },
-    {
       "type": "Event",
       "year": "1900",
       "text": "Peace congress in Paris condemns British policy in South Africa and asserts Boer Republic's right to self-determination."
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Richard Street, American singer-songwriter (died 2013)"
-    },
-    {
-      "type": "Event",
-      "year": "1877",
-      "text": "The Nez Perce War in the northwestern United States comes to an end."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Nathan Peats, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Nathalie Kelley, Peruvian-Australian actress"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The United States suspends the Commercial Import Program in response to repression of the Buddhist majority by the regime of President Ngo Dinh Diem."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Paul Thomas, American bass player"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Eugene B. Fluckey, American admiral, Medal of Honor recipient (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Tord Gustavsen, Norwegian pianist and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "James Valentine, American musician and songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Walter Dale Miller, American lawyer and politician, 29th Governor of South Dakota (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1465",
-      "text": "King Louis XI of France is forced to sign the treaty of Conflans."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Bill Dana, American actor, producer, and screenwriter (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Tylenol products are recalled after bottles in Chicago laced with cyanide cause seven deaths."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Dennis Byrd, American football player (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Bil Keane, American cartoonist (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "610",
-      "text": "Heraclius arrives at Constantinople, kills Byzantine Emperor Phocas, and becomes emperor."
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "After 150 years The Herald newspaper in Melbourne, Australia, is published for the last time as a separate newspaper."
     },
     {
       "type": "Birth",
@@ -253,8 +13,73 @@
     },
     {
       "type": "Birth",
+      "year": "1907",
+      "text": "Ragnar Nurkse, Estonian-American economist and academic (died 1959)"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "Tylenol products are recalled after bottles in Chicago laced with cyanide cause seven deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1905",
+      "text": "John Hoyt, American actor (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Terry Trotter, American jazz pianist"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Michael Andretti, American race car driver"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Doug Bailey, American political consultant, founded The Hotline (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The United States suspends the Commercial Import Program in response to repression of the Buddhist majority by the regime of President Ngo Dinh Diem."
+    },
+    {
+      "type": "Birth",
       "year": "1933",
       "text": "Billy Lee Riley, American rockabilly musician, singer-songwriter, and record producer (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Steve Williams, Australian-German rugby player"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Konstantin Zyryanov, Russian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Eugene B. Fluckey, American admiral, Medal of Honor recipient (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Hutch Harris, American songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Sean M. Carroll, American physicist, cosmologist, and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Washington Sundar, Indian cricketer"
     },
     {
       "type": "Event",
@@ -263,43 +88,218 @@
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Adair Turner, Baron Turner of Ecchinswell, English academic and businessman"
+      "year": "1949",
+      "text": "Bill James, American historian and author"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "After 150 years The Herald newspaper in Melbourne, Australia, is published for the last time as a separate newspaper."
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Jeff Conaway, American actor and singer (died 2011)"
+      "year": "1938",
+      "text": "Johnny Duncan, American country singer (died 2006)"
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Jesse Eisenberg, American actor and writer"
+      "year": "1974",
+      "text": "Rich Franklin, American mixed martial artist and actor"
     },
     {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Tornike Shengelia, Georgian basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Washington Sundar, Indian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Mrs. Miller, American novelty singer (died 1997)"
+      "type": "Event",
+      "year": "1877",
+      "text": "The Nez Perce War in the northwestern United States comes to an end."
     },
     {
       "type": "Death",
-      "year": "2014",
-      "text": "Geoffrey Holder, Trinidadian-American actor, singer, dancer, and choreographer (born 1930)"
+      "year": "578",
+      "text": "Justin II, Byzantine emperor (born 520)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Brooke Valentine, American singer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Bill Willis, American football player and coach (died 2007)"
     },
     {
       "type": "Event",
       "year": "1869",
       "text": "The Eastman tunnel, in Minnesota, United States, collapses during construction, causing a landslide that nearly destroys St. Anthony Falls."
+    },
+    {
+      "type": "Event",
+      "year": "1978",
+      "text": "Brother Eddie Villanueva and 15 others from the Polytechnic University of the Philippines begin the Jesus Is Lord Church."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Adrian Smith, American basketball player (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Pacific Theater: Ninety-eight American POWs are executed by Japanese forces on Wake Island."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Jewell Loyd, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Joakim Brodén, Swedish-Czech musician and lead vocalist of the power metal band Sabaton"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Morgan Webb, Canadian-American television host and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The World Series is broadcast on radio for the first time."
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Mary Leona Gage, American model and actress, Miss USA 1957 (born 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Vince Grella, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Josie Bissett, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jeanette Antolin, American gymnast"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Bob Thaves, American cartoonist (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1465",
+      "text": "King Louis XI of France is forced to sign the treaty of Conflans."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Walter Dale Miller, American lawyer and politician, 29th Governor of South Dakota (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Karen Allen, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Fredrik Olausson, Swedish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Richard Street, American singer-songwriter (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Tim Ream, American soccer player"
+    },
+    {
+      "type": "Event",
+      "year": "610",
+      "text": "Heraclius arrives at Constantinople, kills Byzantine Emperor Phocas, and becomes emperor."
+    },
+    {
+      "type": "Death",
+      "year": "1941",
+      "text": "Louis Brandeis, American lawyer and jurist (born 1856)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Adair Turner, Baron Turner of Ecchinswell, English academic and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Travis Kelce, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Ify Ibekwe, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Nathan Peats, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Holocaust: In Nazi Germany, Jews' passports are invalidated."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Steve Miller, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Kenneth D. Taylor, Canadian businessman and diplomat (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Tony Dodemaide, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "816",
+      "text": "King Louis the Pious is crowned emperor of the Holy Roman Empire by the Pope."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Anousjka van Exel, Dutch tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Kelly Joe Phelps, American singer-songwriter and guitarist (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Nathalie Kelley, Peruvian-Australian actress"
     }
   ],
   "source": "Wikipedia"
