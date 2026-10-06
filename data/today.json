@@ -2,24 +2,49 @@
   "date": "2026-10-06",
   "items": [
     {
+      "type": "Event",
+      "year": "1934",
+      "text": "Revolution of 1934: The President of the autonomous government of Catalonia, Lluís Companys, proclaims the Catalan State with the support of the Worker's Alliance."
+    },
+    {
       "type": "Birth",
       "year": "2000",
-      "text": "Jazz Jennings, American internet personality"
+      "text": "Kyle Pitts, American football player"
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "George Mattos, American pole vaulter (died 2012)"
+      "year": "1936",
+      "text": "Julius L. Chambers, American lawyer, educator, and activist (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "Bill Buford, American author and journalist"
+      "year": "1939",
+      "text": "Richard Delgado, American lawyer and academic"
     },
     {
-      "type": "Death",
-      "year": "2012",
-      "text": "J. J. C. Smart, English-Australian philosopher and academic (born 1920)"
+      "type": "Birth",
+      "year": "1887",
+      "text": "Le Corbusier, Swiss-French architect and painter, designed the Philips Pavilion and Saint-Pierre, Firminy (died 1965)"
+    },
+    {
+      "type": "Event",
+      "year": "-105",
+      "text": "Cimbrian War: Defeat at the Battle of Arausio of the Roman army of the mid-Republic."
+    },
+    {
+      "type": "Event",
+      "year": "1777",
+      "text": "American Revolutionary War: British forces capture Forts Clinton and Montgomery on the Hudson River."
+    },
+    {
+      "type": "Event",
+      "year": "891",
+      "text": "Election of Pope Formosus following the death of pope Stephen V in the previous month."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Richie Benaud, Australian cricketer and sportscaster (died 2015)"
     },
     {
       "type": "Death",
@@ -32,109 +57,14 @@
       "text": "Boris Mikhailov, Russian ice hockey player and coach"
     },
     {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Eveline Du Bois-Reymond Marcus, German-Brazilian zoologist and academic (died 1990)"
+      "type": "Death",
+      "year": "2008",
+      "text": "Peter Cox, Australian public servant and politician (born 1925)"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Meg Myers, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Dan Christensen, American painter (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "John J. LaFalce, American captain, lawyer, and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Paul Popham, American soldier and activist, co-founded Gay Men's Health Crisis (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Walter Ray Williams, Jr., American bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Lloyd Doggett, American lawyer and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria, launch a new offensive against Serbia under command of August von Mackensen."
-    },
-    {
-      "type": "Event",
-      "year": "1884",
-      "text": "The Naval War College of the United States is founded in Rhode Island."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Wes Ramsey, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Knut Storberget, Norwegian lawyer and politician, Norwegian Minister of Justice"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "David Brin, American physicist and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Trevor Lawrence, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Bosnian crisis erupts when Austria-Hungary formally annexes Bosnia and Herzegovina."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Joseph Lowery, American minister and activist (died 2020)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Peg O'Connor, American philosopher and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Jake Guentzel, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Ben Summerskill, English businessman and journalist"
-    },
-    {
-      "type": "Event",
-      "year": "-105",
-      "text": "Cimbrian War: Defeat at the Battle of Arausio of the Roman army of the mid-Republic."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Julius L. Chambers, American lawyer, educator, and activist (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Bob May, American golfer"
+      "year": "1934",
+      "text": "Marshall Rosenberg, American psychologist and author (died 2015)"
     },
     {
       "type": "Event",
@@ -143,88 +73,13 @@
     },
     {
       "type": "Birth",
-      "year": "1896",
-      "text": "David Howard, American film director (died 1941)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Bill King, American sportscaster (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Will Butler, American musician and composer"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Pope John Paul II becomes the first pontiff to visit the White House."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "John McWhorter, American academic and linguist"
+      "year": "1959",
+      "text": "Brian Higgins, American politician"
     },
     {
       "type": "Birth",
       "year": "1939",
-      "text": "Richard Delgado, American lawyer and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Marshall Rosenberg, American psychologist and author (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Carolyn Goodman, American psychologist and activist (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "David Baker, American biologist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: American troops force the Japanese from their positions east of the Matanikau River during the Battle of Guadalcanal."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Darren Oliver, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Sheila Greibach, American computer scientist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "2004",
-      "text": "Bronny James, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "1978",
-      "text": "Johnny O'Keefe, Australian singer-songwriter (born 1935)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Riccardo Giacconi, Italian-American astrophysicist and astronomer, Nobel Prize laureate (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Steve Scalise, American lawyer and politician"
+      "text": "John J. LaFalce, American captain, lawyer, and politician"
     },
     {
       "type": "Birth",
@@ -233,18 +88,68 @@
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Matthew Sweet, American singer-songwriter, guitarist, and producer"
+      "year": "1982",
+      "text": "Will Butler, American musician and composer"
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Rebecca Lobo, American basketball player and sportscaster"
+      "year": "1993",
+      "text": "Nail Yakupov, Russian ice hockey player"
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Rich Yett, American baseball player"
+      "year": "1908",
+      "text": "Sergei Sobolev, Russian mathematician and academic (died 1989)"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Leslie Moonves, American businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Elisabeth Shue, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Brett Gelman, American actor and comedian"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria, launch a new offensive against Serbia under command of August von Mackensen."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Dan Christensen, American painter (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Joseph Lowery, American minister and activist (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "John Monie, Australian rugby league player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Pope John Paul II becomes the first pontiff to visit the White House."
     },
     {
       "type": "Event",
@@ -253,23 +158,8 @@
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Kevin Cronin, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "David Hidalgo, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1905",
-      "text": "Helen Wills, American tennis player and painter (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Fannie Lou Hamer, American activist and philanthropist (died 1977)"
+      "year": "1964",
+      "text": "Ricky Berry, American basketball player (died 1989)"
     },
     {
       "type": "Event",
@@ -277,29 +167,139 @@
       "text": "The High Court of Australia sits for the first time."
     },
     {
-      "type": "Event",
-      "year": "891",
-      "text": "Election of Pope Formosus following the death of pope Stephen V in the previous month."
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: British forces capture Forts Clinton and Montgomery on the Hudson River."
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "Revolution of 1934: The President of the autonomous government of Catalonia, Lluís Companys, proclaims the Catalan State with the support of the Worker's Alliance."
+      "type": "Birth",
+      "year": "1908",
+      "text": "Carole Lombard, American actress (died 1942)"
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Akuila Uate, Fijian-Australian rugby league player"
+      "year": "1931",
+      "text": "Riccardo Giacconi, Italian-American astrophysicist and astronomer, Nobel Prize laureate (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Jazz Jennings, American internet personality"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Carolyn Goodman, American psychologist and activist (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Janet Gaynor, American actress (died 1984)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "David Brin, American physicist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Steve Scalise, American lawyer and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Tony Dungy, American football player and coach"
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Terence Cooke, American cardinal (born 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Jacqueline Obradors, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Bruno Sammartino, Italian-American wrestler and trainer (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Teala Loring, American actress (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Alexander Maxovich Shilov, Russian painter"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Jake Guentzel, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1884",
+      "text": "The Naval War College of the United States is founded in Rhode Island."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Mark Schwarzer, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Lonnie Johnson, American inventor"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Sheila Greibach, American computer scientist and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Darren Oliver, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Paul Popham, American soldier and activist, co-founded Gay Men's Health Crisis (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Meg Myers, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: American troops force the Japanese from their positions east of the Matanikau River during the Battle of Guadalcanal."
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "The Bosnian crisis erupts when Austria-Hungary formally annexes Bosnia and Herzegovina."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Sylvia Fowles, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Evgenii Landis, Ukrainian-Russian mathematician and theorist (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jeff B. Davis, American comedian, actor, and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Amy Jo Johnson, American actress"
     }
   ],
   "source": "Wikipedia"
