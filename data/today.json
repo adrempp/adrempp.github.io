@@ -2,194 +2,19 @@
   "date": "2026-10-07",
   "items": [
     {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Cotton Fitzsimmons, American basketball player and coach (died 2004)"
-    },
-    {
       "type": "Event",
-      "year": "2000",
-      "text": "Israeli-Palestinian conflict: Hezbollah militants capture three Israeli Defense Force soldiers in a cross-border raid."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Michael W. Smith, American singer-songwriter and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Damion James, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Bill Henson, Australian photographer"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: Léon Gambetta escapes the siege of Paris in a hot-air balloon."
-    },
-    {
-      "type": "Event",
-      "year": "1826",
-      "text": "The Granite Railway begins operations as the first chartered railway in the U.S."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Curtis Crider, American race car driver (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1763",
-      "text": "King George III issues the Royal Proclamation of 1763, closing Indigenous lands in North America north and west of the Alleghenies to white settlements."
-    },
-    {
-      "type": "Birth",
-      "year": "1897",
-      "text": "Elijah Muhammad, American religious leader (died 1975)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: A US Navy ship captures a Confederate raider in a Brazilian seaport."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Allison Munn, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Bree Olson, American actress, model, and former pornographic actress"
+      "year": "1777",
+      "text": "American Revolutionary War: The Americans defeat British forces under general John Burgoyne in the Second Battle of Saratoga, also known as the Battle of Bemis Heights, compelling Burgoyne's eventual surrender."
     },
     {
       "type": "Birth",
       "year": "1964",
-      "text": "Sam Brown, English singer-songwriter, musician, and record producer"
+      "text": "Dan Savage, American LGBT rights activist, journalist and television producer"
     },
     {
       "type": "Birth",
-      "year": "1911",
-      "text": "Vaughn Monroe, American singer, trumpet player, and bandleader (died 1973)"
-    },
-    {
-      "type": "Event",
-      "year": "1477",
-      "text": "Uppsala University is inaugurated after receiving its corporate rights from Pope Sixtus IV in February the same year."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "The flood of '93 ends at St. Louis, Missouri, 103 days after it began, as the Mississippi River falls below flood stage."
-    },
-    {
-      "type": "Event",
-      "year": "1929",
-      "text": "Photius II becomes Ecumenical Patriarch of Constantinople."
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "The U.S. invasion of Afghanistan begins with an air assault and covert operations on the ground, starting the longest war in American history."
-    },
-    {
-      "type": "Event",
-      "year": "1879",
-      "text": "Germany and Austria-Hungary sign the \"Twofold Covenant\" and create the Dual Alliance."
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "World War II: The McCollum memo proposes bringing the United States into the war in Europe by provoking the Japanese to attack the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Joe Rogers, American lawyer and politician, 45th Lieutenant Governor of Colorado (born 1964)"
-    },
-    {
-      "type": "Death",
-      "year": "1653",
-      "text": "Fausto Poli, Italian cardinal (born 1581)"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "Buddhist crisis: Amid worsening relations, outspoken South Vietnamese First Lady Madame Ngo Dinh Nhu arrives in the US for a speaking tour, continuing a flurry of attacks on the Kennedy administration."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Jill Larson, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "Cornell University holds opening day ceremonies; initial student enrollment is 412, the highest at any American university to that date."
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "Georgia Tech defeats Cumberland University 222–0 in the most lopsided college football game in American history."
-    },
-    {
-      "type": "Death",
-      "year": "1792",
-      "text": "George Mason, American lawyer and politician (born 1725)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Tico Torres, American drummer"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Dave Bronconnier, Canadian businessman and politician, 35th Mayor of Calgary"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Dave Hope, American bass player and priest"
-    },
-    {
-      "type": "Event",
-      "year": "1826",
-      "text": "Imperial Russia and the Ottoman Empire sign the Akkerman Convention, under which the Ottomans accept Russian territorial demands in the Balkans, Caucasus and the Danubian river basin."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Malia Hosaka, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "The U.S. crewed space-flight project is renamed to Project Mercury."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Evan Longoria, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Qantas Flight 72 experiences an in-flight upset near Exmouth, Western Australia, Australia, injuring 112."
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "The Fourth Soviet Constitution is adopted."
+      "year": "1943",
+      "text": "Oliver North, American colonel, journalist, and author"
     },
     {
       "type": "Birth",
@@ -198,28 +23,43 @@
     },
     {
       "type": "Birth",
-      "year": "1966",
-      "text": "Janet Shaw, Australian cyclist and author (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Mike Foltynewicz, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Dwain Esper, American director and producer (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Edna Meade Colson, American educator and activist (died 1985)"
+      "year": "1995",
+      "text": "Lyndon Dykes, Australian professional footballer"
     },
     {
       "type": "Event",
-      "year": "1691",
-      "text": "The charter for the Province of Massachusetts Bay is issued."
+      "year": "1826",
+      "text": "The Granite Railway begins operations as the first chartered railway in the U.S."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Qantas Flight 72 experiences an in-flight upset near Exmouth, Western Australia, Australia, injuring 112."
+    },
+    {
+      "type": "Death",
+      "year": "2005",
+      "text": "Charles Rocket, American actor and comedian (born 1949)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Stephen Rucker, American composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1885",
+      "text": "Claud Ashton Jones, American admiral, Medal of Honor recipient (died 1948)"
+    },
+    {
+      "type": "Death",
+      "year": "1925",
+      "text": "Christy Mathewson, American baseball player and manager (born 1880)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "The flood of '93 ends at St. Louis, Missouri, 103 days after it began, as the Mississippi River falls below flood stage."
     },
     {
       "type": "Birth",
@@ -227,44 +67,79 @@
       "text": "Kira Kosarin, American actress and singer"
     },
     {
+      "type": "Event",
+      "year": "1977",
+      "text": "The Fourth Soviet Constitution is adopted."
+    },
+    {
       "type": "Birth",
-      "year": "1986",
-      "text": "Lee Nguyen, American soccer player"
+      "year": "1952",
+      "text": "Mary Badham, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Jake McLaughlin, American actor"
     },
     {
       "type": "Event",
-      "year": "1944",
-      "text": "World War II: The Sonderkommando Revolt in Auschwitz was an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp, they burnt down Crematorium IV."
+      "year": "1864",
+      "text": "American Civil War: A US Navy ship captures a Confederate raider in a Brazilian seaport."
     },
     {
       "type": "Birth",
-      "year": "1905",
-      "text": "Andy Devine, American actor (died 1977)"
+      "year": "1952",
+      "text": "Vladimir Putin, Russian colonel and politician, 4th President of Russia"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Evan Longoria, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: The Americans defeat British forces under general John Burgoyne in the Second Battle of Saratoga, also known as the Battle of Bemis Heights, compelling Burgoyne's eventual surrender."
+      "year": "1916",
+      "text": "Georgia Tech defeats Cumberland University 222–0 in the most lopsided college football game in American history."
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "Amiri Baraka, American poet, playwright, and academic (died 2014)"
+      "year": "1960",
+      "text": "Kevin Boyle, American historian and author"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Israeli-Palestinian conflict: Hezbollah militants capture three Israeli Defense Force soldiers in a cross-border raid."
     },
     {
       "type": "Birth",
-      "year": "1914",
-      "text": "Alfred Drake, American actor and singer (died 1992)"
+      "year": "1950",
+      "text": "Dick Jauron, American football player and coach (died 2025)"
     },
     {
       "type": "Birth",
-      "year": "1889",
-      "text": "Robert Z. Leonard, American actor, director, producer, and screenwriter (died 1968)"
+      "year": "1935",
+      "text": "Thomas Keneally, Australian novelist, playwright, and essayist"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Catharine MacKinnon, American lawyer, activist, and author"
+      "year": "1947",
+      "text": "Chris Bambridge, Australian footballer and referee"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Bill Snyder, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Nic Stauskas, Canadian basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales."
     },
     {
       "type": "Birth",
@@ -277,29 +152,154 @@
       "text": "American Revolutionary War: American militia defeat royalist irregulars led by British major Patrick Ferguson at the Battle of Kings Mountain in South Carolina, often regarded as the turning point in the war's Southern theater."
     },
     {
+      "type": "Event",
+      "year": "1868",
+      "text": "Cornell University holds opening day ceremonies; initial student enrollment is 412, the highest at any American university to that date."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Grigol Mgaloblishvili, Georgian politician and diplomat, 7th Prime Minister of Georgia"
+    },
+    {
+      "type": "Event",
+      "year": "1691",
+      "text": "The charter for the Province of Massachusetts Bay is issued."
+    },
+    {
+      "type": "Death",
+      "year": "1939",
+      "text": "Harvey Williams Cushing, American neurosurgeon and academic (born 1869)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Shura Cherkassky, Ukrainian-American pianist and educator (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Tico Torres, American drummer"
+    },
+    {
+      "type": "Event",
+      "year": "1879",
+      "text": "Germany and Austria-Hungary sign the \"Twofold Covenant\" and create the Dual Alliance."
+    },
+    {
+      "type": "Event",
+      "year": "1477",
+      "text": "Uppsala University is inaugurated after receiving its corporate rights from Pope Sixtus IV in February the same year."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Chet Powers, American singer-songwriter and guitarist (died 1994)"
+    },
+    {
       "type": "Birth",
       "year": "1975",
-      "text": "Damian Kulash, American singer-songwriter and guitarist"
+      "text": "Tim Minchin, English-Australian comedian, actor, and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Franco-Prussian War: Léon Gambetta escapes the siege of Paris in a hot-air balloon."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "World War II: The McCollum memo proposes bringing the United States into the war in Europe by provoking the Japanese to attack the United States."
     },
     {
       "type": "Birth",
+      "year": "1976",
+      "text": "Taylor Hicks, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Tommy Lewis, American football player and coach (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1763",
+      "text": "King George III issues the Royal Proclamation of 1763, closing Indigenous lands in North America north and west of the Alleghenies to white settlements."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Marco Beltrami, Italian-American composer and conductor"
+    },
+    {
+      "type": "Event",
       "year": "1929",
-      "text": "Graeme Ferguson, Canadian director and producer, co-founded the IMAX Corporation (died 2021)"
+      "text": "Photius II becomes Ecumenical Patriarch of Constantinople."
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Mike Shipley, Australian-English sound engineer and producer (died 2013)"
+      "year": "1946",
+      "text": "John Brass, Australian rugby player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1826",
+      "text": "Imperial Russia and the Ottoman Empire sign the Akkerman Convention, under which the Ottomans accept Russian territorial demands in the Balkans, Caucasus and the Danubian river basin."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Graham Yallop, Australian cricketer"
+      "year": "1942",
+      "text": "Joy Behar, American talk show host, comedian and television personality"
     },
     {
       "type": "Birth",
-      "year": "1919",
-      "text": "Zelman Cowen, Australian academic and politician, 19th Governor-General of Australia (died 2011)"
+      "year": "1983",
+      "text": "Flying Lotus, American rapper, DJ, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Yo-Yo Ma, French-American cellist and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Janet Shaw, Australian cyclist and author (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Dwain Esper, American director and producer (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Elijah Muhammad, American religious leader (died 1975)"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "The U.S. invasion of Afghanistan begins with an air assault and covert operations on the ground, starting the longest war in American history."
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Buddhist crisis: Amid worsening relations, outspoken South Vietnamese First Lady Madame Ngo Dinh Nhu arrives in the US for a speaking tour, continuing a flurry of attacks on the Kennedy administration."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: The Sonderkommando Revolt in Auschwitz was an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp, they burnt down Crematorium IV."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The U.S. crewed space-flight project is renamed to Project Mercury."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Brian Mannix, Australian singer-songwriter"
     }
   ],
   "source": "Wikipedia"
