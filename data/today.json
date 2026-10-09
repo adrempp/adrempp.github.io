@@ -2,9 +2,69 @@
   "date": "2026-10-09",
   "items": [
     {
+      "type": "Event",
+      "year": "1806",
+      "text": "Prussia begins the War of the Fourth Coalition against France."
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "War of 1812: In a naval engagement on Lake Erie, American forces capture two British ships: HMS Detroit and HMS Caledonia."
+    },
+    {
       "type": "Birth",
-      "year": "1993",
-      "text": "Scotty McCreery, American singer and songwriter"
+      "year": "1903",
+      "text": "Walter O'Malley, American lawyer and businessman (died 1979)"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Clark R. Rasmussen, American politician (born 1934)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Kurt Neumann, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Hank Pfister, American tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "First lunar impact of NASA's Lunar Precursor Robotic Program."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Darius Miles, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Robert Wuhl, American actor, comedian, and writer"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The Cincinnati Reds win the World Series, resulting in the Black Sox Scandal."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Kenny Anderson, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1825",
+      "text": "Restauration arrives in New York Harbor from Norway, the first organized immigration from Norway to the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Keith Booth, American basketball player and coach"
     },
     {
       "type": "Birth",
@@ -13,183 +73,18 @@
     },
     {
       "type": "Event",
-      "year": "1825",
-      "text": "Restauration arrives in New York Harbor from Norway, the first organized immigration from Norway to the United States."
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Clark R. Rasmussen, American politician (born 1934)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "Pakistani Taliban attempt to assassinate outspoken schoolgirl Malala Yousafzai."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Todd Kelly, Australian racing driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Megan Moroney, American singer-songwriter."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "An Ustashe assassin kills King Alexander I of Yugoslavia and Louis Barthou, Foreign Minister of France, in Marseille."
-    },
-    {
-      "type": "Event",
-      "year": "1238",
-      "text": "James I of Aragon founds the Kingdom of Valencia."
-    },
-    {
-      "type": "Event",
       "year": "1779",
       "text": "American Revolutionary War: A combined Franco-American assault on British defenses during the Siege of Savannah is repulsed with heavy casualties."
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Anabela Sousa Rodrigues, Portuguese politician and psychologist"
+      "year": "1993",
+      "text": "Wesley So, Filipino-American chess grandmaster"
     },
     {
       "type": "Birth",
-      "year": "1954",
-      "text": "John O'Hurley, American actor and game show host"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Sarah Lovell, Australian politician"
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "The Dow Jones Industrial Average reaches its all-time high of 14,164 points before rapidly declining due to the 2008 financial crisis."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Henry Walker, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Tadeusz Różewicz, Polish poet and playwright (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Steve Burns, American actor, television host and musician"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "In Italy, a large landslide causes a giant wave to overtop the Vajont Dam, killing over 2,000."
-    },
-    {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Aimee Semple McPherson, Canadian-American evangelist, founded the International Church of the Foursquare Gospel (died 1944)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Clifford M. Hardin, American academic and politician, 17th United States Secretary of Agriculture (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Jharrel Jerome, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1806",
-      "text": "Prussia begins the War of the Fourth Coalition against France."
-    },
-    {
-      "type": "Event",
-      "year": "1790",
-      "text": "A severe earthquake in northern Algeria causes severe damage and a tsunami in the Mediterranean Sea and kills three thousand."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Simon Fairweather, Australian archer"
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Craig Brackins, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1760",
-      "text": "Seven Years' War: Russian and Austrian troops briefly occupy Berlin."
-    },
-    {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Rube Marquard, American baseball player and manager (died 1980)"
-    },
-    {
-      "type": "Event",
-      "year": "1635",
-      "text": "Roger Williams is banished from the Massachusetts Bay Colony after religious and policy disagreements."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The Cincinnati Reds win the World Series, resulting in the Black Sox Scandal."
-    },
-    {
-      "type": "Death",
       "year": "1967",
-      "text": "Joseph Pilates, German-American fitness trainer, developed Pilates (born 1883)"
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "First lunar impact of NASA's Lunar Precursor Robotic Program."
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Carolyn Gold Heilbrun, American author and academic (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Nona Hendryx, American singer-songwriter, producer, and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Fox Broadcasting Company (FBC) launches as the fourth US television network."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Union cavalrymen defeat Confederate forces at Toms Brook, Virginia during Sheridan's Shenandoah Valley campaign."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Guillermo del Toro, Mexican-American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Trent Lott, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Olga Guillot, Cuban-American singer (died 2010)"
+      "text": "Carling Bassett-Seguso, Canadian tennis player"
     },
     {
       "type": "Event",
@@ -198,73 +93,18 @@
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Kenny Garrett, American saxophonist and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Jacob Batalon, Filipino-American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "The Phantom of the Opera, eventually the second longest running musical in London, opens at Her Majesty's Theatre."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Joseph Friedman, American inventor (died 1982)"
-    },
-    {
-      "type": "Event",
-      "year": "1873",
-      "text": "A meeting at the U.S. Naval Academy establishes the U.S. Naval Institute."
-    },
-    {
-      "type": "Birth",
       "year": "1993",
-      "text": "George Kittle, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Jan Christian Vestre, Norwegian businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Walter O'Malley, American lawyer and businessman (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Brian Roberts, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1880",
-      "text": "Charlie Faust, American baseball player (died 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Stephen Neal, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Shmuel Herzfeld, American rabbi"
+      "text": "Lauren Davis, American tennis player"
     },
     {
       "type": "Event",
-      "year": "2024",
-      "text": "Hurricane Milton makes landfall in Siesta Key, Florida, as a Category 3 hurricane, causing US$34.3 billion in damage only two weeks after Hurricane Helene impacted the state."
+      "year": "1635",
+      "text": "Roger Williams is banished from the Massachusetts Bay Colony after religious and policy disagreements."
     },
     {
-      "type": "Event",
-      "year": "1942",
-      "text": "Australia's Statute of Westminster Adoption Act 1942 receives royal assent."
+      "type": "Birth",
+      "year": "1989",
+      "text": "Russell Packer, New Zealand rugby league player"
     },
     {
       "type": "Event",
@@ -273,8 +113,68 @@
     },
     {
       "type": "Birth",
+      "year": "1969",
+      "text": "Darren Britt, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Yusef Lateef, American saxophonist, composer, and educator (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "Australia's Statute of Westminster Adoption Act 1942 receives royal assent."
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "Hurricane Milton makes landfall in Siesta Key, Florida, as a Category 3 hurricane, causing US$34.3 billion in damage only two weeks after Hurricane Helene impacted the state."
+    },
+    {
+      "type": "Event",
       "year": "1986",
-      "text": "David Phelps, American baseball player"
+      "text": "The Phantom of the Opera, eventually the second longest running musical in London, opens at Her Majesty's Theatre."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "PJ Harvey, English musician, singer-songwriter, writer, poet, and composer"
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "The Dow Jones Industrial Average reaches its all-time high of 14,164 points before rapidly declining due to the 2008 financial crisis."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Megan Moroney, American singer-songwriter."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Steve Jablonsky, American composer"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "Pakistani Taliban attempt to assassinate outspoken schoolgirl Malala Yousafzai."
+    },
+    {
+      "type": "Death",
+      "year": "1972",
+      "text": "Miriam Hopkins, American actress (born 1902)"
+    },
+    {
+      "type": "Event",
+      "year": "1238",
+      "text": "James I of Aragon founds the Kingdom of Valencia."
+    },
+    {
+      "type": "Birth",
+      "year": "1863",
+      "text": "Edward Bok, Dutch-American journalist and author (died 1930)"
     },
     {
       "type": "Event",
@@ -283,8 +183,88 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Jason Wingreen, American actor and screenwriter (died 2015)"
+      "year": "1911",
+      "text": "Joe Rosenthal, American photographer (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "1790",
+      "text": "A severe earthquake in northern Algeria causes severe damage and a tsunami in the Mediterranean Sea and kills three thousand."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Scotty McCreery, American singer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "David Phelps, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Anabela Sousa Rodrigues, Portuguese politician and psychologist"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Henry Walker, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Brian Roberts, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Fox Broadcasting Company (FBC) launches as the fourth US television network."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Brandon Routh, American model and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Jayden Hodges, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "In Italy, a large landslide causes a giant wave to overtop the Vajont Dam, killing over 2,000."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Simon Fairweather, Australian archer"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Jharrel Jerome, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Mick Young, Australian politician (died 1996)"
+    },
+    {
+      "type": "Death",
+      "year": "1958",
+      "text": "John Boland, American politician (born 1884)"
+    },
+    {
+      "type": "Event",
+      "year": "1873",
+      "text": "A meeting at the U.S. Naval Academy establishes the U.S. Naval Institute."
+    },
+    {
+      "type": "Event",
+      "year": "1760",
+      "text": "Seven Years' War: Russian and Austrian troops briefly occupy Berlin."
     },
     {
       "type": "Event",
@@ -293,13 +273,33 @@
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Zachery Ty Bryan, American actor"
+      "year": "1992",
+      "text": "Sam Mewis, American soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Joseph Zubin, Lithuanian-American psychologist and academic (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Derek Holland, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1812",
-      "text": "War of 1812: In a naval engagement on Lake Erie, American forces capture two British ships: HMS Detroit and HMS Caledonia."
+      "year": "1864",
+      "text": "American Civil War: Union cavalrymen defeat Confederate forces at Toms Brook, Virginia during Sheridan's Shenandoah Valley campaign."
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "An Ustashe assassin kills King Alexander I of Yugoslavia and Louis Barthou, Foreign Minister of France, in Marseille."
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Eugene Bullard, American pilot (died 1961)"
     }
   ],
   "source": "Wikipedia"
