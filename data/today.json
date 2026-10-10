@@ -2,34 +2,19 @@
   "date": "2026-10-10",
   "items": [
     {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Oleg Gordievsky, Russian intelligence officer and author (died 2025)"
-    },
-    {
       "type": "Event",
-      "year": "2007",
-      "text": "Sheikh Muszaphar Shukor becomes the first Malaysian in space on board Soyuz TMA-11."
+      "year": "1933",
+      "text": "A United Airlines Boeing 247 is destroyed by sabotage, the first such proven case in the history of commercial aviation."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Tony Khan, American sports executive"
+      "year": "1926",
+      "text": "Oscar Brown, American singer-songwriter, playwright, and actor (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Ed Wood, American actor, director, producer, screenwriter (died 1978)"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "US Navy aircraft intercept an Egyptian airliner carrying the perpetrators of the Achille Lauro hijacking, and force it to land in Italy."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74."
+      "year": "1973",
+      "text": "Mario Lopez, American actor, television personality, and producer"
     },
     {
       "type": "Birth",
@@ -39,152 +24,12 @@
     {
       "type": "Birth",
       "year": "1927",
-      "text": "Thomas Wilson, American-Scottish composer and educator (died 2001)"
+      "text": "Dana Elcar, American actor and director (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Ben Vereen, American actor, singer, and dancer"
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Wayne C. Booth, American educator and critic (born 1921)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Ryan Hollins, American basketball player and commentator"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Václav Patejdl, Slovak musician (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Harry Edison, American trumpet player and composer (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Michael Carter-Williams, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Gary Beach, American actor and singer (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Bruce Devlin, Australian golfer and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1845",
-      "text": "In Annapolis, Maryland, the Naval School (later the United States Naval Academy) opens with 50 students."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Rumiko Takahashi, Japanese author and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "David Lee Roth, American singer-songwriter and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "David Hempleman-Adams, English businessman and adventurer"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Bradley Whitford, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Brenko Lee, Australian-Tongan rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Michael Giacchino, American composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Gavin Newsom, American businessman and politician, 40th and current Governor of California"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Bai Ling, Chinese-American model and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Julia Sweeney, American actress, comedian, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Evgeny Kissin, Russian pianist"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Nora Roberts, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Jodi Lyn O'Keefe, American model and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Geno Smith, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Lily Tuck, American novelist and short story writer"
-    },
-    {
-      "type": "Event",
-      "year": "1492",
-      "text": "The crew of Christopher Columbus's ship, the Santa Maria, attempt a mutiny."
-    },
-    {
-      "type": "Event",
-      "year": "19",
-      "text": "The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Nathan Jawai, Australian basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Daniel Pearl, American-Israeli journalist (died 2002)"
-    },
-    {
-      "type": "Event",
-      "year": "1903",
-      "text": "The Women's Social and Political Union is founded in support of the enfranchisement of British women."
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Ivory Joe Hunter, American singer-songwriter and pianist (died 1974)"
+      "year": "1919",
+      "text": "William Kruskal, American mathematician and statistician (died 2005)"
     },
     {
       "type": "Event",
@@ -193,88 +38,18 @@
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Herb Levinson, American actor (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Peter Coyote, American actor, director, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Courtland Sutton, American football player"
+      "year": "1948",
+      "text": "Sue Campbell, Baroness Campbell of Loughborough, English academic and businesswoman"
     },
     {
       "type": "Event",
-      "year": "1913",
-      "text": "U.S. President Woodrow Wilson triggers the explosion of the Gamboa Dike, completing major construction on the Panama Canal."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Louis Gottlieb, American singer and bass player (died 1996)"
+      "year": "1985",
+      "text": "US Navy aircraft intercept an Egyptian airliner carrying the perpetrators of the Achille Lauro hijacking, and force it to land in Italy."
     },
     {
       "type": "Event",
-      "year": "1814",
-      "text": "War of 1812: The United States Revenue Marine attempts to defend the cutter Eagle from the Royal Navy."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Adlai Stevenson III, American lawyer and politician (died 2021)"
-    },
-    {
-      "type": "Death",
-      "year": "1806",
-      "text": "Prince Louis Ferdinand of Prussia (born 1772)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Tommy Fine, American baseball player and businessman (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Marquez Valdes-Scantling, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1933",
-      "text": "A United Airlines Boeing 247 is destroyed by sabotage, the first such proven case in the history of commercial aviation."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Ryan Mathews, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Leroy Hood, American biologist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "Hurricane Michael makes landfall in the Florida Panhandle as a catastrophic Category 5 hurricane. It kills 57 people in the United States, 45 in Florida, and causes an estimated $25.1 billion in damage."
-    },
-    {
-      "type": "Event",
-      "year": "680",
-      "text": "The Battle of Karbala marks the martyrdom of Husayn ibn Ali."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Plácido Polanco, Dominican-American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "U.S. Vice President Spiro Agnew resigns after being charged with evasion of federal income tax."
+      "year": "19",
+      "text": "The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province."
     },
     {
       "type": "Event",
@@ -283,8 +58,158 @@
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Dana Elcar, American actor and director (died 2005)"
+      "year": "1946",
+      "text": "Ben Vereen, American actor, singer, and dancer"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Jessica Harper, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Tommy Fine, American baseball player and businessman (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74."
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Bai Ling, Chinese-American model and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Gary Beach, American actor and singer (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Michael Giacchino, American composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Harold LeVander, American politician, 32nd Governor of Minnesota (died 1992)"
+    },
+    {
+      "type": "Event",
+      "year": "1492",
+      "text": "The crew of Christopher Columbus's ship, the Santa Maria, attempt a mutiny."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Herb Levinson, American actor (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Ivory Joe Hunter, American singer-songwriter and pianist (died 1974)"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Courtland Sutton, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1845",
+      "text": "In Annapolis, Maryland, the Naval School (later the United States Naval Academy) opens with 50 students."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "U.S. Vice President Spiro Agnew resigns after being charged with evasion of federal income tax."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Crystal Waters, American singer-songwriter, musician and producer"
+    },
+    {
+      "type": "Event",
+      "year": "680",
+      "text": "The Battle of Karbala marks the martyrdom of Husayn ibn Ali."
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "U.S. President Woodrow Wilson triggers the explosion of the Gamboa Dike, completing major construction on the Panama Canal."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Alexei Zhitnik, Ukrainian-Russian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Wendi McLendon-Covey, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Richard Jaeckel, American actor (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "André Bureau, Canadian lawyer and businessman (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Mike Tobey, American-Slovenian basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "The Women's Social and Political Union is founded in support of the enfranchisement of British women."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Merv Pregulman, American football player, businessman, and philanthropist (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Ed Wood, American actor, director, producer, screenwriter (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "Hurricane Michael makes landfall in the Florida Panhandle as a catastrophic Category 5 hurricane. It kills 57 people in the United States, 45 in Florida, and causes an estimated $25.1 billion in damage."
+    },
+    {
+      "type": "Event",
+      "year": "1957",
+      "text": "U.S. President Dwight D. Eisenhower apologizes to Ghanaian finance minister Komla Agbeli Gbedemah after he is refused service in a Delaware restaurant."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Jay Sebring, American hair stylist and businessman (died 1969)"
+    },
+    {
+      "type": "Death",
+      "year": "1949",
+      "text": "Chikuhei Nakajima, Japanese engineer, businessman, and politician, founded Nakajima Aircraft Company (born 1884)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Dale Earnhardt Jr., American race car driver and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Václav Patejdl, Slovak musician (died 2023)"
     },
     {
       "type": "Event",
@@ -292,14 +217,89 @@
       "text": "The Carinthian plebiscite determines that the larger part of the Duchy of Carinthia should remain part of Austria."
     },
     {
-      "type": "Death",
-      "year": "1948",
-      "text": "Ted Horn, American race car driver (born 1910)"
+      "type": "Birth",
+      "year": "1967",
+      "text": "Gavin Newsom, American businessman and politician, 40th and current Governor of California"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Bob Burnquist, Brazilian-American skateboarder"
     },
     {
       "type": "Event",
-      "year": "1957",
-      "text": "U.S. President Dwight D. Eisenhower apologizes to Ghanaian finance minister Komla Agbeli Gbedemah after he is refused service in a Delaware restaurant."
+      "year": "2007",
+      "text": "Sheikh Muszaphar Shukor becomes the first Malaysian in space on board Soyuz TMA-11."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Janis Hansen, American singer and author (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Ryan Hollins, American basketball player and commentator"
+    },
+    {
+      "type": "Death",
+      "year": "1964",
+      "text": "Eddie Cantor, American singer-songwriter, dancer, and actor (born 1892)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Daniel Pearl, American-Israeli journalist (died 2002)"
+    },
+    {
+      "type": "Death",
+      "year": "2001",
+      "text": "Vasily Mishin, Russian engineer (born 1917)"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Warren Burt, American-Australian composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Peter Underwood, Australian lawyer and politician, 27th Governor of Tasmania (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1814",
+      "text": "War of 1812: The United States Revenue Marine attempts to defend the cutter Eagle from the Royal Navy."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Gail Halvorsen, American air force pilot known as the \"Berlin Candy Bomber\" (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "David Hempleman-Adams, English businessman and adventurer"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Jodi Lyn O'Keefe, American model and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Josh Giddey, Australian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Mýa, American singer-songwriter, producer, dancer, and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "James Clavell, Australian-American director, producer, screenwriter, and author (died 1994)"
     }
   ],
   "source": "Wikipedia"
