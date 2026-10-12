@@ -3,38 +3,53 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Paul Hawkins, Australian race car driver (died 1969)"
+      "year": "1968",
+      "text": "Hugh Jackman, Australian actor, singer, and producer"
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Serge Clerc, French comic book artist and illustrator"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "The USS Cole, a US Navy destroyer, is badly damaged by two al-Qaeda suicide bombers, killing 17 crew members and wounding at least 39."
-    },
-    {
-      "type": "Event",
-      "year": "166",
-      "text": "Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in Rome for the successful completion of their war with the Partians."
+      "year": "1983",
+      "text": "Alex Brosque, Australian footballer"
     },
     {
       "type": "Birth",
-      "year": "1934",
-      "text": "James \"Sugar Boy\" Crawford, American singer-songwriter and pianist (died 2012)"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Abdallah Kigoda, Tanzanian politician, 8th Tanzanian Minister of Industry and Trade (born 1953)"
+      "year": "1968",
+      "text": "Bill Auberlen, American race car driver"
     },
     {
       "type": "Event",
-      "year": "1994",
-      "text": "The Magellan spacecraft burns up in the atmosphere of Venus."
+      "year": "1967",
+      "text": "A bomb explodes on board Cyprus Airways Flight 284 while flying over the Mediterranean Sea, killing 66."
+    },
+    {
+      "type": "Event",
+      "year": "1810",
+      "text": "The citizens of Munich hold the first Oktoberfest in celebration of the marriage of Crown Prince Louis of Bavaria and Princess Therese of Saxe-Hildburghausen."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Carlos Bernard, American actor and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Domna Samiou, Greek singer and musicologist (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1492",
+      "text": "Christopher Columbus's first expedition makes landfall on San Salvador Island in the Caribbean. (Julian calendar)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Drew Edmondson, American politician"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Pervez Musharraf takes power in Pakistan from Nawaz Sharif through a bloodless coup."
     },
     {
       "type": "Event",
@@ -43,68 +58,8 @@
     },
     {
       "type": "Death",
-      "year": "2003",
-      "text": "Jim Cairns, Australian economist and politician, 4th Deputy Prime Minister of Australia (born 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Pat DiNizio, American singer-songwriter and guitarist (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Desmond Doss is the first conscientious objector to receive the U.S. Medal of Honor."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Domna Samiou, Greek singer and musicologist (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Becky Iverson, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Baden Cooke, Australian cyclist"
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "Uddevalla Suffrage Association is formed."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Richard Meier, American architect, designed the Getty Center and City Tower"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "President Nixon nominates House Minority Leader Gerald R. Ford as the successor to Vice President Spiro T. Agnew."
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "An M 7.7–8.3 earthquake off the Greek island of Crete causes major damage as far as Egypt and Malta."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Josh Hutcherson, American actor and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: Vietnamization continues as President Richard Nixon announces that the United States will withdraw 40,000 more troops before Christmas."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "William H. Sullivan, American soldier and diplomat, United States Ambassador to the Philippines (died 2013)"
+      "year": "2015",
+      "text": "Joan Leslie, American actress, dancer, and vaudevillian (born 1925)"
     },
     {
       "type": "Event",
@@ -113,8 +68,23 @@
     },
     {
       "type": "Event",
-      "year": "2022",
-      "text": "2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack."
+      "year": "1994",
+      "text": "The Magellan spacecraft burns up in the atmosphere of Venus."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "The Columbus Day Storm strikes the U.S. Pacific Northwest with record wind velocities. There was at least U.S. $230 million in damages and 46 people died."
+    },
+    {
+      "type": "Death",
+      "year": "1970",
+      "text": "Mustafa Zaidi, Pakistani poet and academic (born 1930)"
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "The Pledge of Allegiance is first recited by students in many US public schools."
     },
     {
       "type": "Event",
@@ -123,48 +93,18 @@
     },
     {
       "type": "Event",
-      "year": "-539",
-      "text": "The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "A bomb explodes on board Cyprus Airways Flight 284 while flying over the Mediterranean Sea, killing 66."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Al Held, American painter and academic (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "José Valentín, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1492",
-      "text": "Christopher Columbus's first expedition makes landfall on San Salvador Island in the Caribbean. (Julian calendar)"
-    },
-    {
-      "type": "Event",
       "year": "1999",
-      "text": "Pervez Musharraf takes power in Pakistan from Nawaz Sharif through a bloodless coup."
+      "text": "The former Autonomous Soviet Republic of Abkhazia declares its independence from Georgia."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Trevor Chappell, Australian cricketer and coach"
+      "year": "1977",
+      "text": "Cristie Kerr, American golfer"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Susana Félix, Portuguese singer-songwriter, producer, and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Evalie A. Bradley, Anguillian politician and member of the House of Assembly of Anguilla"
+      "year": "1981",
+      "text": "Giuseppe Lanzone, American rower"
     },
     {
       "type": "Event",
@@ -172,19 +112,119 @@
       "text": "Battle of Hatfield Chase: King Edwin of Northumbria is defeated and killed by an alliance under Penda of Mercia and Cadwallon of Gwynedd."
     },
     {
-      "type": "Event",
-      "year": "1810",
-      "text": "The citizens of Munich hold the first Oktoberfest in celebration of the marriage of Crown Prince Louis of Bavaria and Princess Therese of Saxe-Hildburghausen."
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "The Pledge of Allegiance is first recited by students in many US public schools."
+      "type": "Birth",
+      "year": "1935",
+      "text": "Tony Kubek, American baseball player and sportscaster"
     },
     {
       "type": "Death",
-      "year": "1988",
-      "text": "Coby Whitmore, American painter and illustrator (born 1913)"
+      "year": "1993",
+      "text": "Leon Ames, American actor (born 1902)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Chris Wallace, American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Ed Royce, American businessman and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Anna Escobedo Cabral, American lawyer and politician, 42nd Treasurer of the United States"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "John E. Hodge, African-American chemist (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Bode Miller, American skier"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Josh Hutcherson, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "The United States announces its decision to withdraw from UNESCO. Israel immediately follows."
+    },
+    {
+      "type": "Event",
+      "year": "1890",
+      "text": "Uddevalla Suffrage Association is formed."
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "World War II: Desmond Doss is the first conscientious objector to receive the U.S. Medal of Honor."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Brian J. Smith, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "-539",
+      "text": "The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)"
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Iris Apatow, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Dusty Rhodes, American wrestler (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Art Clokey, American animator, producer, screenwriter, and voice actor, created Gumby (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "A massive forest fire kills 453 people in Minnesota."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Sam Moore, American soul singer-songwriter (died 2025)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: Vietnamization continues as President Richard Nixon announces that the United States will withdraw 40,000 more troops before Christmas."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Martie Maguire, American singer-songwriter, violinist, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Soviet Premier Nikita Khrushchev pounds his shoe on a desk at the United Nations to protest a Philippine assertion."
+    },
+    {
+      "type": "Event",
+      "year": "1856",
+      "text": "An M 7.7–8.3 earthquake off the Greek island of Crete causes major damage as far as Egypt and Malta."
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Brett Cooper, American political commentator, actress, and social media personality"
     },
     {
       "type": "Event",
@@ -193,83 +233,18 @@
     },
     {
       "type": "Event",
-      "year": "1988",
-      "text": "Two officers of the Victoria Police are gunned down execution-style in the Walsh Street police shootings, Australia."
+      "year": "1973",
+      "text": "President Nixon nominates House Minority Leader Gerald R. Ford as the successor to Vice President Spiro T. Agnew."
     },
     {
       "type": "Birth",
-      "year": "1929",
-      "text": "Robert Coles, American psychologist, author, and academic (died 2026)"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The former Autonomous Soviet Republic of Abkhazia declares its independence from Georgia."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Annik Honoré, Belgian journalist and music promoter (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "A massive forest fire kills 453 people in Minnesota."
+      "year": "1934",
+      "text": "Albert Shiryaev, Russian mathematician and academic"
     },
     {
       "type": "Event",
       "year": "1928",
       "text": "An iron lung respirator is used for the first time at Boston Children's Hospital."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Magnus Magnusson, Icelandic journalist and academic (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Brenda Romero, American game designer"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Olivia Smoliga, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Michael Roe, American singer, songwriter, and record producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Deborah Foreman, American actress and photographer"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Tony Kubek, American baseball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Tyler Blackburn, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Catherine Holmes, Australian judge"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Soviet Premier Nikita Khrushchev pounds his shoe on a desk at the United Nations to protest a Philippine assertion."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Tony Fiore, American baseball player"
     },
     {
       "type": "Event",
@@ -278,18 +253,28 @@
     },
     {
       "type": "Event",
-      "year": "2017",
-      "text": "The United States announces its decision to withdraw from UNESCO. Israel immediately follows."
+      "year": "166",
+      "text": "Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in Rome for the successful completion of their war with the Partians."
     },
     {
       "type": "Birth",
-      "year": "2002",
-      "text": "Iris Apatow, American actress"
+      "year": "1928",
+      "text": "Al Held, American painter and academic (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Melvin Franklin, American soul bass singer (died 1995)"
     },
     {
       "type": "Event",
-      "year": "1962",
-      "text": "The Columbus Day Storm strikes the U.S. Pacific Northwest with record wind velocities. There was at least U.S. $230 million in damages and 46 people died."
+      "year": "1988",
+      "text": "Two officers of the Victoria Police are gunned down execution-style in the Walsh Street police shootings, Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Chris Chandler, American football player"
     },
     {
       "type": "Birth",
@@ -297,9 +282,24 @@
       "text": "Jake McCabe, American ice hockey player"
     },
     {
+      "type": "Event",
+      "year": "2022",
+      "text": "2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack."
+    },
+    {
       "type": "Birth",
-      "year": "1968",
-      "text": "Hugh Jackman, Australian actor, singer, and producer"
+      "year": "1929",
+      "text": "Robert Coles, American psychologist, author, and academic (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "The USS Cole, a US Navy destroyer, is badly damaged by two al-Qaeda suicide bombers, killing 17 crew members and wounding at least 39."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Jean Nidetch, American businesswoman, co-founded Weight Watchers (died 2015)"
     }
   ],
   "source": "Wikipedia"
