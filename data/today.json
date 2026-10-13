@@ -1,305 +1,305 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "items": [
     {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Hugh Jackman, Australian actor, singer, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Alex Brosque, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Bill Auberlen, American race car driver"
-    },
-    {
       "type": "Event",
-      "year": "1967",
-      "text": "A bomb explodes on board Cyprus Airways Flight 284 while flying over the Mediterranean Sea, killing 66."
-    },
-    {
-      "type": "Event",
-      "year": "1810",
-      "text": "The citizens of Munich hold the first Oktoberfest in celebration of the marriage of Crown Prince Louis of Bavaria and Princess Therese of Saxe-Hildburghausen."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Carlos Bernard, American actor and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Domna Samiou, Greek singer and musicologist (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1492",
-      "text": "Christopher Columbus's first expedition makes landfall on San Salvador Island in the Caribbean. (Julian calendar)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Drew Edmondson, American politician"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Pervez Musharraf takes power in Pakistan from Nawaz Sharif through a bloodless coup."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "President Theodore Roosevelt officially renames the \"Executive Mansion\" to the White House."
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Joan Leslie, American actress, dancer, and vaudevillian (born 1925)"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "At the national congress of the American Popular Revolutionary Alliance in Peru, a group of leftist radicals are expelled from the party who later form APRA Rebelde."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "The Magellan spacecraft burns up in the atmosphere of Venus."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "The Columbus Day Storm strikes the U.S. Pacific Northwest with record wind velocities. There was at least U.S. $230 million in damages and 46 people died."
-    },
-    {
-      "type": "Death",
-      "year": "1970",
-      "text": "Mustafa Zaidi, Pakistani poet and academic (born 1930)"
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "The Pledge of Allegiance is first recited by students in many US public schools."
-    },
-    {
-      "type": "Event",
-      "year": "1792",
-      "text": "The first celebration of Columbus Day is held in New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The former Autonomous Soviet Republic of Abkhazia declares its independence from Georgia."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Cristie Kerr, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Giuseppe Lanzone, American rower"
-    },
-    {
-      "type": "Event",
-      "year": "633",
-      "text": "Battle of Hatfield Chase: King Edwin of Northumbria is defeated and killed by an alliance under Penda of Mercia and Cadwallon of Gwynedd."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Tony Kubek, American baseball player and sportscaster"
-    },
-    {
-      "type": "Death",
-      "year": "1993",
-      "text": "Leon Ames, American actor (born 1902)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Chris Wallace, American journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Ed Royce, American businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Anna Escobedo Cabral, American lawyer and politician, 42nd Treasurer of the United States"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "John E. Hodge, African-American chemist (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Bode Miller, American skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Josh Hutcherson, American actor and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "The United States announces its decision to withdraw from UNESCO. Israel immediately follows."
-    },
-    {
-      "type": "Event",
-      "year": "1890",
-      "text": "Uddevalla Suffrage Association is formed."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "World War II: Desmond Doss is the first conscientious objector to receive the U.S. Medal of Honor."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Brian J. Smith, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "-539",
-      "text": "The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)"
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Iris Apatow, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Dusty Rhodes, American wrestler (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Art Clokey, American animator, producer, screenwriter, and voice actor, created Gumby (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "A massive forest fire kills 453 people in Minnesota."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Sam Moore, American soul singer-songwriter (died 2025)"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: Vietnamization continues as President Richard Nixon announces that the United States will withdraw 40,000 more troops before Christmas."
+      "year": "1976",
+      "text": "The first electron micrograph of an Ebola virus is taken at the Centers for Disease Control and Prevention by Dr. F. A. Murphy."
     },
     {
       "type": "Birth",
       "year": "1969",
-      "text": "Martie Maguire, American singer-songwriter, violinist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Soviet Premier Nikita Khrushchev pounds his shoe on a desk at the United Nations to protest a Philippine assertion."
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "An M 7.7–8.3 earthquake off the Greek island of Crete causes major damage as far as Egypt and Malta."
-    },
-    {
-      "type": "Birth",
-      "year": "2001",
-      "text": "Brett Cooper, American political commentator, actress, and social media personality"
-    },
-    {
-      "type": "Event",
-      "year": "1793",
-      "text": "The cornerstone of Old East, the oldest state university building in the United States, is laid at the University of North Carolina at Chapel Hill."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "President Nixon nominates House Minority Leader Gerald R. Ford as the successor to Vice President Spiro T. Agnew."
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Albert Shiryaev, Russian mathematician and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "An iron lung respirator is used for the first time at Boston Children's Hospital."
-    },
-    {
-      "type": "Event",
-      "year": "1692",
-      "text": "The Salem witch trials are ended by a letter from Province of Massachusetts Bay Governor William Phips."
-    },
-    {
-      "type": "Event",
-      "year": "166",
-      "text": "Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in Rome for the successful completion of their war with the Partians."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Al Held, American painter and academic (died 2005)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Melvin Franklin, American soul bass singer (died 1995)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Two officers of the Victoria Police are gunned down execution-style in the Walsh Street police shootings, Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Chris Chandler, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Jake McCabe, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Robert Coles, American psychologist, author, and academic (died 2026)"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "The USS Cole, a US Navy destroyer, is badly damaged by two al-Qaeda suicide bombers, killing 17 crew members and wounding at least 39."
+      "text": "Nancy Kerrigan, American figure skater and actress"
     },
     {
       "type": "Birth",
       "year": "1923",
-      "text": "Jean Nidetch, American businesswoman, co-founded Weight Watchers (died 2015)"
+      "text": "John C. Champion, American screenwriter and producer (died 1994)"
+    },
+    {
+      "type": "Death",
+      "year": "1981",
+      "text": "Antonio Berni, Argentinian painter, illustrator, and engraver (born 1905)"
+    },
+    {
+      "type": "Birth",
+      "year": "1876",
+      "text": "Rube Waddell, American baseball player (died 1914)"
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game."
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "Albert Jay Nock, American theorist, author, and critic (died 1945)"
+    },
+    {
+      "type": "Birth",
+      "year": "1880",
+      "text": "Sasha Chorny, Russian poet and author (died 1932)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Kele Okereke, English singer, songwriter, and musician"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "War of 1812: Sir Isaac Brock's British and native forces repel an invasion of Canada by General Rensselaer's United States forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Thomas Bingham, Baron Bingham of Cornhill, English lawyer and judge, Lord Chief Justice of England and Wales (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Mike Gazella, American baseball player and manager (died 1978)"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Stephen Ambrose, American historian and author (born 1936)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Ray Brown, American bassist and cellist (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Piero Dusio, Italian footballer, businessman and racing driver (died 1975)"
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "Soviet republics sign the Treaty of Kars to formalize the borders between Turkey and the South Caucasus states."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Tisha Campbell-Martin, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Herblock, American author and illustrator (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Ryan Matterson, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "The flag of Okinawa Prefecture, Japan, was officially adopted."
+    },
+    {
+      "type": "Event",
+      "year": "54",
+      "text": "Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adopted son Nero, rather than by Britannicus, his son with Messalina."
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Cam Thomas, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Chris Carter, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Edward Hennig, American gymnast (died 1960)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Matt Walsh, American actor and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Lacy J. Dalton, American country music singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Alexandria Ocasio-Cortez, American politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Bruce Geller, American screenwriter and producer (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Benjamin Clapp, American drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Cady McClain, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Arna Bontemps, American librarian, author, and poet (died 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Paul Pierce, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1885",
+      "text": "The Georgia Institute of Technology is founded in Atlanta, Georgia."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Derek Harper, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1821",
+      "text": "The Declaration of Independence of the Mexican Empire is publicly proclaimed."
+    },
+    {
+      "type": "Event",
+      "year": "1332",
+      "text": "Rinchinbal Khan becomes the Khagan of the Mongols and Emperor of the Yuan dynasty, reigning for only 53 days."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "George Osmond, American talent manager (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Brace Belden, American communist and trade union activist, volunteer in the People's Protection Units"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Marshal Pietro Badoglio announces that Italy has officially declared war on Germany."
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "The Continental Congress establishes the Continental Navy (predecessor of the United States Navy)."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Trevor Hoffman, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Paul Simon, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Colin Channer, Jamaican-American author and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1259",
+      "text": "The Provisions of Westminster, a law reform programme resulting out of the conflict of King Henry III of England and his barons, are approved."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Joe Dolce, American-Australian singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Billy Bush, American television journalist and radio host"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Chip Foose, American engineer and television host"
+    },
+    {
+      "type": "Event",
+      "year": "1843",
+      "text": "In New York City, B'nai B'rith, the oldest Jewish service organization in the world, is founded."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Richard Howard, American poet, critic, and translator (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Maria Cantwell, American lawyer and politician"
+    },
+    {
+      "type": "Death",
+      "year": "2023",
+      "text": "Louise Glück, American poet and essayist (born 1943)"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "France adopts the constitution of the Fourth Republic."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Sammy Hagar, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1793",
+      "text": "French Revolutionary Wars: Austro-Prussian victory over Republican France at the First Battle of Wissembourg."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Gerald Marks, American composer (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Joey Belladonna, American singer and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Christopher Judge, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Ameritech Mobile Communications launches the first US cellular network in Chicago."
+    },
+    {
+      "type": "Event",
+      "year": "1792",
+      "text": "In Washington, D.C., the cornerstone of the United States Executive Mansion (known as the White House since 1818) is laid."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Nusrat Fateh Ali Khan, Pakistani musician (died 1997)"
     }
   ],
   "source": "Wikipedia"
