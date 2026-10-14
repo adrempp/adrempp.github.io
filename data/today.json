@@ -2,124 +2,24 @@
   "date": "2026-10-14",
   "items": [
     {
-      "type": "Death",
-      "year": "1997",
-      "text": "Harold Robbins, American author (born 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Allan Jones, American actor and singer (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Pat Kelly, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Arleen Sorkin, American actress, producer, and screenwriter (died 2023)"
-    },
-    {
       "type": "Event",
-      "year": "1884",
-      "text": "George Eastman receives a U.S. Government patent on his new paper-strip photographic film."
+      "year": "1943",
+      "text": "World War II: The United States Eighth Air Force loses 60 of 291 B-17 Flying Fortresses during the Second Raid on Schweinfurt."
     },
     {
       "type": "Birth",
-      "year": "1928",
-      "text": "Frank E. Resnik, American chemist and businessman (died 1995)"
+      "year": "1893",
+      "text": "Lillian Gish, American actress (died 1993)"
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Daan Jippes, Dutch author and illustrator"
+      "year": "1986",
+      "text": "Wesley Matthews, American basketball player"
     },
     {
       "type": "Birth",
       "year": "1939",
       "text": "Ralph Lauren, American fashion designer, founded the Ralph Lauren Corporation"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Scott Kooistra, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Nikolai Andrianov, Russian gymnast and coach (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "David Strickland, American actor (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "1808",
-      "text": "The Republic of Ragusa is annexed by France."
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "The Soviet Presidium and the Communist Party Central Committee each vote to accept Nikita Khrushchev's \"voluntary\" request to retire from his offices."
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "About 10,000 American employees of John Deere go on strike."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "The 6th Congress of the Workers' Party ended, having anointed North Korean President Kim Il Sung's son Kim Jong Il as his successor."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Jay Pharoah, American actor and comedian"
-    },
-    {
-      "type": "Death",
-      "year": "1958",
-      "text": "Nikolay Zabolotsky, Russian-Soviet poet and translator (born 1903)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Stacy Keibler, American wrestler and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "Yukio Sakurauchi, Japanese businessman and politician, 27th Japanese Minister of Finance (died 1947)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Chris Thomas King, American singer-songwriter, guitarist, producer, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1805",
-      "text": "War of the Third Coalition: A French corps defeats an Austrian attempt to escape encirclement at Ulm."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Jim Jackson, American basketball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "J. C. Snead, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1893",
-      "text": "Lois Lenski, American author and illustrator (died 1974)"
     },
     {
       "type": "Event",
@@ -128,33 +28,8 @@
     },
     {
       "type": "Event",
-      "year": "1656",
-      "text": "The General Court of the Massachusetts Bay Colony enacts the first punitive legislation against the Religious Society of Friends."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Max Thieriot, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Confederate troops under the command of A. P. Hill fail to drive the Union Army completely out of Virginia."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Gary Graffman, American concert pianist (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Robert Parker, American singer and saxophonist (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1806",
-      "text": "War of the Fourth Coalition: Napoleon decisively defeats Prussia at the Battle of Jena–Auerstedt."
+      "year": "2003",
+      "text": "The Steve Bartman Incident takes place at Wrigley Field in Chicago, Illinois."
     },
     {
       "type": "Event",
@@ -162,9 +37,44 @@
       "text": "The Cuban Missile Crisis begins when an American reconnaissance aircraft takes photographs of Soviet ballistic missiles being installed in Cuba."
     },
     {
+      "type": "Death",
+      "year": "1998",
+      "text": "Frankie Yankovic, American accordion player (born 1916)"
+    },
+    {
       "type": "Birth",
-      "year": "1892",
-      "text": "Sumner Welles, American politician and diplomat, 11th Under Secretary of State (died 1961)"
+      "year": "1941",
+      "text": "Jerry Glanville, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Melba Montgomery, American country music singer (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Matt Roth, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1910",
+      "text": "English aviator Claude Grahame-White lands his aircraft on Executive Avenue near the White House in Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Skyler Shaye, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "LaRon Landry, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1882",
+      "text": "Éamon de Valera, American-Irish rebel and politician, 3rd President of Ireland (died 1975)"
     },
     {
       "type": "Event",
@@ -173,78 +83,8 @@
     },
     {
       "type": "Event",
-      "year": "1949",
-      "text": "The Smith Act trials of Communist Party leaders in the United States convicts eleven defendants of conspiring to advocate the violent overthrow of the federal government."
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "U.S. President Ronald Reagan proclaims a war on drugs."
-    },
-    {
-      "type": "Event",
-      "year": "1910",
-      "text": "English aviator Claude Grahame-White lands his aircraft on Executive Avenue near the White House in Washington, D.C."
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "Australians vote to reject a constitutional amendment that would have established an Indigenous Voice to Parliament."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Ahmed Musa, Nigerian footballer"
-    },
-    {
-      "type": "Event",
       "year": "1920",
       "text": "Finland and Soviet Russia sign the Treaty of Tartu, exchanging some territories."
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "Former president Theodore Roosevelt is shot and mildly wounded by John Flammang Schrank in Milwaukee, Wisconsin. With the fresh wound in his chest, and the bullet still within it, Roosevelt delivers his scheduled speech."
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Chicago Cubs defeat the Detroit Tigers, 2–0, clinching the 1908 World Series; this would be their last until winning the 2016 World Series."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Joey Travolta, American actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1774",
-      "text": "American Revolution: The First Continental Congress denounces the British Parliament's Intolerable Acts and demands British concessions."
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Hassan al-Banna, Egyptian religious leader, founded the Muslim Brotherhood (died 1949)"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "Flying the Bell X-1 over Muroc Army Air Field in California, Captain Chuck Yeager breaks the sound barrier in level flight, reaching Mach 1.05."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Thom Brooks, American-British political philosopher and legal scholar"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "The 6.5 Mw Meckering earthquake shakes the southwest portion of Western Australia with a maximum Mercalli intensity of IX (Violent), causing $2.2 million in damage and leaving 20–28 people injured."
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Apollo program: The first live television broadcast by American astronauts in orbit is performed by the Apollo 7 crew."
     },
     {
       "type": "Event",
@@ -254,17 +94,157 @@
     {
       "type": "Event",
       "year": "1964",
-      "text": "Martin Luther King Jr. receives the Nobel Peace Prize for combating racial inequality through nonviolence."
+      "text": "The Soviet Presidium and the Communist Party Central Committee each vote to accept Nikita Khrushchev's \"voluntary\" request to retire from his offices."
     },
     {
       "type": "Event",
-      "year": "1923",
-      "text": "After the Irish Civil War the 1923 Irish hunger strikes were undertaken by thousands of Irish republican prisoners protesting the continuation of their internment without trial."
+      "year": "1805",
+      "text": "War of the Third Coalition: A French corps defeats an Austrian attempt to escape encirclement at Ulm."
+    },
+    {
+      "type": "Death",
+      "year": "1959",
+      "text": "Jack Davey, New Zealand-Australian singer and radio host (born 1907)"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Raymond Davis Jr., American chemist and physicist, Nobel Prize laureate (died 2006)"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Australians vote to reject a constitutional amendment that would have established an Indigenous Voice to Parliament."
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "Flying the Bell X-1 over Muroc Army Air Field in California, Captain Chuck Yeager breaks the sound barrier in level flight, reaching Mach 1.05."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "David Strickland, American actor (died 1999)"
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Martin Luther King Jr. receives the Nobel Peace Prize for combating racial inequality through nonviolence."
     },
     {
       "type": "Birth",
       "year": "1941",
-      "text": "Art Shamsky, American baseball player and manager"
+      "text": "Laurie Lawrence, Australian rugby player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1912",
+      "text": "Former president Theodore Roosevelt is shot and mildly wounded by John Flammang Schrank in Milwaukee, Wisconsin. With the fresh wound in his chest, and the bullet still within it, Roosevelt delivers his scheduled speech."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Greg Evigan, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Viktor Onopko, Russian footballer and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Jim Jackson, American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "The 6th Congress of the Workers' Party ended, having anointed North Korean President Kim Il Sung's son Kim Jong Il as his successor."
+    },
+    {
+      "type": "Event",
+      "year": "1656",
+      "text": "The General Court of the Massachusetts Bay Colony enacts the first punitive legislation against the Religious Society of Friends."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Jennell Jaquays, American game designer (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1853",
+      "text": "John William Kendrick, American engineer and businessman (died 1924)"
+    },
+    {
+      "type": "Birth",
+      "year": "1844",
+      "text": "John See, English-Australian politician, 14th Premier of New South Wales (died 1907)"
+    },
+    {
+      "type": "Event",
+      "year": "1884",
+      "text": "George Eastman receives a U.S. Government patent on his new paper-strip photographic film."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Apollo program: The first live television broadcast by American astronauts in orbit is performed by the Apollo 7 crew."
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "About 10,000 American employees of John Deere go on strike."
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "The Chicago Cubs defeat the Detroit Tigers, 2–0, clinching the 1908 World Series; this would be their last until winning the 2016 World Series."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Ahmed Musa, Nigerian footballer"
+    },
+    {
+      "type": "Death",
+      "year": "2019",
+      "text": "Harold Bloom, American literary critic (born 1930)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Nikolai Andrianov, Russian gymnast and coach (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "The Smith Act trials of Communist Party leaders in the United States convicts eleven defendants of conspiring to advocate the violent overthrow of the federal government."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Constantine Koukias, Greek-Australian flute player and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Jay Ferguson, Canadian guitarist and songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Pat Kelly, American baseball player, coach, and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Gary Graffman, American concert pianist (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Terrence McGee, American football player"
     },
     {
       "type": "Event",
@@ -273,33 +253,53 @@
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "World War II: The United States Eighth Air Force loses 60 of 291 B-17 Flying Fortresses during the Second Raid on Schweinfurt."
+      "year": "1808",
+      "text": "The Republic of Ragusa is annexed by France."
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Jaelen Feeney, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1882",
-      "text": "Éamon de Valera, American-Irish rebel and politician, 3rd President of Ireland (died 1975)"
+      "year": "1945",
+      "text": "Daan Jippes, Dutch author and illustrator"
     },
     {
       "type": "Event",
-      "year": "2003",
-      "text": "The Steve Bartman Incident takes place at Wrigley Field in Chicago, Illinois."
+      "year": "1806",
+      "text": "War of the Fourth Coalition: Napoleon decisively defeats Prussia at the Battle of Jena–Auerstedt."
     },
     {
-      "type": "Death",
-      "year": "1969",
-      "text": "August Sang, Estonian poet and translator (born 1914)"
+      "type": "Event",
+      "year": "1923",
+      "text": "After the Irish Civil War the 1923 Irish hunger strikes were undertaken by thousands of Irish republican prisoners protesting the continuation of their internment without trial."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "U.S. President Ronald Reagan proclaims a war on drugs."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Chris Thomas King, American singer-songwriter, guitarist, producer, and actor"
     },
     {
       "type": "Event",
       "year": "1998",
       "text": "Eric Rudolph is charged with six bombings, including the 1996 Centennial Olympic Park bombing in Atlanta, Georgia."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "The 6.5 Mw Meckering earthquake shakes the southwest portion of Western Australia with a maximum Mercalli intensity of IX (Violent), causing $2.2 million in damage and leaving 20–28 people injured."
+    },
+    {
+      "type": "Event",
+      "year": "1774",
+      "text": "American Revolution: The First Continental Congress denounces the British Parliament's Intolerable Acts and demands British concessions."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Confederate troops under the command of A. P. Hill fail to drive the Union Army completely out of Virginia."
     }
   ],
   "source": "Wikipedia"
