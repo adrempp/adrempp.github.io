@@ -3,203 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1906",
-      "text": "Alicia Patterson, American journalist and publisher, co-founded Newsday (died 1963)"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Wayne Gretzky becomes the all-time leading points scorer in the NHL."
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Peter Koch, American industrial engineer and wood scientist (died 1998)"
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Mildred Fay Jefferson, American physician and activist (born 1926)"
-    },
-    {
-      "type": "Event",
-      "year": "2018",
-      "text": "13-year-old American girl, Jayme Closs, is kidnapped from her Barron, Wisconsin home after her parents were both murdered."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Jakob Pöltl, Austrian basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1781",
-      "text": "The Battle of Raft Swamp marks the last battle fought in North Carolina during the American Revolutionary War with a Patriot victory. It occurred four days before the British surrender at Yorktown."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Wes Moore, American politician, author, nonprofit executive, and television producer, 63rd Governor of Maryland"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Chuck Stevenson, American race car driver (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Stacy Peralta, American skateboarder, director, producer, and businessman, co-founded Powell Peralta"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Brock Nelson, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Union garrison of Glasgow, Missouri surrenders to Confederate forces."
-    },
-    {
-      "type": "Death",
-      "year": "1976",
-      "text": "Carlo Gambino, Italian-American mob boss (born 1902)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "The New York Municipal Airport (later renamed LaGuardia Airport) is dedicated."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Lindsay Thompson, Australian politician, 40th Premier of Victoria (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "During the construction of Australia's West Gate Bridge, a span of the bridge falls and kills 35 workers. The incident is the country's worst industrial accident to this day."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Supporters of the Malta Labour Party ransack and destroy the Times of Malta building and other locations associated with the Nationalist Party."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "The United States, under the Clinton administration, returns Haiti's first democratically elected president, Jean-Bertrand Aristide, to the island."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Peter Phillips, English conductor and musicologist"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Trent Zimmerman, Australian politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1888",
-      "text": "S. S. Van Dine, American author and critic (died 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Agustín García Calvo, Spanish philosopher and poet (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Haim Saban, Israeli-American businessman, co-founded Saban Entertainment"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Eric Benét, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1529",
-      "text": "The Siege of Vienna ends when Austria routs the invading Ottoman forces, ending its European expansion."
-    },
-    {
-      "type": "Event",
-      "year": "1923",
-      "text": "The German Rentenmark is introduced in Germany to counter hyperinflation in the Weimar Republic."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Jean Peters, American actress (died 2000)"
-    },
-    {
-      "type": "Event",
-      "year": "1211",
-      "text": "Battle of the Rhyndacus: The Latin emperor Henry of Flanders defeats the Nicaean emperor Theodore I Laskaris."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "James E. Akins, American soldier and diplomat, United States Ambassador to Saudi Arabia (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "Herman Chittison, American pianist (died 1967)"
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "Archibald Hoxsey, American pilot (died 1910)"
-    },
-    {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Mario Puzo, American author and screenwriter (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Charly Musonda, Belgian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1908",
-      "text": "John Kenneth Galbraith, Canadian-American economist and diplomat, 7th United States Ambassador to India (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Fred Hoiberg, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "Hurricane Hazel devastates the eastern seaboard of North America, killing 95 and causing massive floods as far north as Toronto."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Tito Jackson, American singer-songwriter and guitarist (died 2024)"
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "The airship Graf Zeppelin completes its first trans-Atlantic flight, landing at Lakehurst, New Jersey, United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Robert Baden-Powell, 3rd Baron Baden-Powell, South African-English businessman (died 2019)"
+      "year": "1938",
+      "text": "Fela Kuti, Nigerian musician and activist (died 1997)"
     },
     {
       "type": "Birth",
@@ -208,38 +13,43 @@
     },
     {
       "type": "Event",
-      "year": "1910",
-      "text": "Airship America is launched from New Jersey in the first attempt to cross the Atlantic by a powered aircraft."
+      "year": "2006",
+      "text": "The 6.7 Mw Kiholo Bay earthquake rocks Hawaii, causing property damage, injuries, landslides, power outages, and the closure of Honolulu International Airport."
     },
     {
       "type": "Event",
-      "year": "2008",
-      "text": "The Dow Jones Industrial Average closes down 733.08 points, or 7.87%, the second worst percentage drop in the Dow's history."
+      "year": "1939",
+      "text": "The New York Municipal Airport (later renamed LaGuardia Airport) is dedicated."
     },
     {
       "type": "Birth",
-      "year": "1909",
-      "text": "Robert Trout, American journalist (died 2000)"
-    },
-    {
-      "type": "Death",
-      "year": "1385",
-      "text": "Dionysius I, Metropolitan of Moscow"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "A coup d'état in El Salvador overthrows President Carlos Humberto Romero and begins the 12 year-long Salvadoran Civil War."
+      "year": "1981",
+      "text": "Elena Dementieva, Russian tennis player"
     },
     {
       "type": "Birth",
-      "year": "1924",
-      "text": "Lee Iacocca, American businessman and author (died 2019)"
+      "year": "1946",
+      "text": "Richard Carpenter, American singer-songwriter and pianist"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Mickey Baker, American-French guitarist (died 2012)"
     },
     {
       "type": "Birth",
       "year": "1955",
-      "text": "Emma Chichester Clark, English author and illustrator"
+      "text": "Tanya Roberts, American actress (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "The United States, under the Clinton administration, returns Haiti's first democratically elected president, Jean-Bertrand Aristide, to the island."
+    },
+    {
+      "type": "Event",
+      "year": "2018",
+      "text": "13-year-old American girl, Jayme Closs, is kidnapped from her Barron, Wisconsin home after her parents were both murdered."
     },
     {
       "type": "Event",
@@ -248,13 +58,28 @@
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Mira Nair, Indian-American actress, director, and producer"
+      "year": "1937",
+      "text": "Linda Lavin, American actress and singer (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1781",
+      "text": "The Battle of Raft Swamp marks the last battle fought in North Carolina during the American Revolutionary War with a Patriot victory. It occurred four days before the British surrender at Yorktown."
     },
     {
       "type": "Birth",
-      "year": "1917",
-      "text": "Arthur M. Schlesinger Jr., American historian and critic (died 2007)"
+      "year": "1989",
+      "text": "Blaine Gabbert, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1910",
+      "text": "Airship America is launched from New Jersey in the first attempt to cross the Atlantic by a powered aircraft."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Mario Puzo, American author and screenwriter (died 1999)"
     },
     {
       "type": "Birth",
@@ -263,43 +88,218 @@
     },
     {
       "type": "Birth",
+      "year": "1926",
+      "text": "Jean Peters, American actress (died 2000)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Roy Masters, Australian rugby league coach, journalist, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Jack Flaherty, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "James E. Akins, American soldier and diplomat, United States Ambassador to Saudi Arabia (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Aleksandr Filimonov, Russian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "Hurricane Hazel devastates the eastern seaboard of North America, killing 95 and causing massive floods as far north as Toronto."
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Herman Chittison, American pianist (died 1967)"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Fred Hoiberg, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "A coup d'état in El Salvador overthrows President Carlos Humberto Romero and begins the 12 year-long Salvadoran Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Malcolm Ross, American captain, balloonist, and physicist (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Bobby Morrow, American sprinter (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "The airship Graf Zeppelin completes its first trans-Atlantic flight, landing at Lakehurst, New Jersey, United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Vincent Martella, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Wayne Gretzky becomes the all-time leading points scorer in the NHL."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Union garrison of Glasgow, Missouri surrenders to Confederate forces."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Lee Iacocca, American businessman and author (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Ned McWherter, American politician, 46th Governor of Tennessee (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Bailee Madison, American-Canadian actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Supporters of the Malta Labour Party ransack and destroy the Times of Malta building and other locations associated with the Nationalist Party."
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "The German Rentenmark is introduced in Germany to counter hyperinflation in the Weimar Republic."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Candida Royalle, American porn actress, director, and producer (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Jan Miner, American actress (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "Paul Tanner, American trombonist and educator (died 2013)"
+    },
+    {
+      "type": "Birth",
       "year": "1924",
       "text": "Warren Miller, American director and screenwriter (died 2018)"
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Laurie McBain, American author"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "The 6.7 Mw Kiholo Bay earthquake rocks Hawaii, causing property damage, injuries, landslides, power outages, and the closure of Honolulu International Airport."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Bill Charlap, American pianist and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Agustina Bessa-Luís, Portuguese author (died 2019)"
+      "year": "1959",
+      "text": "Emeril Lagasse, American chef and author"
     },
     {
       "type": "Birth",
       "year": "1942",
-      "text": "Don Stevenson, American singer-songwriter and drummer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Peter Bakowski, Australian poet and educator"
+      "text": "Hilo Chen, Taiwanese-American painter"
     },
     {
       "type": "Event",
       "year": "1991",
       "text": "The \"Oh-My-God particle\", an ultra-high-energy cosmic ray measured at 40,000,000 times that of the highest energy protons produced in a particle accelerator, is observed at the University of Utah HiRes observatory in Dugway Proving Ground, Utah."
+    },
+    {
+      "type": "Death",
+      "year": "2000",
+      "text": "Konrad Emil Bloch, Polish-American biochemist and academic, Nobel Prize laureate (born 1912)"
+    },
+    {
+      "type": "Death",
+      "year": "1987",
+      "text": "Donald Wandrei, American author and poet (born 1908)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Victoria Spivey, American singer-songwriter and pianist (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Dominique Jones, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "2001",
+      "text": "NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "During the construction of Australia's West Gate Bridge, a span of the bridge falls and kills 35 workers. The incident is the country's worst industrial accident to this day."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Will Insley, American painter and architect (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1211",
+      "text": "Battle of the Rhyndacus: The Latin emperor Henry of Flanders defeats the Nicaean emperor Theodore I Laskaris."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Penny Marshall, American actress, director, and producer (died 2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "1909",
+      "text": "Robert Trout, American journalist (died 2000)"
+    },
+    {
+      "type": "Death",
+      "year": "1983",
+      "text": "Pat O'Brien, American actor (born 1899)"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Arron Afflalo, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1529",
+      "text": "The Siege of Vienna ends when Austria routs the invading Ottoman forces, ending its European expansion."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Sarah Ferguson"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Rod Wishart, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The Dow Jones Industrial Average closes down 733.08 points, or 7.87%, the second worst percentage drop in the Dow's history."
     }
   ],
   "source": "Wikipedia"
