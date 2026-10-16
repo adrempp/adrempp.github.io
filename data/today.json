@@ -3,23 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Carl Gunter, Jr., American politician (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "John Mayer, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "William Howard Taft and Porfirio Díaz hold the first summit between a U.S. and a Mexican president. They narrowly escape assassination."
-    },
-    {
-      "type": "Event",
-      "year": "1882",
-      "text": "The Nickel Plate Railroad opens for business."
+      "year": "1982",
+      "text": "Alan Anderson, American basketball player"
     },
     {
       "type": "Event",
@@ -28,178 +13,18 @@
     },
     {
       "type": "Event",
-      "year": "1975",
-      "text": "The Australian Coalition sparks a constitutional crisis when they vote to defer funding for the government's annual budget."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Former Chilean dictator Augusto Pinochet is arrested in London on a murder extradition warrant."
-    },
-    {
-      "type": "Event",
-      "year": "1926",
-      "text": "Háry János, a Hungarian folk opera by Zoltán Kodály is premiered at the Royal Hungarian Opera House in Budapest."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Meg Rosoff, American-English author"
-    },
-    {
-      "type": "Death",
-      "year": "1888",
-      "text": "John Wentworth, American journalist and politician, 19th Mayor of Chicago (born 1815)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Cordell Mosson, American bass player (died 2013)"
-    },
-    {
-      "type": "Death",
-      "year": "786",
-      "text": "Lullus, archbishop of Mainz (born 710)"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "Cuban Missile Crisis begins: U.S. President John F. Kennedy is informed of photos taken on October 14 by a U-2 showing nuclear missiles (the crisis will last for 13 days starting from this point)."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Chad Gray, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
-      "year": "456",
-      "text": "Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Kellie Martin, American actress, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Tommie Smith and John Carlos are ejected from the US Olympic team for participating in the Olympics Black Power salute."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Eighty-four football fans die and 180 are injured in a massive crush at a match in Guatemala City."
-    },
-    {
-      "type": "Event",
-      "year": "1817",
-      "text": "Simón Bolívar sentences Manuel Piar to death for challenging the racial-caste in Venezuela."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "The Million Man March takes place in Washington, D.C. About 837,000 attend."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "Holocaust in Italy: Raid on the Roman Ghetto."
-    },
-    {
-      "type": "Event",
-      "year": "1793",
-      "text": "War of the First Coalition: French victory at the Battle of Wattignies forces Austria to raise the siege of Maubeuge."
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Richard Titmuss, English sociologist and academic (died 1973)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "P. W. Underwood, American football player and coach (died 2013)"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Rick Jason, American actor (born 1923)"
-    },
-    {
-      "type": "Event",
       "year": "1875",
       "text": "Brigham Young University is founded in Provo, Utah."
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Justin Credible, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1891",
-      "text": "A diplomatic incident between the United States and Chile occurred after U.S. sailors were attacked in Valparaíso, nearly leading to war."
+      "year": "1972",
+      "text": "Darius Kasparaitis, Lithuanian-American ice hockey player and coach"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Bob Mould, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Indonesian troops kill the Balibo Five, a group of Australian journalists, in Portuguese Timor."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Marin Alsop, American violinist and conductor"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Akira Machida, Japanese lawyer and judge, 15th Chief Justice of Japan (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Lorenzo Carcaterra, American author and blogger"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Max Bygraves, English-Australian actor and singer (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "The magnitude 7.1 Hector Mine earthquake strikes Southern California"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Angry Grandpa, American internet personality (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "Holocaust in Poland: The Warsaw Ghetto is established."
-    },
-    {
-      "type": "Birth",
-      "year": "2005",
-      "text": "Ruby Rose Turner, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Abraham Nemeth, American mathematician and academic (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Charles Dolan, American businessman, founded Cablevision and HBO (died 2024)"
+      "year": "1944",
+      "text": "Elizabeth Loftus, American psychologist"
     },
     {
       "type": "Event",
@@ -208,33 +33,23 @@
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "Tony Carey, American keyboard player, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Paul Sparks, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Leo Mazzone, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Bruce Fleisher, American golfer (died 2021)"
+      "year": "1936",
+      "text": "Andrei Chikatilo, Ukrainian-Russian serial killer (died 1994)"
     },
     {
       "type": "Event",
-      "year": "1736",
-      "text": "Mathematician William Whiston's predicted comet fails to strike the Earth."
+      "year": "1882",
+      "text": "The Nickel Plate Railroad opens for business."
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Anthony Reyes, American baseball player"
+      "year": "1965",
+      "text": "Tom Tolbert, American basketball player and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "Holocaust in Poland: The Warsaw Ghetto is established."
     },
     {
       "type": "Birth",
@@ -243,43 +58,23 @@
     },
     {
       "type": "Event",
-      "year": "1949",
-      "text": "The Greek Communist Party announces a \"temporary cease-fire\", thus ending the Greek Civil War."
+      "year": "1943",
+      "text": "Holocaust in Italy: Raid on the Roman Ghetto."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Roy Hargrove, American trumpet player and composer (died 2018)"
     },
     {
       "type": "Event",
-      "year": "1805",
-      "text": "War of the Third Coalition: Napoleon surrounds the Austrian army at Ulm."
+      "year": "1975",
+      "text": "The Australian Coalition sparks a constitutional crisis when they vote to defer funding for the government's annual budget."
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Barry Corbin, American actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Peter Wallace, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Louis Althusser, Algerian-French philosopher and academic (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "1859",
-      "text": "Origins of the American Civil War: Abolitionist John Brown and his supporters launch a raid on Harpers Ferry, Virginia (now West Virginia)."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "German Titov, Russian ice hockey player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolutionary War: The British-led Royalton raid is the last Native American raid on New England."
+      "year": "1968",
+      "text": "Todd Stashwick, American actor and writer"
     },
     {
       "type": "Event",
@@ -288,18 +83,223 @@
     },
     {
       "type": "Event",
+      "year": "1996",
+      "text": "Eighty-four football fans die and 180 are injured in a massive crush at a match in Guatemala City."
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Tommie Smith and John Carlos are ejected from the US Olympic team for participating in the Olympics Black Power salute."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Former Chilean dictator Augusto Pinochet is arrested in London on a murder extradition warrant."
+    },
+    {
+      "type": "Event",
+      "year": "1736",
+      "text": "Mathematician William Whiston's predicted comet fails to strike the Earth."
+    },
+    {
+      "type": "Event",
+      "year": "1909",
+      "text": "William Howard Taft and Porfirio Díaz hold the first summit between a U.S. and a Mexican president. They narrowly escape assassination."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Casey Stoner, Australian motorcycle racer"
+    },
+    {
+      "type": "Death",
+      "year": "1810",
+      "text": "Nachman of Breslov, Ukrainian religious leader, founded the Breslov Hasidic group (born 1772)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Timana Tahu, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "1859",
+      "text": "Origins of the American Civil War: Abolitionist John Brown and his supporters launch a raid on Harpers Ferry, Virginia (now West Virginia)."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Chad Gray, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Roger Hawkins, American session drummer (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Angela Lansbury, English-American actress, singer, and producer (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Wendy Wilson, American singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "The magnitude 7.1 Hector Mine earthquake strikes Southern California"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "Big Joe Williams, American Delta blues singer-songwriter and guitarist (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "David Zucker, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Brian Harper, American baseball player"
+    },
+    {
+      "type": "Death",
+      "year": "1791",
+      "text": "Grigory Potemkin, Russian general and politician (born 1739)"
+    },
+    {
+      "type": "Event",
+      "year": "1817",
+      "text": "Simón Bolívar sentences Manuel Piar to death for challenging the racial-caste in Venezuela."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Indonesian troops kill the Balibo Five, a group of Australian journalists, in Portuguese Timor."
+    },
+    {
+      "type": "Birth",
+      "year": "2005",
+      "text": "Ruby Rose Turner, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1891",
+      "text": "A diplomatic incident between the United States and Chile occurred after U.S. sailors were attacked in Valparaíso, nearly leading to war."
+    },
+    {
+      "type": "Event",
+      "year": "1805",
+      "text": "War of the Third Coalition: Napoleon surrounds the Austrian army at Ulm."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Bryce Harper, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1793",
+      "text": "War of the First Coalition: French victory at the Battle of Wattignies forces Austria to raise the siege of Maubeuge."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "The Greek Communist Party announces a \"temporary cease-fire\", thus ending the Greek Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Dmitri Hvorostovsky, Russian opera singer (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolutionary War: The British-led Royalton raid is the last Native American raid on New England."
+    },
+    {
+      "type": "Event",
       "year": "1916",
       "text": "Margaret Sanger opens the first family planning clinic in the United States."
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Bob Weir, American singer-songwriter and guitarist (died 2026)"
+      "year": "1964",
+      "text": "James Thompson, American-Finnish author (died 2014)"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Tim Robbins, American actor, director, and screenwriter"
+      "year": "1977",
+      "text": "John Mayer, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Kathleen Winsor, American journalist and author (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Barry Corbin, American actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Charles Colson, American lawyer and politician (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Olivia Coolidge, English-American author and educator (died 2006)"
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Dave DeBusschere, American basketball player and coach (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Scott O'Hara, American pornographic performer, author, poet, editor and publisher (died 1998)"
+    },
+    {
+      "type": "Death",
+      "year": "1972",
+      "text": "Leo G. Carroll, English-American actor (born 1886)"
+    },
+    {
+      "type": "Event",
+      "year": "1926",
+      "text": "Háry János, a Hungarian folk opera by Zoltán Kodály is premiered at the Royal Hungarian Opera House in Budapest."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Cuban Missile Crisis begins: U.S. President John F. Kennedy is informed of photos taken on October 14 by a U-2 showing nuclear missiles (the crisis will last for 13 days starting from this point)."
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "The Million Man March takes place in Washington, D.C. About 837,000 attend."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Christopher Cox, American lawyer and politician"
+    },
+    {
+      "type": "Event",
+      "year": "456",
+      "text": "Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Boyd Melson, American boxer"
     }
   ],
   "source": "Wikipedia"
