@@ -1,305 +1,305 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
-      "type": "Event",
-      "year": "1898",
-      "text": "The United States takes possession of Puerto Rico from Spain."
+      "type": "Birth",
+      "year": "1955",
+      "text": "Dan Gutman, American author"
     },
     {
       "type": "Birth",
-      "year": "1946",
-      "text": "Frank Beamer, American football player and coach"
+      "year": "1953",
+      "text": "Lionel Hollins, American basketball player and coach"
     },
     {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Vincent Spano, American actor, director, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1775",
-      "text": "American Revolutionary War: The Burning of Falmouth (now Portland, Maine)."
+      "type": "Death",
+      "year": "1790",
+      "text": "Lyman Hall, American physician and politician, 16th Governor of Georgia (born 1724)"
     },
     {
       "type": "Event",
-      "year": "1009",
-      "text": "The Church of the Holy Sepulchre, a Christian church in Jerusalem, is completely destroyed by the Fatimid caliph Al-Hakim bi-Amr Allah, who hacks the Church's foundations down to bedrock."
+      "year": "1864",
+      "text": "American Civil War: The Battle of Cedar Creek ends the last Confederate threat to Washington, DC."
     },
     {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Mike Antonovich, American ice hockey player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Forrest Gregg, American football player and coach (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Merpati Nustantara Airlines Flight 5601 crashes into Mount Papandayan near the town of Garut in West Java, Indonesia, killing 31."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Jim Talent, American lawyer and politician"
+      "type": "Death",
+      "year": "2005",
+      "text": "Ryan Dallas Cook, American trombonist (born 1982)"
     },
     {
       "type": "Birth",
       "year": "1958",
-      "text": "Letitia James, American lawyer, activist and politician"
+      "text": "Michael Steele, American journalist and politician, 7th Lieutenant Governor of Maryland"
     },
     {
       "type": "Event",
-      "year": "1775",
-      "text": "African-American poet Phillis Wheatley is freed from slavery."
+      "year": "1791",
+      "text": "Treaty of Drottningholm, between Sweden and Russia"
     },
     {
-      "type": "Birth",
+      "type": "Event",
       "year": "1956",
-      "text": "Craig Bartlett, American animator, producer, screenwriter, and voice actor"
-    },
-    {
-      "type": "Event",
-      "year": "320",
-      "text": "Pappus of Alexandria, Greek philosopher, observes an eclipse of the Sun and writes a commentary on The Great Astronomer (Almagest)."
-    },
-    {
-      "type": "Event",
-      "year": "1929",
-      "text": "The Judicial Committee of the Privy Council overrules the Supreme Court of Canada in Edwards v. Canada when it declares that women are considered \"Persons\" under Canadian law."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Josh Sawyer, American video game designer"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Edward Regan, American academic and politician (born 1930)"
-    },
-    {
-      "type": "Death",
-      "year": "2015",
-      "text": "Robert Dickerson, Australian painter (born 1924)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Jessie Mae Hemphill, American singer-songwriter and guitarist (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Vanessa Briscoe Hay, American singer-songwriter and keyboard player"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "James Foley, American photographer and journalist (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1377",
-      "text": "Andronikos IV Palaiologos and his young son John are crowned by patriarch Macarius of Constantinople."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Argentine military officer and politician Juan Perón marries actress Eva Duarte."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Esperanza Spalding, American singer-songwriter and bassist"
-    },
-    {
-      "type": "Event",
-      "year": "1281",
-      "text": "Pope Martin IV excommunicates King Peter III of Aragon for usurping the crown of Sicily (a sentence renewed on 7 May and 18 November 1282)."
-    },
-    {
-      "type": "Death",
-      "year": "1678",
-      "text": "Jacob Jordaens, Belgian painter illustrator (born 1593)"
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Stuart Law, Australian cricketer and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1887",
-      "text": "Johannes Brahms conducts the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann."
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Victor Sen Yung, American actor (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Allen Ripley, American baseball player (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "German Autumn: A set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Nathan Hauritz, Australian cricketer"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The Soviet probe Venera 4 reaches Venus and becomes the first spacecraft to measure the atmosphere of another planet."
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Anita O'Day, American singer (died 2006)"
-    },
-    {
-      "type": "Event",
-      "year": "1648",
-      "text": "Boston shoemakers form the first American labor organization."
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Ntozake Shange, American author, poet, and playwright (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Terry McMillan, American author and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "33",
-      "text": "Heartbroken by the deaths of her sons Nero and Drusus, and banished to the island of Pandateria by Tiberius, Agrippina the Elder dies of self-inflicted starvation."
-    },
-    {
-      "type": "Event",
-      "year": "1867",
-      "text": "United States takes possession of Alaska after purchasing it from Russia for $7.2 million. Celebrated annually in the state as Alaska Day."
-    },
-    {
-      "type": "Event",
-      "year": "1921",
-      "text": "The Crimean Autonomous Soviet Socialist Republic is formed as part of the Russian Soviet Federative Socialist Republic."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Greg Warren, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "George Hendrick, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Laura Nyro, American singer-songwriter and pianist (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1540",
-      "text": "Spanish conquistador Hernando de Soto's forces destroy the fortified town of Mabila in present-day Alabama, killing Tuskaloosa."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Lindsey Vonn, American skier"
+      "text": "The Soviet Union and Japan sign a Joint Declaration, officially ending the state of war between the two countries that had existed since August 1945."
     },
     {
       "type": "Birth",
       "year": "1927",
-      "text": "Marv Rotblatt, American baseball player (died 2013)"
+      "text": "Pierre Alechinsky, Belgian painter and illustrator"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Gary Sullivan, Australian rugby league player"
+      "year": "1936",
+      "text": "Tony Lo Bianco, American actor (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "1805",
+      "text": "War of the Third Coalition: Austrian General Mack surrenders his army to Napoleon at the Battle of Ulm."
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Zohran Mamdani, American politician, mayor of New York City"
+      "year": "1979",
+      "text": "Brian Robertson, American trombonist"
+    },
+    {
+      "type": "Event",
+      "year": "615",
+      "text": "Consecration of Pope Adeodatus I following the imperial approval of his election."
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Martha Burk, American psychologist and author"
+      "year": "1976",
+      "text": "Desmond Harrington, American actor"
+    },
+    {
+      "type": "Death",
+      "year": "1943",
+      "text": "Camille Claudel, French sculptor and illustrator (born 1864)"
     },
     {
       "type": "Event",
-      "year": "1748",
-      "text": "Signing of the Treaty of Aix-la-Chapelle ends the War of the Austrian Succession."
+      "year": "2005",
+      "text": "Saddam Hussein goes on trial in Baghdad for crimes against humanity."
     },
     {
       "type": "Event",
-      "year": "1978",
-      "text": "Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opens in Yerevan."
+      "year": "1789",
+      "text": "John Jay is sworn in as the first Chief Justice of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Keith Foulke, American baseball player"
     },
     {
       "type": "Event",
-      "year": "1779",
-      "text": "American Revolutionary War: The Franco-American Siege of Savannah is lifted."
+      "year": "1936",
+      "text": "New York World-Telegram reporter Herbert Ekins won a race against two other New York newspaper journalists to travel around the world on commercial airline flights. He accomplished the feat in 18 ½ days. His opponents were New York Evening Journal reporter Dorothy Kilgallen, who finished in second place, and New York Times reporter Leo Kieran."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Chris Kattan, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Bill Melchionni, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Atsushi Miyagi, Japanese tennis player (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "United States forces land in the Philippines."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Pras, American rapper-songwriter, record producer, and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Russell Kirk, American theorist and author (died 1994)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Todd Park Mohr, American rock singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Sammis Reyes, Chilean-American football and basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "-202",
+      "text": "Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.[citation needed]"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Lil Durk, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Ed Emberley, American author and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1866",
+      "text": "In accordance with the Treaty of Vienna, Austria cedes Veneto and Mantua to France, which immediately awards them to Italy in exchange for the earlier Italian acquiescence to the French annexation of Savoy and Nice."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "George Nader, American actor (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "Black Monday: The Dow Jones Industrial Average falls by 22%, 508 points."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Benjamin Salisbury, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Gillian Jacobs, American actress and director"
+    },
+    {
+      "type": "Event",
+      "year": "1781",
+      "text": "American Revolutionary War: The siege of Yorktown comes to an end with the British surrender."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Presidents North Carolina Gave the Nation, a monument honoring three presidents of the United States, was dedicated at the North Carolina State Capitol in Raleigh, North Carolina."
+    },
+    {
+      "type": "Event",
+      "year": "1921",
+      "text": "The Portuguese Prime Minister and several officials are murdered in the Bloody Night coup."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Brian Booth, Australian cricketer and educator (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "The French invasion of Russia fails when Napoleon begins his retreat from Moscow."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Robert Reed, American actor (died 1992)"
     },
     {
       "type": "Event",
       "year": "2019",
-      "text": "NASA Astronauts Jessica Meir and Christina Koch take part in the first all-female spacewalk when they venture out of the International Space Station to replace a power controller."
+      "text": "Members of Parliament met at the House of Lords to discuss the United Kingdom's Brexit deal, this was the first Saturday sitting in Parliament since 3 April 1982 during the Falklands War."
     },
     {
       "type": "Birth",
-      "year": "1990",
-      "text": "Brittney Griner, American basketball player"
+      "year": "1948",
+      "text": "Patrick Simmons, American singer-songwriter and guitarist"
     },
     {
       "type": "Event",
+      "year": "2025",
+      "text": "Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris."
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Angus Deaton, Scottish-American economist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Confederate agents based in Canada rob three banks in Saint Albans, Vermont."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "Thirteen people are killed when Corporate Airlines Flight 5966 crashes in Adair County, Missouri, while on approach to Kirksville Regional Airport."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "The cargo vessel Sinfra is attacked by Allied aircraft at Crete and sunk. Two thousand and ninety-eight Italian prisoners of war drown with it."
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Larry Chance, American singer-songwriter (died 2023)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Dave Mallow, American voice actor and screenwriter (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Stephen Keynes, English businessman (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Jennifer Holliday, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Lonnie Shelton, American basketball player (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "The United States imposes a near-total trade embargo against Cuba."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Nir Barkat, Israeli businessman and politician, Mayor of Jerusalem"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "James Bevel, American civil rights activist and minister (died 2008)"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Iran becomes the first country to accept technical assistance from the United States under the Point Four Program."
+    },
+    {
+      "type": "Birth",
       "year": "1954",
-      "text": "Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio."
+      "text": "Joe Bryant, American basketball player and coach (died 2024)"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "John Johnson, American basketball player (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Chuck Lorre, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Tyler Posey, American actor and musician"
+      "year": "1976",
+      "text": "Michael Young, American baseball player"
     }
   ],
   "source": "Wikipedia"
