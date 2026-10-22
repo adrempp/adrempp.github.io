@@ -2,19 +2,44 @@
   "date": "2026-10-22",
   "items": [
     {
-      "type": "Death",
-      "year": "1891",
-      "text": "Ernst von Fleischl-Marxow, Austrian physiologist and physician (born 1846)"
+      "type": "Event",
+      "year": "1975",
+      "text": "The Soviet uncrewed space mission Venera 9 lands on Venus."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Julie Dash, American director, producer, and screenwriter"
+      "year": "1982",
+      "text": "Heath Miller, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Richard Helms, American intelligence agent and diplomat, 8th Director of Central Intelligence (born 1913)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "TobyMac, American singer-songwriter and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Christopher Lloyd, American actor, comedian and producer"
     },
     {
       "type": "Event",
-      "year": "1907",
-      "text": "A run on the stock of the Knickerbocker Trust Company sets events in motion that will spark the Panic of 1907."
+      "year": "1962",
+      "text": "Cuban Missile Crisis: President Kennedy, after internal counsel from Dwight D. Eisenhower, announces that American reconnaissance planes have discovered Soviet nuclear weapons in Cuba, and that he has ordered a naval \"quarantine\" of the Communist nation."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Muhammad Wilkerson, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "John Reed, American journalist and poet (died 1920)"
     },
     {
       "type": "Event",
@@ -23,63 +48,8 @@
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Haley Barbour, American lawyer and politician, 62nd Governor of Mississippi"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Maurice Papon, an official in the Vichy government during World War II, is jailed for crimes against humanity."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "Cuban Missile Crisis: President Kennedy, after internal counsel from Dwight D. Eisenhower, announces that American reconnaissance planes have discovered Soviet nuclear weapons in Cuba, and that he has ordered a naval \"quarantine\" of the Communist nation."
-    },
-    {
-      "type": "Event",
-      "year": "1790",
-      "text": "Northwest Indian War: Native American forces defeat the United States, ending the Harmar Campaign."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "21 Savage, British-American rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "The Soviet uncrewed space mission Venera 9 lands on Venus."
-    },
-    {
-      "type": "Event",
-      "year": "1730",
-      "text": "Construction of the Ladoga Canal is completed in Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1746",
-      "text": "The College of New Jersey (later renamed Princeton University) receives its charter."
-    },
-    {
-      "type": "Event",
-      "year": "1934",
-      "text": "In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Jannero Pargo, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Debbie Macomber, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Corey Hawkins, American actor"
+      "year": "1959",
+      "text": "Marc Shaiman, American composer and songwriter"
     },
     {
       "type": "Event",
@@ -87,94 +57,9 @@
       "text": "Sam Houston is inaugurated as the first President of the Republic of Texas."
     },
     {
-      "type": "Event",
-      "year": "2013",
-      "text": "The Australian Capital Territory becomes the first Australian jurisdiction to legalize same-sex marriage with the Marriage Equality (Same Sex) Act 2013."
-    },
-    {
       "type": "Birth",
-      "year": "1965",
-      "text": "Otis Smith, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "John Adams' opera Nixon in China premiered at the Houston Grand Opera."
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Aleksandr Kronrod, Russian mathematician and computer scientist (died 1986)"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "John Reed, American journalist and poet (died 1920)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Yuri Arbachakov, Russian-Japanese boxer"
-    },
-    {
-      "type": "Birth",
-      "year": "1882",
-      "text": "N. C. Wyeth, American painter and illustrator (died 1945)"
-    },
-    {
-      "type": "Birth",
-      "year": "1913",
-      "text": "Robert Capa, Hungarian-American photographer and journalist (died 1954)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Helmut Senekowitsch, Austrian footballer and manager (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Corbin Burnes, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1383",
-      "text": "The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder."
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "Roddy Ricch, American rapper"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Muhammad Wilkerson, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "Over twenty-two hundred engineers and technicians from eastern Germany are forced to relocate to the Soviet Union, along with their families and equipment."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Barbara Potter, American tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Allen Coage, American-Canadian wrestler and coach (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "D'Lo Brown, American wrestler"
-    },
-    {
-      "type": "Event",
-      "year": "1981",
-      "text": "The US Federal Labor Relations Authority votes to decertify the Professional Air Traffic Controllers Organization (PATCO) for its strike the previous August."
+      "year": "1925",
+      "text": "Edith Kawelohea McKinzie, Hawaiian genealogist, author, and hula expert (died 2014)"
     },
     {
       "type": "Event",
@@ -182,9 +67,9 @@
       "text": "The Metropolitan Opera House in New York City opens with a performance of Charles Gounod's Faust."
     },
     {
-      "type": "Birth",
-      "year": "1920",
-      "text": "Timothy Leary, American psychologist and author (died 1996)"
+      "type": "Event",
+      "year": "451",
+      "text": "The Chalcedonian Creed, regarding the divine and human nature of Jesus, is adopted by the Council of Chalcedon, an ecumenical council."
     },
     {
       "type": "Event",
@@ -193,53 +78,8 @@
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Leslie West, American singer-songwriter and guitarist (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "451",
-      "text": "The Chalcedonian Creed, regarding the divine and human nature of Jesus, is adopted by the Council of Chalcedon, an ecumenical council."
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Gustavo Gutiérrez, Peruvian philosopher, theologian and priest (born 1928)"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Dod Orsborne, captain of the Girl Pat is convicted of its theft and imprisoned, having caused a media sensation when it went missing."
-    },
-    {
-      "type": "Death",
-      "year": "1989",
-      "text": "Jacob Wetterling, American kidnapping victim (born 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Clare Fischer, American pianist, composer and arranger (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Baby Keem, American rapper and record producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Luke O'Donnell, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Two correctional officers are killed by inmates at the United States Penitentiary in Marion, Illinois. The incident inspires the Supermax model of prisons."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Heath Miller, American football player"
+      "year": "1963",
+      "text": "Brian Boitano, American figure skater"
     },
     {
       "type": "Event",
@@ -248,38 +88,13 @@
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Darryl Jenifer, American bass player"
+      "year": "1915",
+      "text": "Yitzhak Shamir, Belarusian-Israeli civil servant and politician, 7th Prime Minister of Israel (died 2012)"
     },
     {
-      "type": "Birth",
-      "year": "1989",
-      "text": "JPEGMafia, American rapper and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Deepak Chopra, Indian-American physician and author"
-    },
-    {
-      "type": "Event",
-      "year": "1721",
-      "text": "The Russian Empire is proclaimed by Tsar Peter I after the Swedish defeat in the Great Northern War."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Tim Kinsella, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Stephanie Cutter, American lawyer and political consultant"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Slater Martin, American basketball player and coach (died 2012)"
+      "type": "Death",
+      "year": "2017",
+      "text": "Paul Weitz, American astronaut (born 1932)"
     },
     {
       "type": "Birth",
@@ -288,8 +103,178 @@
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Bobby Blotzer, American drummer"
+      "year": "1967",
+      "text": "Oona King, Baroness King of Bow, British business executive and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Barbara Potter, American tennis player"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "Over twenty-two hundred engineers and technicians from eastern Germany are forced to relocate to the Soviet Union, along with their families and equipment."
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Lou Klein, American baseball player, coach, and manager (died 1976)"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Constance Bennett, American actress, singer, and producer (died 1965)"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "George Wells Beadle, American geneticist and academic, Nobel Prize laureate (died 1989)"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Corey Hawkins, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "2001",
+      "text": "Brian Branch, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Aleks Marić, Australian basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Two correctional officers are killed by inmates at the United States Penitentiary in Marion, Illinois. The incident inspires the Supermax model of prisons."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Stiv Bators, American singer-songwriter, guitarist, and actor (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Roddy Ricch, American rapper"
+    },
+    {
+      "type": "Event",
+      "year": "1790",
+      "text": "Northwest Indian War: Native American forces defeat the United States, ending the Harmar Campaign."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Maurice Papon, an official in the Vichy government during World War II, is jailed for crimes against humanity."
+    },
+    {
+      "type": "Event",
+      "year": "1981",
+      "text": "The US Federal Labor Relations Authority votes to decertify the Professional Air Traffic Controllers Organization (PATCO) for its strike the previous August."
+    },
+    {
+      "type": "Event",
+      "year": "1746",
+      "text": "The College of New Jersey (later renamed Princeton University) receives its charter."
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Jonathan Lipnicki, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1881",
+      "text": "Clinton Davisson, American physicist and academic, Nobel Prize laureate (died 1958)"
+    },
+    {
+      "type": "Birth",
+      "year": "1907",
+      "text": "Jimmie Foxx, American baseball player (died 1967)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Alan Ladd Jr., American film producer and executive (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Annette Funicello, American actress and singer (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Mark Renshaw, Australian cyclist"
+    },
+    {
+      "type": "Event",
+      "year": "1987",
+      "text": "John Adams' opera Nixon in China premiered at the Houston Grand Opera."
+    },
+    {
+      "type": "Event",
+      "year": "1730",
+      "text": "Construction of the Ladoga Canal is completed in Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Darryl Jenifer, American bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Bob Odenkirk, American actor and comedian"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "A run on the stock of the Knickerbocker Trust Company sets events in motion that will spark the Panic of 1907."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "21 Savage, British-American rapper"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "The Australian Capital Territory becomes the first Australian jurisdiction to legalize same-sex marriage with the Marriage Equality (Same Sex) Act 2013."
+    },
+    {
+      "type": "Event",
+      "year": "1383",
+      "text": "The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder."
+    },
+    {
+      "type": "Event",
+      "year": "1934",
+      "text": "In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd."
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Michael Fishman, American actor and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1721",
+      "text": "The Russian Empire is proclaimed by Tsar Peter I after the Swedish defeat in the Great Northern War."
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "Charles Glen King, American biochemist and academic (died 1988)"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Marjorie Flack, American author and illustrator (died 1958)"
     },
     {
       "type": "Birth",
@@ -297,9 +282,24 @@
       "text": "Luke Adams, Australian race walker"
     },
     {
+      "type": "Event",
+      "year": "1936",
+      "text": "Dod Orsborne, captain of the Girl Pat is convicted of its theft and imprisoned, having caused a media sensation when it went missing."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Betty Binns Fletcher, American lawyer and judge (born 1923)"
+    },
+    {
       "type": "Birth",
-      "year": "1908",
-      "text": "John Gould, American journalist and author (died 2003)"
+      "year": "1986",
+      "text": "Kyle Gallner, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1913",
+      "text": "Robert Capa, Hungarian-American photographer and journalist (died 1954)"
     }
   ],
   "source": "Wikipedia"
