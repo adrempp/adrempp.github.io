@@ -3,58 +3,23 @@
   "items": [
     {
       "type": "Event",
+      "year": "1972",
+      "text": "Vietnam War: Operation Linebacker, a US bombing campaign against North Vietnam in response to its Easter Offensive, ends after five months."
+    },
+    {
+      "type": "Event",
       "year": "1945",
       "text": "Jackie Robinson of the Kansas City Monarchs signs a contract with the Brooklyn Dodger's minor league team, the Montreal Royals, breaking Major League Baseball's color barrier."
     },
     {
       "type": "Birth",
-      "year": "1959",
-      "text": "\"Weird Al\" Yankovic, American comedy musician, writer, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "An explosion at the Houston Chemical Complex in Pasadena, Texas, which registered a 3.5 on the Richter magnitude scale, kills 23 and injures 314."
+      "year": "1935",
+      "text": "JacSue Kehoe, American neuroscientist  (died 2019)"
     },
     {
       "type": "Birth",
-      "year": "1984",
-      "text": "Meghan McCain, American journalist, author, and television personality"
-    },
-    {
-      "type": "Event",
-      "year": "-42",
-      "text": "Liberators' civil war: Mark Antony and Octavian decisively defeat an army under Brutus in the second part of the Battle of Philippi, with Brutus committing suicide and ending the civil war."
-    },
-    {
-      "type": "Event",
-      "year": "1642",
-      "text": "The Battle of Edgehill is the first major battle of the English Civil War."
-    },
-    {
-      "type": "Event",
-      "year": "502",
-      "text": "The Synodus Palmaris, called by Gothic king Theoderic, absolves Pope Symmachus of all charges, thus ending the schism of Antipope Laurentius."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Laurie Halse Anderson, American author"
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "The Libyan National Transitional Council deems the Libyan Civil War over."
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "The Hungarian Republic officially replaces the communist Hungarian People's Republic."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Rickey Paulding, American basketball player"
+      "year": "1945",
+      "text": "Maury Yeston, American composer, lyricist, and music theorist"
     },
     {
       "type": "Event",
@@ -63,8 +28,28 @@
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Martin Luther King III, American human rights activist, philanthropist and advocate"
+      "year": "1970",
+      "text": "Grant Imahara, American television presenter and engineer (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Jessica Stroup, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Margaret Qualley, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Ryan Reynolds, Canadian-American actor and producer"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Fred Sands, American businessman and philanthropist, co-founded the Museum of Contemporary Art (born 1938)"
     },
     {
       "type": "Event",
@@ -73,213 +58,18 @@
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Bill O'Brien, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: The Battle of Westport is the last significant engagement west of the Mississippi River, ending in a Union victory."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Ernie Watts, American saxophonist"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Johnny Carroll, American rockabilly musician (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Carol Fran, American singer-songwriter and pianist (died 2021)"
-    },
-    {
-      "type": "Death",
-      "year": "1134",
-      "text": "Abu al-Salt, Andalusian polymath"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Miguel, American singer-songwriter and producer"
-    },
-    {
-      "type": "Event",
-      "year": "-4004",
-      "text": "James Ussher's calculated First day of the world based on the Old Testament. Creation, he believed, occurred at what would have been nightfall on the previous day."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Ireland Baldwin, American model"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Zach Brown, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Darrell Pace, American archer"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Masiela Lusha, Albanian-American actress, poet, and humanitarian"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Second Libyan Civil War: The Second Libyan Civil War comes to an end as all parties to the 5+5 Joint Libyan Military Commission agree to a ceasefire."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Maury Yeston, American composer, lyricist, and music theorist"
-    },
-    {
-      "type": "Death",
-      "year": "1950",
-      "text": "Al Jolson, Lithuanian-American actor and singer (born 1886)"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Dianne Reeves, American singer"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "The lowest sea-level pressure in the Western Hemisphere, and the highest reliably-measured non-tornadic sustained winds, are recorded in Hurricane Patricia, which strikes Mexico hours later, killing at least 13 and causing over $280 million in damages."
-    },
-    {
-      "type": "Event",
-      "year": "1850",
-      "text": "The first National Women's Rights Convention begins in Worcester, Massachusetts."
-    },
-    {
-      "type": "Event",
-      "year": "2007",
-      "text": "A storm causes the Mexican Kab 101 oil platform to collide with a wellhead, leading to the death and drowning of 22 people during rescue operations after evacuation of the platform."
-    },
-    {
-      "type": "Event",
-      "year": "1157",
-      "text": "The Battle of Grathe Heath ends the Danish Civil War."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Vasily Belov, Russian novelist, poet and playwright (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Ang Lee, Taiwanese-American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
       "year": "1974",
       "text": "Beatrice Faumuina, New Zealand discus thrower"
     },
     {
+      "type": "Event",
+      "year": "1989",
+      "text": "An explosion at the Houston Chemical Complex in Pasadena, Texas, which registered a 3.5 on the Richter magnitude scale, kills 23 and injures 314."
+    },
+    {
       "type": "Birth",
-      "year": "1948",
-      "text": "Hermann Hauser, Austrian-English businessman, co-founded Acorn Computers and Olivetti Research Laboratory"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "All 12 passengers and crewmen aboard American Airlines Flight 28 are killed when it collides with a U.S. Army Air Force bomber near Palm Springs, California."
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "General Claude François de Malet begins a conspiracy to overthrow Napoleon, claiming that the Emperor died in the Russian campaign."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Second Chechen War: Chechen separatist terrorists seize the House of Culture theater in Moscow and take approximately 700 theater-goers hostage."
-    },
-    {
-      "type": "Event",
       "year": "1972",
-      "text": "Vietnam War: Operation Linebacker, a US bombing campaign against North Vietnam in response to its Easter Offensive, ends after five months."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Aleksandr Salugin, Russian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "Second Zhili–Fengtian War: Warlord Feng Yuxiang, with the covert support of the Empire of Japan, stages a coup in Beijing against his erstwhile superiors in the Zhili clique, crippling their nearly victorious war effort against the Fengtian clique and forcing them to withdraw from northern China."
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Mel Martínez, American lawyer and politician, 12th United States Secretary of Housing and Urban Development"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Ken Tipton, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Nick Bosa, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Sam Raimi, American director, screenwriter and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "Lebanese Civil War: The U.S. Marines Corps barracks in Beirut is hit by a truck bomb, killing 241 U.S. military personnel.  A French Army barracks in Lebanon is also hit that same morning, killing 58 troops."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Matthew Barzun, American diplomat, United States Ambassador to the United Kingdom"
-    },
-    {
-      "type": "Death",
-      "year": "2009",
-      "text": "Lou Jacobi, Canadian-American actor (born 1913)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Anita Roddick, English businesswoman and activist, founded The Body Shop (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "The Holocaust: Nazi Germany prohibits Jews from emigrating, including in its occupied territories."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Archie Thompson, New Zealand-Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "Adolf Hitler and Francisco Franco meet at Hendaye to discuss the possibility of Spain entering the Second World War."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Dale Crover, American musician"
+      "text": "Bryan Pratt, American lawyer and politician"
     },
     {
       "type": "Birth",
@@ -288,8 +78,113 @@
     },
     {
       "type": "Birth",
+      "year": "1971",
+      "text": "Chris Horner, American cyclist"
+    },
+    {
+      "type": "Death",
+      "year": "1935",
+      "text": "Charles Demuth, American painter and educator (born 1883)"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Johnny Carroll, American rockabilly musician (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "A powerful 7.2 magnitude earthquake strikes Van Province, Turkey, killing 582 people and injuring thousands."
+    },
+    {
+      "type": "Event",
+      "year": "-4004",
+      "text": "James Ussher's calculated First day of the world based on the Old Testament. Creation, he believed, occurred at what would have been nightfall on the previous day."
+    },
+    {
+      "type": "Event",
+      "year": "1642",
+      "text": "The Battle of Edgehill is the first major battle of the English Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Zach Brown, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Second Chechen War: Chechen separatist terrorists seize the House of Culture theater in Moscow and take approximately 700 theater-goers hostage."
+    },
+    {
+      "type": "Event",
+      "year": "-42",
+      "text": "Liberators' civil war: Mark Antony and Octavian decisively defeat an army under Brutus in the second part of the Battle of Philippi, with Brutus committing suicide and ending the civil war."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "All 12 passengers and crewmen aboard American Airlines Flight 28 are killed when it collides with a U.S. Army Air Force bomber near Palm Springs, California."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "The Holocaust: Nazi Germany prohibits Jews from emigrating, including in its occupied territories."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Miguel, American singer-songwriter and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Gordon Korman, Canadian-American author"
+    },
+    {
+      "type": "Birth",
       "year": "1998",
-      "text": "Amandla Stenberg, American actress"
+      "text": "Jordan Goodwin, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "502",
+      "text": "The Synodus Palmaris, called by Gothic king Theoderic, absolves Pope Symmachus of all charges, thus ending the schism of Antipope Laurentius."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Mel Martínez, American lawyer and politician, 12th United States Secretary of Housing and Urban Development"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Tiffeny Milbrett, American soccer player"
+    },
+    {
+      "type": "Event",
+      "year": "1850",
+      "text": "The first National Women's Rights Convention begins in Worcester, Massachusetts."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Carol Fran, American singer-songwriter and pianist (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "The Libyan National Transitional Council deems the Libyan Civil War over."
+    },
+    {
+      "type": "Event",
+      "year": "1157",
+      "text": "The Battle of Grathe Heath ends the Danish Civil War."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Dale Crover, American musician"
     },
     {
       "type": "Event",
@@ -298,8 +193,113 @@
     },
     {
       "type": "Event",
-      "year": "2011",
-      "text": "A powerful 7.2 magnitude earthquake strikes Van Province, Turkey, killing 582 people and injuring thousands."
+      "year": "1940",
+      "text": "Adolf Hitler and Francisco Franco meet at Hendaye to discuss the possibility of Spain entering the Second World War."
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "The Hungarian Republic officially replaces the communist Hungarian People's Republic."
+    },
+    {
+      "type": "Event",
+      "year": "2007",
+      "text": "A storm causes the Mexican Kab 101 oil platform to collide with a wellhead, leading to the death and drowning of 22 people during rescue operations after evacuation of the platform."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "William P. Clark, Jr., American judge and politician, 12th United States National Security Advisor (died 2013)"
+    },
+    {
+      "type": "Death",
+      "year": "2018",
+      "text": "Todd Reid, Australian tennis player (born 1984)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "The lowest sea-level pressure in the Western Hemisphere, and the highest reliably-measured non-tornadic sustained winds, are recorded in Hurricane Patricia, which strikes Mexico hours later, killing at least 13 and causing over $280 million in damages."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Zoe Wiseman, American model and photographer"
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "General Claude François de Malet begins a conspiracy to overthrow Napoleon, claiming that the Emperor died in the Russian campaign."
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "Lebanese Civil War: The U.S. Marines Corps barracks in Beirut is hit by a truck bomb, killing 241 U.S. military personnel.  A French Army barracks in Lebanon is also hit that same morning, killing 58 troops."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Second Libyan Civil War: The Second Libyan Civil War comes to an end as all parties to the 5+5 Joint Libyan Military Commission agree to a ceasefire."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Martin Luther King III, American human rights activist, philanthropist and advocate"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Brad Haddin, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Jordan Crawford, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "Second Zhili–Fengtian War: Warlord Feng Yuxiang, with the covert support of the Empire of Japan, stages a coup in Beijing against his erstwhile superiors in the Zhili clique, crippling their nearly victorious war effort against the Fengtian clique and forcing them to withdraw from northern China."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Dianne Reeves, American singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Michael Crichton, American author and screenwriter (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Augusten Burroughs, American author and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Dolly Buster, Czech film producer and director, actress and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Michael Eric Dyson, American activist, author, and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: The Battle of Westport is the last significant engagement west of the Mississippi River, ending in a Union victory."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Wayne Rainey, American motorcycle racer"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "\"Weird Al\" Yankovic, American comedy musician, writer, and actor"
     }
   ],
   "source": "Wikipedia"
