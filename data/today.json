@@ -3,218 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Chad Smith, American drummer"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Gale Anne Hurd, American producer"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "After a civil war, Denis Sassou Nguesso proclaims himself President of the Republic of the Congo."
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "War of 1812: The American frigate, USS United States, commanded by Stephen Decatur, captures the British frigate HMS Macedonian."
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Vincent Zhou, American figure skater"
-    },
-    {
-      "type": "Event",
-      "year": "1147",
-      "text": "Reconquista: After a siege of four months, crusader knights conquer Lisbon."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Karl Malin, Austrian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Josh Henderson, American actor and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union."
-    },
-    {
-      "type": "Event",
-      "year": "1875",
-      "text": "Pyotr Ilyich Tchaikovsky's Piano Concerto No. 1 in B♭ minor, Op. 23 premieres in Boston, Massachusetts, with Benjamin Johnson Lang as conductor and Hans von Bülow as soloist."
-    },
-    {
-      "type": "Death",
-      "year": "2018",
-      "text": "Thomas Keating, American Trappist monk and a principal developer of Centering Prayer (born 1923)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Ray Robson, American chess Grandmaster"
-    },
-    {
-      "type": "Death",
-      "year": "1993",
-      "text": "Vincent Price, American actor (born 1911)"
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Nika Futterman, American voice actress, comedian and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Mike Eruzione, American ice hockey player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Ed Powers, American founder of Ed Powers Productions"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Michael Boatman, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Oleg Salenko, Russian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Claire Colebrook, Australian philosopher, theorist, and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Nancy Cartwright, American voice actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Katy Perry, American singer-songwriter and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Derrick Rostagno, American tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: The USS Tang under Richard O'Kane (the top American submarine ace of the war) is sunk by the ship's own malfunctioning torpedo."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "British forces attack Turkish forces under Mustafa Kemal in the battle of Aleppo, which the British capture the following day."
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Bob Hoover, USAF, Test, and Airshow pilot (born 1922)"
-    },
-    {
-      "type": "Birth",
       "year": "1963",
-      "text": "Melinda McGraw, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "The Uspenski Cathedral, designed by Aleksey Gornostayev, is inaugurated in Helsinki, Finland."
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Kaz Patafta, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Jock Landale, Australian basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Kara Lynn Joyce, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Tweety Carter, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1616",
-      "text": "Dutch sea-captain Dirk Hartog makes the second recorded landfall by a European on Australian soil, at the later-named Dirk Hartog Island off the West Australian coast."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Christopher McQuarrie, American filmmaker"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Russell Anderson, Scottish footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "A commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students."
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "Benjamin O. Davis Sr. is named the first African American general in the United States Army."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Steve Gainer, American cinematographer and director"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Rosa Mendes, Canadian-American wrestler and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Chrissy Amphlett, Australian singer-songwriter and actress (died 2013)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Ciara, American singer-songwriter, dancer, and actress"
+      "text": "Michael Lynagh, Australian rugby union footballer"
     },
     {
       "type": "Birth",
@@ -223,68 +13,43 @@
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Zeno Robinson, American voice actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Sergey Ridzik, Russian freestyle skier"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "John Stollmeyer, American soccer player"
+      "year": "1955",
+      "text": "Robin Eubanks, American trombonist and educator"
     },
     {
       "type": "Event",
-      "year": "1968",
-      "text": "A Fairchild F-27 crashes into Moose Mountain while on approach to Lebanon Municipal Airport in Lebanon, New Hampshire, killing 32 people."
+      "year": "1918",
+      "text": "British forces attack Turkish forces under Mustafa Kemal in the battle of Aleppo, which the British capture the following day."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Michael Sweetney, American basketball player"
+      "year": "1951",
+      "text": "Richard Lloyd, American singer-songwriter and guitarist"
     },
     {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Michael Weston, American actor"
+      "type": "Event",
+      "year": "1812",
+      "text": "War of 1812: The American frigate, USS United States, commanded by Stephen Decatur, captures the British frigate HMS Macedonian."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "After a civil war, Denis Sassou Nguesso proclaims himself President of the Republic of the Congo."
     },
     {
       "type": "Birth",
       "year": "1986",
-      "text": "Eddie Gaven, American soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Rosie Ledet, American singer-songwriter and accordion player"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Patrick McCaw, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Perry Saturn, American wrestler"
+      "text": "Tweety Carter, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1747",
-      "text": "War of the Austrian Succession: A British fleet under Admiral Edward Hawke defeats the French at the Second Battle of Cape Finisterre."
+      "year": "1999",
+      "text": "A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland."
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Kevin Michael Richardson, American voice actor and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Old Style date of the October Revolution in Russia."
+      "year": "1967",
+      "text": "Martin Marinov, Australian canoeist"
     },
     {
       "type": "Event",
@@ -293,13 +58,248 @@
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "2 Cold Scorpio, American wrestler"
+      "year": "1978",
+      "text": "Zachary Knighton, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "The Alchemist, American rapper, DJ, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "A commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Emanuel Steward, American boxer, trainer, and sportscaster (born 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Maxi Mounds, American nude big-bust model and pornographic actress"
+    },
+    {
+      "type": "Death",
+      "year": "1920",
+      "text": "Joe Murphy, (Irish-American), died on hunger strike during the 1920 Cork hunger strike (born 1895)"
     },
     {
       "type": "Birth",
       "year": "1963",
-      "text": "Michael Lynagh, Australian rugby union footballer"
+      "text": "Tracy Nelson, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Markus Pöyhönen, Finnish sprinter"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Craig Robinson, American actor and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Perry Saturn, American wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: The USS Tang under Richard O'Kane (the top American submarine ace of the war) is sunk by the ship's own malfunctioning torpedo."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Adam Pascal, American actor and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "A Fairchild F-27 crashes into Moose Mountain while on approach to Lebanon Municipal Airport in Lebanon, New Hampshire, killing 32 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Isaiah Austin, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1747",
+      "text": "War of the Austrian Succession: A British fleet under Admiral Edward Hawke defeats the French at the Second Battle of Cape Finisterre."
+    },
+    {
+      "type": "Event",
+      "year": "1875",
+      "text": "Pyotr Ilyich Tchaikovsky's Piano Concerto No. 1 in B♭ minor, Op. 23 premieres in Boston, Massachusetts, with Benjamin Johnson Lang as conductor and Hans von Bülow as soloist."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "Benjamin O. Davis Sr. is named the first African American general in the United States Army."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Katy Perry, American singer-songwriter and actress"
+    },
+    {
+      "type": "Event",
+      "year": "1147",
+      "text": "Reconquista: After a siege of four months, crusader knights conquer Lisbon."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Chrissy Amphlett, Australian singer-songwriter and actress (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Vincent Zhou, American figure skater"
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Jock Landale, Australian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Rakan Rushaidat, Croatian actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Derrick Rostagno, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Fırat Aydınus, Turkish football referee"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "The Uspenski Cathedral, designed by Aleksey Gornostayev, is inaugurated in Helsinki, Finland."
+    },
+    {
+      "type": "Death",
+      "year": "1992",
+      "text": "Richard Pousette-Dart, American painter and educator (born 1916)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Leslie Grossman, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Ryan Clement, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Chad Smith, American drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Ed Powers, American founder of Ed Powers Productions"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Eddie Gaven, American soccer player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Speech, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Karl Malin, Austrian politician"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "Old Style date of the October Revolution in Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1616",
+      "text": "Dutch sea-captain Dirk Hartog makes the second recorded landfall by a European on Australian soil, at the later-named Dirk Hartog Island off the West Australian coast."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Bill Amis, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Ekaterina Shumilova, Russian biathlete"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Samantha Bee, Canadian-American comedian and television host"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Steve Gainer, American cinematographer and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Mehcad Brooks, American model and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Devin Green, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Rosa Mendes, Canadian-American wrestler and model"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "David Hala, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Mariana Klaveno, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Sten Grytebust, Norwegian footballer"
     }
   ],
   "source": "Wikipedia"
