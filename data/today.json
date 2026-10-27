@@ -2,39 +2,19 @@
   "date": "2026-10-27",
   "items": [
     {
+      "type": "Event",
+      "year": "2019",
+      "text": "Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria."
+    },
+    {
       "type": "Birth",
       "year": "1943",
-      "text": "Jerry Rook, American basketball player and coach (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Cold War: Ronald Reagan suspends construction of the new U.S. Embassy in Moscow due to Soviet listening devices in the building structure."
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "Negus Mikael, marching on the Ethiopian capital in support of his son Emperor Iyasu V, is defeated by Fitawrari Habte Giyorgis, securing the throne for Empress Zewditu I."
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Abdication Crisis:  Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne."
+      "text": "Carmen Argenziano, American actor and producer (died 2019)"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Mary T. Meagher, American swimmer"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Steve Almond, American author and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "John Gotti, American mob boss (died 2002)"
+      "year": "1954",
+      "text": "Mike Kelley, American artist and musician (died 2012)"
     },
     {
       "type": "Event",
@@ -47,109 +27,14 @@
       "text": "Dolores Moore, American baseball player (died 2000)"
     },
     {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Jayne Kennedy, American model, actress, and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Carrie Snodgress, American actress (died 2004)"
-    },
-    {
-      "type": "Death",
-      "year": "2006",
-      "text": "Brad Will, American journalist and activist (born 1970)"
+      "type": "Event",
+      "year": "1644",
+      "text": "Second Battle of Newbury in the English Civil War."
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Suzy Covey, American scholar and academic (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Brady Quinn, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2019",
-      "text": "Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Brent Clevlen, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "1999",
-      "text": "Robert Mills, American physicist and academic (born 1927)"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile."
-    },
-    {
-      "type": "Event",
-      "year": "1838",
-      "text": "Missouri governor Lilburn Boggs issues the Extermination Order, which orders all Mormons to leave the state or be killed."
-    },
-    {
-      "type": "Event",
-      "year": "1806",
-      "text": "The French Army under Napoleon enters Berlin following the Prussian defeat at the Battle of Jena–Auerstedt."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Lou Williams, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1553",
-      "text": "Condemned as a heretic, Michael Servetus is burned at the stake just outside Geneva."
-    },
-    {
-      "type": "Event",
-      "year": "312",
-      "text": "Constantine the Great is said to have received his famous Vision of the Cross."
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Starke Taylor, American soldier and politician, mayor of Dallas (born 1922)"
-    },
-    {
-      "type": "Event",
-      "year": "1682",
-      "text": "Philadelphia is founded in the Commonwealth of Pennsylvania."
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Aron Ralston, American mountaineer and engineer"
-    },
-    {
-      "type": "Event",
-      "year": "1948",
-      "text": "A deadly smog event begins in Donora, Pennsylvania, eventually killing 20 and sickening thousands."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Nancy Jacobs, American politician"
-    },
-    {
-      "type": "Event",
-      "year": "1870",
-      "text": "Franco-Prussian War: Marshal Bazaine surrenders to Prussian forces at the conclusion of the Siege of Metz along with 140,000 French soldiers."
+      "year": "1955",
+      "text": "Debra Bowen, American lawyer and politician, 31st Secretary of State of California"
     },
     {
       "type": "Event",
@@ -158,18 +43,48 @@
     },
     {
       "type": "Birth",
-      "year": "1993",
-      "text": "Troy Gentile, American actor"
+      "year": "1923",
+      "text": "Roy Lichtenstein, American painter and sculptor (died 1997)"
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Brad Radke, American baseball player"
+      "year": "1917",
+      "text": "Augustine Harris, English bishop (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Fran Lebowitz, American author"
     },
     {
       "type": "Event",
-      "year": "1644",
-      "text": "Second Battle of Newbury in the English Civil War."
+      "year": "1962",
+      "text": "By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war."
+    },
+    {
+      "type": "Event",
+      "year": "1838",
+      "text": "Missouri governor Lilburn Boggs issues the Extermination Order, which orders all Mormons to leave the state or be killed."
+    },
+    {
+      "type": "Event",
+      "year": "1553",
+      "text": "Condemned as a heretic, Michael Servetus is burned at the stake just outside Geneva."
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile."
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "Negus Mikael, marching on the Ethiopian capital in support of his son Emperor Iyasu V, is defeated by Fitawrari Habte Giyorgis, securing the throne for Empress Zewditu I."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Union forces led by General William F. Smith defeat Confederate forces in the Battle of Brown's Ferry, opening up a supply line to the besieged city of Chattanooga, Tennessee."
     },
     {
       "type": "Event",
@@ -178,88 +93,28 @@
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Warren Ryan, Australian rugby league player, coach, and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "United States Navy radioman Allen R. Schindler, Jr. is murdered by shipmate Terry M. Helvey for being gay, precipitating debate about gays in the military that results in the United States' \"Don't ask, don't tell\" military policy."
+      "year": "1996",
+      "text": "Rasmus Andersson, Swedish ice hockey player"
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "Joe Medicine Crow, American anthropologist, historian, and author (died 2016)"
+      "year": "1958",
+      "text": "Donnell Thompson, American football player (died 2024)"
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Lee Greenwood, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Union forces led by General William F. Smith defeat Confederate forces in the Battle of Brown's Ferry, opening up a supply line to the besieged city of Chattanooga, Tennessee."
+      "year": "1958",
+      "text": "David Hazeltine, American pianist and composer"
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Crystal Langhorne, American basketball player"
+      "year": "1929",
+      "text": "Myra Carter, American actress (died 2016)"
     },
     {
-      "type": "Birth",
-      "year": "1944",
-      "text": "J. A. Jance, American author and poet"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Union General Benjamin Butler launches an attack during the Siege of Petersburg with the Battle of Fair Oaks & Darbytown Road, but is repulsed by the next day."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Robert Picardo, American actor, director, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Terry A. Anderson, American journalist (died 2024)"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Alex Soros, American investor and philanthropist"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: The new British battleship HMS Audacious is sunk by a minefield laid by the armed German merchant-cruiser Berlin."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "David Hall, Australian horse trainer"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Fran Lebowitz, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Sylvia Plath, American poet, novelist, and short story writer (died 1963)"
-    },
-    {
-      "type": "Event",
-      "year": "1810",
-      "text": "United States annexes the former Spanish colony of West Florida."
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Francis Fukuyama, American political scientist, economist, and author"
+      "type": "Death",
+      "year": "1962",
+      "text": "Rudolf Anderson, American soldier and pilot (born 1927)"
     },
     {
       "type": "Event",
@@ -268,28 +123,148 @@
     },
     {
       "type": "Event",
-      "year": "1997",
-      "text": "The 1997 Asian financial crisis causes a crash in the Dow Jones Industrial Average."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Mariah the Scientist, American singer and songwriter"
-    },
-    {
-      "type": "Event",
       "year": "1986",
       "text": "The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang."
     },
     {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: The new British battleship HMS Audacious is sunk by a minefield laid by the armed German merchant-cruiser Berlin."
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "Cold War: Ronald Reagan suspends construction of the new U.S. Embassy in Moscow due to Soviet listening devices in the building structure."
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1."
+    },
+    {
       "type": "Birth",
-      "year": "1929",
-      "text": "Bill George, American football player (died 1982)"
+      "year": "1986",
+      "text": "Crystal Langhorne, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Garry Tallent, American bass player and record producer"
+    },
+    {
+      "type": "Death",
+      "year": "1968",
+      "text": "Lise Meitner, Austrian-English physicist and academic (born 1878)"
+    },
+    {
+      "type": "Event",
+      "year": "1810",
+      "text": "United States annexes the former Spanish colony of West Florida."
+    },
+    {
+      "type": "Event",
+      "year": "1870",
+      "text": "Franco-Prussian War: Marshal Bazaine surrenders to Prussian forces at the conclusion of the Siege of Metz along with 140,000 French soldiers."
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Joe Niekro, American baseball player (born 1944)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "David Hall, Australian horse trainer"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Patty Sheehan, American golfer"
+    },
+    {
+      "type": "Event",
+      "year": "312",
+      "text": "Constantine the Great is said to have received his famous Vision of the Cross."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Neil Sheehan, American journalist and author (died 2021)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Francis Fukuyama, American political scientist, economist, and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Troy Gentile, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Rasmus Ristolainen, Finnish ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Steven R. Nagel, American colonel, engineer, and astronaut (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Warren Christopher, American soldier, lawyer, and politician, 63rd United States Secretary of State (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Jerry Rook, American basketball player and coach (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Teresa Wright, American actress and singer (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1806",
+      "text": "The French Army under Napoleon enters Berlin following the Prussian defeat at the Battle of Jena–Auerstedt."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Felix Wurman, American cellist and composer (died 2009)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Mark Taylor, Australian cricketer and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Suzy Covey, American scholar and academic (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Nanette Fabray, American actress, singer, and dancer (died 2018)"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "United States Navy radioman Allen R. Schindler, Jr. is murdered by shipmate Terry M. Helvey for being gay, precipitating debate about gays in the military that results in the United States' \"Don't ask, don't tell\" military policy."
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Peter Marc Jacobson, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1682",
+      "text": "Philadelphia is founded in the Commonwealth of Pennsylvania."
     },
     {
       "type": "Event",
@@ -297,9 +272,34 @@
       "text": "The Fourth Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Oleksandrivsk."
     },
     {
+      "type": "Event",
+      "year": "1936",
+      "text": "Abdication Crisis:  Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "The 1997 Asian financial crisis causes a crash in the Dow Jones Industrial Average."
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Union General Benjamin Butler launches an attack during the Siege of Petersburg with the Battle of Fair Oaks & Darbytown Road, but is repulsed by the next day."
+    },
+    {
       "type": "Birth",
-      "year": "1994",
-      "text": "Rasmus Ristolainen, Finnish ice hockey player"
+      "year": "1976",
+      "text": "Bobby Fish, American professional wrestler"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Daniel Sams, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "A deadly smog event begins in Donora, Pennsylvania, eventually killing 20 and sickening thousands."
     }
   ],
   "source": "Wikipedia"
