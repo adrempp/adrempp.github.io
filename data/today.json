@@ -2,249 +2,14 @@
   "date": "2026-10-28",
   "items": [
     {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Jae'Sean Tate, American basketball player"
+    },
+    {
       "type": "Event",
       "year": "1962",
       "text": "The Cuban Missile Crisis ends and Premier Nikita Khrushchev orders the removal of Soviet missiles from Cuba."
-    },
-    {
-      "type": "Event",
-      "year": "1420",
-      "text": "Beijing is officially designated the capital of the Ming dynasty when the Forbidden City is completed."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Wolfgang Kocevar, Austrian politician"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic."
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program."
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Curtis Lee, American singer-songwriter (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Charles A. Gargano, American diplomat, businessman and government official"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Harold Battiste, American saxophonist, pianist, and composer (died 2015)"
-    },
-    {
-      "type": "Death",
-      "year": "1800",
-      "text": "Artemas Ward, American general and politician (born 1727)"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Bowie Kuhn, American lawyer and businessman, 5th Commissioner of Baseball (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Jeremy Davies, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Terence Donovan, English-Australian actor (died 2026)"
-    },
-    {
-      "type": "Event",
-      "year": "1636",
-      "text": "The Massachusetts Bay Colony votes to establish a theological college, which would later become Harvard University."
-    },
-    {
-      "type": "Event",
-      "year": "312",
-      "text": "Constantine I defeats Maxentius in the battle of the Milvian Bridge, becoming the sole Roman emperor in the West."
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "The U.S. Congress passes the Volstead Act over President Woodrow Wilson's veto, paving the way for Prohibition to begin the following January."
-    },
-    {
-      "type": "Event",
-      "year": "1835",
-      "text": "The United Tribes of New Zealand are established with the signature of the Declaration of Independence."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jami Gertz, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Peter Coyne, Australian rugby league player"
-    },
-    {
-      "type": "Event",
-      "year": "1989",
-      "text": "Aloha Island Air Flight 1712, a Twin Otter 300, crashed into terrain at night in Hawaii killing all 20 occupants onboard."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Volker Zotz, Austrian philosopher, scholar, and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Virginia Held, American philosopher, author, and academic (died 2026)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Trista Sutter, American reality star"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "World War I: A new Polish government in western Galicia is established, triggering the Polish–Ukrainian War."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Taylor Fritz, American tennis player"
-    },
-    {
-      "type": "Event",
-      "year": "1746",
-      "text": "The 1746 Lima–Callao earthquake causes up to 6,000 deaths in Peru, the deadliest in its history up to that point."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Dwight Davis, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1562",
-      "text": "James Stewart, 1st Earl of Moray, defeats the forces of the rebelious George Gordon, 4th Earl of Huntly, in the battle of Corrichie."
-    },
-    {
-      "type": "Event",
-      "year": "306",
-      "text": "Maxentius is proclaimed Roman emperor."
-    },
-    {
-      "type": "Event",
-      "year": "1886",
-      "text": "US president Grover Cleveland dedicates the Statue of Liberty."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Don Iverson, American golfer"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Greg Eagles, American voice actor and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "George Dangerfield, English-American historian, journalist, and author (died 1986)"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: In East Tennessee, Union forces under General Alvan C. Gillem rout Confederate troops under General John C. Vaughn during the Battle of Morristown."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Georgia Godwin, Australian artistic gymnast"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Troian Bellisario, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1453",
-      "text": "Ladislaus the Posthumous is crowned king of Bohemia in Prague."
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "Italian fascists led by Benito Mussolini march on Rome and take over the Italian government."
-    },
-    {
-      "type": "Event",
-      "year": "1492",
-      "text": "Christopher Columbus lands in Cuba on his first voyage to the New World, surmising that it is Japan."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Landon Curt Noll, American computer scientist and mathematician"
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Pope Paul VI promulgates Nostra aetate, by which the Roman Catholic Church officially recognizes the legitimacy of non-Christian faiths."
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Georgia holds its only free election under Soviet rule."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Butch van Breda Kolff, American basketball player and coach (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1707",
-      "text": "The 1707 Hōei earthquake causes more than 5,000 deaths in Japan."
-    },
-    {
-      "type": "Event",
-      "year": "1344",
-      "text": "The lower town of Smyrna is captured by Latin Christians in response to Aydınid piracy during the Smyrniote crusades."
     },
     {
       "type": "Event",
@@ -253,18 +18,78 @@
     },
     {
       "type": "Birth",
+      "year": "1939",
+      "text": "Curtis Lee, American singer-songwriter (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries."
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Georgia holds its only free election under Soviet rule."
+    },
+    {
+      "type": "Birth",
       "year": "1966",
-      "text": "Andy Richter, American actor, producer, and screenwriter"
+      "text": "Chris Bauer, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Joaquin Phoenix, American actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Aris Spiliotopoulos, Greek politician, Greek Minister of Education and Religious Affairs"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Jarrett Jack, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Troian Bellisario, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Anthony Fantano, American music critic"
     },
     {
       "type": "Event",
-      "year": "2009",
-      "text": "US President Barack Obama signs the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act."
+      "year": "1636",
+      "text": "The Massachusetts Bay Colony votes to establish a theological college, which would later become Harvard University."
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Julia Roberts, American actress and producer"
     },
     {
       "type": "Event",
-      "year": "1948",
-      "text": "Ecological disaster in Donora, Pennsylvania."
+      "year": "312",
+      "text": "Constantine I defeats Maxentius in the battle of the Milvian Bridge, becoming the sole Roman emperor in the West."
+    },
+    {
+      "type": "Event",
+      "year": "1835",
+      "text": "The United Tribes of New Zealand are established with the signature of the Declaration of Independence."
+    },
+    {
+      "type": "Event",
+      "year": "1344",
+      "text": "The lower town of Smyrna is captured by Latin Christians in response to Aydınid piracy during the Smyrniote crusades."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Jonas Salk, American biologist and physician (died 1995)"
     },
     {
       "type": "Event",
@@ -272,24 +97,14 @@
       "text": "Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor."
     },
     {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Jack Soo, American actor and singer (died 1979)"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Glenn Robert Davis, American lieutenant and politician (died 1988)"
-    },
-    {
       "type": "Death",
-      "year": "1970",
-      "text": "Baby Huey, American singer-songwriter (born 1944)"
+      "year": "1939",
+      "text": "Alice Brady, American actress (born 1892)"
     },
     {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Jawed Karim, American computer scientist"
+      "type": "Event",
+      "year": "1918",
+      "text": "World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic."
     },
     {
       "type": "Event",
@@ -297,9 +112,194 @@
       "text": "Pietro Cadalo is appointed by the German Imperial court as antipope to Pope Alexander II, who was elected in the previous month."
     },
     {
+      "type": "Birth",
+      "year": "1902",
+      "text": "Elsa Lanchester, English-American actress and singer (died 1986)"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: In East Tennessee, Union forces under General Alvan C. Gillem rout Confederate troops under General John C. Vaughn during the Battle of Morristown."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "David Warburton, English pianist, businessman, and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1453",
+      "text": "Ladislaus the Posthumous is crowned king of Bohemia in Prague."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada."
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Caitlyn Jenner, American decathlete and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Ben Harper, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "Italian fascists led by Benito Mussolini march on Rome and take over the Italian government."
+    },
+    {
+      "type": "Event",
+      "year": "1707",
+      "text": "The 1707 Hōei earthquake causes more than 5,000 deaths in Japan."
+    },
+    {
       "type": "Death",
-      "year": "2004",
-      "text": "Eugene K. Bird, American colonel and author, US Commandant of Spandau Prison (born 1926)"
+      "year": "2022",
+      "text": "Jerry Lee Lewis, American singer-songwriter and pianist (born 1935)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Bowie Kuhn, American lawyer and businessman, 5th Commissioner of Baseball (died 2007)"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Pope Paul VI promulgates Nostra aetate, by which the Roman Catholic Church officially recognizes the legitimacy of non-Christian faiths."
+    },
+    {
+      "type": "Event",
+      "year": "1886",
+      "text": "US president Grover Cleveland dedicates the Statue of Liberty."
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "The U.S. Congress passes the Volstead Act over President Woodrow Wilson's veto, paving the way for Prohibition to begin the following January."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Bill Gates, American businessman and philanthropist, co-founded Microsoft"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Sandy Berger, American lawyer and politician, 19th United States National Security Advisor (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party."
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress."
+    },
+    {
+      "type": "Event",
+      "year": "1420",
+      "text": "Beijing is officially designated the capital of the Ming dynasty when the Forbidden City is completed."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "World War I: A new Polish government in western Galicia is established, triggering the Polish–Ukrainian War."
+    },
+    {
+      "type": "Event",
+      "year": "1948",
+      "text": "Ecological disaster in Donora, Pennsylvania."
+    },
+    {
+      "type": "Death",
+      "year": "2006",
+      "text": "Marijohn Wilkin, American guitarist and songwriter (born 1920)"
+    },
+    {
+      "type": "Event",
+      "year": "1562",
+      "text": "James Stewart, 1st Earl of Moray, defeats the forces of the rebelious George Gordon, 4th Earl of Huntly, in the battle of Corrichie."
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program."
+    },
+    {
+      "type": "Event",
+      "year": "1746",
+      "text": "The 1746 Lima–Callao earthquake causes up to 6,000 deaths in Peru, the deadliest in its history up to that point."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Jawed Karim, American computer scientist"
+    },
+    {
+      "type": "Birth",
+      "year": "1903",
+      "text": "John Chamberlain, American historian, journalist, and critic (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "1492",
+      "text": "Christopher Columbus lands in Cuba on his first voyage to the New World, surmising that it is Japan."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Finn Wittrock, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "306",
+      "text": "Maxentius is proclaimed Roman emperor."
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "US President Barack Obama signs the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Brad Paisley, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "John Hollander, American poet, critic, and educator (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Telma Hopkins, American singer and actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Ted Hawkins, American soul-blues singer-songwriter and guitarist (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "1989",
+      "text": "Aloha Island Air Flight 1712, a Twin Otter 300, crashed into terrain at night in Hawaii killing all 20 occupants onboard."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Justin Guarini, American singer-songwriter and actor"
     }
   ],
   "source": "Wikipedia"
