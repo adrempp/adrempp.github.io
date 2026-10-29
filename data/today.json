@@ -2,74 +2,24 @@
   "date": "2026-10-29",
   "items": [
     {
-      "type": "Event",
-      "year": "1941",
-      "text": "The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the \"Great Action\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "Alva B. Adams, American lawyer and politician (died 1941)"
-    },
-    {
-      "type": "Event",
-      "year": "1467",
-      "text": "Battle of Brustem: Charles the Bold defeats Prince-Bishopric of Liège."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Andy Dalton, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Jeremy Corbyn, former Leader of the Labour Party and of the Opposition in the United Kingdom is suspended from the Labour Party following his response to findings from the EHRC on the issue of antisemitism within the party."
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "At least 156 die at a crowd crush during a Halloween celebration in Itaewon district, Seoul, South Korea."
-    },
-    {
       "type": "Birth",
       "year": "1994",
       "text": "Danielle Hunter, American football player"
     },
     {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Fredric Brown, American author (died 1972)"
+      "type": "Death",
+      "year": "1941",
+      "text": "Harvey Hendrick, American baseball player (born 1897)"
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Richard Brancatisano, Australian actor"
+      "year": "1940",
+      "text": "Connie Mack III, American lawyer and politician"
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Don Simpson, American actor, producer, and screenwriter (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1881",
-      "text": "John DeWitt, American football player and hammer thrower (died 1930)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Mary Bucholtz, American linguist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1611",
-      "text": "Russian homage to the King of Poland, Sigismund III Vasa."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Ron Maag, American businessman and politician"
+      "year": "1949",
+      "text": "Raphael Carl Lee, American surgeon and academic"
     },
     {
       "type": "Event",
@@ -77,9 +27,9 @@
       "text": "Suez Crisis begins: Israeli forces invade the Sinai Peninsula and push Egyptian forces back toward the Suez Canal."
     },
     {
-      "type": "Birth",
+      "type": "Event",
       "year": "1980",
-      "text": "Ben Foster, American actor"
+      "text": "Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport."
     },
     {
       "type": "Event",
@@ -88,118 +38,38 @@
     },
     {
       "type": "Event",
-      "year": "1960",
-      "text": "An airplane carrying the Cal Poly football team crashes on takeoff in Toledo, Ohio."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Blažej Baláž, Slovak painter, sculptor, and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jonathan Brown, Australian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Gabrielle Union, American actress and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Delta Air Lines merges with Northwest Airlines, creating the world's largest airline and reducing the number of US legacy carriers to five."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "The American Galileo spacecraft makes its closest approach to 951 Gaspra, becoming the first probe to visit an asteroid."
-    },
-    {
-      "type": "Event",
       "year": "1675",
       "text": "Leibniz makes the first use of the long s (∫) as a symbol of the integral in calculus."
     },
     {
-      "type": "Event",
-      "year": "312",
-      "text": "Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded."
-    },
-    {
       "type": "Birth",
-      "year": "1975",
-      "text": "Joy Osmanski, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "R. A. Dickey, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Kevin DuBrow, American heavy metal singer-songwriter (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Yevgeny Primakov, Ukrainian-Russian journalist and politician, 32nd Prime Minister of Russia (died 2015)"
+      "year": "1952",
+      "text": "Marcia Fudge, American lawyer and politician"
     },
     {
       "type": "Event",
-      "year": "2012",
-      "text": "Hurricane Sandy hits the east coast of the United States, killing hundreds, while leaving nearly $70 billion in damages and causing major power outages."
+      "year": "1941",
+      "text": "The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the \"Great Action\"."
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Janoris Jenkins, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "Francisco Martin Duran fires over two dozen shots at the White House; he is later convicted of trying to kill U.S. President Bill Clinton."
+      "year": "1906",
+      "text": "Fredric Brown, American author (died 1972)"
     },
     {
       "type": "Birth",
-      "year": "1972",
-      "text": "Takafumi Horie, Japanese businessman, founded Livedoor"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Beth Chapman, American reality television star (died 2019)"
+      "year": "1978",
+      "text": "Travis Henry, American football player"
     },
     {
       "type": "Death",
-      "year": "2012",
-      "text": "Kenneth G. Ryder, American academic (born 1924)"
+      "year": "2008",
+      "text": "Mike Baker, American singer-songwriter (born 1963)"
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Sonny Osborne, American bluegrass singer and banjo player (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Dan Ratushny, Canadian ice hockey player and coach and lawyer"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Carl Djerassi, Austrian-American chemist, author, and playwright (died 2015)"
-    },
-    {
-      "type": "Death",
-      "year": "1997",
-      "text": "Andreas Gerasimos Michalitsianos, Greek-American astronomer and astrophysicist (born 1947)"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "H. Gary Morse, American businessman (born 1936)"
+      "year": "1969",
+      "text": "Chris Verene, American photographer"
     },
     {
       "type": "Event",
@@ -208,28 +78,53 @@
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "Marcia Fudge, American lawyer and politician"
-    },
-    {
-      "type": "Birth",
       "year": "1921",
       "text": "Bill Mauldin, American soldier and cartoonist (died 2003)"
     },
     {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Michael Passons, American singer-songwriter"
+    },
+    {
       "type": "Event",
-      "year": "1998",
-      "text": "ATSC HDTV broadcasting in the United States is inaugurated with live coverage of the launch of the STS-95 space shuttle mission."
+      "year": "2008",
+      "text": "Delta Air Lines merges with Northwest Airlines, creating the world's largest airline and reducing the number of US legacy carriers to five."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "Hurricane Sandy hits the east coast of the United States, killing hundreds, while leaving nearly $70 billion in damages and causing major power outages."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "Tracee Ellis Ross, American actress and producer"
     },
     {
       "type": "Birth",
       "year": "1971",
-      "text": "Greg Blewett, Australian cricketer, coach, and sportscaster"
+      "text": "Winona Ryder, American actress and producer"
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Vonetta Flowers, American bobsledder, sprinter, and long jumper"
+      "year": "1932",
+      "text": "Dick Garmaker, American basketball player (died 2020)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "A fire destroys a luxurious department store in Ho Chi Minh City, where 1,500 people are shopping. More than 60 people die and over 100 are unaccounted for in the deadliest peacetime disaster in Vietnam."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Jeremy Corbyn, former Leader of the Labour Party and of the Opposition in the United Kingdom is suspended from the Labour Party following his response to findings from the EHRC on the issue of antisemitism within the party."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Ben Foster, American actor"
     },
     {
       "type": "Birth",
@@ -238,33 +133,23 @@
     },
     {
       "type": "Event",
-      "year": "437",
-      "text": "Valentinian III, Western Roman Emperor, marries Licinia Eudoxia, daughter of his cousin Theodosius II, Eastern Roman Emperor in Constantinople unifying the two branches of the House of Theodosius."
+      "year": "1611",
+      "text": "Russian homage to the King of Poland, Sigismund III Vasa."
     },
     {
       "type": "Event",
-      "year": "2004",
-      "text": "The Arabic-language news network Al Jazeera broadcasts an excerpt from a 2004 Osama bin Laden video in which the terrorist leader first admits direct responsibility for the September 11, 2001 attacks and references the 2004 U.S. presidential election."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "A fire destroys a luxurious department store in Ho Chi Minh City, where 1,500 people are shopping. More than 60 people die and over 100 are unaccounted for in the deadliest peacetime disaster in Vietnam."
+      "year": "1929",
+      "text": "Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventually contributing to the Great Depression."
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Dominick Dunne, American journalist and author (died 2009)"
+      "year": "1975",
+      "text": "Baba Ali, Iranian-American comedian, games developer, businessman, and actor"
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Joel Otto, American ice hockey player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport."
+      "year": "1971",
+      "text": "Daniel J. Bernstein, American mathematician, cryptologist, and academic"
     },
     {
       "type": "Birth",
@@ -273,28 +158,143 @@
     },
     {
       "type": "Event",
+      "year": "312",
+      "text": "Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Chris Baio, American bass player"
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "ATSC HDTV broadcasting in the United States is inaugurated with live coverage of the launch of the STS-95 space shuttle mission."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Andy Dalton, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "An airplane carrying the Cal Poly football team crashes on takeoff in Toledo, Ohio."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Frans de Waal, Dutch-American ethologist, author, and academic (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "437",
+      "text": "Valentinian III, Western Roman Emperor, marries Licinia Eudoxia, daughter of his cousin Theodosius II, Eastern Roman Emperor in Constantinople unifying the two branches of the House of Theodosius."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Robbie van Leeuwen, Dutch musician and songwriter"
+    },
+    {
+      "type": "Event",
       "year": "1792",
       "text": "Mount Hood (Oregon) is named after Samuel Hood, 1st Viscount Hood by Lt. William E. Broughton who sighted the mountain near the mouth of the Willamette River."
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Baba Ali, Iranian-American comedian, games developer, businessman, and actor"
+      "year": "1988",
+      "text": "Janoris Jenkins, American football player"
     },
     {
       "type": "Event",
-      "year": "1929",
-      "text": "Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventually contributing to the Great Depression."
+      "year": "1467",
+      "text": "Battle of Brustem: Charles the Bold defeats Prince-Bishopric of Liège."
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Denny Laine, English singer-songwriter and musician (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "At least 156 die at a crowd crush during a Halloween celebration in Itaewon district, Seoul, South Korea."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "The Arabic-language news network Al Jazeera broadcasts an excerpt from a 2004 Osama bin Laden video in which the terrorist leader first admits direct responsibility for the September 11, 2001 attacks and references the 2004 U.S. presidential election."
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Neal Hefti, American trumpet player and composer (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Klaus Roth, British mathematician (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "Francisco Martin Duran fires over two dozen shots at the White House; he is later convicted of trying to kill U.S. President Bill Clinton."
+    },
+    {
+      "type": "Birth",
+      "year": "1879",
+      "text": "Alva B. Adams, American lawyer and politician (died 1941)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Lee Clayton, American rock/country musician and songwriter (died 2023)"
+    },
+    {
+      "type": "Death",
+      "year": "1993",
+      "text": "Lipman Bers, Latvian-American mathematician and academic (born 1914)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Randy Jackson, American singer-songwriter and dancer"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "The American Galileo spacecraft makes its closest approach to 951 Gaspra, becoming the first probe to visit an asteroid."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Dirk Kempthorne, American businessman and politician, 49th United States Secretary of the Interior (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Matthew Hayden, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Dan Castellaneta, American actor, voice artist, comedian, singer and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "R. A. Dickey, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Jesse Barfield, American baseball player and coach"
     },
     {
       "type": "Event",
       "year": "1863",
       "text": "American Civil War: Battle of Wauhatchie: Forces under Union General Ulysses S. Grant repel a Confederate attack led by General James Longstreet in one of the few night battles of the war, protecting the Union's recently opened supply line into Chattanooga, Tennessee."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Winona Ryder, American actress and producer"
     },
     {
       "type": "Birth",
