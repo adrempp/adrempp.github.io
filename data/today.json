@@ -3,168 +3,18 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Morris Lurie, Australian novelist, short story writer, and playwright (died 2014)"
+      "year": "1945",
+      "text": "Henry Winkler, American actor, comedian, director, and producer"
     },
     {
       "type": "Birth",
-      "year": "1997",
-      "text": "Tage Thompson, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "John P. Craven, American soldier and engineer (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people."
-    },
-    {
-      "type": "Death",
-      "year": "1992",
-      "text": "Joan Mitchell, American painter (born 1925)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Pete Hoekstra, Dutch-American lawyer and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Jack Plotnick, American actor, director, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Tommy Ridgley, American singer and bandleader (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Stephanie Izard, American chef"
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Four people are killed when a Beechcraft Super King Air crashes at Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas."
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "El Salvador and Honduras agree to put the border dispute fought over in 1969's Football War before the International Court of Justice."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "Second War of Schleswig: The Treaty of Vienna is signed, by which Denmark relinquishes one province each to Prussia and Austria."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Jane White, American actress and singer (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Dennis Gilbert, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1905",
-      "text": "Tsar Nicholas II issues the October Manifesto, nominally granting the Russian peoples basic civil liberties and the right to form a duma. (October 17 in the Julian calendar)"
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "Sweden becomes the first European Union member state to officially recognize Palestine as an independent and sovereign state."
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII."
+      "year": "1907",
+      "text": "Sol Tax, American anthropologist and academic (died 1995)"
     },
     {
       "type": "Birth",
       "year": "1963",
-      "text": "Kristina Wagner, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Janel Parrish, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1806",
-      "text": "War of the Fourth Coalition: Convinced that he is facing a much larger force, Prussian General von Romberg, commanding 5,300 men, surrenders the city of Stettin to 800 French soldiers."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Orson Welles broadcasts a radio adaptation of H. G. Wells's The War of the Worlds, causing a massive panic in some of the audience in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Forty-five people are killed and seven injured after a bus catches fire in Mahabubnagar district, Andhra Pradesh (present-day Telangana), India."
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "The Israeli-Palestinian conflict: The Madrid Conference commences in an effort to revive peace negotiations between Israel and Palestine."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The Bosphorus Bridge in Turkey is completed, connecting the continents of Europe and Asia over the Bosphorus for the second time."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Nastia Liukin, Russian-American gymnast and actress"
-    },
-    {
-      "type": "Event",
-      "year": "942",
-      "text": "Election of Pope Marinus II following the death of Pope Stephen VIII in the same month."
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Nikolai Ogarkov, Russian field marshal (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Clifford Brown, American trumpet player and composer (died 1956)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Joanna Shimkus, Canadian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Michael Buettner, Australian rugby league player and official"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Devin Booker, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "701",
-      "text": "Election of Pope John VI following the death of Pope Sergius I in the previous month."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Ahmed Chalabi, Iraqi businessman and politician (died 2015)"
+      "text": "Mike Veletta, Australian cricketer and coach"
     },
     {
       "type": "Event",
@@ -173,43 +23,18 @@
     },
     {
       "type": "Birth",
-      "year": "1916",
-      "text": "Leon Day, American baseball player (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Glenn Andreotta, American soldier (died 1968)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Leland H. Hartwell, American biologist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Death",
-      "year": "2007",
-      "text": "John Woodruff, American runner and colonel (born 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Maurice Taylor, American basketball player"
+      "year": "1984",
+      "text": "Eva Marcille, American model and actress"
     },
     {
       "type": "Birth",
       "year": "1917",
-      "text": "Bobby Bragan, American baseball player, coach, and manager (died 2010)"
+      "text": "Nikolai Ogarkov, Russian field marshal (died 1994)"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Grace Slick, American singer-songwriter and model"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Desmond Jennings, American baseball player"
+      "year": "1963",
+      "text": "Michael Beach, American actor and producer"
     },
     {
       "type": "Event",
@@ -218,8 +43,58 @@
     },
     {
       "type": "Birth",
+      "year": "1948",
+      "text": "Garry McDonald, Australian actor and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Orson Welles broadcasts a radio adaptation of H. G. Wells's The War of the Worlds, causing a massive panic in some of the audience in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ken Stringfellow, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "130",
+      "text": "Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt."
+    },
+    {
+      "type": "Birth",
       "year": "1947",
-      "text": "Tim Kirk, American illustrator and designer"
+      "text": "Timothy B. Schmit, American singer-songwriter and bass player"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Jane Randolph, American-Swiss actress and singer (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII."
+    },
+    {
+      "type": "Event",
+      "year": "942",
+      "text": "Election of Pope Marinus II following the death of Pope Stephen VIII in the same month."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Robert Caro, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Joe Delaney, American football player (died 1983)"
+    },
+    {
+      "type": "Death",
+      "year": "1957",
+      "text": "Fred Beebe, American baseball player and coach (born 1880)"
     },
     {
       "type": "Event",
@@ -227,39 +102,49 @@
       "text": "The Communist Party of Australia is founded in Sydney."
     },
     {
-      "type": "Event",
-      "year": "1941",
-      "text": "Holocaust: Fifteen hundred Jews from Pidhaytsi are sent by Nazis to Bełżec extermination camp."
+      "type": "Birth",
+      "year": "1996",
+      "text": "Dennis Gilbert, American ice hockey player"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Ekaterini Voggoli, Greek discus thrower"
+      "year": "1930",
+      "text": "Néstor Almendros, Spanish-American director and cinematographer (died 1992)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Grace Slick, American singer-songwriter and model"
     },
     {
       "type": "Birth",
       "year": "1951",
-      "text": "Poncho Sanchez, American singer and conga player"
+      "text": "Harry Hamlin, American actor"
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "Charles Martin Smith, American actor, director, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Jeannie Kendall, American country singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Tory Belleci, American visual effects designer and television presenter"
+      "year": "1968",
+      "text": "Jack Plotnick, American actor, director, and producer"
     },
     {
       "type": "Birth",
       "year": "1941",
-      "text": "Otis Williams, American singer-songwriter and producer"
+      "text": "Aleksandr Dulichenko, Russian-Estonian linguist and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Pete Hoekstra, Dutch-American lawyer and politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Matthew Morrison, American singer-songwriter and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Richard E. Holz, American minister and composer (died 1986)"
     },
     {
       "type": "Event",
@@ -267,9 +152,19 @@
       "text": "Reconquista: Portuguese and Castilian forces halt a Muslim invasion at the Battle of Río Salado."
     },
     {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Nia Long, American actress"
+    },
+    {
       "type": "Event",
-      "year": "130",
-      "text": "Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt."
+      "year": "1973",
+      "text": "The Bosphorus Bridge in Turkey is completed, connecting the continents of Europe and Asia over the Bosphorus for the second time."
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Four people are killed when a Beechcraft Super King Air crashes at Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas."
     },
     {
       "type": "Event",
@@ -278,28 +173,133 @@
     },
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Dmitry Ustinov, Marshal of the Soviet Union (died 1984)"
+      "year": "1963",
+      "text": "Andrew Solomon, American-English journalist and author"
+    },
+    {
+      "type": "Event",
+      "year": "1905",
+      "text": "Tsar Nicholas II issues the October Manifesto, nominally granting the Russian peoples basic civil liberties and the right to form a duma. (October 17 in the Julian calendar)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Kevin Pollak, American actor, game show host, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "Second War of Schleswig: The Treaty of Vienna is signed, by which Denmark relinquishes one province each to Prussia and Austria."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Daniel Nathans, American microbiologist and academic, Nobel Prize laureate (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Jarell Eddie, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "701",
+      "text": "Election of Pope John VI following the death of Pope Sergius I in the previous month."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Larry Gene Bell, American murderer (died 1996)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Ekaterini Voggoli, Greek discus thrower"
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "Sweden becomes the first European Union member state to officially recognize Palestine as an independent and sovereign state."
+    },
+    {
+      "type": "Death",
+      "year": "1968",
+      "text": "Conrad Richter, American journalist and novelist (born 1890)"
+    },
+    {
+      "type": "Event",
+      "year": "1806",
+      "text": "War of the Fourth Coalition: Convinced that he is facing a much larger force, Prussian General von Romberg, commanding 5,300 men, surrenders the city of Stettin to 800 French soldiers."
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "Holocaust: Fifteen hundred Jews from Pidhaytsi are sent by Nazis to Bełżec extermination camp."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "The Israeli-Palestinian conflict: The Madrid Conference commences in an effort to revive peace negotiations between Israel and Palestine."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "El Salvador and Honduras agree to put the border dispute fought over in 1969's Football War before the International Court of Justice."
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Leland H. Hartwell, American biologist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Poncho Sanchez, American singer and conga player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Tamera Young, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Ashley Graham, American model"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Forty-five people are killed and seven injured after a bus catches fire in Mahabubnagar district, Andhra Pradesh (present-day Telangana), India."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Charnele Brown, American actress and singer"
+    },
+    {
+      "type": "Death",
+      "year": "1975",
+      "text": "Gustav Ludwig Hertz, German physicist and academic, Nobel Prize laureate (born 1887)"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Fred W. Friendly, American journalist and producer (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Vince Callahan, American lieutenant and politician (died 2014)"
     },
     {
       "type": "Birth",
       "year": "1947",
-      "text": "Timothy B. Schmit, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Death",
-      "year": "2009",
-      "text": "Claude Lévi-Strauss, French anthropologist and ethnologist (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Heidi Heitkamp, American lawyer and politician, 28th Attorney General of North Dakota"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Jim Perry, American baseball player"
+      "text": "Glenn Andreotta, American soldier (died 1968)"
     }
   ],
   "source": "Wikipedia"
