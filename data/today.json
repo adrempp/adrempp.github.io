@@ -2,124 +2,9 @@
   "date": "2026-10-31",
   "items": [
     {
-      "type": "Birth",
-      "year": "1953",
-      "text": "John Lucas II, American basketball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Dan Rather, American journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Jonathan Borden, American neurosurgeon and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Mike Gallego, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Brian Doyle-Murray, American actor and comedian"
-    },
-    {
       "type": "Event",
-      "year": "1913",
-      "text": "Dedication of the Lincoln Highway, the first automobile highway across United States."
-    },
-    {
-      "type": "Event",
-      "year": "1837",
-      "text": "Approximately 300 Muscogee die in the steamboat Monmouth disaster on the Trail of Tears in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "The Indianapolis Streetcar Strike and subsequent riot begins."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Great Depression: In an effort to restore investor confidence, the New York Stock Exchange unveils a fifteen-point program aimed to upgrade protection for the investing public."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Kerron Clement, American hurdler and sprinter"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "World Savings Day is announced in Milan, Italy by the Members of the Association at the 1st International Savings Bank Congress (World Society of Savings Banks)."
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Buddy Lazier, American race car driver"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Paul Frampton, English-American physicist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "American Eagle Flight 4184 crashes near Roselawn, Indiana killing all 68 people on board."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Alphonso Ford, American basketball player (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Ad-Rock, American rapper, producer, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "John Giannini, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Vietnam War October surprise: Citing progress with the Paris peace talks, US President Lyndon B. Johnson announces to the nation that he has ordered a complete cessation of \"all air, naval, and artillery bombardment of North Vietnam\" effective November 1."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "After 14 years of work, Mount Rushmore is completed."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Michael Landon, American actor, director, producer, and screenwriter (died 1991)"
-    },
-    {
-      "type": "Death",
-      "year": "1988",
-      "text": "John Houseman, Romanian-born American actor, producer, and screenwriter (born 1902)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Dan Alderson, American scientist (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Carla Boyd, Australian basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2014",
-      "text": "During a test flight, the VSS Enterprise, a Virgin Galactic experimental spaceflight test vehicle, suffers a catastrophic in-flight breakup and crashes in the Mojave Desert, California."
+      "year": "1812",
+      "text": "Russian forces under Pyotr Kotlyarevsky defeat a larger Iranian force under Fath-Ali Shah in the battle of Aslanduz."
     },
     {
       "type": "Event",
@@ -128,123 +13,8 @@
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Dave Trembley, American baseball player, coach, and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1812",
-      "text": "Russian forces under Pyotr Kotlyarevsky defeat a larger Iranian force under Fath-Ali Shah in the battle of Aslanduz."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Abdul El-Sayed, American public health administrator and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Irina Pantaeva, Russian model and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1895",
-      "text": "The strongest earthquake in the Midwestern United States since 1812 strikes near Charleston, Missouri, causing damage and killing at least two."
-    },
-    {
-      "type": "Event",
-      "year": "1822",
-      "text": "Emperor Agustín de Iturbide attempts to dissolve the Congress of the Mexican Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1880",
-      "text": "Julia Peterkin, American author (died 1961)"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: An F4U Corsair accomplishes the first successful radar-guided interception by a United States Navy or Marine Corps aircraft."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Vanessa Marano, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "A truck drives into a crowd in Lower Manhattan, New York City, killing eight people."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: The destroyer USS Reuben James is torpedoed by a German U-boat near Iceland, killing more than 100 U.S. Navy sailors. It is the first U.S. Navy vessel sunk by enemy action in WWII."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "A federal grand jury in Houston, Texas indicts former Enron chief financial officer Andrew Fastow on 78 counts of wire fraud, money laundering, conspiracy and obstruction of justice related to the collapse of his ex-employer."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "Nevada is admitted as the 36th U.S. state."
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Michael Collins, American general, pilot, and astronaut (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Frank Bruni, American journalist and critic"
-    },
-    {
-      "type": "Death",
-      "year": "2013",
-      "text": "Bobby Parker, American singer-songwriter and guitarist (born 1937)"
-    },
-    {
-      "type": "Birth",
       "year": "1963",
-      "text": "Dermot Mulroney, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "Indiana State Fairgrounds Coliseum gas explosion: A gas explosion at the Indiana State Fairgrounds Coliseum in Indianapolis kills 81 people and injures another 400 during an ice show."
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "World War II: The Battle of Britain ends, causing Germany to abandon Operation Sea Lion."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Pat Murray, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "World War I: The Aster Revolution terminates the Austro-Hungarian Compromise of 1867, and Hungary achieves full sovereignty."
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Sally Kirkland, American actress (died 2025)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Tom Paxton, American folk music singer-songwriter and guitarist"
-    },
-    {
-      "type": "Death",
-      "year": "2009",
-      "text": "Tom Wheatcroft, English businessman, founded the Donington Grand Prix Exhibition (born 1922)"
+      "text": "Mikkey Dee, Swedish hard rock drummer and musician"
     },
     {
       "type": "Event",
@@ -253,18 +23,58 @@
     },
     {
       "type": "Event",
-      "year": "1923",
-      "text": "The first of 160 consecutive days of 100° Fahrenheit at Marble Bar, Western Australia."
+      "year": "1895",
+      "text": "The strongest earthquake in the Midwestern United States since 1812 strikes near Charleston, Missouri, causing damage and killing at least two."
     },
     {
       "type": "Birth",
-      "year": "1922",
-      "text": "Barbara Bel Geddes, American actress (died 2005)"
+      "year": "1975",
+      "text": "Carla Boyd, Australian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Sydney Park, American actress and comedian"
     },
     {
       "type": "Event",
-      "year": "1903",
-      "text": "The Purdue Wreck, a railroad train collision in Indianapolis, kills 17 people, including 14 players of the Purdue University football team."
+      "year": "1822",
+      "text": "Emperor Agustín de Iturbide attempts to dissolve the Congress of the Mexican Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "David Harvey, English-American geographer and academic"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "World Savings Day is announced in Milan, Italy by the Members of the Association at the 1st International Savings Bank Congress (World Society of Savings Banks)."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Christopher Bevins, American voice actor, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1919",
+      "text": "Magnus Wenninger, American mathematician and author (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Keith Jardine, American mixed martial artist and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Mike Gallego, American baseball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "Nevada is admitted as the 36th U.S. state."
     },
     {
       "type": "Event",
@@ -273,23 +83,13 @@
     },
     {
       "type": "Birth",
-      "year": "1943",
-      "text": "Elliott Forbes-Robinson, American race car driver"
+      "year": "1966",
+      "text": "Ad-Rock, American rapper, producer, and actor"
     },
     {
       "type": "Event",
-      "year": "2000",
-      "text": "Soyuz TM-31 launches, carrying the first resident crew to the International Space Station. The ISS has been crewed continuously since then."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Ollie Johnston, American animator and voice actor (died 2008)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Roger Manganelli, Brazilian-American singer-songwriter and bass player"
+      "year": "1913",
+      "text": "The Indianapolis Streetcar Strike and subsequent riot begins."
     },
     {
       "type": "Event",
@@ -297,9 +97,209 @@
       "text": "Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP.  József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution."
     },
     {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Robert Pollard, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: An F4U Corsair accomplishes the first successful radar-guided interception by a United States Navy or Marine Corps aircraft."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Beverly Lynne, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Brian Piccolo, American football player (died 1970)"
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "The Purdue Wreck, a railroad train collision in Indianapolis, kills 17 people, including 14 players of the Purdue University football team."
+    },
+    {
+      "type": "Event",
+      "year": "1923",
+      "text": "The first of 160 consecutive days of 100° Fahrenheit at Marble Bar, Western Australia."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Dale Brown, American basketball player and coach (died 2026)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Vietnam War October surprise: Citing progress with the Paris peace talks, US President Lyndon B. Johnson announces to the nation that he has ordered a complete cessation of \"all air, naval, and artillery bombardment of North Vietnam\" effective November 1."
+    },
+    {
       "type": "Event",
       "year": "475",
       "text": "Romulus Augustulus is proclaimed Western Roman Emperor."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Alphonso Ford, American basketball player (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Soyuz TM-31 launches, carrying the first resident crew to the International Space Station. The ISS has been crewed continuously since then."
+    },
+    {
+      "type": "Death",
+      "year": "1879",
+      "text": "Joseph Hooker, American general (born 1814)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Adam Bouska, American photographer and activist, founded the NOH8 Campaign"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "Ethel Waters, American singer and actress (died 1977)"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: The destroyer USS Reuben James is torpedoed by a German U-boat near Iceland, killing more than 100 U.S. Navy sailors. It is the first U.S. Navy vessel sunk by enemy action in WWII."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Frank Shorter, American runner and sportscaster"
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "Approximately 300 Muscogee die in the steamboat Monmouth disaster on the Trail of Tears in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "During a test flight, the VSS Enterprise, a Virgin Galactic experimental spaceflight test vehicle, suffers a catastrophic in-flight breakup and crashes in the Mojave Desert, California."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Lawrence A. Cremin, American historian and author (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "John Pople, English-American chemist and academic, Nobel Prize laureate (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Tim Byrdak, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Dave Trembley, American baseball player, coach, and manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Michael Collins, American general, pilot, and astronaut (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Great Depression: In an effort to restore investor confidence, the New York Stock Exchange unveils a fifteen-point program aimed to upgrade protection for the investing public."
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "Dedication of the Lincoln Highway, the first automobile highway across United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Robert B. Rheault, American colonel (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "American Eagle Flight 4184 crashes near Roselawn, Indiana killing all 68 people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Holly Taylor, Canadian-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "Indiana State Fairgrounds Coliseum gas explosion: A gas explosion at the Indiana State Fairgrounds Coliseum in Indianapolis kills 81 people and injures another 400 during an ice show."
+    },
+    {
+      "type": "Birth",
+      "year": "1892",
+      "text": "Alexander Alekhine, Russian chess player and author (died 1946)"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "World War II: The Battle of Britain ends, causing Germany to abandon Operation Sea Lion."
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "After 14 years of work, Mount Rushmore is completed."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Bob Siebenberg, American drummer"
+    },
+    {
+      "type": "Death",
+      "year": "1986",
+      "text": "Robert S. Mulliken, American physicist and chemist, Nobel Prize laureate (born 1896)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Brian Stokes Mitchell, American singer and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Bruce Bawer, American poet and critic"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Kerron Clement, American hurdler and sprinter"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "A truck drives into a crowd in Lower Manhattan, New York City, killing eight people."
+    },
+    {
+      "type": "Death",
+      "year": "2002",
+      "text": "Lionel Poilâne, French banker and businessman (born 1945)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "World War I: The Aster Revolution terminates the Austro-Hungarian Compromise of 1867, and Hungary achieves full sovereignty."
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "A federal grand jury in Houston, Texas indicts former Enron chief financial officer Andrew Fastow on 78 counts of wire fraud, money laundering, conspiracy and obstruction of justice related to the collapse of his ex-employer."
     }
   ],
   "source": "Wikipedia"
