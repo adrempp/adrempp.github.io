@@ -3,228 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1936",
-      "text": "Rose Bird, American lawyer and judge, 25th Chief Justice of California (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Ken Rosewall, Australian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Dale Brown, American author and pilot"
-    },
-    {
-      "type": "Event",
-      "year": "1707",
-      "text": "Four British naval vessels run aground on the Isles of Scilly because of faulty navigation. In response, the first Longitude Act is enacted in 1714."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "The Ocoee massacre commences in Orange County, Florida on the day of the 1920 United States presidential election."
-    },
-    {
-      "type": "Birth",
-      "year": "1844",
-      "text": "John J. Loud, American inventor (died 1916)"
-    },
-    {
-      "type": "Birth",
-      "year": "1919",
-      "text": "Warren Stevens, American actor (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "North Dakota and South Dakota are admitted as the 39th and 40th U.S. states."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Amar Bose, American engineer and businessman, founded the Bose Corporation (died 2013)"
-    },
-    {
-      "type": "Death",
-      "year": "1982",
-      "text": "Lester Roloff, American preacher and radio host (born 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Tibor Rosenbaum, Hungarian-born Swiss rabbi and businessman (died 1980)"
-    },
-    {
-      "type": "Death",
-      "year": "1944",
-      "text": "Thomas Midgley Jr., American chemist and engineer (born 1889)"
-    },
-    {
-      "type": "Event",
-      "year": "1868",
-      "text": "Time zone: New Zealand officially adopts a standard time to be observed nationally."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Ruslan Salei, Belarusian ice hockey player (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "In California, designer Howard Hughes performs the maiden (and only) flight of the Hughes H-4 Hercules (also known as the \"Spruce Goose\"), the largest fixed-wing aircraft ever built until Scaled Composites rolled out their Stratolaunch in May 2017."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Tropical Storm Linda makes landfall in the Mekong Delta in Vietnam, causing more than 3,000 deaths."
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Amos Roberts, Australian rugby player"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Raphael M. Robinson, American mathematician, philosopher, and theorist (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Nelly, American rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting."
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Danny Amendola, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "Hussein bin Ali proclaims himself \"King of the Arab Countries\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1877",
-      "text": "Victor Trumper, Australian cricketer (died 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Neal Casal, American singer-songwriter, guitarist, and photographer (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Military Revolutionary Committee of the Petrograd Soviet, in charge of preparation and carrying out the Russian Revolution, holds its first meeting."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "James Luisi, American basketball player and actor (died 2002)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Chris Walla, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Mitchell Johnson, Australian cricketer"
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Clyde King, American baseball player and manager (born 1924)"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Larry Little, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: The Russian Empire declares war on the Ottoman Empire and the Dardanelles is subsequently closed."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Willie McGee, American baseball player and manager"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Kendall Schmidt, American singer, songwriter, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Daniil Andreyev, Russian poet and mystic (died 1959)"
-    },
-    {
-      "type": "Event",
-      "year": "676",
-      "text": "Election of pope Donus following the death of pope Adeodatus II some month prior."
-    },
-    {
-      "type": "Birth",
-      "year": "1892",
-      "text": "Alice Brady, American actress (died 1939)"
-    },
-    {
-      "type": "Event",
-      "year": "1949",
-      "text": "The Dutch–Indonesian Round Table Conference ends with the Netherlands agreeing to transfer sovereignty of the Dutch East Indies to the United States of Indonesia."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Carter Beauford, American drummer and composer"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Capital punishment: Velma Barfield becomes the first woman executed in the United States since 1962."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Marisol Nichols, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Pat Buchanan, American journalist and politician"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Honolulu shootings: In the worst mass murder in the history of Hawaii, a gunman shoots at eight people in his workplace, killing seven."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Vietnam War: US President Lyndon B. Johnson and \"The Wise Men\" conclude that the American people should be given more optimistic reports on the progress of the war."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Norman Morrison, a 31-year-old Quaker, sets himself on fire in front of the river entrance to the Pentagon to protest the use of napalm in the Vietnam war."
+      "year": "1837",
+      "text": "Émile Bayard, French illustrator and painter (died 1891)"
     },
     {
       "type": "Event",
@@ -233,53 +13,8 @@
     },
     {
       "type": "Event",
-      "year": "1956",
-      "text": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Meta Golding, Haitian-American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Quiz show scandals: Twenty-One game show contestant Charles Van Doren admits to a Congressional committee that he had been given questions and answers in advance."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "The Cuban Adjustment Act comes into force, allowing 123,000 Cubans the opportunity to apply for permanent residence in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1983",
-      "text": "U.S. President Ronald Reagan signs a bill creating Martin Luther King Jr. Day."
-    },
-    {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Lois McMaster Bujold, American author"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Vladimir Vorobiev, Russian ice hockey player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Matt Cullen, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "The Balfour Declaration proclaims British support for the \"establishment in Palestine of a national home for the Jewish people\" with the clear understanding \"that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities\"."
+      "year": "1982",
+      "text": "Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting."
     },
     {
       "type": "Event",
@@ -288,18 +23,283 @@
     },
     {
       "type": "Birth",
-      "year": "1937",
-      "text": "Earl Carroll, American singer (died 2012)"
+      "year": "1923",
+      "text": "Tibor Rosenbaum, Hungarian-born Swiss rabbi and businessman (died 1980)"
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "The Dutch–Indonesian Round Table Conference ends with the Netherlands agreeing to transfer sovereignty of the Dutch East Indies to the United States of Indonesia."
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "North Dakota and South Dakota are admitted as the 39th and 40th U.S. states."
     },
     {
       "type": "Birth",
-      "year": "1837",
-      "text": "Émile Bayard, French illustrator and painter (died 1891)"
+      "year": "1911",
+      "text": "Raphael M. Robinson, American mathematician, philosopher, and theorist (died 1995)"
+    },
+    {
+      "type": "Birth",
+      "year": "1990",
+      "text": "Kendall Schmidt, American singer, songwriter, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "The Cuban Adjustment Act comes into force, allowing 123,000 Cubans the opportunity to apply for permanent residence in the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "Honolulu shootings: In the worst mass murder in the history of Hawaii, a gunman shoots at eight people in his workplace, killing seven."
+    },
+    {
+      "type": "Death",
+      "year": "2009",
+      "text": "Nien Cheng, Chinese-American author (born 1915)"
+    },
+    {
+      "type": "Death",
+      "year": "1949",
+      "text": "Jerome F. Donovan, American lawyer and politician (born 1872)"
+    },
+    {
+      "type": "Event",
+      "year": "1707",
+      "text": "Four British naval vessels run aground on the Isles of Scilly because of faulty navigation. In response, the first Longitude Act is enacted in 1714."
+    },
+    {
+      "type": "Birth",
+      "year": "1877",
+      "text": "Victor Trumper, Australian cricketer (died 1915)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Stefanie Powers, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "Hussein bin Ali proclaims himself \"King of the Arab Countries\"."
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Robert Gover, American journalist and author (died 2015)"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Balfour Declaration proclaims British support for the \"establishment in Palestine of a national home for the Jewish people\" with the clear understanding \"that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities\"."
+    },
+    {
+      "type": "Event",
+      "year": "1914",
+      "text": "World War I: The Russian Empire declares war on the Ottoman Empire and the Dardanelles is subsequently closed."
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Alan Jones, Australian race car driver and sportscaster"
     },
     {
       "type": "Event",
       "year": "1920",
       "text": "In the United States, KDKA of Pittsburgh starts broadcasting as the first commercial radio station. The first broadcast is the result of the 1920 United States presidential election."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Chris Walla, American singer-songwriter, guitarist, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Earl Carroll, American singer (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Tropical Storm Linda makes landfall in the Mekong Delta in Vietnam, causing more than 3,000 deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1696",
+      "text": "Conrad Weiser, American soldier, monk, and judge (died 1760)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Kjell Qvale, Norwegian-American businessman (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1991",
+      "text": "Jimmy Garoppolo, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1983",
+      "text": "U.S. President Ronald Reagan signs a bill creating Martin Luther King Jr. Day."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "James Luisi, American basketball player and actor (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "1959",
+      "text": "Quiz show scandals: Twenty-One game show contestant Charles Van Doren admits to a Congressional committee that he had been given questions and answers in advance."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Danny Cooksey, American actor and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "David Schwimmer, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "The Ocoee massacre commences in Orange County, Florida on the day of the 1920 United States presidential election."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Marisol Nichols, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Amos Roberts, Australian rugby player"
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "Time zone: New Zealand officially adopts a standard time to be observed nationally."
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "In California, designer Howard Hughes performs the maiden (and only) flight of the Hughes H-4 Hercules (also known as the \"Spruce Goose\"), the largest fixed-wing aircraft ever built until Scaled Composites rolled out their Stratolaunch in May 2017."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Clarence D. Rappleyea Jr., American lawyer and politician (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1549",
+      "text": "Anna of Austria, Queen of Spain (died 1580)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Rodney Buford, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1984",
+      "text": "Capital punishment: Velma Barfield becomes the first woman executed in the United States since 1962."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Kate Linder, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Richard Serra, American sculptor and academic (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1865",
+      "text": "Warren G. Harding, American journalist and politician, 29th President of the United States (died 1923)"
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Myer Skoog, American basketball player (died 2019)"
+    },
+    {
+      "type": "Birth",
+      "year": "1934",
+      "text": "Joseph E. Brennan, American politician, 70th Governor of Maine (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "676",
+      "text": "Election of pope Donus following the death of pope Adeodatus II some months prior."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Daniil Andreyev, Russian poet and mystic (died 1959)"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Prodigy, American rapper (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Scott Walker, American politician, 45th Governor of Wisconsin"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Military Revolutionary Committee of the Petrograd Soviet, in charge of preparation and carrying out the Russian Revolution, holds its first meeting."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Giuseppe Sinopoli, Italian conductor and composer (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Andy Rautins, American-Canadian basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "Norman Morrison, a 31-year-old Quaker, sets himself on fire in front of the river entrance to the Pentagon to protest the use of napalm in the Vietnam war."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Vietnam War: US President Lyndon B. Johnson and \"The Wise Men\" conclude that the American people should be given more optimistic reports on the progress of the war."
+    },
+    {
+      "type": "Birth",
+      "year": "1795",
+      "text": "James K. Polk, American lawyer and politician, 11th President of the United States (died 1849)"
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito."
     }
   ],
   "source": "Wikipedia"
