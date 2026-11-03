@@ -2,9 +2,54 @@
   "date": "2026-11-03",
   "items": [
     {
+      "type": "Birth",
+      "year": "1918",
+      "text": "Elizabeth P. Hoisington, American general (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Gary Ross, American director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Peggy McCay, American actress (died 2018)"
+    },
+    {
       "type": "Event",
-      "year": "1949",
-      "text": "Chinese Civil War: The Battle of Dengbu Island occurs."
+      "year": "1964",
+      "text": "Lyndon B. Johnson is elected to a full term as U.S. president, winning 61% of the vote and 44 states, while Washington D.C. residents are able to vote in a presidential election for the first time, casting the majority of their votes for Lyndon Johnson."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "The American Continental Army is disbanded."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "LaMarr Woodley, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The Compact of Free Association becomes law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Howard Ballard, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "Democratic Arkansas Governor Bill Clinton defeats Republican President George H. W. Bush and Independent candidate Ross Perot in the 1992 United States presidential election."
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Greensboro massacre: Five members of the Communist Workers Party are shot dead and seven are wounded by a group of Klansmen and neo-Nazis during a \"Death to the Klan\" rally in Greensboro, North Carolina, United States."
     },
     {
       "type": "Event",
@@ -12,29 +57,9 @@
       "text": "The land that would become the Great Swamp National Wildlife Refuge is established by an Act of Congress after a year-long legal battle that pitted local residents against Port Authority of New York and New Jersey officials wishing to turn the Great Swamp into a major regional airport for jet aircraft."
     },
     {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Dave Hahn, Japanese-American mountaineer and journalist"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Rick Kreuger, American baseball player and coach"
-    },
-    {
       "type": "Event",
-      "year": "1868",
-      "text": "John Willis Menard (R-LA) becomes the first African American elected to the United States Congress. Because of an electoral challenge, he is never seated."
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Goseki Kojima, Japanese illustrator (died 2000)"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Phil Crane, American academic and politician (died 2014)"
+      "year": "1911",
+      "text": "Chevrolet officially enters the automobile market in competition with the Ford Model T."
     },
     {
       "type": "Event",
@@ -43,28 +68,68 @@
     },
     {
       "type": "Event",
-      "year": "361",
-      "text": "Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor."
-    },
-    {
-      "type": "Event",
-      "year": "1867",
-      "text": "Giuseppe Garibaldi and his followers are defeated in the Battle of Mentana and fail to end the Pope's Temporal power in Rome (it would be achieved three years later)."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "LaMarr Woodley, American football player"
+      "year": "1996",
+      "text": "Abdullah Çatlı, the leader of the Turkish ultranationalist organization Grey Wolves, dies in the Susurluk car crash, leading to the resignation of Interior Minister Mehmet Ağar (a leader of the True Path Party)."
     },
     {
       "type": "Death",
-      "year": "2001",
-      "text": "Ernst Gombrich, Austrian-English historian and author (born 1909)"
+      "year": "2014",
+      "text": "Gordon Tullock, American economist and academic (born 1922)"
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "John Shuster, American Olympic curler"
+      "year": "1953",
+      "text": "Helios Creed, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "U Thant is unanimously appointed as the 3rd Secretary-General of the United Nations, becoming the first non-European individual to occupy the post."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Mariner program: NASA launches the Mariner 10 toward Mercury. On March 29, 1974, it becomes the first space probe to reach that planet."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Chrissie Swan, Australian radio and television host"
+    },
+    {
+      "type": "Event",
+      "year": "1946",
+      "text": "The Constitution of Japan is adopted through Emperor's assent."
+    },
+    {
+      "type": "Event",
+      "year": "1975",
+      "text": "Four Bangladeshi politicians are killed in the Dhaka Central Jail."
+    },
+    {
+      "type": "Event",
+      "year": "1333",
+      "text": "The River Arno floods causing massive damage in Florence as recorded by the Florentine chronicler Giovanni Villani."
+    },
+    {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Phil Crane, American academic and politician (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Goseki Kojima, Japanese illustrator (died 2000)"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "The United States imposes economic sanctions against Sudan in response to its human rights abuses of its own citizens and its material and political assistance to Islamic extremist groups across the Middle East and East Africa."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon."
     },
     {
       "type": "Birth",
@@ -73,43 +138,63 @@
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "Greensboro massacre: Five members of the Communist Workers Party are shot dead and seven are wounded by a group of Klansmen and neo-Nazis during a \"Death to the Klan\" rally in Greensboro, North Carolina, United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Sonny Rhodes, American singer-songwriter and guitarist (died 2021)"
+      "year": "1908",
+      "text": "William Howard Taft is elected the 27th President of the United States."
     },
     {
       "type": "Event",
-      "year": "1848",
-      "text": "A greatly revised Dutch constitution, which transfers much authority from the king to his parliament and ministers, is proclaimed."
+      "year": "1493",
+      "text": "Christopher Columbus first sights the island of Dominica in the Caribbean Sea."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Kyle Seager, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Brady Hoke, American football coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Beau McDonald, Australian footballer and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Russian Civil War: The Russian Army retreats to Crimea, after a successful offensive by the Red Army and Revolutionary Insurgent Army of Ukraine."
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Five hundred aircraft of the U.S. 8th Air Force devastate Wilhelmshaven harbor in Germany."
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "The University of Vermont, the oldest university in Vermont, and fifth-oldest in New England, is chartered."
+    },
+    {
+      "type": "Event",
+      "year": "2014",
+      "text": "One World Trade Center officially opens in New York City, replacing the Twin Towers after they were destroyed during the September 11 attacks."
+    },
+    {
+      "type": "Event",
+      "year": "1868",
+      "text": "John Willis Menard (R-LA) becomes the first African American elected to the United States Congress. Because of an electoral challenge, he is never seated."
+    },
+    {
+      "type": "Event",
+      "year": "1949",
+      "text": "Chinese Civil War: The Battle of Dengbu Island occurs."
     },
     {
       "type": "Event",
       "year": "1090",
       "text": "The Rouen Riot, an attempt by English king William Rufus to take possession of Rouen, the capital city of his brother Robert, duke of Normandy, fails."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Courtney Barnett, Australian singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Sticky Fingaz, American rapper, producer, and actor"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "The United States imposes economic sanctions against Sudan in response to its human rights abuses of its own citizens and its material and political assistance to Islamic extremist groups across the Middle East and East Africa."
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Robert W. Wilson, American businessman and philanthropist (died 2013)"
     },
     {
       "type": "Birth",
@@ -123,43 +208,8 @@
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Helmut Koinigg, Austrian race car driver (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "1903",
-      "text": "With the encouragement of the United States, Panama separates from Colombia."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon."
-    },
-    {
-      "type": "Event",
-      "year": "1791",
-      "text": "The University of Vermont, the oldest university in Vermont, and fifth-oldest in New England, is chartered."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Damien Woody, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "William Howard Taft is elected the 27th President of the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1911",
-      "text": "Chevrolet officially enters the automobile market in competition with the Ford Model T."
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "U Thant is unanimously appointed as the 3rd Secretary-General of the United Nations, becoming the first non-European individual to occupy the post."
+      "year": "1981",
+      "text": "Sten Pentus, Estonian race car driver"
     },
     {
       "type": "Event",
@@ -167,24 +217,39 @@
       "text": "Vietnam War: U.S. President Richard Nixon addresses the nation on television and radio, asking the \"silent majority\" to join him in solidarity on the Vietnam War effort and to support his policies."
     },
     {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Takao Saito, Japanese author and illustrator, created Golgo 13 (died 2021)"
+    },
+    {
       "type": "Event",
-      "year": "2014",
-      "text": "One World Trade Center officially opens in New York City, replacing the Twin Towers after they were destroyed during the September 11 attacks."
+      "year": "1903",
+      "text": "With the encouragement of the United States, Panama separates from Colombia."
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "David Armstrong-Jones, 2nd Earl of Snowdon, English businessman"
+      "year": "1918",
+      "text": "Russell B. Long, American lieutenant, lawyer, and politician (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "Maddison Elliott, Australian paralympic swimmer"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Rick Kreuger, American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Greg Plitt, American model and actor (died 2015)"
     },
     {
       "type": "Event",
-      "year": "1986",
-      "text": "The Compact of Free Association becomes law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1493",
-      "text": "Christopher Columbus first sights the island of Dominica in the Caribbean Sea."
+      "year": "1867",
+      "text": "Giuseppe Garibaldi and his followers are defeated in the Battle of Mentana and fail to end the Pope's Temporal power in Rome (it would be achieved three years later)."
     },
     {
       "type": "Event",
@@ -192,74 +257,34 @@
       "text": "The Chicago Cubs beat the Cleveland Indians in the World Series, ending the team's 108-year-long title drought."
     },
     {
-      "type": "Event",
-      "year": "1333",
-      "text": "The River Arno floods causing massive damage in Florence as recorded by the Florentine chronicler Giovanni Villani."
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "The American Continental Army is disbanded."
-    },
-    {
-      "type": "Event",
-      "year": "1946",
-      "text": "The Constitution of Japan is adopted through Emperor's assent."
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Lyndon B. Johnson is elected to a full term as U.S. president, winning 61% of the vote and 44 states, while Washington D.C. residents are able to vote in a presidential election for the first time, casting the majority of their votes for Lyndon Johnson."
-    },
-    {
       "type": "Birth",
-      "year": "1973",
-      "text": "Christian Picciolini, American businessman and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Davis Guggenheim, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "Russian Civil War: The Russian Army retreats to Crimea, after a successful offensive by the Red Army and Revolutionary Insurgent Army of Ukraine."
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Mariner program: NASA launches the Mariner 10 toward Mercury. On March 29, 1974, it becomes the first space probe to reach that planet."
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Harrison McCain, Canadian businessman, co-founded McCain Foods (died 2004)"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "Democratic Arkansas Governor Bill Clinton defeats Republican President George H. W. Bush and Independent candidate Ross Perot in the 1992 United States presidential election."
+      "year": "1987",
+      "text": "Ty Lawson, American basketball player"
     },
     {
       "type": "Death",
-      "year": "1989",
-      "text": "Dorothy Fuldheim, American journalist (born 1893)"
-    },
-    {
-      "type": "Death",
-      "year": "1929",
-      "text": "Olav Aukrust, Norwegian poet and educator (born 1883)"
+      "year": "2015",
+      "text": "Ahmed Chalabi, Iraqi businessman and politician (born 1944)"
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "David Ho, Taiwanese-American scientist"
+      "year": "1982",
+      "text": "Janel McCarville, American professional basketball player"
     },
     {
-      "type": "Event",
-      "year": "1975",
-      "text": "Four Bangladeshi politicians are killed in the Dhaka Central Jail."
+      "type": "Death",
+      "year": "1994",
+      "text": "Valter Palm, Estonian-American boxer (born 1905)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Courtney Barnett, Australian singer-songwriter and guitarist"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Larry Holmes, American boxer and talk show host"
     },
     {
       "type": "Event",
@@ -267,39 +292,14 @@
       "text": "The 2020 United States presidential election takes place between Democratic Joe Biden and Republican incumbent President Donald Trump. On November 7, Biden was declared the winner."
     },
     {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Marc Breaux, American actor, director, and choreographer (died 2013)"
+      "type": "Event",
+      "year": "361",
+      "text": "Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor."
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "World War II: Five hundred aircraft of the U.S. 8th Air Force devastate Wilhelmshaven harbor in Germany."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Abdullah Çatlı, the leader of the Turkish ultranationalist organization Grey Wolves, dies in the Susurluk car crash, leading to the resignation of Interior Minister Mehmet Ağar (a leader of the True Path Party)."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Helios Creed, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Jim Cummings, American voice actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Howard Ballard, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Hal Hartley, American director, producer, and screenwriter"
+      "year": "1848",
+      "text": "A greatly revised Dutch constitution, which transfers much authority from the king to his parliament and ministers, is proclaimed."
     }
   ],
   "source": "Wikipedia"
