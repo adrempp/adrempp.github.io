@@ -3,13 +3,213 @@
   "items": [
     {
       "type": "Event",
+      "year": "1962",
+      "text": "The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Barack Obama becomes the first person of biracial or African-American descent to be elected as President of the United States."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "Wolfgang Amadeus Mozart's Symphony No. 36 is performed for the first time in Linz, Austria."
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Tadeusz Żyliński, Polish engineer, technician, and academic (died 1967)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "John Olive, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Orlando Pace, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1493",
+      "text": "Christopher Columbus reaches the Leeward Islands."
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Eugene Sledge, American soldier, author, and academic (died 2001)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Stanley Cortez, American cinematographer and photographer (died 1997)"
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Thomas Klestil, Austrian politician and diplomat, 10th President of Austria (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "Ronald Reagan is elected as the 40th President of the United States, defeating incumbent Jimmy Carter."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Salvador Allende takes office as President of Chile, the first Marxist to become president of a Latin American country through open elections."
+    },
+    {
+      "type": "Event",
+      "year": "1429",
+      "text": "Armagnac–Burgundian Civil War: Joan of Arc liberates Saint-Pierre-le-Moûtier."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Devin Hester, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1791",
+      "text": "Northwest Indian War: The Western Confederacy of American Indians wins a major victory over the United States in the Battle of the Wabash."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "World War II: U.S. president Franklin D. Roosevelt orders the United States Customs Service to implement the Neutrality Act of 1939, allowing cash-and-carry purchases of weapons by belligerents."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Emme Rylan, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Spanish Civil War: Largo Caballero reshuffles his war cabinet, persuading the anarcho-syndicalist CNT to join the government."
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Dixie Lee, American actress and singer (died 1952)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Laura Bush, American educator and librarian, 45th First Lady of the United States"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: Confederate troops bombard a Union supply base and destroy millions of dollars in materiel at the Battle of Johnsonville."
+    },
+    {
+      "type": "Death",
+      "year": "1906",
+      "text": "John H. Ketcham, American general and politician (born 1832)"
+    },
+    {
+      "type": "Event",
+      "year": "2025",
+      "text": "UPS Airlines Flight 2976, a McDonnell Douglas MD-11F crashes into multiple buildings during takeoff at Louisville Muhammad Ali International Airport in Louisville, Kentucky, killing 15 people, including the 3 crew members."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Mary Sherman Morgan, American scientist and engineer (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "The Netherlands experiences the first car-free Sunday caused by the 1973 oil crisis. Highways are used only by cyclists and roller skaters."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "P. J. Carey, American baseball player and manager (died 2012)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "World War I: The Armistice of Villa Giusti between Italy and Austria-Hungary is implemented."
+    },
+    {
+      "type": "Event",
+      "year": "2010",
+      "text": "Qantas Flight 32, an Airbus A380, suffers an uncontained engine failure over Indonesia shortly after taking off from Singapore, crippling the jet. The crew manage to safely return to Singapore, saving all 469 passengers and crew."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "The Arno River floods Florence, Italy, to a maximum depth of 6.7 m (22 ft), leaving thousands homeless and destroying millions of masterpieces of art and rare books. Venice is also submerged on the same day at its record all-time acqua alta of 194 cm (76 in)."
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Kafi Benz, American conservationist, environmentalist, historic preservationist, author, artist, community leader"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Daron Hagen, American pianist, composer, and conductor"
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Dolly Stark, American baseball player and umpire (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Vadim Salmanov, Russian pianist and composer (died 1978)"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "Nellie Tayloe Ross of Wyoming becomes the first female elected as governor in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1911",
+      "text": "Violet Biever, American politician (died 2010)"
+    },
+    {
+      "type": "Birth",
+      "year": "1916",
+      "text": "John Basilone, American sergeant, Medal of Honor recipient (died 1945)"
+    },
+    {
+      "type": "Birth",
+      "year": "1957",
+      "text": "Richard Harrington, English businessman and politician"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Iberia Flight 062 crashes in Blackdown, West Sussex, killing all 37 people on board including British actress June Thorburn."
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Eric Paschall, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Larry Bunker, American drummer and vibraphone player (died 2005)"
+    },
+    {
+      "type": "Event",
       "year": "1737",
       "text": "The Teatro di San Carlo, the oldest working opera house in Europe, is inaugurated in Naples, Italy."
     },
     {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Alexei Ulanov, Russian figure skater"
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: The United States turns over control of the air base at Bình Thủy in the Mekong Delta to South Vietnam."
     },
     {
       "type": "Event",
@@ -23,128 +223,28 @@
     },
     {
       "type": "Event",
-      "year": "1936",
-      "text": "Spanish Civil War: Largo Caballero reshuffles his war cabinet, persuading the anarcho-syndicalist CNT to join the government."
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "The United States government establishes the National Security Agency, or NSA."
-    },
-    {
-      "type": "Event",
-      "year": "1493",
-      "text": "Christopher Columbus reaches the Leeward Islands."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Salvador Allende takes office as President of Chile, the first Marxist to become president of a Latin American country through open elections."
+      "year": "1979",
+      "text": "Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages."
     },
     {
       "type": "Birth",
-      "year": "1909",
-      "text": "Bert Patenaude, American soccer player (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "The Arno River floods Florence, Italy, to a maximum depth of 6.7 m (22 ft), leaving thousands homeless and destroying millions of masterpieces of art and rare books. Venice is also submerged on the same day at its record all-time acqua alta of 194 cm (76 in)."
+      "year": "1916",
+      "text": "Ruth Handler, American businesswoman, created Barbie (died 2002)"
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "Ralph Macchio, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "The Netherlands experiences the first car-free Sunday caused by the 1973 oil crisis. Highways are used only by cyclists and roller skaters."
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Barack Obama becomes the first person of biracial or African-American descent to be elected as President of the United States."
-    },
-    {
-      "type": "Death",
-      "year": "1994",
-      "text": "Sam Francis, American soldier and painter (born 1923)"
-    },
-    {
-      "type": "Event",
-      "year": "1429",
-      "text": "Armagnac–Burgundian Civil War: Joan of Arc liberates Saint-Pierre-le-Moûtier."
+      "year": "1933",
+      "text": "Tito Francona, American baseball player (died 2018)"
     },
     {
       "type": "Birth",
-      "year": "1930",
-      "text": "Dick Groat, American baseball player and sportscaster (died 2023)"
-    },
-    {
-      "type": "Birth",
-      "year": "2006",
-      "text": "Darja Varfolomeev, Russian-German rhythmic gymnast"
+      "year": "1969",
+      "text": "Matthew McConaughey, American actor and producer"
     },
     {
       "type": "Event",
       "year": "1995",
       "text": "Israel–Palestinian conflict: Israeli prime minister Yitzhak Rabin is assassinated by Yigal Amir, an extremist Israeli."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Rod Marsh, Australian cricketer and coach (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Daron Hagen, American pianist, composer, and conductor"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Ronald Reagan is elected as the 40th President of the United States, defeating incumbent Jimmy Carter."
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "Soviet troops enter Hungary to end the Hungarian revolution against the Soviet Union that started on October 23. Thousands are killed, more are wounded, and nearly a quarter million leave the country."
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Aleksandr Tkachyov, Russian gymnast and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Richard Harrington, English businessman and politician"
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Barry Crocker, Australian singer, actor, and television host"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Kafi Benz, American conservationist, environmentalist, historic preservationist, author, artist, community leader"
-    },
-    {
-      "type": "Birth",
-      "year": "1928",
-      "text": "Hannah Weiner, American poet and author (died 1997)"
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Charles Causley, Cornish author and poet (born 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Wayne Static, American singer-songwriter and guitarist (died 2014)"
     },
     {
       "type": "Event",
@@ -153,98 +253,18 @@
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Vince Wilfork, American football player"
+      "year": "1939",
+      "text": "Gail E. Haley, American author and illustrator"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Tim DeBoom, American triathlete"
+      "year": "2000",
+      "text": "Tyrese Maxey, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1791",
-      "text": "Northwest Indian War: The Western Confederacy of American Indians wins a major victory over the United States in the Battle of the Wabash."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: The United States turns over control of the air base at Bình Thủy in the Mekong Delta to South Vietnam."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages."
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Doris Roberts, American actress (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "Harry Ferguson, Irish engineer, invented the tractor (died 1960)"
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "Nellie Tayloe Ross of Wyoming becomes the first female elected as governor in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Iberia Flight 062 crashes in Blackdown, West Sussex, killing all 37 people on board including British actress June Thorburn."
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty."
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Cameron Mitchell, American actor (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Confederate troops bombard a Union supply base and destroy millions of dollars in materiel at the Battle of Johnsonville."
-    },
-    {
-      "type": "Death",
-      "year": "2005",
-      "text": "Sheree North, American actress and dancer (born 1932)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Bernard Francis Law, Mexican-American cardinal (died 2017)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "James Dale Ritchie, American serial killer (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Larry Bigbie, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "P. J. Carey, American baseball player and manager (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "2010",
-      "text": "Qantas Flight 32, an Airbus A380, suffers an uncontained engine failure over Indonesia shortly after taking off from Singapore, crippling the jet. The crew manage to safely return to Singapore, saving all 469 passengers and crew."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Dustin Brown, American ice hockey player"
+      "year": "1952",
+      "text": "The United States government establishes the National Security Agency, or NSA."
     },
     {
       "type": "Birth",
@@ -252,54 +272,34 @@
       "text": "Samantha Smith, American actress"
     },
     {
-      "type": "Birth",
-      "year": "1916",
-      "text": "John Basilone, American sergeant, Medal of Honor recipient (died 1945)"
+      "type": "Death",
+      "year": "1982",
+      "text": "Dominique Dunne, American actress (born 1959)"
     },
     {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Kaitlin Hawayek, American ice dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "World War I: The Armistice of Villa Giusti between Italy and Austria-Hungary is implemented."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Eric Paschall, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Patricia Bath, American ophthalmologist and academic (died 2019)"
+      "type": "Death",
+      "year": "2015",
+      "text": "Piotr Domaradzki, Polish-American historian and journalist (born 1946)"
     },
     {
       "type": "Event",
-      "year": "2025",
-      "text": "UPS Airlines Flight 2976, a McDonnell Douglas MD-11F crashes into multiple buildings during takeoff at Louisville Muhammad Ali International Airport in Louisville, Kentucky, killing 15 people, including the 3 crew members."
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Violet Biever, American politician (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "Wolfgang Amadeus Mozart's Symphony No. 36 is performed for the first time in Linz, Austria."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "World War II: U.S. president Franklin D. Roosevelt orders the United States Customs Service to implement the Neutrality Act of 1939, allowing cash-and-carry purchases of weapons by belligerents."
+      "year": "1956",
+      "text": "Soviet troops enter Hungary to end the Hungarian revolution against the Soviet Union that started on October 23. Thousands are killed, more are wounded, and nearly a quarter million leave the country."
     },
     {
       "type": "Event",
       "year": "1798",
       "text": "The Russo-Ottoman siege of Corfu begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Loretta Swit, American actress and singer (died 2025)"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Vince Wilfork, American football player"
     }
   ],
   "source": "Wikipedia"
