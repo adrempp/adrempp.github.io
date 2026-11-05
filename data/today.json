@@ -2,279 +2,9 @@
   "date": "2026-11-05",
   "items": [
     {
-      "type": "Event",
-      "year": "1968",
-      "text": "Richard Nixon is elected as 37th President of the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "USS Rentz, USS Reeves and USS Oldendorf visit Qingdao, China; the first US naval visit to China since 1949."
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Bubba Watson, American golfer"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Jeb Stuart Magruder, American minister and civil servant (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Lobsang Tenzin, Tibetan religious leader"
-    },
-    {
-      "type": "Death",
-      "year": "1964",
-      "text": "Buddy Cole, American pianist and conductor (born 1916)"
-    },
-    {
-      "type": "Death",
-      "year": "1977",
-      "text": "René Goscinny, French author and illustrator (born 1926)"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "James Kennedy, American psychologist and author"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Billy Sherrill, American record producer, songwriter and arranger (died 2015)"
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Abraham Lincoln removes George B. McClellan as commander of the Army of the Potomac."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Paul Chapman, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "1990",
-      "text": "Rabbi Meir Kahane, founder of the far-right Kach movement, is shot dead after a speech at a New York City hotel."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "W. Allen Wallis, American economist and statistician (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Johnny Damon, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Peter Pace, American general"
-    },
-    {
-      "type": "Event",
-      "year": "1895",
-      "text": "George B. Selden is granted the first U.S. patent for an automobile."
-    },
-    {
-      "type": "Event",
-      "year": "1605",
-      "text": "Gunpowder Plot: Guy Fawkes is arrested in the cellars of the Houses of Parliament, where he had planted gunpowder in an attempt to blow up the building and kill King James I of England."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Tikhon is elected the Patriarch of Moscow and of the Russian Orthodox Church."
-    },
-    {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Jason Kelce, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1916",
-      "text": "The Everett massacre takes place in Everett, Washington as political differences lead to a shoot-out between the Industrial Workers of the World organizers and local police."
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "U.S. Army Major Nidal Hasan murders 13 and wounds 32 at Fort Hood, Texas in the deadliest mass shooting at a U.S. military installation."
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Mark West, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "An iron ore tailings dam bursts in the Brazilian state of Minas Gerais, flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing at least 17 deaths and two missing."
-    },
-    {
-      "type": "Event",
-      "year": "2024",
-      "text": "Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election."
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Will Durant, American historian and philosopher (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "1834",
-      "text": "Founding of the Free University of Brussels by Pierre-Théodore Verhaegen."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Jeffrey Sachs, American economist and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Bill Clinton is reelected President of the United States."
-    },
-    {
-      "type": "Event",
-      "year": "2021",
-      "text": "The Astroworld Festival crowd crush results in 10 deaths and 25 people being hospitalized"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "John Sutton, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Ted Kulongoski, American soldier, lawyer and politician, 36th Governor of Oregon"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Saddam Hussein, the former president of Iraq, and his co-defendants Barzan Ibrahim al-Tikriti and Awad Hamed al-Bandar, are sentenced to death in the al-Dujail trial for their roles in the 1982 massacre of 148 Shia Muslims."
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Angelo Moore, American singer and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Annet Mahendru, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Jon Gray, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Harris Yulin, American actor (died 2025)"
-    },
-    {
-      "type": "Event",
-      "year": "2017",
-      "text": "Devin Patrick Kelley kills 26 and injures 22 in a church in Sutherland Springs, Texas."
-    },
-    {
       "type": "Birth",
       "year": "1955",
-      "text": "Nestor Serrano, American actor"
-    },
-    {
-      "type": "Death",
-      "year": "1946",
-      "text": "Joseph Stella, Italian-American painter (born 1877)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Alexei Yashin, Russian ice hockey player and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Giuseppe Salvioli, Italian football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Fred Lawrence Whipple, American astronomer and academic (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Joe Dassin, American-French singer-songwriter (died 1980)"
-    },
-    {
-      "type": "Birth",
-      "year": "1931",
-      "text": "Ike Turner, American singer-songwriter, guitarist and producer (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1913",
-      "text": "King Otto of Bavaria is deposed by his cousin, Prince Regent Ludwig, who assumes the title Ludwig III."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Friedman Paul Erhardt, German-American chef and author (died 2007)"
-    },
-    {
-      "type": "Event",
-      "year": "1872",
-      "text": "Women's suffrage in the United States: In defiance of the law, suffragist Susan B. Anthony votes for the first time, and is later fined $100."
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "Korean War: British and Australian forces from the 27th British Commonwealth Brigade successfully halted the advancing Chinese 117th Division during the Battle of Pakchon."
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Marie Osborne Yeats, American actress and costume designer (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "The Military Assistance Command, Vietnam reports the lowest weekly American soldier death toll in five years (24)."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Indian Wars: In Minnesota, 303 Dakota warriors are found guilty of rape and murder of whites and are sentenced to death. Thirty-eight are ultimately hanged and the others reprieved."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Andrea McArdle, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1912",
-      "text": "Woodrow Wilson is elected the 28th President of the United States, defeating incumbent William Howard Taft."
-    },
-    {
-      "type": "Event",
-      "year": "1556",
-      "text": "Second Battle of Panipat: Fighting begins between the forces of Hem Chandra Vikramaditya, the Hindu king at Delhi and the forces of the Muslim emperor Akbar."
+      "text": "Kris Jenner, American talent manager and businesswoman"
     },
     {
       "type": "Event",
@@ -283,13 +13,78 @@
     },
     {
       "type": "Event",
-      "year": "1780",
-      "text": "French-American forces under Colonel LaBalme are defeated by Miami Chief Little Turtle."
+      "year": "1996",
+      "text": "Bill Clinton is reelected President of the United States."
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Gil Hill, American actor, police officer and politician (died 2016)"
+      "year": "1911",
+      "text": "Marie Osborne Yeats, American actress and costume designer (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1913",
+      "text": "King Otto of Bavaria is deposed by his cousin, Prince Regent Ludwig, who assumes the title Ludwig III."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "John Harwood, American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1893",
+      "text": "Raymond Loewy, French-American engineer and designer (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Lobsang Tenzin, Tibetan religious leader"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Annet Mahendru, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1990",
+      "text": "Rabbi Meir Kahane, founder of the far-right Kach movement, is shot dead after a speech at a New York City hotel."
+    },
+    {
+      "type": "Birth",
+      "year": "1917",
+      "text": "James Lawton Collins Jr., American brigadier general (died 2002)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "The Military Assistance Command, Vietnam reports the lowest weekly American soldier death toll in five years (24)."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Tatum O'Neal, American actress and author"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Abraham Lincoln removes George B. McClellan as commander of the Army of the Potomac."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Sam Shepard, American playwright and actor (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "An iron ore tailings dam bursts in the Brazilian state of Minas Gerais, flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing at least 17 deaths and two missing."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Natalie Schafer, American actress (died 1991)"
     },
     {
       "type": "Event",
@@ -297,9 +92,214 @@
       "text": "Franklin D. Roosevelt is the first and only President of the United States to be elected to a third term."
     },
     {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Alexei Yashin, Russian ice hockey player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Richard Nixon is elected as 37th President of the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Michael Gaston, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "2021",
+      "text": "The Astroworld Festival crowd crush results in 10 deaths and 25 people being hospitalized"
+    },
+    {
+      "type": "Death",
+      "year": "1975",
+      "text": "Lionel Trilling, American critic, essayist, short story writer, and educator (born 1905)"
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Jill Clayburgh, American actress and singer (born 1944)"
+    },
+    {
+      "type": "Event",
+      "year": "1895",
+      "text": "George B. Selden is granted the first U.S. patent for an automobile."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Romi Dames, Japanese-American actress"
+    },
+    {
+      "type": "Event",
+      "year": "2017",
+      "text": "Devin Patrick Kelley kills 26 and injures 22 in a church in Sutherland Springs, Texas."
+    },
+    {
+      "type": "Event",
+      "year": "1834",
+      "text": "Founding of the Free University of Brussels by Pierre-Théodore Verhaegen."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "O. J. Mayo, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1605",
+      "text": "Gunpowder Plot: Guy Fawkes is arrested in the cellars of the Houses of Parliament, where he had planted gunpowder in an attempt to blow up the building and kill King James I of England."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Jimmie Spheeris, American singer-songwriter (died 1984)"
+    },
+    {
+      "type": "Event",
+      "year": "1872",
+      "text": "Women's suffrage in the United States: In defiance of the law, suffragist Susan B. Anthony votes for the first time, and is later fined $100."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "USS Rentz, USS Reeves and USS Oldendorf visit Qingdao, China; the first US naval visit to China since 1949."
+    },
+    {
+      "type": "Event",
+      "year": "1556",
+      "text": "Second Battle of Panipat: Fighting begins between the forces of Hem Chandra Vikramaditya, the Hindu king at Delhi and the forces of the Muslim emperor Akbar."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Kate DeAraugo, Australian singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "French-American forces under Colonel LaBalme are defeated by Miami Chief Little Turtle."
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Saddam Hussein, the former president of Iraq, and his co-defendants Barzan Ibrahim al-Tikriti and Awad Hamed al-Bandar, are sentenced to death in the al-Dujail trial for their roles in the 1982 massacre of 148 Shia Muslims."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Kevin Jonas, American singer-songwriter, guitarist and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Billy Sherrill, American record producer, songwriter and arranger (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Jeff Watson, American guitarist and songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1916",
+      "text": "The Everett massacre takes place in Everett, Washington as political differences lead to a shoot-out between the Industrial Workers of the World organizers and local police."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Chan Sek Keong, Singaporean lawyer, judge and politician, 3rd Chief Justice of Singapore"
+    },
+    {
+      "type": "Birth",
+      "year": "1894",
+      "text": "Beardsley Ruml, American economist and statistician (died 1960)"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "William Daniel Phillips, American physicist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "Tikhon is elected the Patriarch of Moscow and of the Russian Orthodox Church."
+    },
+    {
+      "type": "Event",
+      "year": "2024",
+      "text": "Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Leonard Herzenberg, American immunologist, geneticist and academic (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Joyce Maynard, American journalist, author and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Ricardo Fort, Argentinian actor, director and businessman (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "1912",
+      "text": "Woodrow Wilson is elected the 28th President of the United States, defeating incumbent William Howard Taft."
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Indian Wars: In Minnesota, 303 Dakota warriors are found guilty of rape and murder of whites and are sentenced to death. Thirty-eight are ultimately hanged and the others reprieved."
+    },
+    {
+      "type": "Death",
+      "year": "1997",
+      "text": "Peter Jackson, Australian rugby league player and sportscaster (born 1964)"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Korean War: British and Australian forces from the 27th British Commonwealth Brigade successfully halted the advancing Chinese 117th Division during the Battle of Pakchon."
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Fred Lawrence Whipple, American astronomer and academic (died 2004)"
+    },
+    {
       "type": "Event",
       "year": "1768",
       "text": "The Treaty of Fort Stanwix is signed, the purpose of which is to adjust the boundary line between Indian lands and white settlements set forth in the Royal Proclamation of 1763 in the Thirteen Colonies."
+    },
+    {
+      "type": "Birth",
+      "year": "1881",
+      "text": "George A. Malcolm, American lawyer and jurist (died 1961)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "U.S. Army Major Nidal Hasan murders 13 and wounds 32 at Fort Hood, Texas in the deadliest mass shooting at a U.S. military installation."
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Ike Turner, American singer-songwriter, guitarist and producer (died 2007)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Sam Rockwell, American actor"
     }
   ],
   "source": "Wikipedia"
