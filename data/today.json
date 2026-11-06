@@ -3,23 +3,13 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1880",
-      "text": "Yoshisuke Aikawa, Japanese businessman and politician, founded Nissan Motor Company (died 1967)"
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Tommy Macpherson, Scottish soldier and businessman (born 1920)"
-    },
-    {
-      "type": "Event",
-      "year": "1956",
-      "text": "Following pressure by US president Eisenhower, Great Britain announces a ceasefire in the Suez crisis, one day after it landed paratroopers together with France at key locations."
+      "year": "1981",
+      "text": "Luke Jackson, American basketball player and coach"
     },
     {
       "type": "Birth",
-      "year": "1960",
-      "text": "Lance Kerwin, American actor (died 2023)"
+      "year": "1941",
+      "text": "Guy Clark, American singer-songwriter, guitarist, and producer (died 2016)"
     },
     {
       "type": "Birth",
@@ -28,23 +18,13 @@
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Nicole Hosp, Austrian skier"
+      "year": "1986",
+      "text": "Ben Rector, American singer, songwriter and musician"
     },
     {
       "type": "Birth",
-      "year": "1900",
-      "text": "Ida Lou Anderson, American orator and professor, pioneer in the field of radio broadcasting (died 1941)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Michael Cunningham, American novelist and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Adam LaRoche, American baseball player"
+      "year": "1930",
+      "text": "Derrick Bell, American scholar, author and critical race theorist (died 2011)"
     },
     {
       "type": "Event",
@@ -53,43 +33,8 @@
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Isaah Yeo, Australian rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Stephanie Vozzo, American professional comic book colorist and music agent"
-    },
-    {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Glenn Frey, American singer-songwriter, guitarist, and actor (died 2016)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Jerry Yang, Taiwanese-American engineer and businessman, co-founded Yahoo!"
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Derrick Bell, American scholar, author and critical race theorist (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Mack Jones, American baseball player (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Ricky Romero, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1900",
-      "text": "President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York."
+      "year": "1885",
+      "text": "Martin O'Meara, Irish-Australian sergeant, Victoria Cross recipient (died 1935)"
     },
     {
       "type": "Event",
@@ -103,23 +48,33 @@
     },
     {
       "type": "Birth",
-      "year": "1949",
-      "text": "Elwood Edwards, American voice actor (died 2024)"
+      "year": "2001",
+      "text": "Day'Ron Sharpe, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Luke Jackson, American basketball player and coach"
+      "year": "1992",
+      "text": "Rebecca Allen, Australian basketball player"
     },
     {
       "type": "Birth",
-      "year": "1962",
-      "text": "Nadezhda Kuzhelnaya, Russian pilot and former cosmonaut"
+      "year": "1979",
+      "text": "Adam LaRoche, American baseball player"
     },
     {
       "type": "Birth",
-      "year": "1997",
-      "text": "Elena-Gabriela Ruse, Romanian tennis player"
+      "year": "1941",
+      "text": "Doug Sahm, American singer-songwriter and musician (died 1999)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Jerry Yang, Taiwanese-American engineer and businessman, co-founded Yahoo!"
+    },
+    {
+      "type": "Birth",
+      "year": "1967",
+      "text": "Rebecca Schaeffer, American actress and model (died 1989)"
     },
     {
       "type": "Birth",
@@ -133,103 +88,18 @@
     },
     {
       "type": "Birth",
-      "year": "1832",
-      "text": "Joseph Smith III, American religious leader (died 1914)"
-    },
-    {
-      "type": "Birth",
-      "year": "1884",
-      "text": "May Brahe, Australian composer (died 1956)"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Doug Sahm, American singer-songwriter and musician (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Rebecca Schaeffer, American actress and model (died 1989)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Lamar Odom, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1860",
-      "text": "Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race."
-    },
-    {
-      "type": "Birth",
-      "year": "1851",
-      "text": "Charles Dow, American journalist and economist (died 1902)"
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Dorothy Allison, American writer (born 1949)"
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians."
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Martin O'Meara, Irish-Australian sergeant, Victoria Cross recipient (died 1935)"
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Rebecca Allen, Australian basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "Tammy Baldwin becomes the first openly gay politician to be elected to the United States Senate."
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Jiang Lijun is detained by Chinese police for signing the Open Letter to the 16th National Congress of the Chinese Communist Party."
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Leo Goeke, American tenor and actor (died 2012)"
-    },
-    {
-      "type": "Birth",
-      "year": "1887",
-      "text": "Walter Johnson, American baseball player and manager (died 1946)"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Addin Fonua-Blake, Australian-Tongan rugby league player"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Graeme Wood, Australian cricketer and footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Doron Lamb, American basketball player"
-    },
-    {
-      "type": "Death",
-      "year": "1968",
-      "text": "Chauncey Sparks, American politician and 41st Governor of Alabama (born 1884)"
-    },
-    {
-      "type": "Birth",
       "year": "1854",
       "text": "John Philip Sousa, American composer and bandleader (died 1932)"
+    },
+    {
+      "type": "Death",
+      "year": "2025",
+      "text": "Rick Hauck, American naval officer, fighter pilot, and NASA astronaut (born 1941)"
+    },
+    {
+      "type": "Death",
+      "year": "2007",
+      "text": "George Grljusich, Australian footballer and sportscaster (born 1939)"
     },
     {
       "type": "Event",
@@ -238,33 +108,13 @@
     },
     {
       "type": "Event",
-      "year": "1977",
-      "text": "The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39."
+      "year": "1860",
+      "text": "Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race."
     },
     {
       "type": "Birth",
-      "year": "1841",
-      "text": "Nelson W. Aldrich, American businessman and politician (died 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1861",
-      "text": "James Naismith, Canadian-American physician and educator, invented basketball (died 1939)"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Bowen Yang, Australian-born American actor, comedian, podcaster, and writer"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Aaron Hernandez, American football player (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1869",
-      "text": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game."
+      "year": "1983",
+      "text": "Nicole Hosp, Austrian skier"
     },
     {
       "type": "Event",
@@ -273,18 +123,28 @@
     },
     {
       "type": "Birth",
-      "year": "1908",
-      "text": "Tony Canzoneri, American boxer (died 1959)"
+      "year": "1997",
+      "text": "Elena-Gabriela Ruse, Romanian tennis player"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "John Holland, Puerto Rican-American basketball player"
+      "year": "1956",
+      "text": "Graeme Wood, Australian cricketer and footballer"
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Michael Schwerner, American activist (died 1964)"
+      "year": "1990",
+      "text": "Bowen Yang, Australian-born American actor, comedian, podcaster, and writer"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Mack Jones, American baseball player (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1956",
+      "text": "Following pressure by US president Eisenhower, Great Britain announces a ceasefire in the Suez crisis, one day after it landed paratroopers together with France at key locations."
     },
     {
       "type": "Birth",
@@ -293,13 +153,153 @@
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Ben Rector, American singer, songwriter and musician"
+      "year": "1851",
+      "text": "Charles Dow, American journalist and economist (died 1902)"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Jiang Lijun is detained by Chinese police for signing the Open Letter to the 16th National Congress of the Chinese Communist Party."
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Lance Kerwin, American actor (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "John Holland, Puerto Rican-American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Emma Stone, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Elwood Edwards, American voice actor (died 2024)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Kelly Rutherford, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39."
     },
     {
       "type": "Birth",
       "year": "1988",
       "text": "Conchita Wurst, Austrian singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "May Brahe, Australian composer (died 1956)"
+    },
+    {
+      "type": "Event",
+      "year": "1869",
+      "text": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Leo Goeke, American tenor and actor (died 2012)"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Joel Connable, American journalist and actor (born 1973)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Rozz Williams, American singer, musician and artist (died 1998)"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Lamar Odom, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Michael Schwerner, American activist (died 1964)"
+    },
+    {
+      "type": "Birth",
+      "year": "1887",
+      "text": "Walter Johnson, American baseball player and manager (died 1946)"
+    },
+    {
+      "type": "Birth",
+      "year": "1841",
+      "text": "Nelson W. Aldrich, American businessman and politician (died 1915)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Sal Vulcano, American comedian and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Ida Lou Anderson, American orator and professor, pioneer in the field of radio broadcasting (died 1941)"
+    },
+    {
+      "type": "Birth",
+      "year": "1880",
+      "text": "Yoshisuke Aikawa, Japanese businessman and politician, founded Nissan Motor Company (died 1967)"
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "Tammy Baldwin becomes the first openly gay politician to be elected to the United States Senate."
+    },
+    {
+      "type": "Birth",
+      "year": "1755",
+      "text": "Zina Hitchcock, New York politician (died 1832)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Tony Canzoneri, American boxer (died 1959)"
+    },
+    {
+      "type": "Birth",
+      "year": "1966",
+      "text": "Stephanie Vozzo, American professional comic book colorist and music agent"
+    },
+    {
+      "type": "Event",
+      "year": "1900",
+      "text": "President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York."
+    },
+    {
+      "type": "Birth",
+      "year": "1994",
+      "text": "Isaah Yeo, Australian rugby league player"
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Glenn Frey, American singer-songwriter, guitarist, and actor (died 2016)"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Maria Shriver, American journalist and author"
     }
   ],
   "source": "Wikipedia"
