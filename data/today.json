@@ -3,18 +3,28 @@
   "items": [
     {
       "type": "Event",
-      "year": "2006",
-      "text": "Israeli-Palestinian conflict: The Israeli Defense Force kill 19 Palestinian civilians in their homes during the shelling of Beit Hanoun."
+      "year": "2011",
+      "text": "The potentially hazardous asteroid 2005 YU55 passes 0.85 lunar distances from Earth (about 324,600 kilometres or 201,700 miles), the closest known approach by an asteroid of its brightness since 2010 XC15 in 1976."
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "Korean War: United States Air Force Lt. Russell J. Brown, while piloting an F-80 Shooting Star, shoots down two North Korean MiG-15s in the first jet aircraft-to-jet aircraft dogfight in history."
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Parker Posey, American actress"
+      "year": "1955",
+      "text": "Patricia Barber, American singer-songwriter and pianist"
     },
     {
       "type": "Birth",
-      "year": "1991",
-      "text": "Aaron Fotheringham, American wheelchair athlete"
+      "year": "1988",
+      "text": "Yasmani Grandal, Cuban-American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Victorinus Youn Kong-hi, South Korean archbishop"
     },
     {
       "type": "Birth",
@@ -22,169 +32,9 @@
       "text": "Tara Reid, American actress"
     },
     {
-      "type": "Death",
-      "year": "1985",
-      "text": "Jacques Hnizdovsky, Ukrainian-American painter and illustrator (born 1915)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Lauren Alaina, American singer and songwriter"
-    },
-    {
       "type": "Event",
-      "year": "1614",
-      "text": "Japanese daimyō Dom Justo Takayama is exiled to the Philippines by shōgun Tokugawa Ieyasu for being Christian."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "Former Massachusetts Attorney General Edward Brooke becomes the first African American elected to the United States Senate since Reconstruction."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Michael D. Brown, American lawyer and radio host"
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "The potentially hazardous asteroid 2005 YU55 passes 0.85 lunar distances from Earth (about 324,600 kilometres or 201,700 miles), the closest known approach by an asteroid of its brightness since 2010 XC15 in 1976."
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Bobby Bowden, American football player and coach (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1975",
-      "text": "Brevin Knight, American basketball player and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1932",
-      "text": "Franklin D. Roosevelt is elected as the 32nd President of the United States, defeating incumbent president Herbert Hoover."
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "Masashi Kishimoto, Japanese author and illustrator, created Naruto"
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Steven Miller, American record producer and engineer"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Chris Connor, American singer (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "Montana is admitted as the 41st U.S. state."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Robert V. Hogg, American statistician and academic (died 2014)"
-    },
-    {
-      "type": "Event",
-      "year": "1291",
-      "text": "The Republic of Venice enacts a law confining most of Venice's glassmaking industry to the \"island of Murano\"."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "John F. Kennedy is elected as the 35th President of the United States, defeating incumbent Vice President Richard Nixon, who would later be elected president in 1968  and 1972."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "Bruce Miller is killed at his junkyard near Flint, Michigan. His wife Sharee Miller, who convinced her online lover Jerry Cassaday to kill him (before later killing himself) was convicted of the crime, in what became the world's first Internet murder."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Riker Lynch, American actor and singer"
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "Iraq War: More than 10,000 U.S. troops and a small number of Iraqi army units participate in a siege on the insurgent stronghold of Fallujah."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Jeffrey Ford, American author and educator"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards."
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "Typhoon Haiyan, one of the strongest tropical cyclones ever recorded, strikes the Visayas region of the Philippines; the storm left at least 6,340 people dead with over 1,000 still missing, and caused $2.86 billion (2013 USD; equivalent to $3.95 billion in 2025) in damage."
-    },
-    {
-      "type": "Event",
-      "year": "1920",
-      "text": "Rupert Bear, illustrated by Mary Tourtel makes his first appearance in print."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "The 173rd Airborne is ambushed by over 1,200 Viet Cong in Operation Hump during the Vietnam War, while the 1st Battalion, Royal Australian Regiment fight one of the first set-piece engagements of the war between Australian forces and the Viet Cong at the Battle of Gang Toi."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Chris Fydler, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Eritrea adopts the nakfa as its official currency."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "American Airlines Flight 383 crashes in Constance, Kentucky, killing 58."
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Peter Suber, American philosopher and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: The \"Trent Affair\": The USS San Jacinto stops the British mail ship Trent and arrests two Confederate envoys, sparking a diplomatic crisis between the UK and US."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Joe Flynn, American actor (died 1974)"
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "U.S. Vice President George H. W. Bush is elected as the 41st president."
-    },
-    {
-      "type": "Event",
-      "year": "1966",
-      "text": "U.S. President Lyndon B. Johnson signs into law an antitrust exemption allowing the National Football League to merge with the upstart American Football League."
-    },
-    {
-      "type": "Event",
-      "year": "2016",
-      "text": "Donald Trump is elected the 45th President of the United States, defeating Hillary Clinton, the first woman ever to receive a major party's nomination."
+      "year": "1973",
+      "text": "The right ear of John Paul Getty III is delivered to a newspaper outlet along with a ransom note, convincing his father to pay US$2.9 million."
     },
     {
       "type": "Event",
@@ -193,33 +43,33 @@
     },
     {
       "type": "Event",
-      "year": "1892",
-      "text": "The New Orleans general strike begins, uniting black and white American trade unionists in a successful four-day general strike action for the first time."
+      "year": "1999",
+      "text": "Bruce Miller is killed at his junkyard near Flint, Michigan. His wife Sharee Miller, who convinced her online lover Jerry Cassaday to kill him (before later killing himself) was convicted of the crime, in what became the world's first Internet murder."
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "John Denny, American baseball player and coach"
+      "year": "1960",
+      "text": "Oleg Menshikov, Russian actor, singer, and director"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Don Byron, American clarinet player and composer"
+      "year": "1945",
+      "text": "Arnold Rosner, American composer (died 2013)"
     },
     {
       "type": "Birth",
-      "year": "1921",
-      "text": "Douglas Townsend, American composer, musicologist, and academic (died 2012)"
+      "year": "1965",
+      "text": "Jeff Blauser, American baseball player and manager"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Malcolm Thomas, American basketball player"
+      "year": "1987",
+      "text": "Sam Bradford, American football player"
     },
     {
       "type": "Event",
-      "year": "1933",
-      "text": "Great Depression: New Deal: US President Franklin D. Roosevelt unveils the Civil Works Administration, an organization designed to create jobs for more than four million unemployed."
+      "year": "960",
+      "text": "Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla."
     },
     {
       "type": "Event",
@@ -228,43 +78,158 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Esther Rolle, American actress (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Christie Hefner, American publisher and businesswoman"
+      "year": "1978",
+      "text": "Maurice Evans, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1973",
-      "text": "The right ear of John Paul Getty III is delivered to a newspaper outlet along with a ransom note, convincing his father to pay US$2.9 million."
+      "year": "1932",
+      "text": "Franklin D. Roosevelt is elected as the 32nd President of the United States, defeating incumbent president Herbert Hoover."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Rupert Bear, illustrated by Mary Tourtel makes his first appearance in print."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "U.S. President Lyndon B. Johnson signs into law an antitrust exemption allowing the National Football League to merge with the upstart American Football League."
+    },
+    {
+      "type": "Death",
+      "year": "1994",
+      "text": "Michael O'Donoghue, American actor and screenwriter (born 1940)"
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "William C. Davidon, American physicist, mathematician, and academic (born 1927)"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "John F. Kennedy is elected as the 35th President of the United States, defeating incumbent Vice President Richard Nixon, who would later be elected president in 1968  and 1972."
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Lee MacPhail, American businessman (born 1917)"
     },
     {
       "type": "Birth",
-      "year": "2000",
-      "text": "Jade Pettyjohn, American actress"
+      "year": "1949",
+      "text": "Wayne LaPierre, American businessman, author, and activist"
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "Montana is admitted as the 41st U.S. state."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Ben Bova, American journalist and author (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1954",
+      "text": "Timothy Egan, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Leif Garrett, American singer, actor, and television personality"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "The 173rd Airborne is ambushed by over 1,200 Viet Cong in Operation Hump during the Vietnam War, while the 1st Battalion, Royal Australian Regiment fight one of the first set-piece engagements of the war between Australian forces and the Viet Cong at the Battle of Gang Toi."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Patti Page, American singer and actress (died 2013)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Peter Suber, American philosopher and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "SZA, American singer-songwriter"
     },
     {
       "type": "Birth",
       "year": "1983",
-      "text": "Danielle Valore Evans, American short story writer"
-    },
-    {
-      "type": "Death",
-      "year": "977",
-      "text": "Ibn al-Qūṭiyya, Andalusian historian"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Bonnie Bramlett, American singer and actress"
+      "text": "Pavel Pogrebnyak, Russian footballer"
     },
     {
       "type": "Event",
-      "year": "1950",
-      "text": "Korean War: United States Air Force Lt. Russell J. Brown, while piloting an F-80 Shooting Star, shoots down two North Korean MiG-15s in the first jet aircraft-to-jet aircraft dogfight in history."
+      "year": "2006",
+      "text": "Israeli-Palestinian conflict: The Israeli Defense Force kill 19 Palestinian civilians in their homes during the shelling of Beit Hanoun."
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "American Airlines Flight 383 crashes in Constance, Kentucky, killing 58."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jesse Marsch; American soccer player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "2016",
+      "text": "Donald Trump is elected the 45th President of the United States, defeating Hillary Clinton, the first woman ever to receive a major party's nomination."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Don Byron, American clarinet player and composer"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Mike Matarazzo, American bodybuilder and boxer (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards."
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Ted DiBiase, Jr., American wrestler and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "John Musker, American animator, director, producer, and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Thea D. Hodge, American computer scientist and academic (died 2008)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Chi Chi LaRue, American drag queen performer and director"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "John Farrar, Australian-born music producer, songwriter, arranger, singer, and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1291",
+      "text": "The Republic of Venice enacts a law confining most of Venice's glassmaking industry to the \"island of Murano\"."
     },
     {
       "type": "Event",
@@ -273,33 +238,68 @@
     },
     {
       "type": "Event",
-      "year": "960",
-      "text": "Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla."
+      "year": "2013",
+      "text": "Typhoon Haiyan, one of the strongest tropical cyclones ever recorded, strikes the Visayas region of the Philippines; the storm left at least 6,340 people dead with over 1,000 still missing, and caused $2.86 billion (2013 USD; equivalent to $3.95 billion in 2025) in damage."
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Jack Osbourne, English-American television personality"
+      "year": "1980",
+      "text": "Laura Jane Grace, American singer-songwriter, guitarist, and producer"
     },
     {
       "type": "Birth",
+      "year": "1957",
+      "text": "Tim Shaw, American swimmer"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: The \"Trent Affair\": The USS San Jacinto stops the British mail ship Trent and arrests two Confederate envoys, sparking a diplomatic crisis between the UK and US."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Larry Burnett, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1933",
+      "text": "Great Depression: New Deal: US President Franklin D. Roosevelt unveils the Civil Works Administration, an organization designed to create jobs for more than four million unemployed."
+    },
+    {
+      "type": "Event",
+      "year": "1966",
+      "text": "Former Massachusetts Attorney General Edward Brooke becomes the first African American elected to the United States Senate since Reconstruction."
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Angel Cordero Jr., Puerto Rican-American jockey"
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "The New Orleans general strike begins, uniting black and white American trade unionists in a successful four-day general strike action for the first time."
+    },
+    {
+      "type": "Event",
       "year": "1988",
-      "text": "Yasmani Grandal, Cuban-American baseball player"
+      "text": "U.S. Vice President George H. W. Bush is elected as the 41st president."
     },
     {
-      "type": "Death",
-      "year": "2015",
-      "text": "Rhea Chiles, American philanthropist, founded the Polk Museum of Art (born 1930)"
+      "type": "Event",
+      "year": "2004",
+      "text": "Iraq War: More than 10,000 U.S. troops and a small number of Iraqi army units participate in a siege on the insurgent stronghold of Fallujah."
     },
     {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Tom Anderson, American businessman, co-founded Myspace"
+      "type": "Event",
+      "year": "1997",
+      "text": "Eritrea adopts the nakfa as its official currency."
     },
     {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Ingrid Puusta, Estonian sailor"
+      "type": "Event",
+      "year": "1614",
+      "text": "Japanese daimyō Dom Justo Takayama is exiled to the Philippines by shōgun Tokugawa Ieyasu for being Christian."
     }
   ],
   "source": "Wikipedia"
