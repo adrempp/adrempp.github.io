@@ -2,199 +2,24 @@
   "date": "2026-11-09",
   "items": [
     {
-      "type": "Event",
-      "year": "1225",
-      "text": "Frederick II, Holy Roman Emperor, marries Yolanda of Jerusalem in Brindisi."
+      "type": "Birth",
+      "year": "1994",
+      "text": "Lyrica Okano, American actress"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Joe Bouchard, American bass player and songwriter"
+      "year": "1922",
+      "text": "Dorothy Dandridge, American actress, singer, and dancer (died 1965)"
     },
     {
       "type": "Birth",
       "year": "1933",
-      "text": "Ed Corney, American professional bodybuilder (died 2019)"
+      "text": "Jim Perry, American game show host (died 2015)"
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "American banker John List murdered his wife, mother, and three children with a pair of handguns."
-    },
-    {
-      "type": "Event",
-      "year": "1720",
-      "text": "The synagogue of Judah HeHasid is burned down by Arab creditors, leading to the expulsion of the Ashkenazim from Jerusalem."
-    },
-    {
-      "type": "Birth",
-      "year": "1854",
-      "text": "Maud Howe Elliott, American activist and author (died 1948)"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: The Supreme Court of the United States votes 6–3 against hearing a case to allow Massachusetts to enforce its law granting residents the right to refuse military service in an undeclared war."
-    },
-    {
-      "type": "Birth",
-      "year": "1886",
-      "text": "Ed Wynn, American actor (died 1966)"
-    },
-    {
-      "type": "Birth",
-      "year": "1918",
-      "text": "Spiro Agnew, American soldier, lawyer, and politician, 39th Vice President of the United States (died 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Nazzareno Carusi, Italian pianist and educator"
-    },
-    {
-      "type": "Birth",
-      "year": "1801",
-      "text": "Gail Borden, American surveyor and publisher, invented condensed milk (died 1874)"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965."
-    },
-    {
-      "type": "Birth",
-      "year": "1580",
-      "text": "Johannes Narssius, Dutch physician and poet (died 1637)"
-    },
-    {
-      "type": "Birth",
-      "year": "1939",
-      "text": "Paul Cameron, American psychologist and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "French Montana, Moroccan-American rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1926",
-      "text": "Paul Hindemith's Cardillac premieres at the Staatsoper in Dresden, conducted by Fritz Busch."
-    },
-    {
-      "type": "Event",
-      "year": "2011",
-      "text": "The first national test of the Emergency Alert System is activated in the United States at 2:00 p.m. EST."
-    },
-    {
-      "type": "Birth",
-      "year": "1853",
-      "text": "Stanford White, American architect and partner, co-founded McKim, Mead & White (died 1906)"
-    },
-    {
-      "type": "Death",
-      "year": "1917",
-      "text": "Harry Trott, Australian cricketer (born 1866)"
-    },
-    {
-      "type": "Event",
-      "year": "1887",
-      "text": "The United States receives rights to Pearl Harbor, Hawaii."
-    },
-    {
-      "type": "Event",
-      "year": "1935",
-      "text": "The Committee for Industrial Organization, the precursor to the Congress of Industrial Organizations, is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Bill Guerin, American ice hockey player, coach, and executive"
-    },
-    {
-      "type": "Death",
-      "year": "2003",
-      "text": "Gordon Onslow Ford, English-American painter (born 1912)"
-    },
-    {
-      "type": "Event",
-      "year": "2012",
-      "text": "At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo."
-    },
-    {
-      "type": "Event",
-      "year": "694",
-      "text": "At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery."
-    },
-    {
-      "type": "Event",
-      "year": "1906",
-      "text": "Theodore Roosevelt is the first sitting President of the United States to make an official trip outside the country, doing so to inspect progress on the Panama Canal."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Robert David Hall, American actor, singer, and pianist"
-    },
-    {
-      "type": "Event",
-      "year": "1851",
-      "text": "Kentucky marshals abduct abolitionist minister Calvin Fairbank from Jeffersonville, Indiana, and take him to Kentucky to stand trial for helping a slave escape."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Bob Gibson, American baseball player and coach (died 2020)"
-    },
-    {
-      "type": "Event",
-      "year": "1688",
-      "text": "Glorious Revolution: William of Orange captures Exeter."
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Uttarakhand officially becomes the 27th state of India, formed from thirteen districts of northwestern Uttar Pradesh."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "Battle of Stalingrad: German forces of the 6th Army under general Friedrich Paulus reach the river bank of the Volga, capturing 90% of the ruined city of Stalingrad and splitting the remaining Soviet forces into two narrow pockets."
-    },
-    {
-      "type": "Event",
-      "year": "1938",
-      "text": "Kristallnacht occurs, instigated by the Nazis using the killing of German diplomat Ernst vom Rath by Herschel Grynszpan as justification."
-    },
-    {
-      "type": "Death",
-      "year": "1641",
-      "text": "Cardinal-Infante Ferdinand of Austria (born 1610)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Adam Dunn, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1431",
-      "text": "The Battle of Ilava: The Hungarians defeat the Hussite army."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Daniel Naroditsky, American chess grandmaster (died 2025)"
-    },
-    {
-      "type": "Event",
-      "year": "1313",
-      "text": "Louis the Bavarian defeats his cousin Frederick I of Austria at the Battle of Gammelsdorf."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia."
+      "year": "2005",
+      "text": "The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan."
     },
     {
       "type": "Event",
@@ -203,43 +28,18 @@
     },
     {
       "type": "Event",
-      "year": "2023",
-      "text": "U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant."
-    },
-    {
-      "type": "Event",
-      "year": "1780",
-      "text": "American Revolutionary War: In the Battle of Fishdam Ford a force of British and Loyalist troops fail in a surprise attack against the South Carolina Patriot militia under Brigadier General Thomas Sumter."
-    },
-    {
-      "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: Union General Ambrose Burnside assumes command of the Army of the Potomac, after George B. McClellan is removed."
+      "year": "1720",
+      "text": "The synagogue of Judah HeHasid is burned down by Arab creditors, leading to the expulsion of the Ashkenazim from Jerusalem."
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Lyrica Okano, American actress"
+      "year": "1969",
+      "text": "Roxanne Shanté, American rapper"
     },
     {
       "type": "Event",
-      "year": "2005",
-      "text": "The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Mary Travers, American singer-songwriter (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1891",
-      "text": "Louisa E. Rhine, American botanist and parapsychologist (died 1983)"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Cold War: Nuclear false alarm: The NORAD computers and the Alternate National Military Command Center in Fort Ritchie, Maryland, detect a purported massive Soviet nuclear strike. After reviewing the raw data from satellites and checking the early-warning radars, the alert is cancelled."
+      "year": "1887",
+      "text": "The United States receives rights to Pearl Harbor, Hawaii."
     },
     {
       "type": "Birth",
@@ -248,23 +48,8 @@
     },
     {
       "type": "Event",
-      "year": "1323",
-      "text": "Siege of Warangal: Prataparudra surrenders to Muhammad bin Tughlaq, officially marking the end of the Kakatiya dynasty."
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Sandra Denton, Jamaican-American rapper and actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1885",
-      "text": "Velimir Khlebnikov, Russian poet and playwright (died 1922)"
-    },
-    {
-      "type": "Birth",
-      "year": "1666",
-      "text": "Carl Gustaf Armfeldt, Swedish officer, general and friherre (died 1736)"
+      "year": "1313",
+      "text": "Louis the Bavarian defeats his cousin Frederick I of Austria at the Battle of Gammelsdorf."
     },
     {
       "type": "Event",
@@ -272,19 +57,194 @@
       "text": "Russian invasion of Manchuria: Russia completes its occupation of Manchuria with 100,000 troops."
     },
     {
+      "type": "Event",
+      "year": "1965",
+      "text": "Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965."
+    },
+    {
+      "type": "Death",
+      "year": "1641",
+      "text": "Cardinal-Infante Ferdinand of Austria (born 1610)"
+    },
+    {
+      "type": "Event",
+      "year": "1688",
+      "text": "Glorious Revolution: William of Orange captures Exeter."
+    },
+    {
+      "type": "Death",
+      "year": "1940",
+      "text": "Neville Chamberlain, English businessman and politician, Prime Minister of the United Kingdom (born 1869)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Allison Wolfe, American singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "2011",
+      "text": "The first national test of the Emergency Alert System is activated in the United States at 2:00 p.m. EST."
+    },
+    {
+      "type": "Event",
+      "year": "1926",
+      "text": "Paul Hindemith's Cardillac premieres at the Staatsoper in Dresden, conducted by Fritz Busch."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Anne Sexton, American poet and academic (died 1974)"
+    },
+    {
+      "type": "Death",
+      "year": "1976",
+      "text": "Armas Taipale, Finnish discus thrower and shot putter (born 1890)"
+    },
+    {
+      "type": "Event",
+      "year": "1780",
+      "text": "American Revolutionary War: In the Battle of Fishdam Ford a force of British and Loyalist troops fail in a surprise attack against the South Carolina Patriot militia under Brigadier General Thomas Sumter."
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Nelson Diebel, American swimmer and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Charlie Robinson, American actor (died 2021)"
+    },
+    {
       "type": "Birth",
       "year": "1936",
-      "text": "Mikhail Tal, Latvian-Russian chess player and author (died 1992)"
+      "text": "Mary Travers, American singer-songwriter (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1906",
+      "text": "Theodore Roosevelt is the first sitting President of the United States to make an official trip outside the country, doing so to inspect progress on the Panama Canal."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Andrei Lapushkin, Russian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Cold War: Nuclear false alarm: The NORAD computers and the Alternate National Military Command Center in Fort Ritchie, Maryland, detect a purported massive Soviet nuclear strike. After reviewing the raw data from satellites and checking the early-warning radars, the alert is cancelled."
+    },
+    {
+      "type": "Event",
+      "year": "2012",
+      "text": "At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo."
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Alistair Horne, English-American journalist, historian, and author (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1862",
+      "text": "American Civil War: Union General Ambrose Burnside assumes command of the Army of the Potomac, after George B. McClellan is removed."
+    },
+    {
+      "type": "Birth",
+      "year": "1871",
+      "text": "Florence R. Sabin, American medical scientist (died 1953)"
+    },
+    {
+      "type": "Birth",
+      "year": "1802",
+      "text": "Elijah Parish Lovejoy, American minister, journalist, and activist (died 1837)"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Apollo program: NASA launches the unmanned Apollo 4 test spacecraft, atop the first Saturn V rocket, from Florida's Cape Kennedy."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Daniel Naroditsky, American chess grandmaster (died 2025)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "Battle of Stalingrad: German forces of the 6th Army under general Friedrich Paulus reach the river bank of the Volga, capturing 90% of the ruined city of Stalingrad and splitting the remaining Soviet forces into two narrow pockets."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Ti-Grace Atkinson, American author and critic"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Scarface, American rapper and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1799",
+      "text": "Gustav, Prince of Vasa (died 1877)"
+    },
+    {
+      "type": "Event",
+      "year": "694",
+      "text": "At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery."
+    },
+    {
+      "type": "Event",
+      "year": "1935",
+      "text": "The Committee for Industrial Organization, the precursor to the Congress of Industrial Organizations, is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor."
+    },
+    {
+      "type": "Event",
+      "year": "1225",
+      "text": "Frederick II, Holy Roman Emperor, marries Yolanda of Jerusalem in Brindisi."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1431",
+      "text": "The Battle of Ilava: The Hungarians defeat the Hussite army."
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant."
+    },
+    {
+      "type": "Birth",
+      "year": "1897",
+      "text": "Harvey Hendrick, American baseball player (died 1941)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: The Supreme Court of the United States votes 6–3 against hearing a case to allow Massachusetts to enforce its law granting residents the right to refuse military service in an undeclared war."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Benny Mardones, American singer-songwriter (died 2020)"
     },
     {
       "type": "Event",
       "year": "1943",
       "text": "An agreement for the founding of the United Nations Relief and Rehabilitation Administration is signed by 44 countries in the White House, Washington, D.C."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Alice Coachman, American high jumper (died 2014)"
     },
     {
       "type": "Event",
@@ -293,13 +253,53 @@
     },
     {
       "type": "Event",
-      "year": "1967",
-      "text": "Apollo program: NASA launches the unmanned Apollo 4 test spacecraft, atop the first Saturn V rocket, from Florida's Cape Kennedy."
+      "year": "2000",
+      "text": "Uttarakhand officially becomes the 27th state of India, formed from thirteen districts of northwestern Uttar Pradesh."
     },
     {
       "type": "Event",
-      "year": "1998",
-      "text": "A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing."
+      "year": "1851",
+      "text": "Kentucky marshals abduct abolitionist minister Calvin Fairbank from Jeffersonville, Indiana, and take him to Kentucky to stand trial for helping a slave escape."
+    },
+    {
+      "type": "Event",
+      "year": "1938",
+      "text": "Kristallnacht occurs, instigated by the Nazis using the killing of German diplomat Ernst vom Rath by Herschel Grynszpan as justification."
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "American banker John List murdered his wife, mother, and three children with a pair of handguns."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Robert Duncan McNeill, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1323",
+      "text": "Siege of Warangal: Prataparudra surrenders to Muhammad bin Tughlaq, officially marking the end of the Kakatiya dynasty."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Nazzareno Carusi, Italian pianist and educator"
+    },
+    {
+      "type": "Birth",
+      "year": "1818",
+      "text": "Ivan Turgenev, Russian author and playwright (died 1883)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Anthony Bowie, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Ted Potter Jr., American golfer"
     }
   ],
   "source": "Wikipedia"
