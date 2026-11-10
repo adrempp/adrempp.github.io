@@ -2,224 +2,14 @@
   "date": "2026-11-10",
   "items": [
     {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Ronald Evans, American captain, engineer, and astronaut (died 1990)"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "A 106-car Canadian Pacific freight train carrying explosive and poisonous chemicals from Windsor, Ontario, Canada derails in Mississauga, Ontario."
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The Nauru Independence Act 1967 passed the Parliament of Australia, giving independence to the UN Trust Territory of Nauru with effect from 31 January 1968."
-    },
-    {
-      "type": "Birth",
-      "year": "1997",
-      "text": "Joost Klein, Dutch musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Shawn Green, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Brittany Murphy, American actress and singer (died 2009)"
-    },
-    {
-      "type": "Event",
-      "year": "1444",
-      "text": "Battle of Varna: The crusading forces of King Władysław III of Poland (aka Ulaszlo I of Hungary and Władysław III of Varna) are defeated by the Turks under Sultan Murad II and Władysław is killed."
-    },
-    {
-      "type": "Event",
-      "year": "1954",
-      "text": "U.S. President Dwight D. Eisenhower dedicates the USMC War Memorial (Iwo Jima memorial) in Arlington Ridge Park in Arlington County, Virginia."
-    },
-    {
-      "type": "Event",
-      "year": "1971",
-      "text": "A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board."
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Scotty Pippen Jr., American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "The National Museum of the Marine Corps in Quantico, Virginia is opened and dedicated by U.S. President George W. Bush, who announces that Marine Corporal Jason Dunham will posthumously receive the Medal of Honor."
-    },
-    {
-      "type": "Event",
-      "year": "1975",
-      "text": "Israeli-Palestinian conflict: the United Nations General Assembly passes Resolution 3379, determining that Zionism is a form of racism."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Michael J. Keplinger, Austrian musician and filmmaker"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "The ammunition ship USS Mount Hood explodes at Seeadler Harbour, Manus, Admiralty Islands, killing at least 432 and wounding 371."
-    },
-    {
-      "type": "Event",
-      "year": "1847",
-      "text": "The passenger ship Stephen Whitney is wrecked in thick fog off the southern coast of Ireland, killing 92 of the 110 on board. The disaster results in the construction of the Fastnet Rock lighthouse."
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Sri Lankan Tamil politician Nadarajah Raviraj is assassinated in Colombo."
-    },
-    {
-      "type": "Event",
-      "year": "1951",
-      "text": "With the rollout of the North American Numbering Plan, direct-dial coast-to-coast telephone service begins in the United States."
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "WorldCom and MCI Communications announce a $37 billion merger (the largest merger in US history at the time)."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Arthur K. Snyder, American lawyer and politician (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1898",
-      "text": "White supremacists seized power and massacred black Americans during the Wilmington massacre, the only instance of a municipal government being overthrown in United States history."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Mike Powell, American long jumper"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Mackenzie Phillips, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Western Union Cable Office in North Sydney, Nova Scotia, receives a top-secret coded message from Europe (that would be sent to Ottawa and Washington, D.C.) that said on November 11, 1918, all fighting would cease on land, sea and in the air."
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Zoey Deutch, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Michael Cimino, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1910",
-      "text": "The date of Thomas A. Davis' opening of the San Diego Army and Navy Academy, although the official founding date is November 23, 1910."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Stephen Herek, American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "2002",
-      "text": "Veteran's Day Weekend Tornado Outbreak: A tornado outbreak stretching from Northern Ohio to the Gulf Coast, one of the largest outbreaks recorded in November."
-    },
-    {
-      "type": "Death",
-      "year": "1984",
-      "text": "Xavier Herbert, Australian author (born 1901)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Kenny Rogers, American baseball player and coach"
-    },
-    {
       "type": "Event",
       "year": "1871",
       "text": "Henry Morton Stanley locates missing explorer and missionary, David Livingstone in Ujiji, near Lake Tanganyika, famously greeting him with the words, \"Dr. Livingstone, I presume?\""
     },
     {
-      "type": "Birth",
-      "year": "1949",
-      "text": "Mustafa Denizli, Turkish footballer and manager"
-    },
-    {
       "type": "Event",
-      "year": "1702",
-      "text": "English colonists under the command of James Moore besiege Spanish St. Augustine during Queen Anne's War."
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Mike McCarthy, American football player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1958",
-      "text": "The Hope Diamond is donated to the Smithsonian Institution by New York diamond merchant Harry Winston."
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Drew Lock, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Jack Scalia, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "World Anti-Doping Agency is formed in Lausanne."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Dimitri Petratos, Australian footballer"
-    },
-    {
-      "type": "Event",
-      "year": "2008",
-      "text": "Over five months after landing on Mars, NASA declares the Phoenix mission concluded after communications with the lander were lost."
-    },
-    {
-      "type": "Event",
-      "year": "1202",
-      "text": "Fourth Crusade: Despite letters from Pope Innocent III forbidding it and threatening excommunication, Catholic crusaders begin a siege of Zara (now Zadar, Croatia)."
-    },
-    {
-      "type": "Death",
-      "year": "2014",
-      "text": "Wayne Goss, Australian lawyer and politician, 34th Premier of Queensland (born 1951)"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "James Hood, American activist (died 2013)"
+      "year": "1975",
+      "text": "Israeli-Palestinian conflict: the United Nations General Assembly passes Resolution 3379, determining that Zionism is a form of racism."
     },
     {
       "type": "Event",
@@ -228,58 +18,48 @@
     },
     {
       "type": "Event",
-      "year": "1865",
-      "text": "Major Henry Wirz, the superintendent of a prison camp in Andersonville, Georgia, is hanged, becoming one of only three American Civil War soldiers executed for war crimes."
-    },
-    {
-      "type": "Birth",
       "year": "1944",
-      "text": "Mark E. Neely, Jr., American historian, author, and academic"
-    },
-    {
-      "type": "Event",
-      "year": "937",
-      "text": "Ten Kingdoms: Li Bian usurps the throne and deposes Emperor Yang Pu. The Wu State is replaced by Li (now called \"Xu Zhigao\"), who becomes the first ruler of Southern Tang."
+      "text": "The ammunition ship USS Mount Hood explodes at Seeadler Harbour, Manus, Admiralty Islands, killing at least 432 and wounding 371."
     },
     {
       "type": "Birth",
-      "year": "1986",
-      "text": "Josh Peck, American actor"
+      "year": "1962",
+      "text": "Bob Lindner, Australian rugby league player and coach"
     },
     {
       "type": "Event",
-      "year": "1659",
-      "text": "Chattrapati Shivaji Maharaj, Maratha King kills Afzal Khan, Adilshahi in the battle popularly known as Battle of Pratapgarh."
+      "year": "1910",
+      "text": "The date of Thomas A. Davis' opening of the San Diego Army and Navy Academy, although the official founding date is November 23, 1910."
     },
     {
       "type": "Event",
-      "year": "1775",
-      "text": "The United States Marine Corps is founded at Tun Tavern in Philadelphia by Samuel Nicholas."
+      "year": "1969",
+      "text": "National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street."
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: Vietnamization: For the first time in five years, an entire week ends with no reports of American combat fatalities in Southeast Asia."
-    },
-    {
-      "type": "Event",
-      "year": "1766",
-      "text": "The last colonial governor of New Jersey, William Franklin, signs the charter of Queen's College (later renamed Rutgers University)."
+      "year": "2006",
+      "text": "The National Museum of the Marine Corps in Quantico, Virginia is opened and dedicated by U.S. President George W. Bush, who announces that Marine Corporal Jason Dunham will posthumously receive the Medal of Honor."
     },
     {
       "type": "Birth",
-      "year": "1978",
-      "text": "Kristian Huselius, Swedish ice hockey player"
+      "year": "1939",
+      "text": "Allan Moffat, Canadian-Australian race car driver (died 2025)"
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Brooks Williams, American singer-songwriter and guitarist"
+      "year": "1979",
+      "text": "Chris Joannou, Australian bass player"
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Mohsen Badawi, Egyptian businessman and activist"
+      "year": "1935",
+      "text": "Bernard Babior, American physician and biochemist (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Teddy Bridgewater, American football player"
     },
     {
       "type": "Birth",
@@ -288,8 +68,158 @@
     },
     {
       "type": "Birth",
-      "year": "1965",
-      "text": "Jamie Dixon, American basketball player and coach"
+      "year": "1996",
+      "text": "Drew Lock, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Jason Dunham, American soldier, Medal of Honor recipient (died 2004)"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "The Nauru Independence Act 1967 passed the Parliament of Australia, giving independence to the UN Trust Territory of Nauru with effect from 31 January 1968."
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "A 106-car Canadian Pacific freight train carrying explosive and poisonous chemicals from Windsor, Ontario, Canada derails in Mississauga, Ontario."
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "World Anti-Doping Agency is formed in Lausanne."
+    },
+    {
+      "type": "Event",
+      "year": "1702",
+      "text": "English colonists under the command of James Moore besiege Spanish St. Augustine during Queen Anne's War."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Tom Papa, American comedian, actor, television host"
+    },
+    {
+      "type": "Event",
+      "year": "1865",
+      "text": "Major Henry Wirz, the superintendent of a prison camp in Andersonville, Georgia, is hanged, becoming one of only three American Civil War soldiers executed for war crimes."
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Brittany Murphy, American actress and singer (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "937",
+      "text": "Ten Kingdoms: Li Bian usurps the throne and deposes Emperor Yang Pu. The Wu State is replaced by Li (now called \"Xu Zhigao\"), who becomes the first ruler of Southern Tang."
+    },
+    {
+      "type": "Death",
+      "year": "1982",
+      "text": "Leonid Brezhnev, Ukrainian-Russian general and politician, 4th Head of State of the Soviet Union (born 1906)"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Debra Hill, American screenwriter and producer (died 2005)"
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Omar Minaya, American baseball player and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "The Hope Diamond is donated to the Smithsonian Institution by New York diamond merchant Harry Winston."
+    },
+    {
+      "type": "Event",
+      "year": "1202",
+      "text": "Fourth Crusade: Despite letters from Pope Innocent III forbidding it and threatening excommunication, Catholic crusaders begin a siege of Zara (now Zadar, Croatia)."
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Eric Thames, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1659",
+      "text": "Chattrapati Shivaji Maharaj, Maratha King kills Afzal Khan, Adilshahi in the battle popularly known as Battle of Pratapgarh."
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "WorldCom and MCI Communications announce a $37 billion merger (the largest merger in US history at the time)."
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Eve, American rapper and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1847",
+      "text": "The passenger ship Stephen Whitney is wrecked in thick fog off the southern coast of Ireland, killing 92 of the 110 on board. The disaster results in the construction of the Fastnet Rock lighthouse."
+    },
+    {
+      "type": "Death",
+      "year": "1991",
+      "text": "William Afflis, American football player and wrestler (born 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Silvestre Reyes, American sergeant and politician"
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "Over five months after landing on Mars, NASA declares the Phoenix mission concluded after communications with the lander were lost."
+    },
+    {
+      "type": "Event",
+      "year": "1444",
+      "text": "Battle of Varna: The crusading forces of King Władysław III of Poland (aka Ulaszlo I of Hungary and Władysław III of Varna) are defeated by the Turks under Sultan Murad II and Władysław is killed."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "Albert Hall, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "2006",
+      "text": "Sri Lankan Tamil politician Nadarajah Raviraj is assassinated in Colombo."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Tracy Morgan, American comedian and actor"
+    },
+    {
+      "type": "Event",
+      "year": "2002",
+      "text": "Veteran's Day Weekend Tornado Outbreak: A tornado outbreak stretching from Northern Ohio to the Gulf Coast, one of the largest outbreaks recorded in November."
+    },
+    {
+      "type": "Event",
+      "year": "1954",
+      "text": "U.S. President Dwight D. Eisenhower dedicates the USMC War Memorial (Iwo Jima memorial) in Arlington Ridge Park in Arlington County, Virginia."
+    },
+    {
+      "type": "Event",
+      "year": "1951",
+      "text": "With the rollout of the North American Numbering Plan, direct-dial coast-to-coast telephone service begins in the United States."
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Armand Duplantis, Swedish-American pole vaulter"
     },
     {
       "type": "Event",
@@ -297,9 +227,79 @@
       "text": "A Dassault Falcon 50 and a Piper PA-28 Cherokee collide in mid-air over Fairview, New Jersey, killing six people and injuring eight."
     },
     {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Robert F. Engle, American economist and academic, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Les Miles, American football player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1898",
+      "text": "White supremacists seized power and massacred black Americans during the Wilmington massacre, the only instance of a municipal government being overthrown in United States history."
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Western Union Cable Office in North Sydney, Nova Scotia, receives a top-secret coded message from Europe (that would be sent to Ottawa and Washington, D.C.) that said on November 11, 1918, all fighting would cease on land, sea and in the air."
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Joost Klein, Dutch musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Dimitri Petratos, Australian footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board."
+    },
+    {
+      "type": "Birth",
+      "year": "1932",
+      "text": "Paul Bley, Canadian-American pianist and composer (died 2016)"
+    },
+    {
+      "type": "Event",
+      "year": "1775",
+      "text": "The United States Marine Corps is founded at Tun Tavern in Philadelphia by Samuel Nicholas."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Mackenzie Phillips, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Glen Buxton, American guitarist and songwriter (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1766",
+      "text": "The last colonial governor of New Jersey, William Franklin, signs the charter of Queen's College (later renamed Rutgers University)."
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Robert Moreland, American college basketball coach (Texas Southern Tigers) (died 2024)"
+    },
+    {
       "type": "Death",
-      "year": "2009",
-      "text": "John Allen Muhammad, American spree killer (born 1960)"
+      "year": "2014",
+      "text": "John Hans Krebs, American lawyer and politician (born 1926)"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: Vietnamization: For the first time in five years, an entire week ends with no reports of American combat fatalities in Southeast Asia."
     }
   ],
   "source": "Wikipedia"
