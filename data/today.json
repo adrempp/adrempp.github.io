@@ -2,154 +2,9 @@
   "date": "2026-11-12",
   "items": [
     {
-      "type": "Birth",
-      "year": "1903",
-      "text": "Jack Oakie, American actor (died 1978)"
-    },
-    {
-      "type": "Birth",
-      "year": "1917",
-      "text": "Jo Stafford, American singer (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1982",
-      "text": "USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev."
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "The Oregon Highway Division attempts to destroy a rotting beached sperm whale with explosives, leading to the now infamous \"exploding whale\" incident."
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "World War II: Soviet Foreign Minister Vyacheslav Molotov arrives in Berlin to discuss the possibility of the Soviet Union joining the Axis Powers."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory."
-    },
-    {
       "type": "Event",
       "year": "1933",
       "text": "Nazi Germany uses a referendum to ratify its withdrawal from the League of Nations."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles."
-    },
-    {
-      "type": "Birth",
-      "year": "1950",
-      "text": "Barbara Fairchild, American country and gospel singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1892",
-      "text": "Pudge Heffelfinger becomes the first professional American football player on record, participating in his first paid game for the Allegheny Athletic Association."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Paul McNamee, Australian tennis player"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "James Luther Adams, American minister and theologian (died 1994)"
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground."
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Max Hoffman, Austrian-born car importer and businessman (died 1981)"
-    },
-    {
-      "type": "Event",
-      "year": "1997",
-      "text": "Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing."
-    },
-    {
-      "type": "Birth",
-      "year": "1945",
-      "text": "Judith Roitman, American mathematician and academic"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Michael Rogers (publisher), American media executive, journalist, and fundraiser"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Rob Schrab, American writer and artist"
-    },
-    {
-      "type": "Event",
-      "year": "1936",
-      "text": "In California, the San Francisco–Oakland Bay Bridge opens to traffic."
-    },
-    {
-      "type": "Event",
-      "year": "1928",
-      "text": "SS Vestris sinks approximately 200 miles (320 km) off Hampton Roads, Virginia, killing at least 110 passengers, mostly women and children who die after the vessel is abandoned."
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date."
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "John Walker, American singer-songwriter and guitarist (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Tevin Campbell, American R&B singer-songwriter and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Wallace Shawn, American actor, comedian and playwright"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Tadeusz Borowski, Polish poet, author, and journalist (died 1951)"
-    },
-    {
-      "type": "Birth",
-      "year": "1840",
-      "text": "Auguste Rodin, French sculptor and illustrator, created The Thinker (died 1917)"
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Kathleen Hanna, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Booker T. Jones, American pianist, saxophonist, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1795",
-      "text": "Thaddeus William Harris, American entomologist and botanist (died 1856)"
-    },
-    {
-      "type": "Birth",
-      "year": "1755",
-      "text": "Gerhard von Scharnhorst, Prussian general and politician, Prussian Minister of War (died 1813)"
     },
     {
       "type": "Birth",
@@ -158,13 +13,28 @@
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Jason Day, Australian golfer"
+      "year": "2007",
+      "text": "Leonardo Puglisi, Australian journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "John Walker, American singer-songwriter and guitarist (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Naomi Wolf, American author and journalist"
     },
     {
       "type": "Event",
-      "year": "1995",
-      "text": "Space Shuttle Atlantis launches on STS-74 to deliver the Mir Docking Module to the Russian space station Mir."
+      "year": "1996",
+      "text": "A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Barbara Stühlmeyer, German musicologist, church musician and writer"
     },
     {
       "type": "Birth",
@@ -173,28 +43,33 @@
     },
     {
       "type": "Birth",
-      "year": "1920",
-      "text": "Richard Quine, American actor, director, and screenwriter (died 1989)"
+      "year": "1938",
+      "text": "Mort Shuman, American singer-songwriter and pianist (died 1991)"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Jason Lezak, American swimmer"
-    },
-    {
-      "type": "Death",
-      "year": "1994",
-      "text": "Wilma Rudolph, American sprinter and educator (born 1940)"
+      "year": "1895",
+      "text": "Marguerite Henry, Australian zoologist (died 1982)"
     },
     {
       "type": "Event",
-      "year": "1330",
-      "text": "Battle of Posada ends: Wallachian Voievode Basarab I defeats the Hungarian army by ambush."
+      "year": "2003",
+      "text": "Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles."
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "Iran hostage crisis: In response to the hostage situation in Tehran, U.S. President Jimmy Carter orders a halt to all petroleum imports into the United States from Iran."
+      "year": "2001",
+      "text": "In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "World War II: Soviet Foreign Minister Vyacheslav Molotov arrives in Berlin to discuss the possibility of the Soviet Union joining the Axis Powers."
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Alexandra Charles, Swedish businesswoman"
     },
     {
       "type": "Event",
@@ -203,58 +78,8 @@
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Disco Inferno, American wrestler and manager"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Elektra, American wrestler, model, and dancer"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Ethan Zohn, American pro soccer player and Survivor: Africa winner"
-    },
-    {
-      "type": "Birth",
-      "year": "1929",
-      "text": "Grace Kelly, American actress, later Princess Grace of Monaco (died 1982)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Radha Mitchell, Australian actress"
-    },
-    {
-      "type": "Birth",
-      "year": "2007",
-      "text": "Leonardo Puglisi, Australian journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "The NASA space probe Voyager I makes its closest approach to Saturn and takes the first images of its rings."
-    },
-    {
-      "type": "Death",
-      "year": "657",
-      "text": "Livinus, Irish apostle (born c.580)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Brian Hyland, American pop singer"
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Thomas E. Kurtz, American computer scientist and educator (born 1928)"
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Jorge Masvidal, American Mixed Martial Artist"
+      "year": "1994",
+      "text": "Kseniya Alexandrova, Russian model (died 2025)"
     },
     {
       "type": "Event",
@@ -263,23 +88,133 @@
     },
     {
       "type": "Event",
+      "year": "1995",
+      "text": "Space Shuttle Atlantis launches on STS-74 to deliver the Mir Docking Module to the Russian space station Mir."
+    },
+    {
+      "type": "Event",
+      "year": "1982",
+      "text": "USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev."
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "James Luther Adams, American minister and theologian (died 1994)"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Sergio Oliva, Cuban-American bodybuilder (born 1941)"
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Trey Burke, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Grace Kelly, American actress, later Princess Grace of Monaco (died 1982)"
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Paolo Banchero, Italian-American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Kathleen Hanna, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Dexter Lawrence, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Lex Lang, American voice actor and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Michael Bishop, American author and educator (died 2023)"
+    },
+    {
+      "type": "Event",
       "year": "2011",
       "text": "Silvio Berlusconi tenders his resignation as Prime Minister of Italy, effective November 16, due in large part to the Euro area crisis."
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "Lucas Glover, American golfer"
+      "year": "1954",
+      "text": "Paul McNamee, Australian tennis player"
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Delano Lewis, American diplomat (died 2023)"
+      "year": "1944",
+      "text": "Ken Houston, American football player"
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "The Oregon Highway Division attempts to destroy a rotting beached sperm whale with explosives, leading to the now infamous \"exploding whale\" incident."
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Vic Chesnutt, American singer-songwriter and guitarist (died 2009)"
+      "year": "1795",
+      "text": "Thaddeus William Harris, American entomologist and botanist (died 1856)"
+    },
+    {
+      "type": "Event",
+      "year": "1892",
+      "text": "Pudge Heffelfinger becomes the first professional American football player on record, participating in his first paid game for the Allegheny Athletic Association."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Charlie Morton, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1936",
+      "text": "In California, the San Francisco–Oakland Bay Bridge opens to traffic."
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Jason Day, Australian golfer"
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Richard Quine, American actor, director, and screenwriter (died 1989)"
+    },
+    {
+      "type": "Birth",
+      "year": "1904",
+      "text": "Max Hoffman, Austrian-born car importer and businessman (died 1981)"
+    },
+    {
+      "type": "Event",
+      "year": "1330",
+      "text": "Battle of Posada ends: Wallachian Voievode Basarab I defeats the Hungarian army by ambush."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Vincent Irizarry, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1928",
+      "text": "SS Vestris sinks approximately 200 miles (320 km) off Hampton Roads, Virginia, killing at least 110 passengers, mostly women and children who die after the vessel is abandoned."
     },
     {
       "type": "Birth",
@@ -288,8 +223,63 @@
     },
     {
       "type": "Birth",
+      "year": "1889",
+      "text": "DeWitt Wallace, American publisher and philanthropist, co-founded Reader's Digest (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Sammy Sosa, Dominican-American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "The NASA space probe Voyager I makes its closest approach to Saturn and takes the first images of its rings."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Brian Hyland, American pop singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1850",
+      "text": "Mikhail Chigorin, Russian chess player and theoretician (died 1908)"
+    },
+    {
+      "type": "Event",
+      "year": "1997",
+      "text": "Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing."
+    },
+    {
+      "type": "Birth",
       "year": "1970",
       "text": "Tonya Harding, American figure skater"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Iran hostage crisis: In response to the hostage situation in Tehran, U.S. President Jimmy Carter orders a halt to all petroleum imports into the United States from Iran."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Megan Mullally, American actress and singer"
+    },
+    {
+      "type": "Death",
+      "year": "657",
+      "text": "Livinus, Irish apostle (born c.580)"
+    },
+    {
+      "type": "Death",
+      "year": "1347",
+      "text": "John of Viktring, Austrian chronicler and political advisor (born c.1270)"
+    },
+    {
+      "type": "Birth",
+      "year": "1908",
+      "text": "Harry Blackmun, American lawyer and judge (died 1999)"
     },
     {
       "type": "Event",
@@ -298,8 +288,18 @@
     },
     {
       "type": "Birth",
-      "year": "1971",
-      "text": "Rebecca Wisocky, American actress"
+      "year": "1911",
+      "text": "Buck Clayton, American trumpet player and academic (died 1991)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Tevin Campbell, American R&B singer-songwriter and actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Jason Lezak, American swimmer"
     }
   ],
   "source": "Wikipedia"
