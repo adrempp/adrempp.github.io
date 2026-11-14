@@ -2,9 +2,89 @@
   "date": "2026-11-14",
   "items": [
     {
+      "type": "Birth",
+      "year": "1930",
+      "text": "Ed White, American engineer and astronaut (died 1967)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Stella Maeve, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser."
+    },
+    {
+      "type": "Birth",
+      "year": "1998",
+      "text": "DeVonta Smith, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Adina Howard, American singer-songwriter and chef"
+    },
+    {
+      "type": "Event",
+      "year": "1851",
+      "text": "Moby-Dick, a novel by Herman Melville, is published in the USA."
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Maggie Roswell, American voice actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "The Congress of Colombia, in commemoration of the 150th anniversary of the death of Policarpa Salavarrieta, declares this day as \"Day of the Colombian Woman\"."
+    },
+    {
+      "type": "Event",
+      "year": "2008",
+      "text": "The first G-20 economic summit opens in Washington, D.C."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Nat Young, Australian surfer and author"
+    },
+    {
+      "type": "Event",
+      "year": "1995",
+      "text": "A budget standoff between Democrats and Republicans in the U.S. Congress forces the federal government to temporarily close national parks and museums and to run most government offices with skeleton staffs."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Southern Airways Flight 932 crashes in the mountains near Huntington, West Virginia, killing 75, including almost all of the Marshall University football team."
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103."
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Kathleen Hughes, American actress (died 2025)"
+    },
+    {
       "type": "Event",
       "year": "1941",
       "text": "World War II: The aircraft carrier HMS Ark Royal sinks due to torpedo damage from the German submarine U-81 sustained on November 13."
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashes near Nha Trang, killing 30."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Apollo program: NASA launches Apollo 12, the second crewed mission to the surface of the Moon."
     },
     {
       "type": "Event",
@@ -14,37 +94,22 @@
     {
       "type": "Birth",
       "year": "1927",
-      "text": "McLean Stevenson, American actor and screenwriter (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1991",
-      "text": "American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103."
-    },
-    {
-      "type": "Event",
-      "year": "1957",
-      "text": "The \"Apalachin meeting\" in rural Tioga County in upstate New York is raided by law enforcement; many high-level Mafia figures are arrested while trying to flee."
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashes near Nha Trang, killing 30."
+      "text": "Lawrie Barratt, English businessman, founded Barratt Developments (died 2012)"
     },
     {
       "type": "Birth",
-      "year": "1974",
-      "text": "Adina Howard, American singer-songwriter and chef"
+      "year": "1954",
+      "text": "Condoleezza Rice, American political scientist, academic, and politician, 66th United States Secretary of State"
+    },
+    {
+      "type": "Death",
+      "year": "1915",
+      "text": "Booker T. Washington, American educator, essayist and historian (born 1856)"
     },
     {
       "type": "Birth",
-      "year": "1975",
-      "text": "Gary Vaynerchuk, Russian-American businessman and critic"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Barbara Hutton, American philanthropist (died 1979)"
+      "year": "1895",
+      "text": "Walter Jackson Freeman II, American physician and psychiatrist (died 1972)"
     },
     {
       "type": "Event",
@@ -53,33 +118,43 @@
     },
     {
       "type": "Birth",
-      "year": "1961",
-      "text": "D. B. Sweeney, American actor"
+      "year": "1987",
+      "text": "Giorgos Georgiadis, Greek footballer"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "During a British House of Commons debate, Labour MP Tam Dalyell poses what would become known as the West Lothian question, referring to issues related to devolution in the United Kingdom."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Stephen Bishop, American singer-songwriter and actor"
     },
     {
       "type": "Event",
       "year": "1970",
-      "text": "Southern Airways Flight 932 crashes in the mountains near Huntington, West Virginia, killing 75, including almost all of the Marshall University football team."
+      "text": "Soviet Union enters ICAO, making Russian the fourth official language of organization."
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Vanessa Bayer, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: The Battle of Ia Drang begins. This is the first major engagement between regular American and North Vietnamese forces."
+      "year": "1968",
+      "text": "Lionel Simmons, American basketball player"
     },
     {
       "type": "Birth",
-      "year": "1989",
-      "text": "T. Y. Hilton, American football player"
+      "year": "1964",
+      "text": "Patrick Warburton, American actor and comedian"
     },
     {
       "type": "Birth",
-      "year": "1927",
-      "text": "Lawrie Barratt, English businessman, founded Barratt Developments (died 2012)"
+      "year": "1956",
+      "text": "Valerie Jarrett, American government official"
+    },
+    {
+      "type": "Death",
+      "year": "1996",
+      "text": "Joseph Bernardin, American cardinal (born 1928)"
     },
     {
       "type": "Birth",
@@ -88,83 +163,23 @@
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Hussein of Jordan (died 1999)"
-    },
-    {
-      "type": "Event",
-      "year": "565",
-      "text": "Justin II becomes Byzantine emperor following the death of emperor Justinian I."
-    },
-    {
-      "type": "Birth",
-      "year": "1895",
-      "text": "Walter Jackson Freeman II, American physician and psychiatrist (died 1972)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Nat Young, Australian surfer and author"
-    },
-    {
-      "type": "Birth",
-      "year": "1915",
-      "text": "Mabel Fairbanks, American figure skater and coach (died 2001)"
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "The New Musical Express publishes the first regular UK Singles Chart."
-    },
-    {
-      "type": "Death",
-      "year": "1991",
-      "text": "Tony Richardson, English-American director, producer, and screenwriter (born 1928)"
-    },
-    {
-      "type": "Birth",
       "year": "1908",
       "text": "Joseph McCarthy, American captain, lawyer, and politician (died 1957)"
     },
     {
-      "type": "Event",
-      "year": "1851",
-      "text": "Moby-Dick, a novel by Herman Melville, is published in the USA."
-    },
-    {
-      "type": "Event",
-      "year": "1960",
-      "text": "Ruby Bridges becomes the first black child to attend an all-white elementary school in Louisiana."
-    },
-    {
-      "type": "Event",
-      "year": "1995",
-      "text": "A budget standoff between Democrats and Republicans in the U.S. Congress forces the federal government to temporarily close national parks and museums and to run most government offices with skeleton staffs."
+      "type": "Birth",
+      "year": "1929",
+      "text": "Jimmy Piersall, American baseball player and sportscaster (died 2017)"
     },
     {
       "type": "Birth",
-      "year": "1956",
-      "text": "Babette Babich, American philosopher, author, and scholar"
-    },
-    {
-      "type": "Death",
-      "year": "2000",
-      "text": "Robert Trout, American journalist (born 1908)"
+      "year": "1975",
+      "text": "Stephen Guarino, American actor"
     },
     {
       "type": "Birth",
       "year": "1971",
       "text": "Adam Gilchrist, Australian cricketer and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1978",
-      "text": "Xavier Nady, American baseball player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1998",
-      "text": "DeVonta Smith, American football player"
     },
     {
       "type": "Event",
@@ -173,58 +188,33 @@
     },
     {
       "type": "Event",
-      "year": "1967",
-      "text": "The Congress of Colombia, in commemoration of the 150th anniversary of the death of Policarpa Salavarrieta, declares this day as \"Day of the Colombian Woman\"."
+      "year": "1965",
+      "text": "Vietnam War: The Battle of Ia Drang begins. This is the first major engagement between regular American and North Vietnamese forces."
     },
     {
       "type": "Birth",
-      "year": "1968",
-      "text": "Lionel Simmons, American basketball player"
+      "year": "1984",
+      "text": "Lisa De Vanna, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "P. J. O'Rourke, American political satirist and journalist (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Dawson Knox, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Kalisto, Mexican-American wrestler"
     },
     {
       "type": "Event",
-      "year": "1920",
-      "text": "Pesäpallo, the Finnish version of baseball developed by Lauri Pihkala, is played for the first time at Kaisaniemi Park in Helsinki."
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: German troops, aided by local auxiliaries, murder nine thousand residents of the Słonim Ghetto in a single day."
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Marco Leonardi, Australian-Italian actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1974",
-      "text": "David Moscow, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Rosemary DeCamp, American actress and singer (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Matt Bloom, American wrestler, trainer, and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1967",
-      "text": "Nina Gordon, American singer-songwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1904",
-      "text": "Harold Haley, American lawyer and judge (died 1970)"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "During a British House of Commons debate, Labour MP Tam Dalyell poses what would become known as the West Lothian question, referring to issues related to devolution in the United Kingdom."
+      "year": "1952",
+      "text": "The New Musical Express publishes the first regular UK Singles Chart."
     },
     {
       "type": "Event",
@@ -233,38 +223,68 @@
     },
     {
       "type": "Birth",
+      "year": "1978",
+      "text": "Bobby Allen, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: German troops, aided by local auxiliaries, murder nine thousand residents of the Słonim Ghetto in a single day."
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Aaron Copland, American composer, conductor, and educator (died 1990)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Harland Williams, Canadian-American actor and screenwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Wendy Carlos, American keyboard player and composer"
+    },
+    {
+      "type": "Event",
+      "year": "1960",
+      "text": "Ruby Bridges becomes the first black child to attend an all-white elementary school in Louisiana."
+    },
+    {
+      "type": "Birth",
+      "year": "1921",
+      "text": "Brian Keith, American actor and director (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1918",
+      "text": "The Provisional National Assembly of the new republic of Czechoslovakia meets to devise a constitution."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Pesäpallo, the Finnish version of baseball developed by Lauri Pihkala, is played for the first time at Kaisaniemi Park in Helsinki."
+    },
+    {
+      "type": "Birth",
       "year": "1982",
       "text": "Boosie Badazz, American rapper"
     },
     {
-      "type": "Event",
-      "year": "2008",
-      "text": "The first G-20 economic summit opens in Washington, D.C."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Joy Williams, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser."
-    },
-    {
       "type": "Death",
-      "year": "2012",
-      "text": "Abubakar Olusola Saraki, Nigerian physician and politician (born 1933)"
+      "year": "1996",
+      "text": "John A. Cade, American soldier and politician (born 1929)"
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Russell Tovey, English actor"
+      "year": "1906",
+      "text": "Louise Brooks, American actress and dancer (died 1985)"
     },
     {
-      "type": "Birth",
-      "year": "1933",
-      "text": "Fred Haise, American pilot, engineer, and astronaut"
+      "type": "Event",
+      "year": "565",
+      "text": "Justin II becomes Byzantine emperor following the death of emperor Justinian I."
     },
     {
       "type": "Event",
@@ -273,33 +293,13 @@
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Brett Lunger, American race car driver"
+      "year": "1990",
+      "text": "Jessica Jacobs, Australian actress and singer (died 2008)"
     },
     {
       "type": "Event",
-      "year": "1970",
-      "text": "Soviet Union enters ICAO, making Russian the fourth official language of organization."
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Apollo program: NASA launches Apollo 12, the second crewed mission to the surface of the Moon."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Provisional National Assembly of the new republic of Czechoslovakia meets to devise a constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Ken Carson, American Western singer (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Joseph Simmons, American hip-hop artist"
+      "year": "1957",
+      "text": "The \"Apalachin meeting\" in rural Tioga County in upstate New York is raided by law enforcement; many high-level Mafia figures are arrested while trying to flee."
     }
   ],
   "source": "Wikipedia"
