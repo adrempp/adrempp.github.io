@@ -1,305 +1,305 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: German SS leader Heinrich Himmler orders that Gypsies are to be put \"on the same level as Jews and placed in concentration camps\"."
-    },
-    {
-      "type": "Event",
-      "year": "1988",
-      "text": "Israeli–Palestinian conflict: An independent State of Palestine is proclaimed by the Palestinian National Council."
-    },
-    {
-      "type": "Event",
-      "year": "1959",
-      "text": "Four members of the Clutter family are murdered near Holcomb, Kansas, by Perry Smith and Richard Hickock, a crime later detailed by Truman Capote in his 1966 non-fiction novel In Cold Blood."
+      "type": "Birth",
+      "year": "1945",
+      "text": "Lynn Hunt, American historian, author, and academic"
     },
     {
       "type": "Birth",
-      "year": "1994",
-      "text": "Bryce Cartwright, Australian rugby league player"
+      "year": "1862",
+      "text": "Charles Turner, Australian cricketer (died 1944)"
     },
     {
-      "type": "Event",
-      "year": "1969",
-      "text": "Cold War: The Soviet submarine K-19 collides with the American submarine USS Gato in the Barents Sea."
+      "type": "Birth",
+      "year": "1978",
+      "text": "Kip Bouknight, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Osi Umenyiora, English-American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Jean Fritz, Chinese-American author (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Elizabeth Drew, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Kool A.D., American rapper"
     },
     {
       "type": "Birth",
       "year": "1971",
-      "text": "Jay Harrington, American actor"
+      "text": "Mustapha Hadji, Moroccan footballer and manager"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "The Jussi Awards, the Finnish film award ceremony, is held for the first time at Restaurant Adlon in Helsinki."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "New York City's \"Mad Bomber\" George Metesky places his first bomb at a Manhattan office building used by Consolidated Edison."
+    },
+    {
+      "type": "Event",
+      "year": "1871",
+      "text": "The National Rifle Association of America receives its charter from New York State."
     },
     {
       "type": "Birth",
-      "year": "1865",
-      "text": "John Earle, Australian politician, 22nd Premier of Tasmania (died 1932)"
-    },
-    {
-      "type": "Event",
-      "year": "655",
-      "text": "Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumbria."
-    },
-    {
-      "type": "Event",
-      "year": "1688",
-      "text": "Prince William III of Orange lands a Dutch army at Brixham, beginning the 1688 invasion of England to challenge the rule of King James II and setting in motion the events that would lead to the Glorious Revolution."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Steven Miles, Australian politician, 40th Premier of Queensland"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "An Aero Caribbean Ilyushin Il-18 crashes on approach to Gregorio Luperón International Airport in Puerto Plata, killing 34."
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Ed Kirkpatrick, American baseball player (born 1944)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Randy Savage, American wrestler (died 2011)"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "The only fatality of the North American X-15 program occurs during the 191st flight when Air Force test pilot Michael J. Adams loses control of his aircraft which is destroyed mid-air over the Mojave Desert."
-    },
-    {
-      "type": "Death",
-      "year": "2017",
-      "text": "Lil Peep, American singer and rapper (born 1996)"
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Ken Sutcliffe, Australian journalist and sportscaster"
-    },
-    {
-      "type": "Event",
-      "year": "1760",
-      "text": "The secondly-built Castellania in Valletta is officially inaugurated with the blessing of the interior Chapel of Sorrows."
-    },
-    {
-      "type": "Event",
-      "year": "1987",
-      "text": "Continental Airlines Flight 1713 crashes during takeoff from Stapleton International Airport in Denver, Colorado, killing 25."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Kevin Wimmer, Austrian footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Blake Pieroni, American swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1899",
-      "text": "Second Boer War: Battle of Chieveley, a British armored train is ambushed and partially derailed. British lose the battle, with 80 soldiers captured, along with war correspondent Winston Churchill."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Ol' Dirty Bastard, American rapper and producer (died 2004)"
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Karl-Anthony Towns, Dominican-American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1849",
-      "text": "Boilers of the steamboat Louisiana explode as she pulls back from the dock in New Orleans, killing more than 150 people."
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Craig Breedlove sets a land speed record of 600.601 mph (966.574 km/h) in his car, the Spirit of America, at the Bonneville Salt Flats in Utah."
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "Jharkhand officially becomes the 28th state of India, formed from eighteen districts of southern Bihar."
+      "year": "1774",
+      "text": "Georg von Cancrin, German-Russian Minister of Finance (died 1845)"
     },
     {
       "type": "Birth",
       "year": "1982",
-      "text": "Giaan Rooney, Australian swimmer"
+      "text": "Amar'e Stoudemire, American-Israeli basketball player"
     },
     {
       "type": "Birth",
-      "year": "1895",
-      "text": "Grand Duchess Olga Nikolaevna of Russia (died 1918)"
+      "year": "1992",
+      "text": "Shane Prince, American-Belarusian ice hockey player"
     },
     {
       "type": "Event",
-      "year": "1986",
-      "text": "Israeli yeshiva student Eliahu Amedi is murdered in the Old City of Jerusalem by three members of the Popular Front for the Liberation of Palestine."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "Eduskunta declares itself the supreme state power of Finland, prompting its declaration of independence and secession from Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1806",
-      "text": "Pike Expedition: Lieutenant Zebulon Pike spots a mountain peak while near the Colorado foothills of the Rocky Mountains. It is later named Pikes Peak in his honor."
+      "year": "1965",
+      "text": "Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet."
     },
     {
       "type": "Birth",
-      "year": "1692",
-      "text": "Eusebius Amort, German poet and theologian (died 1775)"
-    },
-    {
-      "type": "Birth",
-      "year": "1937",
-      "text": "Little Willie John, American singer-songwriter (died 1968)"
+      "year": "1966",
+      "text": "Dean McDermott, Canadian-American actor and producer"
     },
     {
       "type": "Event",
-      "year": "2016",
-      "text": "Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament."
+      "year": "1863",
+      "text": "American Civil War: Confederate troops under General James Longstreet unsuccessfully attack Union forces in the Battle of Campbell's Station, allowing General Ambrose Burnside to secure and fortify Knoxville, Tennessee."
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Benny Elias, Lebanese-Australian rugby league player and sportscaster"
+      "year": "1948",
+      "text": "Chi Coltrane, American singer-songwriter and pianist"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Gus Poyet, Uruguayan footballer and manager"
+      "year": "1924",
+      "text": "Mel Patton, American sprinter and coach (died 2014)"
     },
     {
       "type": "Event",
-      "year": "1983",
-      "text": "Turkish Republic of Northern Cyprus declares independence; it is only recognized by Turkey."
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "A research assistant is injured when a package from the Unabomber addressed to a University of Michigan professor explodes."
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation."
+      "year": "1822",
+      "text": "American Old West: Missouri trader William Becknell arrives in Santa Fe, New Mexico, over a route that became known as the Santa Fe Trail."
     },
     {
       "type": "Birth",
-      "year": "1953",
-      "text": "Alexander O'Neal, American R&B singer-songwriter and arranger"
+      "year": "1980",
+      "text": "Kayte Christensen, American basketball player"
     },
     {
       "type": "Birth",
+      "year": "1990",
+      "text": "Dénes Dibusz, Hungarian football player"
+    },
+    {
+      "type": "Event",
+      "year": "1797",
+      "text": "The Prussian heir apparent, Frederick William, becomes King of Prussia as Frederick William III."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Oscar Lanford, American mathematician and academic (born 1940)"
+    },
+    {
+      "type": "Event",
+      "year": "1491",
+      "text": "An auto-da-fé, held in the Brasero de la Dehesa outside of Ávila, concludes the case of the Holy Child of La Guardia with the public execution of several Jewish and converso suspects."
+    },
+    {
+      "type": "Event",
+      "year": "1849",
+      "text": "A Russian court sentences writer Fyodor Dostoyevsky to death for anti-government activities linked to a radical intellectual group; his sentence is later commuted to hard labor."
+    },
+    {
+      "type": "Birth",
+      "year": "1836",
+      "text": "Kalākaua of Hawaii (died 1891)"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Logan Mader, Canadian-American guitarist and producer"
+    },
+    {
+      "type": "Event",
+      "year": "1988",
+      "text": "The Supreme Soviet of the Estonian Soviet Socialist Republic declares that Estonia is \"sovereign\" but stops short of declaring independence."
+    },
+    {
+      "type": "Event",
       "year": "1933",
-      "text": "Theodore Roszak, American scholar and author (died 2011)"
+      "text": "The United States and the Soviet Union establish formal diplomatic relations."
+    },
+    {
+      "type": "Event",
+      "year": "1776",
+      "text": "American Revolutionary War: British and Hessian units capture Fort Washington from the Patriots."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Bonnie Greer, American-English playwright and critic (died 2026)"
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "Ann Wedgeworth, American actress (born 1934)"
+    },
+    {
+      "type": "Event",
+      "year": "1805",
+      "text": "Napoleonic Wars: Battle of Schöngrabern: Russian forces under Pyotr Bagration delay the pursuit by French troops under Joachim Murat."
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "John Moore, Australian businessman and politician (died 2025)"
     },
     {
       "type": "Event",
       "year": "1990",
-      "text": "Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense."
+      "text": "Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals."
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Bol Bol, South Sudanese-American basketball player"
     },
     {
       "type": "Death",
-      "year": "1832",
-      "text": "Jean-Baptiste Say, French economist and businessman (born 1767)"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Vietnam War: In Washington, D.C., 250,000–500,000 protesters staged a peaceful demonstration against the war, including a symbolic \"March Against Death\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Randy Thomas, American singer-songwriter, guitarist, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Winston Duke, Tobagonian-American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Sam Waterston, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "B.o.B, American rapper, songwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Clyde McPhatter, American singer (died 1972)"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Alejandro Saab, American voice actor, YouTuber, and VTuber"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "A package from Unabomber Ted Kaczynski begins smoking in the cargo hold of a flight from Chicago to Washington, D.C., forcing the plane to make an emergency landing."
-    },
-    {
-      "type": "Birth",
-      "year": "1879",
-      "text": "Lewis Stone, American actor (died 1953)"
-    },
-    {
-      "type": "Birth",
       "year": "1947",
-      "text": "Bill Richardson, American politician and diplomat, 21st United States Ambassador to the United Nations (died 2023)"
+      "text": "Giuseppe Volpi, Italian businessman and politician, founded the Venice Film Festival (born 1877)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Matthew Allwood, Australian rugby league player"
     },
     {
       "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: Union General William Tecumseh Sherman begins his March to the Sea through Georgia towards the city of Savannah."
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "David Sidney Feingold, American biochemist and academic (died 2019)"
+      "year": "1914",
+      "text": "The Federal Reserve Bank of the United States officially opens."
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "Intel releases the world's first commercial single-chip microprocessor, the 4004."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Melitina Staniouta, Belarusian rhythmic gymnast"
-    },
-    {
-      "type": "Birth",
-      "year": "1985",
-      "text": "Lily Aldridge, American model"
+      "year": "1973",
+      "text": "Skylab program: NASA launches Skylab 4 with a crew of three astronauts from Cape Canaveral, Florida for an 84-day mission."
     },
     {
       "type": "Event",
-      "year": "1315",
-      "text": "Growth of the Old Swiss Confederacy: The Schweizer Eidgenossenschaft ambushes the army of Leopold I in the Battle of Morgarten."
+      "year": "534",
+      "text": "The second edition of the Code of Justinian is issued by the Byzantine jurist Tribonian and his assistants, consisting of twelve updated and revised books."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The Holocaust: In occupied Poland, the Nazis close off the Warsaw Ghetto from the outside world."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "U.S. president Richard Nixon signs the Trans-Alaska Pipeline Authorization Act into law, authorizing the construction of the Alaska Pipeline."
     },
     {
       "type": "Birth",
-      "year": "1957",
-      "text": "Gerry Connolly, Australian comedian and actor"
+      "year": "1946",
+      "text": "Beverly Smith, American writer"
+    },
+    {
+      "type": "Event",
+      "year": "1907",
+      "text": "Indian Territory and Oklahoma Territory join to form Oklahoma, which is admitted as the 46th U.S. state."
+    },
+    {
+      "type": "Event",
+      "year": "1632",
+      "text": "King Gustavus Adolphus of Sweden was killed at the Battle of Lützen during the Thirty Years' War."
+    },
+    {
+      "type": "Event",
+      "year": "565",
+      "text": "Justin II is crowned in the Hagia Sophia two days following the death of emperor Justinian I, who is buried in the Church of the Holy Apostles."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Terry Labonte, American race car driver and businessman"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Waheed Alli, Baron Alli, English businessman and politician"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "Artemis Program: NASA launches Artemis 1 on the first flight of the Space Launch System, the start of the program's future missions to the moon."
+    },
+    {
+      "type": "Event",
+      "year": "1920",
+      "text": "Qantas, Australia's national airline, is founded as Queensland and Northern Territory Aerial Services Limited."
+    },
+    {
+      "type": "Birth",
+      "year": "1927",
+      "text": "Dolo Coker, American pianist and composer (died 1983)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Zina Garrison, American tennis player"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "Lawrence Tibbett, American actor and singer (died 1960)"
+    },
+    {
+      "type": "Event",
+      "year": "1272",
+      "text": "While travelling during the Ninth Crusade, Prince Edward becomes King of England upon Henry III of England's death, but he will not return to England for nearly two years to assume the throne."
+    },
+    {
+      "type": "Event",
+      "year": "1828",
+      "text": "Greek War of Independence: The London Protocol entails the creation of an autonomous Greek state under Ottoman suzerainty, encompassing the Morea and the Cyclades."
+    },
+    {
+      "type": "Event",
+      "year": "1860",
+      "text": "Fisgard Lighthouse, built in the Colony of Vancouver Island, shines its first light, becoming the first permanent lighthouse in present-day British Columbia"
+    },
+    {
+      "type": "Event",
+      "year": "2005",
+      "text": "Following a 31-year wait, Australia defeats Uruguay in a penalty shootout to qualify for the 2006 FIFA World Cup."
+    },
+    {
+      "type": "Birth",
+      "year": "1851",
+      "text": "Minnie Hauk, American-Swiss soprano and actress (died 1929)"
     }
   ],
   "source": "Wikipedia"
