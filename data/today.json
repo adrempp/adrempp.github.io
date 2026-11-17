@@ -2,14 +2,24 @@
   "date": "2026-11-17",
   "items": [
     {
+      "type": "Event",
+      "year": "1950",
+      "text": "Lhamo Dondrub is officially named the 14th Dalai Lama."
+    },
+    {
       "type": "Birth",
-      "year": "1996",
-      "text": "Minkah Fitzpatrick, American football player"
+      "year": "1951",
+      "text": "Stephen Root, American actor"
     },
     {
       "type": "Event",
-      "year": "1183",
-      "text": "Genpei War: The Battle of Mizushima takes place off the Japanese coast, where Minamoto no Yoshinaka's invasion force is intercepted and defeated by the Taira clan."
+      "year": "1894",
+      "text": "H. H. Holmes, one of the first modern serial killers, is arrested in Boston, Massachusetts."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Howard Fineman, American journalist and television commentator (died 2024)"
     },
     {
       "type": "Event",
@@ -18,78 +28,13 @@
     },
     {
       "type": "Event",
-      "year": "1837",
-      "text": "An earthquake in Valdivia, south-central Chile, causes a tsunami that leads to significant destruction along Japan's coast."
+      "year": "1957",
+      "text": "Vickers Viscount G-AOHP of British European Airways crashes at Ballerup after the failure of three engines on approach to Copenhagen Airport. The cause is a malfunction of the anti-icing system on the aircraft. There are no fatalities."
     },
     {
       "type": "Birth",
-      "year": "1942",
-      "text": "Bob Gaudio, American singer-songwriter, keyboard player, and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1856",
-      "text": "American Old West: On the Sonoita River in present-day southern Arizona, the United States Army establishes Fort Buchanan in order to help control new land acquired in the Gadsden Purchase."
-    },
-    {
-      "type": "Event",
-      "year": "1777",
-      "text": "Articles of Confederation (United States) are submitted to the states for ratification."
-    },
-    {
-      "type": "Death",
-      "year": "2012",
-      "text": "Ponty Chadha, Indian businessman and philanthropist (born 1957)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Jean Faut, American baseball player and bowler (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "In Nigeria, General Sani Abacha ousts the government of Ernest Shonekan in a military coup."
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "Lhamo Dondrub is officially named the 14th Dalai Lama."
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Nine Czech students are executed as a response to anti-Nazi demonstrations prompted by the death of Jan Opletal. All Czech universities are shut down and more than 1,200 students sent to concentration camps. Since this event, International Students' Day is celebrated in many countries, especially in the Czech Republic."
-    },
-    {
-      "type": "Event",
-      "year": "1796",
-      "text": "French Revolutionary Wars: Battle of the Bridge of Arcole: French forces defeat the Austrians in Italy."
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Ryan Griffin, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1858",
-      "text": "The city of Denver, Colorado is founded."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Ben Allison, American bassist and composer"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Susan Rice, American academic and politician, 24th United States National Security Advisor"
-    },
-    {
-      "type": "Event",
-      "year": "1903",
-      "text": "The Russian Social Democratic Labour Party splits into two groups: The Bolsheviks (Russian for \"majority\") and Mensheviks (Russian for \"minority\")."
+      "year": "1940",
+      "text": "Luke Kelly, Irish singer, folk musician and actor (died 1984)"
     },
     {
       "type": "Event",
@@ -98,148 +43,33 @@
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Justine Michelle Cain, English actress"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Viewers of the Raiders–Jets football game in the eastern United States are denied the opportunity to watch its exciting finish when NBC broadcasts Heidi instead, prompting changes to sports broadcasting in the U.S."
-    },
-    {
-      "type": "Event",
-      "year": "2003",
-      "text": "Actor Arnold Schwarzenegger's tenure as the governor of California begins."
-    },
-    {
-      "type": "Birth",
-      "year": "1935",
-      "text": "Bobby Joe Conrad, American football player"
-    },
-    {
-      "type": "Death",
-      "year": "1989",
-      "text": "Costabile Farace, American criminal (born 1960)"
-    },
-    {
-      "type": "Birth",
-      "year": "1921",
-      "text": "Albert Bertelsen, Danish painter and illustrator (died 2019)"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Watergate scandal: In Orlando, Florida, U.S. President Richard Nixon tells 400 Associated Press managing editors \"I am not a crook.\""
-    },
-    {
-      "type": "Birth",
-      "year": "1930",
-      "text": "Bob Mathias, American decathlete, actor, and politician (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Hubertus Brandenburg, Swedish bishop (died 2009)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Cyril Ramaphosa, South African businessman and politician, fifth President of South Africa"
-    },
-    {
-      "type": "Event",
-      "year": "1967",
-      "text": "Vietnam War: Acting on optimistic reports that he had been given on November 13, U.S. President Lyndon B. Johnson tells the nation that, while much remained to be done, \"We are inflicting greater losses than we're taking...We are making progress.\""
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Ioannis Bourousis, Greek basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Seth Lugo, American baseball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Yolanda King, American actress and activist (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Robert Stethem, American soldier (died 1985)"
-    },
-    {
-      "type": "Birth",
       "year": "1963",
-      "text": "Daniel Scott, American novelist and short story writer"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "American scientists John Bardeen and Walter Houser Brattain observe the basic principles of the transistor, a key element for the electronics revolution of the 20th century."
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "The flight crew of Japan Airlines Flight 1628 are involved in a UFO sighting incident while flying over Alaska."
+      "text": "Dylan Walsh, American actor"
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Jim Boeheim, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1962",
-      "text": "President John F. Kennedy dedicates Washington Dulles International Airport, serving the Washington, D.C., region."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Sean Miller, American basketball player and coach"
-    },
-    {
-      "type": "Event",
-      "year": "1896",
-      "text": "The Western Pennsylvania Hockey League, which later became the first ice hockey league to openly trade and hire players, began play at Pittsburgh's Schenley Park Casino."
-    },
-    {
-      "type": "Event",
-      "year": "1820",
-      "text": "Captain Nathaniel Palmer becomes the first American to see Antarctica. (The Palmer Peninsula is later named after him.)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Dean Paul Martin, American singer, actor, and pilot (died 1987)"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "A rare late-season tornado outbreak strikes the Midwest. Illinois and Indiana are most affected with tornado reports as far north as lower Michigan. In all around six dozen tornadoes touch down in approximately an 11-hour time period, including seven EF3 and two EF4 tornadoes."
+      "year": "1982",
+      "text": "Yusuf Pathan, Indian cricketer"
     },
     {
       "type": "Death",
-      "year": "1968",
-      "text": "Mervyn Peake, English poet, author, and illustrator (born 1911)"
+      "year": "2011",
+      "text": "Kurt Budke, American basketball player and coach (born 1961)"
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Doug Walker, American actor, comedian, film critic, internet personality, and filmmaker"
+      "year": "1971",
+      "text": "David Ramsey, American actor"
     },
     {
       "type": "Event",
-      "year": "1800",
-      "text": "The United States Congress holds its first session in Washington, D.C."
+      "year": "1775",
+      "text": "The city of Kuopio, Finland (belonging to Sweden at this time) is founded by King Gustav III of Sweden."
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Ryan Braun, American baseball player"
+      "year": "1969",
+      "text": "Rebecca Walker, American author"
     },
     {
       "type": "Event",
@@ -248,18 +78,123 @@
     },
     {
       "type": "Event",
-      "year": "1940",
-      "text": "The Tartu Art Museum is established in Tartu, Estonia."
+      "year": "1800",
+      "text": "The United States Congress holds its first session in Washington, D.C."
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: Siege of Knoxville begins: During the Knoxville campaign, Confederate forces under General James Longstreet besiege the city of Knoxville, Tennessee and its Union defenders led by General Ambrose Burnside."
+      "year": "1777",
+      "text": "Articles of Confederation (United States) are submitted to the states for ratification."
     },
     {
       "type": "Event",
-      "year": "1894",
-      "text": "H. H. Holmes, one of the first modern serial killers, is arrested in Boston, Massachusetts."
+      "year": "1896",
+      "text": "The Western Pennsylvania Hockey League, which later became the first ice hockey league to openly trade and hire players, began play at Pittsburgh's Schenley Park Casino."
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "American scientists John Bardeen and Walter Houser Brattain observe the basic principles of the transistor, a key element for the electronics revolution of the 20th century."
+    },
+    {
+      "type": "Birth",
+      "year": "1935",
+      "text": "Toni Sailer, Austrian skier and actor (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1820",
+      "text": "Captain Nathaniel Palmer becomes the first American to see Antarctica. (The Palmer Peninsula is later named after him.)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Mitch Williams, American baseball player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Orlando Peña, Cuban-American baseball player and scout"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Tania Zaetta, Australian actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "Jamayne Taunoa-Brown, Australian rugby league player"
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "Actor Arnold Schwarzenegger's tenure as the governor of California begins."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Leslie Bibb, American actress and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Amanda Evora, American figure skater"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Robert Stethem, American soldier (died 1985)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Susan Rice, American academic and politician, 24th United States National Security Advisor"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Arman, French-American painter and sculptor (died 2005)"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "President John F. Kennedy dedicates Washington Dulles International Airport, serving the Washington, D.C., region."
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "The Russian Social Democratic Labour Party splits into two groups: The Bolsheviks (Russian for \"majority\") and Mensheviks (Russian for \"minority\")."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Trevor Crowe, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1928",
+      "text": "Colin McDonald, Australian cricketer (died 2021)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "In Nigeria, General Sani Abacha ousts the government of Ernest Shonekan in a military coup."
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Justin Cooper, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Nick Markakis, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Michael Wenden, Australian swimmer"
     },
     {
       "type": "Event",
@@ -267,14 +202,19 @@
       "text": "Fifty people are killed when Tatarstan Airlines Flight 363 crashes at Kazan Airport, Russia."
     },
     {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Tom Seaver, American baseball pitcher (died 2020)"
+      "type": "Event",
+      "year": "1973",
+      "text": "Watergate scandal: In Orlando, Florida, U.S. President Richard Nixon tells 400 Associated Press managing editors \"I am not a crook.\""
     },
     {
-      "type": "Event",
-      "year": "1957",
-      "text": "Vickers Viscount G-AOHP of British European Airways crashes at Ballerup after the failure of three engines on approach to Copenhagen Airport. The cause is a malfunction of the anti-icing system on the aircraft. There are no fatalities."
+      "type": "Birth",
+      "year": "1982",
+      "text": "Katie Feenstra-Mattera, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Lauren Hutton, American model and actress"
     },
     {
       "type": "Event",
@@ -282,24 +222,84 @@
       "text": "United States House of Representatives passes a resolution to establish the North American Free Trade Agreement."
     },
     {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Richard Fortus, American guitarist, songwriter, and producer"
+      "type": "Event",
+      "year": "2013",
+      "text": "A rare late-season tornado outbreak strikes the Midwest. Illinois and Indiana are most affected with tornado reports as far north as lower Michigan. In all around six dozen tornadoes touch down in approximately an 11-hour time period, including seven EF3 and two EF4 tornadoes."
     },
     {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Rock Hudson, American actor (died 1985)"
+      "type": "Death",
+      "year": "1796",
+      "text": "Catherine the Great, of Russia (born 1729)"
+    },
+    {
+      "type": "Event",
+      "year": "1858",
+      "text": "The city of Denver, Colorado is founded."
+    },
+    {
+      "type": "Event",
+      "year": "1183",
+      "text": "Genpei War: The Battle of Mizushima takes place off the Japanese coast, where Minamoto no Yoshinaka's invasion force is intercepted and defeated by the Taira clan."
+    },
+    {
+      "type": "Event",
+      "year": "1856",
+      "text": "American Old West: On the Sonoita River in present-day southern Arizona, the United States Army establishes Fort Buchanan in order to help control new land acquired in the Gadsden Purchase."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: Siege of Knoxville begins: During the Knoxville campaign, Confederate forces under General James Longstreet besiege the city of Knoxville, Tennessee and its Union defenders led by General Ambrose Burnside."
     },
     {
       "type": "Birth",
       "year": "1965",
-      "text": "Amanda Brown, Australian violinist and composer"
+      "text": "Darren Beadman, Australian jockey"
     },
     {
       "type": "Event",
-      "year": "1775",
-      "text": "The city of Kuopio, Finland (belonging to Sweden at this time) is founded by King Gustav III of Sweden."
+      "year": "1968",
+      "text": "Viewers of the Raiders–Jets football game in the eastern United States are denied the opportunity to watch its exciting finish when NBC broadcasts Heidi instead, prompting changes to sports broadcasting in the U.S."
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Nine Czech students are executed as a response to anti-Nazi demonstrations prompted by the death of Jan Opletal. All Czech universities are shut down and more than 1,200 students sent to concentration camps. Since this event, International Students' Day is celebrated in many countries, especially in the Czech Republic."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Vietnam War: Acting on optimistic reports that he had been given on November 13, U.S. President Lyndon B. Johnson tells the nation that, while much remained to be done, \"We are inflicting greater losses than we're taking...We are making progress.\""
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "An earthquake in Valdivia, south-central Chile, causes a tsunami that leads to significant destruction along Japan's coast."
+    },
+    {
+      "type": "Event",
+      "year": "1796",
+      "text": "French Revolutionary Wars: Battle of the Bridge of Arcole: French forces defeat the Austrians in Italy."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The flight crew of Japan Airlines Flight 1628 are involved in a UFO sighting incident while flying over Alaska."
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "The Tartu Art Museum is established in Tartu, Estonia."
+    },
+    {
+      "type": "Death",
+      "year": "2001",
+      "text": "Harrison A. Williams, American lieutenant, lawyer, and politician (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1922",
+      "text": "Stanley Cohen, American biochemist and academic, Nobel Prize laureate (died 2020)"
     }
   ],
   "source": "Wikipedia"
