@@ -3,213 +3,8 @@
   "items": [
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Allyson Felix, American sprinter"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "The Bell Telephone Company introduces the first push-button telephone."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Tim Guinee, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "A fire occurs on a train traveling through the Channel Tunnel from France to England causing several injuries and damaging approximately 500 metres (1,600 ft) of tunnel."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Vic Hey, Australian rugby league player and coach (died 1995)"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Pete Morelli, American businessman"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Tim DeLaughter, American singer-songwriter and musician"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Don Cherry, American trumpet player (died 1995)"
-    },
-    {
-      "type": "Event",
-      "year": "1883",
-      "text": "In the \"day of two noons\", American and Canadian railroad companies institute four standard continental time zones, ending the confusion of thousands of local times."
-    },
-    {
-      "type": "Death",
-      "year": "2016",
-      "text": "Sharon Jones, American soul and funk singer (born 1956)"
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Arthur Frommer, American travel writer (born 1929)"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "In South Africa, 21 political parties approve a new constitution, expanding voting rights and ending white minority rule."
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "King Christian IX of Denmark signs the November constitution that declares Schleswig to be part of Denmark. This is seen by the German Confederation as a violation of the London Protocol and leads to the German–Danish war of 1864."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "Latvia declares its independence from Russia."
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "At Texas A&M University, the Aggie Bonfire collapses killing 12 students and injuring 27 others."
-    },
-    {
-      "type": "Birth",
       "year": "1976",
-      "text": "Sage Francis, American rapper"
-    },
-    {
-      "type": "Event",
-      "year": "1940",
-      "text": "World War II: German leader Adolf Hitler and Italian Foreign Minister Galeazzo Ciano meet to discuss Benito Mussolini's disastrous Italian invasion of Greece."
-    },
-    {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Karl Schranz, Austrian skier"
-    },
-    {
-      "type": "Event",
-      "year": "1909",
-      "text": "Two United States warships are sent to Nicaragua after 500 revolutionaries (including two Americans) are executed by order of José Santos Zelaya."
-    },
-    {
-      "type": "Event",
-      "year": "1730",
-      "text": "The future Frederick the Great of Prussia is granted a pardon by his father and is released from confinement."
-    },
-    {
-      "type": "Event",
-      "year": "1601",
-      "text": "Tiryaki Hasan Pasha, an Ottoman provincial governor, routs the Habsburg forces commanded by Archduke Ferdinand II of Austria who were besieging Nagykanizsa."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "James Welch, American novelist and poet (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Megyn Kelly, American lawyer and journalist"
-    },
-    {
-      "type": "Event",
-      "year": "1903",
-      "text": "The Hay–Bunau-Varilla Treaty is signed by the United States and Panama, giving the United States exclusive rights over the Panama Canal Zone."
-    },
-    {
-      "type": "Death",
-      "year": "1978",
-      "text": "Leo Ryan, American soldier, educator, and politician (born 1925)"
-    },
-    {
-      "type": "Birth",
-      "year": "1927",
-      "text": "Hank Ballard, American R&B singer-songwriter (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Tony Bunn, American bassist, composer, producer, and writer"
-    },
-    {
-      "type": "Event",
-      "year": "1872",
-      "text": "Susan B. Anthony and 14 other women are arrested for voting illegally in the United States presidential election of 1872."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Nasim Pedrad, Iranian-American actress"
-    },
-    {
-      "type": "Event",
-      "year": "2013",
-      "text": "NASA launches the MAVEN probe to Mars."
-    },
-    {
-      "type": "Event",
-      "year": "2020",
-      "text": "The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Joe Thuney, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1095",
-      "text": "The Council of Clermont begins: called by Pope Urban II, it led to the First Crusade to the Holy Land."
-    },
-    {
-      "type": "Event",
-      "year": "1889",
-      "text": "Elisha P. Ferry is inaugurated as first governor of Washington."
-    },
-    {
-      "type": "Birth",
-      "year": "1932",
-      "text": "Danny McDevitt, American baseball player (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Mekia Cox, American actress and dancer"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II:  In the first action of the Berlin Air Offensive, four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew."
-    },
-    {
-      "type": "Event",
-      "year": "1901",
-      "text": "Britain and the United States sign the Hay–Pauncefote Treaty, which nullifies the Clayton–Bulwer Treaty and withdraws British objections to an American-controlled canal in Panama."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Ted Stevens, American politician (died 2010)"
-    },
-    {
-      "type": "Event",
-      "year": "1961",
-      "text": "Vietnam War:  United States President John F. Kennedy sends 18,000 military advisors to South Vietnam."
-    },
-    {
-      "type": "Birth",
-      "year": "1991",
-      "text": "Ahmed Kelly, Iraqi-Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives."
+      "text": "Steven Pasquale, American actor"
     },
     {
       "type": "Event",
@@ -218,18 +13,103 @@
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "Shiite Muslim kidnappers in Lebanon release Anglican Church envoys Terry Waite and Thomas Sutherland."
+      "year": "1601",
+      "text": "Tiryaki Hasan Pasha, an Ottoman provincial governor, routs the Habsburg forces commanded by Archduke Ferdinand II of Austria who were besieging Nagykanizsa."
     },
     {
       "type": "Birth",
-      "year": "1915",
-      "text": "Ken Burkhart, American baseball player and umpire (died 2004)"
+      "year": "1977",
+      "text": "Trent Barrett, Australian rugby league player, coach, and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "2002",
+      "text": "Patrick Baldwin Jr., American basketball player"
     },
     {
       "type": "Event",
-      "year": "1944",
-      "text": "The Popular Socialist Youth is founded in Cuba."
+      "year": "1943",
+      "text": "World War II:  In the first action of the Berlin Air Offensive, four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew."
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Quincy Miller, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1903",
+      "text": "The Hay–Bunau-Varilla Treaty is signed by the United States and Panama, giving the United States exclusive rights over the Panama Canal Zone."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "C. J. Wilson, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Duncan Sheik, American singer-songwriter and composer (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "George Wald, American neurobiologist and academic, Nobel Prize laureate (died 1997)"
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "King Christian IX of Denmark signs the November constitution that declares Schleswig to be part of Denmark. This is seen by the German Confederation as a violation of the London Protocol and leads to the German–Danish war of 1864."
+    },
+    {
+      "type": "Birth",
+      "year": "1965",
+      "text": "Tim DeLaughter, American singer-songwriter and musician"
+    },
+    {
+      "type": "Birth",
+      "year": "1981",
+      "text": "Nasim Pedrad, Iranian-American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Gary Bettenhausen, American race car driver (died 2014)"
+    },
+    {
+      "type": "Event",
+      "year": "1940",
+      "text": "World War II: German leader Adolf Hitler and Italian Foreign Minister Galeazzo Ciano meet to discuss Benito Mussolini's disastrous Italian invasion of Greece."
+    },
+    {
+      "type": "Event",
+      "year": "1095",
+      "text": "The Council of Clermont begins: called by Pope Urban II, it led to the First Crusade to the Holy Land."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Sam Cassell, American basketball player and coach"
+    },
+    {
+      "type": "Event",
+      "year": "1883",
+      "text": "In the \"day of two noons\", American and Canadian railroad companies institute four standard continental time zones, ending the confusion of thousands of local times."
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Terrance Hayes, American poet and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Rita Cosby, American journalist and author"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Travis Buck, American baseball player"
     },
     {
       "type": "Event",
@@ -237,19 +117,69 @@
       "text": "The autonomous Croatian Community of Herzeg-Bosnia, which would in 1993 become a republic, was established in Bosnia and Herzegovina."
     },
     {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Fabolous, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Allyson Felix, American sprinter"
+    },
+    {
+      "type": "Death",
+      "year": "1994",
+      "text": "Cab Calloway, American singer-songwriter and bandleader (The Cab Calloway Orchestra) (born 1907)"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Craig Wood, American golfer (died 1968)"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Ed Krupp, American astronomer, archaeoastronomer, author, Director Griffith Observatory"
+    },
+    {
+      "type": "Event",
+      "year": "1961",
+      "text": "Vietnam War:  United States President John F. Kennedy sends 18,000 military advisors to South Vietnam."
+    },
+    {
       "type": "Event",
       "year": "1970",
       "text": "U.S. President Richard Nixon asks the U.S. Congress for $155 million in supplemental aid for the Cambodian government."
     },
     {
-      "type": "Birth",
-      "year": "1890",
-      "text": "Laura Negley, American politician, member of the Texas House of Representatives (died 1973)"
+      "type": "Event",
+      "year": "1909",
+      "text": "Two United States warships are sent to Nicaragua after 500 revolutionaries (including two Americans) are executed by order of José Santos Zelaya."
     },
     {
       "type": "Birth",
-      "year": "1982",
-      "text": "Damon Wayans Jr., American actor and comedian"
+      "year": "1899",
+      "text": "Eugene Ormandy, Hungarian-American violinist and conductor (died 1985)"
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives."
+    },
+    {
+      "type": "Event",
+      "year": "2003",
+      "text": "The Massachusetts Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional and gives the state legislature 180 days to change the law making Massachusetts the first state in the United States to grant marriage rights to same-sex couples."
+    },
+    {
+      "type": "Event",
+      "year": "1730",
+      "text": "The future Frederick the Great of Prussia is granted a pardon by his father and is released from confinement."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Gary Sheffield, American baseball player"
     },
     {
       "type": "Event",
@@ -258,8 +188,73 @@
     },
     {
       "type": "Birth",
-      "year": "1939",
-      "text": "Brenda Vaccaro, American actress"
+      "year": "1932",
+      "text": "Danny McDevitt, American baseball player (died 2010)"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "Shiite Muslim kidnappers in Lebanon release Anglican Church envoys Terry Waite and Thomas Sutherland."
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "NASA launches the MAVEN probe to Mars."
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Justin Raimondo, American journalist and author (died 2019)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "At Texas A&M University, the Aggie Bonfire collapses killing 12 students and injuring 27 others."
+    },
+    {
+      "type": "Birth",
+      "year": "1926",
+      "text": "Roy Sievers, American baseball player (died 2017)"
+    },
+    {
+      "type": "Event",
+      "year": "1872",
+      "text": "Susan B. Anthony and 14 other women are arrested for voting illegally in the United States presidential election of 1872."
+    },
+    {
+      "type": "Event",
+      "year": "1993",
+      "text": "In South Africa, 21 political parties approve a new constitution, expanding voting rights and ending white minority rule."
+    },
+    {
+      "type": "Death",
+      "year": "1472",
+      "text": "Basilius Bessarion, titular patriarch of Constantinople (born c. 1403)"
+    },
+    {
+      "type": "Event",
+      "year": "1889",
+      "text": "Elisha P. Ferry is inaugurated as first governor of Washington."
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "The Popular Socialist Youth is founded in Cuba."
+    },
+    {
+      "type": "Event",
+      "year": "1901",
+      "text": "Britain and the United States sign the Hay–Pauncefote Treaty, which nullifies the Clayton–Bulwer Treaty and withdraws British objections to an American-controlled canal in Panama."
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "A fire occurs on a train traveling through the Channel Tunnel from France to England causing several injuries and damaging approximately 500 metres (1,600 ft) of tunnel."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jameson Parker, American actor"
     },
     {
       "type": "Event",
@@ -267,9 +262,24 @@
       "text": "Christopher Columbus first sights the island now known as Puerto Rico."
     },
     {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jonnie Irwin, English television presenter and business expert (died 2024)"
+    },
+    {
       "type": "Event",
-      "year": "2003",
-      "text": "The Massachusetts Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional and gives the state legislature 180 days to change the law making Massachusetts the first state in the United States to grant marriage rights to same-sex couples."
+      "year": "1918",
+      "text": "Latvia declares its independence from Russia."
+    },
+    {
+      "type": "Event",
+      "year": "2020",
+      "text": "The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources."
+    },
+    {
+      "type": "Death",
+      "year": "1922",
+      "text": "Marcel Proust, French author and critic (born 1871)"
     },
     {
       "type": "Birth",
@@ -278,28 +288,18 @@
     },
     {
       "type": "Birth",
-      "year": "1951",
-      "text": "Justin Raimondo, American journalist and author (died 2019)"
+      "year": "1988",
+      "text": "Jeffrey Jordan, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "The Bell Telephone Company introduces the first push-button telephone."
     },
     {
       "type": "Birth",
-      "year": "1913",
-      "text": "Endre Rozsda, Hungarian-French painter and illustrator (died 1999)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Eugene Ormandy, Hungarian-American violinist and conductor (died 1985)"
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Mike Epps, American actor and comedian"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Alan Dean Foster, American author"
+      "year": "1921",
+      "text": "Frances Hawkins, American politician and teacher, member of the Nevada State Assembly (died 2001)"
     }
   ],
   "source": "Wikipedia"
