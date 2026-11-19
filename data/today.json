@@ -3,248 +3,8 @@
   "items": [
     {
       "type": "Event",
-      "year": "2026",
-      "text": "Rohingya genocide: The International Court of Justice delivers a 9-6 ruling finding Myanmar committed a genocide against the Rohingya people."
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "George Emil Palade, Romanian-American biologist and physician, Nobel Prize laureate (died 2008)"
-    },
-    {
-      "type": "Event",
-      "year": "1794",
-      "text": "The United States and the Kingdom of Great Britain sign Jay's Treaty, which attempts to resolve some of the lingering problems left over from the American Revolutionary War."
-    },
-    {
-      "type": "Birth",
-      "year": "1956",
-      "text": "Glynnis O'Connor, American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Tommy Thompson, American captain and politician, 42nd Governor of Wisconsin, 19th United States Secretary of Health and Human Services"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Saleemah Abdul-Ghafur, American author and activist"
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Kerri Strug, American gymnast"
-    },
-    {
-      "type": "Event",
-      "year": "1996",
-      "text": "Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Robert Beltran, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Joey Gallo, American baseball player"
-    },
-    {
-      "type": "Event",
-      "year": "1341",
-      "text": "Coronation of John V Palaiologos as Byzantine Emperor during the Byzantine civil war of 1341–1347."
-    },
-    {
-      "type": "Birth",
-      "year": "1993",
-      "text": "Justin Anderson, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Yuan T. Lee, Taiwanese-American chemist and academic, Nobel Prize laureate"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Valentin Ivanov, Russian footballer and manager (died 2011)"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Charlie Kaufman, American director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Ray Collins, American singer (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "461",
-      "text": "Beginning of the papacy of pope Hilarius."
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Barry Jenkins, American director, screenwriter, and producer"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Jeannie Ortega, American singer-songwriter, dancer, and actress"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Apollo program: Apollo 12 astronauts Pete Conrad and Alan Bean land at Oceanus Procellarum (the \"Ocean of Storms\") and become the third and fourth humans to walk on the Moon."
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "Clinton–Lewinsky scandal: The United States House of Representatives Judiciary Committee begins impeachment hearings into U.S. President Bill Clinton."
-    },
-    {
-      "type": "Death",
-      "year": "1665",
-      "text": "Nicolas Poussin, French-Italian painter (born 1594)"
-    },
-    {
-      "type": "Event",
-      "year": "1969",
-      "text": "Association football player Pelé scores his 1,000th goal."
-    },
-    {
-      "type": "Birth",
-      "year": "1977",
-      "text": "Reid Scott, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Larry Gilbert, American golfer (died 1998)"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Dmitri Yushkevich, Russian ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1985",
-      "text": "Pennzoil wins a US$10.53 billion judgment against Texaco, in the largest civil verdict in the history of the United States, stemming from Texaco executing a contract to buy Getty Oil after Pennzoil had entered into an unsigned, yet still binding, buyout contract with Getty."
-    },
-    {
-      "type": "Event",
       "year": "2002",
       "text": "The Greek oil tanker Prestige splits in half and sinks off the coast of Galicia, releasing over 76,000 m3 (20 million US gal) of oil in the largest environmental disaster in Spanish and Portuguese history."
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Iran hostage crisis: Iranian leader Ayatollah Ruhollah Khomeini orders the release of 13 female and black American hostages being held at the US Embassy in Tehran."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "The Holocaust: Nazis liquidate Janowska concentration camp in Lemberg (Lviv), western Ukraine, murdering at least 6,000 Jews after a failed uprising and mass escape attempt."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Jessicah Schipper, Australian swimmer"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "The founding congress of the Communist Party of Transcarpathian Ukraine is held in Mukachevo."
-    },
-    {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Brittany Maynard, American activist (died 2014)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Eric Musselman, American basketball player and coach"
-    },
-    {
-      "type": "Death",
-      "year": "1991",
-      "text": "Reggie Nalder, Austrian-American actor (born 1907)"
-    },
-    {
-      "type": "Event",
-      "year": "461",
-      "text": "Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer."
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia."
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Fred Diamond, American-English mathematician and academic"
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "World War II: Battle of Stalingrad: Soviet Union forces under General Georgy Zhukov launch the Operation Uranus counterattacks at Stalingrad, turning the tide of the battle in the USSR's favor."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Marquise Goodwin, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1941",
-      "text": "Dan Haggerty, American actor and producer (died 2016)"
-    },
-    {
-      "type": "Event",
-      "year": "1944",
-      "text": "World War II: U.S. President Franklin D. Roosevelt announces the sixth War Loan Drive, aimed at selling US$14 billion in war bonds to help pay for the war effort."
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Josh Lambo, American football and soccer player"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Terrence C. Carson, American actor and singer"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado."
-    },
-    {
-      "type": "Event",
-      "year": "1950",
-      "text": "US General Dwight D. Eisenhower becomes Supreme Commander of NATO-Europe."
-    },
-    {
-      "type": "Event",
-      "year": "2001",
-      "text": "The Aviation and Transportation Security Act is enacted by the 107th United States Congress in the immediate aftermath of the September 11, 2001 attacks. The Act created the Transportation Security Administration (TSA)."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Sean Parnell, American lawyer and politician, 12th Governor of Alaska"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: Battle between HMAS Sydney and HSK Kormoran. The two ships sink each other off the coast of Western Australia, with the loss of 645 Australians and about 77 German seamen."
     },
     {
       "type": "Event",
@@ -253,8 +13,148 @@
     },
     {
       "type": "Event",
+      "year": "1863",
+      "text": "American Civil War: U.S. President Abraham Lincoln delivers the Gettysburg Address at the dedication ceremony for the military cemetery at Gettysburg, Pennsylvania."
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Bob Boone, American baseball player and manager (d. 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Tom Villard, American actor (died 1994)"
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Allen E. Ertel, American lawyer and politician (born 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Robert Beltran, American actor"
+    },
+    {
+      "type": "Event",
       "year": "1985",
-      "text": "Cold War: In Geneva, U.S. President Ronald Reagan and Soviet Union General Secretary Mikhail Gorbachev meet for the first time."
+      "text": "Pennzoil wins a US$10.53 billion judgment against Texaco, in the largest civil verdict in the history of the United States, stemming from Texaco executing a contract to buy Getty Oil after Pennzoil had entered into an unsigned, yet still binding, buyout contract with Getty."
+    },
+    {
+      "type": "Event",
+      "year": "2026",
+      "text": "Rohingya genocide: The International Court of Justice delivers a 9-6 ruling finding Myanmar committed a genocide against the Rohingya people."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Alex Mack, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "2024",
+      "text": "Tony Campolo, American sociologist and pastor (born 1935)"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Association football player Pelé scores his 1,000th goal."
+    },
+    {
+      "type": "Birth",
+      "year": "1958",
+      "text": "Algirdas Butkevičius, Lithuanian sergeant and politician, 12th Prime Minister of Lithuania"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "World War II: U.S. President Franklin D. Roosevelt announces the sixth War Loan Drive, aimed at selling US$14 billion in war bonds to help pay for the war effort."
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Eileen Collins, American colonel, pilot, and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Kenneth Faried, American basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Keith Buckley, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1996",
+      "text": "FaZe Rug, American YouTuber"
+    },
+    {
+      "type": "Event",
+      "year": "1941",
+      "text": "World War II: Battle between HMAS Sydney and HSK Kormoran. The two ships sink each other off the coast of Western Australia, with the loss of 645 Australians and about 77 German seamen."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Tyga, American rapper"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Egyptian President Anwar Sadat adresses the knesset during his visit to Jerusalem, calling for peace between Egypt and Israel."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Ahmad Rashad, American football player and sportscaster"
+    },
+    {
+      "type": "Birth",
+      "year": "1915",
+      "text": "Earl Wilbur Sutherland, Jr., American pharmacologist and biochemist, Nobel Prize laureate (died 1974)"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Iran hostage crisis: Iranian leader Ayatollah Ruhollah Khomeini orders the release of 13 female and black American hostages being held at the US Embassy in Tehran."
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "John McCarthy, Australian footballer (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1956",
+      "text": "Ann Curry, Guamanian-American journalist"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Jane Mansbridge, American political scientist and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Nicholas Patrick, English-American engineer and astronaut"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Cameron Bancroft, Australian cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "US General Dwight D. Eisenhower becomes Supreme Commander of NATO-Europe."
     },
     {
       "type": "Event",
@@ -263,13 +163,108 @@
     },
     {
       "type": "Birth",
-      "year": "1932",
-      "text": "Eleanor F. Helin, American astronomer (died 2009)"
+      "year": "1912",
+      "text": "Bernard Joseph McLaughlin, American bishop (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Jon Potter, English-American field hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1936",
+      "text": "Yuan T. Lee, Taiwanese-American chemist and academic, Nobel Prize laureate"
     },
     {
       "type": "Event",
-      "year": "1863",
-      "text": "American Civil War: U.S. President Abraham Lincoln delivers the Gettysburg Address at the dedication ceremony for the military cemetery at Gettysburg, Pennsylvania."
+      "year": "1943",
+      "text": "The Holocaust: Nazis liquidate Janowska concentration camp in Lemberg (Lviv), western Ukraine, murdering at least 6,000 Jews after a failed uprising and mass escape attempt."
+    },
+    {
+      "type": "Event",
+      "year": "1794",
+      "text": "The United States and the Kingdom of Great Britain sign Jay's Treaty, which attempts to resolve some of the lingering problems left over from the American Revolutionary War."
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Robert Barron, American bishop, author, and theologian"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Miss Elizabeth, American wrestler and manager (died 2003)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Reid Scott, American actor"
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Apollo program: Apollo 12 astronauts Pete Conrad and Alan Bean land at Oceanus Procellarum (the \"Ocean of Storms\") and become the third and fourth humans to walk on the Moon."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Aurelio Monteagudo, Cuban-American baseball player and manager (died 1990)"
+    },
+    {
+      "type": "Event",
+      "year": "461",
+      "text": "Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer."
+    },
+    {
+      "type": "Event",
+      "year": "461",
+      "text": "Beginning of the papacy of pope Hilarius."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Jack Dorsey, American businessman, co-founded Twitter"
+    },
+    {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Timo Eichfuss, Estonian basketball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1997",
+      "text": "Zach Collins, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1944",
+      "text": "The founding congress of the Communist Party of Transcarpathian Ukraine is held in Mukachevo."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "World War II: Battle of Stalingrad: Soviet Union forces under General Georgy Zhukov launch the Operation Uranus counterattacks at Stalingrad, turning the tide of the battle in the USSR's favor."
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "A Beechcraft 1900 and a Beechcraft King Air collide at Quincy Regional Airport in Quincy, Illinois, killing 14."
+    },
+    {
+      "type": "Event",
+      "year": "1998",
+      "text": "Clinton–Lewinsky scandal: The United States House of Representatives Judiciary Committee begins impeachment hearings into U.S. President Bill Clinton."
+    },
+    {
+      "type": "Event",
+      "year": "1996",
+      "text": "Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles."
+    },
+    {
+      "type": "Death",
+      "year": "1967",
+      "text": "Charles J. Watters, American priest and soldier, Medal of Honor recipient (born 1927)"
     },
     {
       "type": "Event",
@@ -278,28 +273,33 @@
     },
     {
       "type": "Birth",
-      "year": "1979",
-      "text": "John-Ford Griffin, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "1679",
-      "text": "Roger Conant, Massachusetts governor (born 1592)"
+      "year": "1960",
+      "text": "Matt Sorum, American drummer, songwriter, and producer"
     },
     {
       "type": "Event",
-      "year": "1996",
-      "text": "A Beechcraft 1900 and a Beechcraft King Air collide at Quincy Regional Airport in Quincy, Illinois, killing 14."
+      "year": "1985",
+      "text": "Cold War: In Geneva, U.S. President Ronald Reagan and Soviet Union General Secretary Mikhail Gorbachev meet for the first time."
+    },
+    {
+      "type": "Event",
+      "year": "1341",
+      "text": "Coronation of John V Palaiologos as Byzantine Emperor during the Byzantine civil war of 1341–1347."
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado."
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Jack Welch, American engineer, businessman, and author (died 2020)"
+      "year": "1961",
+      "text": "Jim L. Mora, American football player and coach"
     },
     {
       "type": "Event",
-      "year": "1977",
-      "text": "Egyptian President Anwar Sadat adresses the knesset during his visit to Jerusalem, calling for peace between Egypt and Israel."
+      "year": "2001",
+      "text": "The Aviation and Transportation Security Act is enacted by the 107th United States Congress in the immediate aftermath of the September 11, 2001 attacks. The Act created the Transportation Security Administration (TSA)."
     }
   ],
   "source": "Wikipedia"
