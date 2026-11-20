@@ -2,29 +2,59 @@
   "date": "2026-11-20",
   "items": [
     {
+      "type": "Birth",
+      "year": "1988",
+      "text": "Max Pacioretty, American ice hockey player"
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Algimantas Butnorius, Lithuanian chess Grandmaster (died 2017)"
+    },
+    {
+      "type": "Birth",
+      "year": "1941",
+      "text": "Oliver Sipple, U.S. Marine and Vietnam War veteran (died 1989)"
+    },
+    {
+      "type": "Birth",
+      "year": "1942",
+      "text": "Norman Greenbaum, American singer-songwriter and guitarist"
+    },
+    {
+      "type": "Event",
+      "year": "1441",
+      "text": "The Peace of Cremona ends the war between the Republic of Venice and the Duchy of Milan, after the victorious Venetian enterprise of military engineering of the Galeas per montes."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Future, American rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1986",
+      "text": "Ashley Fink, American actress and singer"
+    },
+    {
+      "type": "Birth",
+      "year": "1971",
+      "text": "Joey Galloway, American football player and sportscaster"
+    },
+    {
       "type": "Event",
       "year": "1815",
       "text": "The Second Treaty of Paris is signed, returning the French frontiers to their 1790 extent, imposing large indemnities, and prolonging the occupation by troops of Great Britain, Austria, Prussia, and Russia for several more years."
     },
     {
       "type": "Event",
-      "year": "1992",
-      "text": "In England, a fire breaks out in Windsor Castle, badly damaging the castle and causing over £50 million worth of damage."
-    },
-    {
-      "type": "Event",
-      "year": "1917",
-      "text": "World War I: Battle of Cambrai begins: British forces make early progress in an attack on German positions but are later pushed back."
-    },
-    {
-      "type": "Birth",
-      "year": "1947",
-      "text": "Joe Walsh, American singer-songwriter, guitarist, producer, and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1971",
-      "text": "Joel McHale, American comedian, actor, and producer"
+      "year": "1759",
+      "text": "The British fleet under Edward Hawke defeats a French fleet under Hubert de Brienne in the battle of Quiberon Bay, thus diminishing the chances for a French invasion of Britain."
     },
     {
       "type": "Birth",
@@ -33,88 +63,23 @@
     },
     {
       "type": "Event",
-      "year": "1710",
-      "text": "Begin of the Russo-Turkish War of 1710–1713, after tensions between the two states escalate as the Ottomans provide shelter to King Charles XII of Sweden in their fortress of Bender."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "Matt Blunt, American lieutenant and politician, 54th Governor of Missouri"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "David Douglas-Home, British businessman and politician (died 2022)"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Halid Bešlić, Bosnian musician and singer (died 2025)"
-    },
-    {
-      "type": "Event",
-      "year": "1977",
-      "text": "Egyptian President Anwar Sadat becomes the first Arab leader to officially visit Israel, when he meets Israeli prime minister Menachem Begin and speaks before the Knesset in Jerusalem, seeking a permanent peace settlement."
-    },
-    {
-      "type": "Event",
-      "year": "1820",
-      "text": "An 80-ton sperm whale attacks and sinks the Essex (a whaling ship from Nantucket, Massachusetts) 3,200 kilometres (2,000 mi) from the western coast of South America. (Herman Melville's 1851 novel Moby-Dick was in part inspired by this incident.)"
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Sean Young, American actress and dancer"
-    },
-    {
-      "type": "Event",
       "year": "1900",
       "text": "The French actress Sarah Bernhardt receives the press at the Savoy Hotel in New York at the outset of her first visit since 1896. She talked about her impending tour with a troupe of more than 50 performers and her plans to play the title role in Hamlet."
     },
     {
-      "type": "Birth",
-      "year": "1987",
-      "text": "Amelia Rose Blaire, American actress"
-    },
-    {
       "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: A secession ordinance is filed by Kentucky's Confederate government."
-    },
-    {
-      "type": "Event",
-      "year": "1974",
-      "text": "The United States Department of Justice files its final anti-trust suit against AT&T Corporation. This suit later leads to the breakup of AT&T and its Bell System."
+      "year": "1993",
+      "text": "Savings and loan crisis: The United States Senate Ethics Committee issues a stern censure of California senator Alan Cranston for his \"dealings\" with savings-and-loan executive Charles Keating."
     },
     {
       "type": "Birth",
-      "year": "1985",
-      "text": "Maria Mukhortova, Russian skater"
+      "year": "1940",
+      "text": "Arieh Warshel, Israeli-American biochemist and biophysicist"
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Max Pacioretty, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "A total of 78 miners are killed in an explosion at the Consolidated Coal Company's No. 9 mine in Farmington, West Virginia in the Farmington Mine disaster."
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)"
-    },
-    {
-      "type": "Event",
-      "year": "1998",
-      "text": "A court in Taliban-controlled Afghanistan declares accused terrorist Osama bin Laden \"a man without a sin\" in regard to the 1998 U.S. embassy bombings in Kenya and Tanzania."
-    },
-    {
-      "type": "Event",
-      "year": "1945",
-      "text": "Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg."
+      "year": "1939",
+      "text": "Jerry Colangelo, American businessman"
     },
     {
       "type": "Birth",
@@ -122,19 +87,34 @@
       "text": "Joseph Hallman, American composer and academic"
     },
     {
-      "type": "Death",
-      "year": "2015",
-      "text": "Jim Perry, American-Canadian singer and game show host (born 1933)"
+      "type": "Event",
+      "year": "1980",
+      "text": "Lake Peigneur in Louisiana drains into an underlying salt deposit. A misplaced Texaco oil probe had been drilled into the Diamond Crystal Salt Mine, causing water to flow down into the mine, eroding the edges of the hole."
     },
     {
-      "type": "Event",
-      "year": "1962",
-      "text": "Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation."
+      "type": "Death",
+      "year": "1983",
+      "text": "Richard Loo, Chinese-American actor (born 1903)"
     },
     {
       "type": "Birth",
-      "year": "1955",
-      "text": "Ray Ozzie, American software industry entrepreneur"
+      "year": "1966",
+      "text": "Jill Thompson, American author and illustrator"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Grand Mosque seizure: About 200 Sunni Muslims revolt in Saudi Arabia at the site of the Kaaba in Mecca during the pilgrimage and take about 6,000 hostages. The Saudi government receives help from French special forces to put down the uprising."
+    },
+    {
+      "type": "Birth",
+      "year": "1963",
+      "text": "Beezie Madden, American show jumper"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Battle of Tarawa (Operation Galvanic) begins: United States Marines land on Tarawa Atoll in the Gilbert Islands and suffer heavy fire from Japanese shore guns and machine guns."
     },
     {
       "type": "Event",
@@ -144,77 +124,37 @@
     {
       "type": "Birth",
       "year": "1965",
-      "text": "Yehuda Glick, American-Israeli Orthodox rabbi"
-    },
-    {
-      "type": "Event",
-      "year": "1759",
-      "text": "The British fleet under Edward Hawke defeats a French fleet under Hubert de Brienne in the battle of Quiberon Bay, thus diminishing the chances for a French invasion of Britain."
-    },
-    {
-      "type": "Event",
-      "year": "1993",
-      "text": "Savings and loan crisis: The United States Senate Ethics Committee issues a stern censure of California senator Alan Cranston for his \"dealings\" with savings-and-loan executive Charles Keating."
+      "text": "Yoshiki, Japanese musician"
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Nathan Lyon, Australian cricketer"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Algimantas Butnorius, Lithuanian chess Grandmaster (died 2017)"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "Lake Peigneur in Louisiana drains into an underlying salt deposit. A misplaced Texaco oil probe had been drilled into the Diamond Crystal Salt Mine, causing water to flow down into the mine, eroding the edges of the hole."
+      "year": "1976",
+      "text": "Dominique Dawes, American gymnast and actress"
     },
     {
       "type": "Death",
-      "year": "1886",
-      "text": "William Bliss Baker, American painter (born 1859)"
-    },
-    {
-      "type": "Death",
-      "year": "1957",
-      "text": "Mstislav Dobuzhinsky, Russian-Lithuanian painter and illustrator (born 1875)"
+      "year": "1910",
+      "text": "Leo Tolstoy, Russian author and playwright (born 1828)"
     },
     {
       "type": "Event",
-      "year": "1943",
-      "text": "World War II: Battle of Tarawa (Operation Galvanic) begins: United States Marines land on Tarawa Atoll in the Gilbert Islands and suffer heavy fire from Japanese shore guns and machine guns."
+      "year": "1998",
+      "text": "A court in Taliban-controlled Afghanistan declares accused terrorist Osama bin Laden \"a man without a sin\" in regard to the 1998 U.S. embassy bombings in Kenya and Tanzania."
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Gary Green, British musician"
-    },
-    {
-      "type": "Event",
-      "year": "1979",
-      "text": "Grand Mosque seizure: About 200 Sunni Muslims revolt in Saudi Arabia at the site of the Kaaba in Mecca during the pilgrimage and take about 6,000 hostages. The Saudi government receives help from French special forces to put down the uprising."
+      "year": "1977",
+      "text": "Mikhail Ivanov, Russian cross-country skier"
     },
     {
       "type": "Birth",
       "year": "1942",
-      "text": "Joe Biden, American politician, 46th President of the United States"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Tim Gavin, Australian rugby player"
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Madisyn Shipman, American actress"
+      "text": "Meredith Monk, American composer and choreographer"
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "An Azerbaijani MI-8 helicopter carrying 19 peacekeeping mission team with officials and journalists from Russia, Kazakhstan and Azerbaijan is shot down by Armenian military forces in Khojavend District of Azerbaijan."
+      "year": "1917",
+      "text": "World War I: Battle of Cambrai begins: British forces make early progress in an attack on German positions but are later pushed back."
     },
     {
       "type": "Birth",
@@ -223,28 +163,23 @@
     },
     {
       "type": "Event",
+      "year": "1710",
+      "text": "Begin of the Russo-Turkish War of 1710–1713, after tensions between the two states escalate as the Ottomans provide shelter to King Charles XII of Sweden in their fortress of Bender."
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "DeJuan Collins, American basketball player"
+    },
+    {
+      "type": "Event",
       "year": "1969",
       "text": "Occupation of Alcatraz: Native American activists seize control of Alcatraz Island until being ousted by the U.S. Government on June 11, 1971."
     },
     {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Ming-Na Wen, Chinese-American actress"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Jill Thompson, American author and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Anastasiya Kapachinskaya, Russian sprint athlete"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Jimmy Vasser, American race car driver"
+      "type": "Event",
+      "year": "1974",
+      "text": "The United States Department of Justice files its final anti-trust suit against AT&T Corporation. This suit later leads to the breakup of AT&T and its Bell System."
     },
     {
       "type": "Event",
@@ -253,38 +188,58 @@
     },
     {
       "type": "Event",
-      "year": "1969",
-      "text": "Vietnam War: The Plain Dealer (Cleveland, Ohio) publishes explicit photographs of dead villagers from the My Lai Massacre in Vietnam."
-    },
-    {
-      "type": "Event",
-      "year": "1441",
-      "text": "The Peace of Cremona ends the war between the Republic of Venice and the Duchy of Milan, after the victorious Venetian enterprise of military engineering of the Galeas per montes."
-    },
-    {
-      "type": "Event",
       "year": "1776",
       "text": "American Revolutionary War: British forces land at the Palisades and then attack Fort Lee. The Continental Army starts to retreat across New Jersey."
     },
     {
-      "type": "Birth",
-      "year": "1948",
-      "text": "Barbara Hendricks, American-Swedish soprano and actress"
+      "type": "Event",
+      "year": "1992",
+      "text": "In England, a fire breaks out in Windsor Castle, badly damaging the castle and causing over £50 million worth of damage."
+    },
+    {
+      "type": "Event",
+      "year": "1969",
+      "text": "Vietnam War: The Plain Dealer (Cleveland, Ohio) publishes explicit photographs of dead villagers from the My Lai Massacre in Vietnam."
     },
     {
       "type": "Birth",
-      "year": "1981",
-      "text": "Carlos Boozer, American basketball player"
+      "year": "1965",
+      "text": "Yehuda Glick, American-Israeli Orthodox rabbi"
+    },
+    {
+      "type": "Event",
+      "year": "1962",
+      "text": "Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation."
     },
     {
       "type": "Birth",
-      "year": "1988",
-      "text": "Rhys Wakefield, Australian actor and director"
+      "year": "1971",
+      "text": "Joel McHale, American comedian, actor, and producer"
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "John R. Bolton, American lawyer and diplomat, 25th United States Ambassador to the United Nations"
+      "year": "1989",
+      "text": "Cody Linley, American actor and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1861",
+      "text": "American Civil War: A secession ordinance is filed by Kentucky's Confederate government."
+    },
+    {
+      "type": "Event",
+      "year": "1820",
+      "text": "An 80-ton sperm whale attacks and sinks the Essex (a whaling ship from Nantucket, Massachusetts) 3,200 kilometres (2,000 mi) from the western coast of South America. (Herman Melville's 1851 novel Moby-Dick was in part inspired by this incident.)"
+    },
+    {
+      "type": "Event",
+      "year": "1945",
+      "text": "Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg."
+    },
+    {
+      "type": "Death",
+      "year": "1882",
+      "text": "Henry Draper, American doctor and astronomer (born 1837)"
     },
     {
       "type": "Event",
@@ -293,13 +248,58 @@
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Phife Dawg, American rapper (died 2016)"
+      "year": "1955",
+      "text": "Ray Ozzie, American software industry entrepreneur"
+    },
+    {
+      "type": "Event",
+      "year": "1977",
+      "text": "Egyptian President Anwar Sadat becomes the first Arab leader to officially visit Israel, when he meets Israeli prime minister Menachem Begin and speaks before the Knesset in Jerusalem, seeking a permanent peace settlement."
     },
     {
       "type": "Birth",
-      "year": "1941",
-      "text": "Dr. John, American singer and songwriter (died 2019)"
+      "year": "1948",
+      "text": "John R. Bolton, American lawyer and diplomat, 25th United States Ambassador to the United Nations"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "A total of 78 miners are killed in an explosion at the Consolidated Coal Company's No. 9 mine in Farmington, West Virginia in the Farmington Mine disaster."
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "David Einhorn, American hedge fund manager"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Dick Smothers, American actor and comedian"
+    },
+    {
+      "type": "Birth",
+      "year": "1968",
+      "text": "Andrei Kharlov, Russian chess player"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Thelma Drake, American politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "David Douglas-Home, British businessman and politician (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "An Azerbaijani MI-8 helicopter carrying 19 peacekeeping mission team with officials and journalists from Russia, Kazakhstan and Azerbaijan is shot down by Armenian military forces in Khojavend District of Azerbaijan."
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "J. D. Drew, American baseball player"
     }
   ],
   "source": "Wikipedia"
