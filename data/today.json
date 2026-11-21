@@ -3,48 +3,18 @@
   "items": [
     {
       "type": "Birth",
+      "year": "1904",
+      "text": "Coleman Hawkins, American saxophonist and clarinet player (died 1969)"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Marilyn French, American author and academic (died 2009)"
+    },
+    {
+      "type": "Birth",
       "year": "1934",
       "text": "Peter Philpott, Australian cricketer (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Steven Curtis Chapman, American Christian music singer-songwriter, musician, record producer, actor, author, and social activist"
-    },
-    {
-      "type": "Event",
-      "year": "1980",
-      "text": "A deadly fire breaks out at the MGM Grand Hotel in Paradise, Nevada (now Bally's Las Vegas). Eighty-five people are killed and more than 650 are injured in the worst disaster in Nevada history."
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Galina Kukleva, Russian biathlete (died 2026)"
-    },
-    {
-      "type": "Birth",
-      "year": "1818",
-      "text": "Lewis H. Morgan, American lawyer, anthropologist, and theorist (died 1881)"
-    },
-    {
-      "type": "Event",
-      "year": "1992",
-      "text": "A major tornado strikes the Houston, Texas area during the afternoon. Over the next two days the largest tornado outbreak ever to occur in the US during November spawns over 100 tornadoes."
-    },
-    {
-      "type": "Event",
-      "year": "1386",
-      "text": "Timur of Samarkand captures and sacks the Georgian capital of Tbilisi, taking King Bagrat V of Georgia captive."
-    },
-    {
-      "type": "Event",
-      "year": "235",
-      "text": "Pope Anterus succeeds Pontian as the nineteenth pope."
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Colleen Ballinger, American YouTuber, comedian, actress, and singer"
     },
     {
       "type": "Event",
@@ -53,28 +23,28 @@
     },
     {
       "type": "Event",
-      "year": "2014",
-      "text": "A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others."
+      "year": "2004",
+      "text": "Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed."
     },
     {
       "type": "Event",
-      "year": "1961",
-      "text": "\"La Ronde\" opens in Honolulu, the first revolving restaurant in the United States."
-    },
-    {
-      "type": "Birth",
-      "year": "1995",
-      "text": "Chris Chiozza, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Ben Bishop, American ice hockey player"
+      "year": "1927",
+      "text": "Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of Colorado state police dressed in civilian clothes."
     },
     {
       "type": "Event",
-      "year": "1902",
-      "text": "The Philadelphia Football Athletics defeat the Kanaweola Athletic Club of Elmira, New York, 39–0, in the first-ever professional American football night game."
+      "year": "2006",
+      "text": "Anti-Syrian Lebanese politician and government minister Pierre Gemayel is assassinated in suburban Beirut."
+    },
+    {
+      "type": "Event",
+      "year": "1967",
+      "text": "Vietnam War: American General William Westmoreland tells news reporters: \"I am absolutely certain that whereas in 1965 the enemy was winning, today he is certainly losing.\""
+    },
+    {
+      "type": "Event",
+      "year": "1992",
+      "text": "A major tornado strikes the Houston, Texas area during the afternoon. Over the next two days the largest tornado outbreak ever to occur in the US during November spawns over 100 tornadoes."
     },
     {
       "type": "Event",
@@ -82,9 +52,19 @@
       "text": "United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison."
     },
     {
+      "type": "Event",
+      "year": "2014",
+      "text": "A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others."
+    },
+    {
       "type": "Birth",
-      "year": "1977",
-      "text": "Michael Batiste, American basketball player"
+      "year": "1920",
+      "text": "Stan Musial, American baseball player and manager (died 2013)"
+    },
+    {
+      "type": "Event",
+      "year": "2013",
+      "text": "Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine–European Union Association Agreement."
     },
     {
       "type": "Event",
@@ -93,28 +73,58 @@
     },
     {
       "type": "Event",
-      "year": "2004",
-      "text": "Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Dick Durbin, American lawyer and politician"
+      "year": "1961",
+      "text": "\"La Ronde\" opens in Honolulu, the first revolving restaurant in the United States."
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "The United States Embassy in Islamabad, Pakistan, is attacked by a mob and set on fire, killing four."
+      "year": "2012",
+      "text": "At least 28 are wounded after a bomb is thrown onto a bus in Tel Aviv."
     },
     {
       "type": "Birth",
-      "year": "1999",
-      "text": "Jaelin Howell, American soccer player"
+      "year": "1962",
+      "text": "Steven Curtis Chapman, American Christian music singer-songwriter, musician, record producer, actor, author, and social activist"
+    },
+    {
+      "type": "Birth",
+      "year": "1931",
+      "text": "Stanley Kalms, Baron Kalms, English businessman (died 2025)"
     },
     {
       "type": "Event",
-      "year": "1861",
-      "text": "American Civil War: Confederate President Jefferson Davis appoints Judah Benjamin Secretary of War."
+      "year": "235",
+      "text": "Pope Anterus succeeds Pontian as the nineteenth pope."
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "Glenn Ridge, Australian radio and television host and producer"
+    },
+    {
+      "type": "Death",
+      "year": "2007",
+      "text": "Tom Johnson, Canadian-American ice hockey player and coach (born 1928)"
+    },
+    {
+      "type": "Event",
+      "year": "1894",
+      "text": "Port Arthur, China, falls to the Japanese, a decisive victory of the First Sino-Japanese War; Japanese troops are accused of massacring the remaining inhabitants."
+    },
+    {
+      "type": "Death",
+      "year": "2013",
+      "text": "Fred Kavli, Norwegian-American businessman and philanthropist, founded The Kavli Foundation (born 1927)"
+    },
+    {
+      "type": "Event",
+      "year": "1386",
+      "text": "Timur of Samarkand captures and sacks the Georgian capital of Tbilisi, taking King Bagrat V of Georgia captive."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Jena Malone, American actress and singer"
     },
     {
       "type": "Event",
@@ -122,9 +132,39 @@
       "text": "Rebecca Latimer Felton of Georgia takes the oath of office, becoming the first female United States Senator."
     },
     {
+      "type": "Death",
+      "year": "1973",
+      "text": "Thomas Pelly, American lawyer and politician (born 1902)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Brian Ritchie, American bass player and songwriter"
+    },
+    {
       "type": "Event",
-      "year": "2019",
-      "text": "Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust."
+      "year": "1918",
+      "text": "The Flag of Estonia, previously used by pro-independence activists, is formally adopted as the national flag of the Republic of Estonia."
+    },
+    {
+      "type": "Event",
+      "year": "1980",
+      "text": "A deadly fire breaks out at the MGM Grand Hotel in Paradise, Nevada (now Bally's Las Vegas). Eighty-five people are killed and more than 650 are injured in the worst disaster in Nevada history."
+    },
+    {
+      "type": "Birth",
+      "year": "1937",
+      "text": "John Kerin, Australian politician (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1972",
+      "text": "Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic."
+    },
+    {
+      "type": "Event",
+      "year": "2015",
+      "text": "The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks."
     },
     {
       "type": "Event",
@@ -133,38 +173,23 @@
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Earl Monroe, American basketball player"
+      "year": "1937",
+      "text": "Marlo Thomas, American actress, producer, and activist"
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Tripp Cromer, American baseball player"
+      "year": "1853",
+      "text": "Hussein Kamel of Egypt (died 1917)"
+    },
+    {
+      "type": "Birth",
+      "year": "1977",
+      "text": "Michael Batiste, American basketball player"
     },
     {
       "type": "Event",
-      "year": "1967",
-      "text": "Vietnam War: American General William Westmoreland tells news reporters: \"I am absolutely certain that whereas in 1965 the enemy was winning, today he is certainly losing.\""
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Preston Zimmerman, American soccer player"
-    },
-    {
-      "type": "Death",
-      "year": "1981",
-      "text": "Harry von Zell, American actor and comedian (born 1906)"
-    },
-    {
-      "type": "Event",
-      "year": "2006",
-      "text": "Anti-Syrian Lebanese politician and government minister Pierre Gemayel is assassinated in suburban Beirut."
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "Cedric Maxwell, American basketball player, coach, and sportscaster"
+      "year": "1861",
+      "text": "American Civil War: Confederate President Jefferson Davis appoints Judah Benjamin Secretary of War."
     },
     {
       "type": "Event",
@@ -177,64 +202,14 @@
       "text": "The completion of the Alaska Highway (also known as the Alcan Highway) is celebrated (however, the highway is not usable by standard road vehicles until 1943)."
     },
     {
-      "type": "Event",
-      "year": "2012",
-      "text": "At least 28 are wounded after a bomb is thrown onto a bus in Tel Aviv."
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Norris Church Mailer, American author (born 1949)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Lorna Luft, American actress and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1970",
-      "text": "Vietnam War: Operation Ivory Coast: A joint United States Air Force and Army team raids the Sơn Tây prisoner-of-war camp in an attempt to free American prisoners of war thought to be held there."
-    },
-    {
-      "type": "Birth",
-      "year": "1936",
-      "text": "Victor Chang, Chinese-Australian surgeon (died 1991)"
-    },
-    {
-      "type": "Birth",
-      "year": "1979",
-      "text": "Stromile Swift, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "2015",
-      "text": "The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks."
-    },
-    {
-      "type": "Event",
-      "year": "1918",
-      "text": "The Flag of Estonia, previously used by pro-independence activists, is formally adopted as the national flag of the Republic of Estonia."
-    },
-    {
-      "type": "Event",
-      "year": "1894",
-      "text": "Port Arthur, China, falls to the Japanese, a decisive victory of the First Sino-Japanese War; Japanese troops are accused of massacring the remaining inhabitants."
-    },
-    {
-      "type": "Event",
-      "year": "1972",
-      "text": "Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic."
-    },
-    {
-      "type": "Death",
-      "year": "1938",
-      "text": "Leopold Godowsky, Polish-American pianist and composer (born 1870)"
-    },
-    {
       "type": "Birth",
       "year": "1941",
       "text": "David Porter, American songwriter, musician, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Henry Hartsfield, American colonel, pilot, and astronaut (died 2014)"
     },
     {
       "type": "Event",
@@ -243,33 +218,58 @@
     },
     {
       "type": "Birth",
-      "year": "1945",
-      "text": "Vincent Di Fate, American artist"
+      "year": "1948",
+      "text": "Alphonse Mouzon, American jazz drummer (died 2016)"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Shane Douglas, American wrestler and manager"
+      "year": "1934",
+      "text": "Laurence Luckinbill, American actor, director, and playwright"
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Henry Hartsfield, American colonel, pilot, and astronaut (died 2014)"
+      "year": "1983",
+      "text": "Nikki Bella, American wrestler and television personality"
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Etta Zuber Falconer, American educator and mathematician (died 2002)"
+      "year": "1976",
+      "text": "Michael Wilson, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1944",
+      "text": "Harold Ramis, American actor, director, producer, and screenwriter (died 2014)"
     },
     {
       "type": "Event",
-      "year": "-164",
-      "text": "Judas Maccabeus, son of Mattathias of the Hasmonean family, rededicates the Temple in Jerusalem, an event that is commemorated each year by the festival of Hanukkah. (25 Kislev 3597 in the Hebrew calendar.)"
+      "year": "1979",
+      "text": "The United States Embassy in Islamabad, Pakistan, is attacked by a mob and set on fire, killing four."
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Terry Dischinger, American basketball player (died 2023)"
+      "year": "1922",
+      "text": "Abe Lemons, American basketball player and coach (died 2002)"
+    },
+    {
+      "type": "Birth",
+      "year": "1975",
+      "text": "Jimmi Simpson, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Brian McNamara, American actor, director, and producer"
+    },
+    {
+      "type": "Event",
+      "year": "2019",
+      "text": "Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust."
+    },
+    {
+      "type": "Event",
+      "year": "1970",
+      "text": "Vietnam War: Operation Ivory Coast: A joint United States Air Force and Army team raids the Sơn Tây prisoner-of-war camp in an attempt to free American prisoners of war thought to be held there."
     },
     {
       "type": "Event",
@@ -278,28 +278,28 @@
     },
     {
       "type": "Event",
-      "year": "1927",
-      "text": "Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of Colorado state police dressed in civilian clothes."
-    },
-    {
-      "type": "Event",
       "year": "1995",
       "text": "The Dayton Agreement is initialed at the Wright-Patterson Air Force Base, near Dayton, Ohio, ending three and a half years of war in Bosnia and Herzegovina."
     },
     {
       "type": "Birth",
-      "year": "1931",
-      "text": "Malcolm Williamson, Australian pianist and composer (died 2003)"
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "John Lucas III, American basketball player and coach"
+      "year": "1967",
+      "text": "Tripp Cromer, American baseball player"
     },
     {
       "type": "Event",
-      "year": "2013",
-      "text": "Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine–European Union Association Agreement."
+      "year": "-164",
+      "text": "Judas Maccabeus, son of Mattathias of the Hasmonean family, rededicates the Temple in Jerusalem, an event that is commemorated each year by the festival of Hanukkah. (25 Kislev 3597 in the Hebrew calendar.)"
+    },
+    {
+      "type": "Event",
+      "year": "1902",
+      "text": "The Philadelphia Football Athletics defeat the Kanaweola Athletic Club of Elmira, New York, 39–0, in the first-ever professional American football night game."
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Phil Bredesen, American businessman and politician, 48th Governor of Tennessee"
     }
   ],
   "source": "Wikipedia"
