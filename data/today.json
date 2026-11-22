@@ -2,184 +2,9 @@
   "date": "2026-11-22",
   "items": [
     {
-      "type": "Birth",
-      "year": "1980",
-      "text": "Yaroslav Rybakov, Russian high jumper"
-    },
-    {
       "type": "Event",
-      "year": "1220",
-      "text": "Frederick II is crowned Holy Roman Emperor in Rome by Pope Honorius III."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Vladislav Namestnikov, Russian ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1922",
-      "text": "Eugene Stoner, American engineer and weapons designer, designed the AR-15 rifle (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1210",
-      "text": "The Castle of Termes falls to Simon de Montfort after a four-month siege during the Albigensian Crusade."
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Dika Newlin, American composer and singer (died 2006)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Gunther Schuller, American horn player, composer, and conductor (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Brian Robbins, American actor, director, producer, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Donny Deutsch, American businessman and television host"
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Jason Ringenberg, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Birth",
-      "year": "1989",
-      "text": "Candice Glover, American singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1994",
-      "text": "Dacre Montgomery, Australian actor"
-    },
-    {
-      "type": "Event",
-      "year": "498",
-      "text": "After the death of Anastasius II, Symmachus is elected Pope in the Lateran Palace, while Laurentius is elected Pope in Santa Maria Maggiore."
-    },
-    {
-      "type": "Event",
-      "year": "1718",
-      "text": "Royal Navy Lieutenant Robert Maynard attacks and boards the vessels of the British pirate Edward Teach (best known as \"Blackbeard\") off the coast of North Carolina. The casualties on both sides include Maynard's first officer Mister Hyde and Teach himself."
-    },
-    {
-      "type": "Birth",
-      "year": "1982",
-      "text": "Derrick Johnson, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1901",
-      "text": "Béla Juhos, Hungarian-Austrian philosopher from the Vienna Circle (died 1971)"
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Stephen Hough, English-Australian pianist and composer"
-    },
-    {
-      "type": "Event",
-      "year": "2022",
-      "text": "A shooting at a Walmart in Chesapeake, Virginia leaves seven workers dead, including the shooter, and four others injured."
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Geraldine Page, American actress and singer (died 1987)"
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Michael K. Williams, American actor (died 2021)"
-    },
-    {
-      "type": "Birth",
-      "year": "1899",
-      "text": "Hoagy Carmichael, American singer-songwriter, pianist, and actor (died 1981)"
-    },
-    {
-      "type": "Birth",
-      "year": "1923",
-      "text": "Dennis Wrong, Canadian-born American sociologist (2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1954",
-      "text": "Carol Tomcala, Australian sports shooter"
-    },
-    {
-      "type": "Death",
-      "year": "1943",
-      "text": "Lorenz Hart, American composer (born 1895)"
-    },
-    {
-      "type": "Birth",
-      "year": "1957",
-      "text": "Alan Stern, American engineer and planetary scientist"
-    },
-    {
-      "type": "Event",
-      "year": "1837",
-      "text": "Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay \"To the People of Upper Canada\", published in his newspaper The Constitution."
-    },
-    {
-      "type": "Birth",
-      "year": "2002",
-      "text": "Brandon Miller, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1955",
-      "text": "James Edwards, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Stephen Geoffreys, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "545",
-      "text": "During the Three-Chapter Controversy, Pope Vigilius is abducted on order of emperor Justinian I in order to force him to agree with Byzantine imperial religious policy."
-    },
-    {
-      "type": "Birth",
-      "year": "1940",
-      "text": "Terry Gilliam, American-English actor, director, animator, and screenwriter"
-    },
-    {
-      "type": "Birth",
-      "year": "1986",
-      "text": "Oscar Pistorius, South African sprinter and convicted murderer"
-    },
-    {
-      "type": "Birth",
-      "year": "1990",
-      "text": "Brock Osweiler, American football player"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "Jay Payton, American baseball player"
-    },
-    {
-      "type": "Death",
-      "year": "1992",
-      "text": "Sterling Holloway, American actor (born 1905)"
-    },
-    {
-      "type": "Event",
-      "year": "1994",
-      "text": "A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight."
+      "year": "1935",
+      "text": "The China Clipper inaugurates the first commercial transpacific air service, connecting Alameda, California with Manila."
     },
     {
       "type": "Event",
@@ -188,18 +13,73 @@
     },
     {
       "type": "Birth",
-      "year": "1983",
-      "text": "Tyler Hilton, American actor and singer-songwriter"
+      "year": "1918",
+      "text": "Claiborne Pell, American politician (died 2009)"
+    },
+    {
+      "type": "Event",
+      "year": "1210",
+      "text": "The Castle of Termes falls to Simon de Montfort after a four-month siege during the Albigensian Crusade."
     },
     {
       "type": "Birth",
-      "year": "1973",
-      "text": "Sharin Foo, Danish musician and singer"
+      "year": "1996",
+      "text": "Hailey Bieber, American model"
+    },
+    {
+      "type": "Event",
+      "year": "1837",
+      "text": "Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay \"To the People of Upper Canada\", published in his newspaper The Constitution."
     },
     {
       "type": "Birth",
-      "year": "1963",
-      "text": "Hugh Millen, American football player"
+      "year": "1950",
+      "text": "Lyman Bostock, American baseball player (died 1978)"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Vladislav Namestnikov, Russian ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1943",
+      "text": "Mushtaq Mohammad, Pakistani cricketer"
+    },
+    {
+      "type": "Event",
+      "year": "1718",
+      "text": "Royal Navy Lieutenant Robert Maynard attacks and boards the vessels of the British pirate Edward Teach (best known as \"Blackbeard\") off the coast of North Carolina. The casualties on both sides include Maynard's first officer Mister Hyde and Teach himself."
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Steven Van Zandt, American singer-songwriter, guitarist, producer, and actor"
+    },
+    {
+      "type": "Event",
+      "year": "2022",
+      "text": "A shooting at a Walmart in Chesapeake, Virginia leaves seven workers dead, including the shooter, and four others injured."
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Mariel Hemingway, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1220",
+      "text": "Frederick II is crowned Holy Roman Emperor in Rome by Pope Honorius III."
+    },
+    {
+      "type": "Birth",
+      "year": "1974",
+      "text": "Joe Nathan, American baseball player"
+    },
+    {
+      "type": "Birth",
+      "year": "1901",
+      "text": "Béla Juhos, Hungarian-Austrian philosopher from the Vienna Circle (died 1971)"
     },
     {
       "type": "Event",
@@ -208,33 +88,68 @@
     },
     {
       "type": "Birth",
-      "year": "1940",
-      "text": "Roy Thomas, American author"
+      "year": "1982",
+      "text": "Derrick Johnson, American football player"
     },
     {
       "type": "Birth",
-      "year": "1964",
-      "text": "Benoit Benjamin, American basketball player"
+      "year": "1931",
+      "text": "Alison Palmer, American priest and diplomat"
     },
     {
       "type": "Birth",
-      "year": "1969",
-      "text": "Marjane Satrapi, Iranian author and illustrator (died 2026)"
+      "year": "1996",
+      "text": "JuJu Smith-Schuster, American football player"
+    },
+    {
+      "type": "Death",
+      "year": "1986",
+      "text": "Scatman Crothers, American actor and comedian (born 1910)"
     },
     {
       "type": "Birth",
-      "year": "1947",
-      "text": "Sandy Alderson, American baseball executive"
-    },
-    {
-      "type": "Event",
-      "year": "1963",
-      "text": "U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards."
+      "year": "1910",
+      "text": "Mary Jackson, American actress (died 2005)"
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Lew Burdette, American baseball player and coach (died 2007)"
+      "year": "1904",
+      "text": "Miguel Covarrubias, Mexican painter and illustrator (died 1957)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Buzz Potamkin, American director and producer, founded Buzzco Associates (died 2012)"
+    },
+    {
+      "type": "Birth",
+      "year": "1925",
+      "text": "Jerrie Mock, American pilot (died 2014)"
+    },
+    {
+      "type": "Death",
+      "year": "2017",
+      "text": "George Avakian, American music producer (born 1919)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Tom West, American technologist (died 2011)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Alden Ehrenreich, American actor"
+    },
+    {
+      "type": "Birth",
+      "year": "1970",
+      "text": "Chris Fryar, American drummer"
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Richard Carmona, American physician and politician, Surgeon General of the United States"
     },
     {
       "type": "Event",
@@ -242,34 +157,34 @@
       "text": "World War II: Battle of Stalingrad: General Friedrich Paulus sends Adolf Hitler a telegram saying that the German 6th Army is surrounded."
     },
     {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Mariel Hemingway, American actress"
+      "type": "Death",
+      "year": "2011",
+      "text": "Svetlana Alliluyeva, Russian-American author (born 1926)"
     },
     {
       "type": "Birth",
-      "year": "1980",
-      "text": "Shawn Fanning, American computer programmer and businessman, founded Napster"
+      "year": "1958",
+      "text": "Jamie Lee Curtis, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "498",
+      "text": "After the death of Anastasius II, Symmachus is elected Pope in the Lateran Palace, while Laurentius is elected Pope in Santa Maria Maggiore."
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Byron Houston, American basketball player"
     },
     {
       "type": "Birth",
       "year": "1947",
-      "text": "Salt Walther, American race car driver (died 2012)"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "The Congress of Manastir establishes the Albanian alphabet."
+      "text": "Sandy Alderson, American baseball executive"
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Tina Weymouth, American singer-songwriter and bass player"
-    },
-    {
-      "type": "Death",
-      "year": "2010",
-      "text": "Jean Cione, American baseball player (born 1928)"
+      "year": "1925",
+      "text": "Gunther Schuller, American horn player, composer, and conductor (died 2015)"
     },
     {
       "type": "Event",
@@ -277,19 +192,9 @@
       "text": "NASA launches Space Shuttle Discovery on STS-33, a classified mission for the United States Department of Defense."
     },
     {
-      "type": "Event",
-      "year": "1935",
-      "text": "The China Clipper inaugurates the first commercial transpacific air service, connecting Alameda, California with Manila."
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Cairo Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Chinese Premier Chiang Kai-shek meet in Cairo, Egypt, to discuss ways to defeat Japan."
-    },
-    {
       "type": "Birth",
-      "year": "1987",
-      "text": "Elias, American wrestler"
+      "year": "1957",
+      "text": "Alan Stern, American engineer and planetary scientist"
     },
     {
       "type": "Birth",
@@ -298,8 +203,103 @@
     },
     {
       "type": "Birth",
-      "year": "1910",
-      "text": "Mary Jackson, American actress (died 2005)"
+      "year": "1963",
+      "text": "Kennedy Polamalu, Samoan-American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Geraldine Page, American actress and singer (died 1987)"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Tyler Hilton, American actor and singer-songwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1963",
+      "text": "U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards."
+    },
+    {
+      "type": "Event",
+      "year": "1994",
+      "text": "A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight."
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Scarlett Johansson, American actress"
+    },
+    {
+      "type": "Birth",
+      "year": "1955",
+      "text": "James Edwards, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1943",
+      "text": "World War II: Cairo Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Chinese Premier Chiang Kai-shek meet in Cairo, Egypt, to discuss ways to defeat Japan."
+    },
+    {
+      "type": "Birth",
+      "year": "1924",
+      "text": "Les Johnson, Australian politician (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Victor Pelevin, Russian author"
+    },
+    {
+      "type": "Event",
+      "year": "545",
+      "text": "During the Three-Chapter Controversy, Pope Vigilius is abducted on order of emperor Justinian I in order to force him to agree with Byzantine imperial religious policy."
+    },
+    {
+      "type": "Birth",
+      "year": "1884",
+      "text": "C. J. \"Jack\" De Garis, Australian entrepreneur (died 1926)"
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Shawn Fanning, American computer programmer and businessman, founded Napster"
+    },
+    {
+      "type": "Birth",
+      "year": "1899",
+      "text": "Hoagy Carmichael, American singer-songwriter, pianist, and actor (died 1981)"
+    },
+    {
+      "type": "Birth",
+      "year": "1969",
+      "text": "Marjane Satrapi, Iranian author and illustrator (died 2026)"
+    },
+    {
+      "type": "Birth",
+      "year": "1912",
+      "text": "Doris Duke, American heiress and philanthropist (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Dennis Wrong, Canadian-born American sociologist (2018)"
+    },
+    {
+      "type": "Birth",
+      "year": "2000",
+      "text": "Auliʻi Cravalho, American actress and singer"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "The Congress of Manastir establishes the Albanian alphabet."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Robbie Slater, English-Australian footballer and sportscaster"
     }
   ],
   "source": "Wikipedia"
