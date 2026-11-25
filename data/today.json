@@ -2,234 +2,14 @@
   "date": "2026-11-25",
   "items": [
     {
-      "type": "Birth",
-      "year": "1814",
-      "text": "Julius Robert von Mayer, German physician and physicist (died 1878)"
-    },
-    {
       "type": "Event",
-      "year": "1667",
-      "text": "A deadly earthquake rocks Shemakha in the Caucasus, killing 80,000 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1958",
-      "text": "Naomi Oreskes, American historian of science"
-    },
-    {
-      "type": "Birth",
-      "year": "1924",
-      "text": "Paul Desmond, American saxophonist and composer (died 1977)"
-    },
-    {
-      "type": "Birth",
-      "year": "1980",
-      "text": "John-Michael Liles, American ice hockey player"
-    },
-    {
-      "type": "Event",
-      "year": "1947",
-      "text": "New Zealand ratifies the Statute of Westminster and thus becomes independent of legislative control by the United Kingdom."
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Donovan McNabb, American football player and sportscaster"
-    },
-    {
-      "type": "Birth",
       "year": "1963",
-      "text": "Kevin Chamberlin, American actor and director"
-    },
-    {
-      "type": "Event",
-      "year": "1783",
-      "text": "American Revolutionary War: The last British troops leave New York City, three months after the signing of the Treaty of Paris."
-    },
-    {
-      "type": "Death",
-      "year": "1989",
-      "text": "Alva R. Fitch, American general (born 1907)"
-    },
-    {
-      "type": "Event",
-      "year": "1915",
-      "text": "Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences."
-    },
-    {
-      "type": "Event",
-      "year": "2009",
-      "text": "Jeddah floods: Freak rains swamp the city of Jeddah, Saudi Arabia, during an ongoing Hajj pilgrimage. Three thousand cars are swept away and 122 people perish in the torrents, with 350 others missing."
+      "text": "State funeral of John F. Kennedy; after lying in state at the United States Capitol, a Requiem Mass takes place at Cathedral of St. Matthew the Apostle and the President is buried at Arlington National Cemetery."
     },
     {
       "type": "Birth",
-      "year": "1967",
-      "text": "Gregg Turkington, Australian comedian and singer"
-    },
-    {
-      "type": "Birth",
-      "year": "1666",
-      "text": "Giuseppe Giovanni Battista Guarneri, Italian violin maker (died 1740)"
-    },
-    {
-      "type": "Death",
-      "year": "1998",
-      "text": "Flip Wilson, American comedian, actor, and screenwriter (born 1933)"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Jerry Portnoy, American singer-songwriter and harmonica player"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "The Old Student House in Helsinki, Finland is occupied by a large group of University of Helsinki students."
-    },
-    {
-      "type": "Birth",
-      "year": "1981",
-      "text": "Jared Jeffries, American basketball player"
-    },
-    {
-      "type": "Event",
-      "year": "1999",
-      "text": "A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast."
-    },
-    {
-      "type": "Birth",
-      "year": "1966",
-      "text": "Billy Burke, American actor"
-    },
-    {
-      "type": "Event",
-      "year": "2023",
-      "text": "Three Palestinian students are injured in a shooting in Burlington, Vermont."
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Albertus Soegijapranata, Indonesian archbishop (died 1963)"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Virgil Thomson, American composer and critic (died 1989)"
-    },
-    {
-      "type": "Event",
-      "year": "1984",
-      "text": "Thirty-six top musicians gather in a Notting Hill studio and record Band Aid's \"Do They Know It's Christmas?\" in order to raise money for famine relief in Ethiopia."
-    },
-    {
-      "type": "Event",
-      "year": "1952",
-      "text": "Korean War: After 42 days of fighting, the Battle of Triangle Hill ends in a Chinese victory. American and South Korean units abandon their attempt to capture the \"Iron Triangle\"."
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Alice Ambrose, American philosopher and logician (died 2001)"
-    },
-    {
-      "type": "Birth",
-      "year": "1988",
-      "text": "Nodar Kumaritashvili, Georgian luger (died 2010)"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "John Lynch, American businessman and politician, 80th Governor of New Hampshire"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Iran–Contra affair: U.S. Attorney General Edwin Meese announces that profits from covert weapons sales to Iran were illegally diverted to the anti-communist Contra rebels in Nicaragua."
-    },
-    {
-      "type": "Event",
-      "year": "1876",
-      "text": "American Indian Wars: In retaliation for the American defeat at the Battle of the Little Bighorn, United States Army troops sack the sleeping village of Cheyenne Chief Dull Knife at the headwaters of the Powder River."
-    },
-    {
-      "type": "Birth",
-      "year": "1862",
-      "text": "Gustaf Söderström, Swedish tug of war competitor, shot putter, and discus thrower (died 1958)"
-    },
-    {
-      "type": "Event",
-      "year": "1185",
-      "text": "Election of pope Urban III following the death of pope Lucius III."
-    },
-    {
-      "type": "Event",
-      "year": "1864",
-      "text": "American Civil War: A group of Confederate operatives calling themselves the Confederate Army of Manhattan starts fires in more than 20 locations in an unsuccessful attempt to burn down New York City."
-    },
-    {
-      "type": "Event",
-      "year": "1177",
-      "text": "Baldwin IV of Jerusalem and Raynald of Châtillon defeat Saladin at the Battle of Montgisard."
-    },
-    {
-      "type": "Event",
-      "year": "1926",
-      "text": "The deadliest November tornado outbreak in U.S. history kills 76 people and injures more than 400."
-    },
-    {
-      "type": "Event",
-      "year": "-571",
-      "text": "Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans."
-    },
-    {
-      "type": "Event",
-      "year": "1759",
-      "text": "An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000."
-    },
-    {
-      "type": "Birth",
-      "year": "1454",
-      "text": "Catherine Cornaro, Queen of Cyprus (died 1510)"
-    },
-    {
-      "type": "Birth",
-      "year": "1960",
-      "text": "Amy Grant, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1973",
-      "text": "Georgios Papadopoulos, head of the military Regime of the Colonels in Greece, is ousted in a hardliners' coup led by Brigadier General Dimitrios Ioannidis."
-    },
-    {
-      "type": "Birth",
-      "year": "2000",
-      "text": "Talen Horton-Tucker, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1942",
-      "text": "Bob Lind, American singer-songwriter and guitarist"
-    },
-    {
-      "type": "Event",
       "year": "1950",
-      "text": "The Great Appalachian Storm of 1950 impacts 22 American states, killing 353 people, injuring over 160, and causing US$66.7 million in damages (1950 dollars)."
-    },
-    {
-      "type": "Event",
-      "year": "1874",
-      "text": "The United States Greenback Party is established as a political party consisting primarily of farmers affected by the Panic of 1873."
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Mark Frost, American author, screenwriter, and producer"
-    },
-    {
-      "type": "Death",
-      "year": "1950",
-      "text": "Gustaf John Ramstedt, Finnish linguist and diplomat (born 1873)"
+      "text": "Chris Claremont, English-American author"
     },
     {
       "type": "Event",
@@ -238,8 +18,238 @@
     },
     {
       "type": "Event",
+      "year": "1759",
+      "text": "An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000."
+    },
+    {
+      "type": "Birth",
+      "year": "1914",
+      "text": "Léon Zitrone, Russian-French journalist (died 1995)"
+    },
+    {
+      "type": "Event",
+      "year": "1915",
+      "text": "Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences."
+    },
+    {
+      "type": "Birth",
+      "year": "1933",
+      "text": "Kathryn Crosby, American actress and singer (died 2024)"
+    },
+    {
+      "type": "Event",
+      "year": "2023",
+      "text": "Three Palestinian students are injured in a shooting in Burlington, Vermont."
+    },
+    {
+      "type": "Birth",
+      "year": "1758",
+      "text": "John Armstrong, Jr., American general and politician, 7th United States Secretary of War (died 1843)"
+    },
+    {
+      "type": "Birth",
+      "year": "1844",
+      "text": "Karl Benz, German engineer and businessman, founded Mercedes-Benz (died 1929)"
+    },
+    {
+      "type": "Birth",
+      "year": "1987",
+      "text": "Trevor Booker, American basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1947",
+      "text": "New Zealand ratifies the Statute of Westminster and thus becomes independent of legislative control by the United Kingdom."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The King Fahd Causeway is officially opened in the Persian Gulf."
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Mark Lanegan, American singer-songwriter (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1896",
+      "text": "Albertus Soegijapranata, Indonesian archbishop (died 1963)"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Peter Siddle, Australian cricketer"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Jeffrey Skilling, American businessman"
+    },
+    {
+      "type": "Event",
+      "year": "1177",
+      "text": "Baldwin IV of Jerusalem and Raynald of Châtillon defeat Saladin at the Battle of Montgisard."
+    },
+    {
+      "type": "Event",
+      "year": "1973",
+      "text": "Georgios Papadopoulos, head of the military Regime of the Colonels in Greece, is ousted in a hardliners' coup led by Brigadier General Dimitrios Ioannidis."
+    },
+    {
+      "type": "Event",
+      "year": "1755",
+      "text": "King Ferdinand VI of Spain grants royal protection to the Beaterio de la Compañia de Jesus, now known as the Congregation of the Religious of the Virgin Mary."
+    },
+    {
+      "type": "Event",
+      "year": "1795",
+      "text": "Partitions of Poland: Stanisław August Poniatowski, the last king of independent Poland, is forced to abdicate and is exiled to Russia."
+    },
+    {
+      "type": "Birth",
+      "year": "1880",
+      "text": "John Flynn, Australian minister and pilot, founded the Royal Flying Doctor Service (died 1951)"
+    },
+    {
+      "type": "Birth",
+      "year": "1900",
+      "text": "Helen Gahagan Douglas, American actress and politician (died 1980)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "The Old Student House in Helsinki, Finland is occupied by a large group of University of Helsinki students."
+    },
+    {
+      "type": "Birth",
+      "year": "1870",
+      "text": "Winthrop Ames, American director, producer, and playwright (died 1937)"
+    },
+    {
+      "type": "Birth",
+      "year": "1895",
+      "text": "Helen Hooven Santmyer, American poet and author (died 1986)"
+    },
+    {
+      "type": "Birth",
+      "year": "1947",
+      "text": "Jonathan Kaplan, French-American director and producer (died 2025)"
+    },
+    {
+      "type": "Death",
+      "year": "2011",
+      "text": "Vasily Alekseyev, Russian weightlifter and coach (born 1942)"
+    },
+    {
+      "type": "Birth",
+      "year": "1951",
+      "text": "Bill Morrissey, American singer-songwriter (died 2011)"
+    },
+    {
+      "type": "Event",
+      "year": "1999",
+      "text": "A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast."
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Eddie Steeples, American actor, producer, and screenwriter"
+    },
+    {
+      "type": "Event",
+      "year": "1667",
+      "text": "A deadly earthquake rocks Shemakha in the Caucasus, killing 80,000 people."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Karl Offmann, Mauritian politician, 3rd President of Mauritius (died 2022)"
+    },
+    {
+      "type": "Event",
+      "year": "1864",
+      "text": "American Civil War: A group of Confederate operatives calling themselves the Confederate Army of Manhattan starts fires in more than 20 locations in an unsuccessful attempt to burn down New York City."
+    },
+    {
+      "type": "Event",
+      "year": "1950",
+      "text": "The Great Appalachian Storm of 1950 impacts 22 American states, killing 353 people, injuring over 160, and causing US$66.7 million in damages (1950 dollars)."
+    },
+    {
+      "type": "Event",
+      "year": "1783",
+      "text": "American Revolutionary War: The last British troops leave New York City, three months after the signing of the Treaty of Paris."
+    },
+    {
+      "type": "Event",
       "year": "1863",
       "text": "American Civil War: Battle of Missionary Ridge: Union forces led by General Ulysses S. Grant break the Siege of Chattanooga by routing Confederate troops under General Braxton Bragg at Missionary Ridge in Tennessee."
+    },
+    {
+      "type": "Event",
+      "year": "1874",
+      "text": "The United States Greenback Party is established as a political party consisting primarily of farmers affected by the Panic of 1873."
+    },
+    {
+      "type": "Event",
+      "year": "1876",
+      "text": "American Indian Wars: In retaliation for the American defeat at the Battle of the Little Bighorn, United States Army troops sack the sleeping village of Cheyenne Chief Dull Knife at the headwaters of the Powder River."
+    },
+    {
+      "type": "Birth",
+      "year": "1940",
+      "text": "Joe Gibbs, American football coach and auto racing executive"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Iran–Contra affair: U.S. Attorney General Edwin Meese announces that profits from covert weapons sales to Iran were illegally diverted to the anti-communist Contra rebels in Nicaragua."
+    },
+    {
+      "type": "Birth",
+      "year": "1869",
+      "text": "Ben Lindsey, American lawyer and judge (died 1934)"
+    },
+    {
+      "type": "Birth",
+      "year": "1960",
+      "text": "Amy Grant, American singer-songwriter"
+    },
+    {
+      "type": "Birth",
+      "year": "1883",
+      "text": "Harvey Spencer Lewis, American mystic and author (died 1939)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "John Lynch, American businessman and politician, 80th Governor of New Hampshire"
+    },
+    {
+      "type": "Death",
+      "year": "1990",
+      "text": "Merab Mamardashvili, Georgian philosopher and academic (born 1930)"
+    },
+    {
+      "type": "Event",
+      "year": "2009",
+      "text": "Jeddah floods: Freak rains swamp the city of Jeddah, Saudi Arabia, during an ongoing Hajj pilgrimage. Three thousand cars are swept away and 122 people perish in the torrents, with 350 others missing."
+    },
+    {
+      "type": "Event",
+      "year": "1185",
+      "text": "Election of pope Urban III following the death of pope Lucius III."
+    },
+    {
+      "type": "Event",
+      "year": "-571",
+      "text": "Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans."
+    },
+    {
+      "type": "Event",
+      "year": "1952",
+      "text": "Korean War: After 42 days of fighting, the Battle of Triangle Hill ends in a Chinese victory. American and South Korean units abandon their attempt to capture the \"Iron Triangle\"."
     },
     {
       "type": "Event",
@@ -253,38 +263,28 @@
     },
     {
       "type": "Event",
-      "year": "1963",
-      "text": "State funeral of John F. Kennedy; after lying in state at the United States Capitol, a Requiem Mass takes place at Cathedral of St. Matthew the Apostle and the President is buried at Arlington National Cemetery."
+      "year": "1984",
+      "text": "Thirty-six top musicians gather in a Notting Hill studio and record Band Aid's \"Do They Know It's Christmas?\" in order to raise money for famine relief in Ethiopia."
     },
     {
       "type": "Birth",
-      "year": "1926",
-      "text": "Ranganath Misra, Indian lawyer and jurist, 21st Chief Justice of India (died 2012)"
+      "year": "1858",
+      "text": "Alfred Capus, French journalist, author, and playwright (died 1922)"
+    },
+    {
+      "type": "Death",
+      "year": "2010",
+      "text": "Alfred Balk, American journalist and author (born 1930)"
     },
     {
       "type": "Birth",
-      "year": "1950",
-      "text": "Alexis Wright, Australian author"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Charlaine Harris, American author and poet"
-    },
-    {
-      "type": "Birth",
-      "year": "1914",
-      "text": "Joe DiMaggio, American baseball player and coach (died 1999)"
+      "year": "1976",
+      "text": "Clint Mathis, American soccer player and coach"
     },
     {
       "type": "Event",
-      "year": "1795",
-      "text": "Partitions of Poland: Stanisław August Poniatowski, the last king of independent Poland, is forced to abdicate and is exiled to Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1900",
-      "text": "Rudolf Höss, German SS officer, commandant of Auschwitz, convicted war criminal (died 1947)"
+      "year": "1926",
+      "text": "The deadliest November tornado outbreak in U.S. history kills 76 people and injures more than 400."
     },
     {
       "type": "Event",
@@ -292,14 +292,14 @@
       "text": "Agatha Christie's murder-mystery play The Mousetrap opens at the Ambassadors Theatre in London's West End after a premiere in Nottingham, UK.  It will become the longest continuously running play in history."
     },
     {
-      "type": "Event",
+      "type": "Birth",
       "year": "1986",
-      "text": "The King Fahd Causeway is officially opened in the Persian Gulf."
+      "text": "Katie Cassidy, American actress"
     },
     {
-      "type": "Event",
-      "year": "1755",
-      "text": "King Ferdinand VI of Spain grants royal protection to the Beaterio de la Compañia de Jesus, now known as the Congregation of the Religious of the Virgin Mary."
+      "type": "Birth",
+      "year": "2000",
+      "text": "Talen Horton-Tucker, American basketball player"
     }
   ],
   "source": "Wikipedia"
