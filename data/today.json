@@ -2,124 +2,24 @@
   "date": "2026-11-26",
   "items": [
     {
-      "type": "Birth",
-      "year": "1938",
-      "text": "Rich Little, Canadian-American comedian, actor, and singer"
-    },
-    {
-      "type": "Event",
-      "year": "1863",
-      "text": "United States President Abraham Lincoln proclaims November 26 as a national Thanksgiving Day, to be celebrated annually on the final Thursday of November.  Following the Franksgiving controversy from 1939 to 1941, it has been observed on the fourth Thursday in 1942 and subsequent years."
-    },
-    {
-      "type": "Event",
-      "year": "1924",
-      "text": "The Mongolian People's Republic is officially established after a new constitution, passed by the first State Great Khural, abolishes the monarchy."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "Casablanca, the movie starring Humphrey Bogart and Ingrid Bergman, premieres in New York City."
-    },
-    {
-      "type": "Birth",
-      "year": "1857",
-      "text": "Ferdinand de Saussure, Swiss linguist and author (died 1913)"
-    },
-    {
       "type": "Event",
       "year": "1789",
       "text": "A national Thanksgiving Day is observed in the United States as proclaimed by President George Washington at the request of Congress."
     },
     {
       "type": "Birth",
-      "year": "1987",
-      "text": "Kat DeLuna, American singer, songwriter and dancer"
+      "year": "1973",
+      "text": "Peter Facinelli, American actor, director, and producer"
     },
     {
       "type": "Birth",
       "year": "1976",
-      "text": "Maven, American wrestler"
+      "text": "Brian Schneider, American baseball player and manager"
     },
     {
       "type": "Birth",
-      "year": "1970",
-      "text": "Dave Hughes, Australian comedian and radio host"
-    },
-    {
-      "type": "Death",
-      "year": "2024",
-      "text": "Jim Abrahams, American film director and writer (born 1944)"
-    },
-    {
-      "type": "Birth",
-      "year": "1946",
-      "text": "Art Shell, American football player and coach"
-    },
-    {
-      "type": "Birth",
-      "year": "1996",
-      "text": "Brandon Carlo, American ice hockey player"
-    },
-    {
-      "type": "Birth",
-      "year": "1969",
-      "text": "Kara Walker, American painter and illustrator"
-    },
-    {
-      "type": "Birth",
-      "year": "1976",
-      "text": "Andreas Augustsson, Swedish footballer"
-    },
-    {
-      "type": "Birth",
-      "year": "1943",
-      "text": "Marilynne Robinson, American novelist and essayist"
-    },
-    {
-      "type": "Event",
-      "year": "1941",
-      "text": "World War II: The Hull note is given to the Japanese ambassador, demanding that Japan withdraw from China and French Indochina, in return for which the United States would lift economic sanctions. On the same day, Japan's 1st Air Fleet departs Hitokappu Bay for Hawaii."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Sergey Golovkin, Russian serial killer (died 1996)"
-    },
-    {
-      "type": "Event",
-      "year": "1778",
-      "text": "In the Hawaiian Islands, Captain James Cook becomes the first European to visit Maui."
-    },
-    {
-      "type": "Event",
-      "year": "2004",
-      "text": "Ruzhou School massacre: A man stabs and kills eight people and seriously wounds another four in a school dormitory in Ruzhou, China."
-    },
-    {
-      "type": "Event",
-      "year": "1942",
-      "text": "A riot involving infantrymen, military police, and local law enforcement officers occurs in Phoenix, Arizona, United States, leading to three deaths."
-    },
-    {
-      "type": "Birth",
-      "year": "1983",
-      "text": "Chris Hughes, American publisher and businessman, co-founded Facebook"
-    },
-    {
-      "type": "Event",
-      "year": "1922",
-      "text": "The Toll of the Sea debuts as the first general release film to use two-tone Technicolor. (The Gulf Between was the first film to do so, but it was not widely distributed.)"
-    },
-    {
-      "type": "Birth",
-      "year": "1934",
-      "text": "Jerry Jameson, American director and producer"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "The trial of John Demjanjuk, accused of committing war crimes as a guard at the Nazi Treblinka extermination camp, starts in Jerusalem."
+      "year": "1957",
+      "text": "Félix González-Torres, Cuban-American sculptor (died 1996)"
     },
     {
       "type": "Birth",
@@ -128,18 +28,48 @@
     },
     {
       "type": "Birth",
-      "year": "1948",
-      "text": "Elizabeth Blackburn, Australian-American biologist and academic, Nobel Prize laureate"
+      "year": "1915",
+      "text": "Earl Wild, American pianist and composer (died 2010)"
     },
     {
       "type": "Birth",
-      "year": "1901",
-      "text": "William Sterling Parsons, American admiral (died 1953)"
+      "year": "1908",
+      "text": "Lefty Gomez, American baseball player and manager (died 1989)"
     },
     {
       "type": "Birth",
-      "year": "1938",
-      "text": "Elizabeth Bailey, American economist (died 2022)"
+      "year": "1931",
+      "text": "Adrianus Johannes Simonis, Dutch cardinal (died 2020)"
+    },
+    {
+      "type": "Birth",
+      "year": "1976",
+      "text": "Maven, American wrestler"
+    },
+    {
+      "type": "Event",
+      "year": "1778",
+      "text": "In the Hawaiian Islands, Captain James Cook becomes the first European to visit Maui."
+    },
+    {
+      "type": "Death",
+      "year": "1829",
+      "text": "Thomas Buck Reed, American lawyer and politician (born 1787)"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Gabriella Gutiérrez y Muhs, American author and academic"
+    },
+    {
+      "type": "Birth",
+      "year": "1982",
+      "text": "Keith Ballard, American ice hockey player"
+    },
+    {
+      "type": "Birth",
+      "year": "1923",
+      "text": "Tom Hughes, Australian politician and barrister (died 2024)"
     },
     {
       "type": "Birth",
@@ -148,63 +78,28 @@
     },
     {
       "type": "Event",
-      "year": "1812",
-      "text": "The Battle of Berezina begins during Napoleon's retreat from Russia."
-    },
-    {
-      "type": "Birth",
-      "year": "1968",
-      "text": "Edna Campbell, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1952",
-      "text": "Wendy Turnbull, Australian tennis player"
+      "year": "1941",
+      "text": "World War II: The Hull note is given to the Japanese ambassador, demanding that Japan withdraw from China and French Indochina, in return for which the United States would lift economic sanctions. On the same day, Japan's 1st Air Fleet departs Hitokappu Bay for Hawaii."
     },
     {
       "type": "Death",
-      "year": "2018",
-      "text": "Stephen Hillenburg, American animator, voice actor, and marine science educator (born 1961)"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "France launches Astérix, becoming the third nation to put an object in orbit using its own booster."
+      "year": "1987",
+      "text": "Peter Hujar, American photographer (born 1934)"
     },
     {
       "type": "Birth",
-      "year": "1944",
-      "text": "Jean Terrell, American singer"
+      "year": "1933",
+      "text": "Robert Goulet, American-Canadian singer and actor (died 2007)"
     },
     {
       "type": "Birth",
-      "year": "1925",
-      "text": "Eugene Istomin, American pianist (died 2003)"
+      "year": "1935",
+      "text": "Marian Mercer, American actress and singer (died 2011)"
     },
     {
       "type": "Birth",
-      "year": "1878",
-      "text": "Major Taylor, American cyclist (died 1932)"
-    },
-    {
-      "type": "Event",
-      "year": "1939",
-      "text": "Shelling of Mainila: The Soviet Army orchestrates an incident which is used to justify the start of the Winter War with Finland four days later."
-    },
-    {
-      "type": "Birth",
-      "year": "1970",
-      "text": "John Amaechi, American-English basketball player and sportscaster"
-    },
-    {
-      "type": "Birth",
-      "year": "1911",
-      "text": "Samuel Reshevsky, Polish-American chess player and author (died 1992)"
-    },
-    {
-      "type": "Birth",
-      "year": "1972",
-      "text": "James Dashner, American author"
+      "year": "1971",
+      "text": "Vicki Pettersson, American author"
     },
     {
       "type": "Event",
@@ -217,69 +112,14 @@
       "text": "The Constituent Assembly of India adopts the constitution presented by Dr. B. R. Ambedkar."
     },
     {
-      "type": "Birth",
-      "year": "1910",
-      "text": "Cyril Cusack, South African-born Irish actor (died 1993)"
-    },
-    {
-      "type": "Event",
-      "year": "1968",
-      "text": "Vietnam War: United States Air Force helicopter pilot James P. Fleming rescues an Army Special Forces unit pinned down by Viet Cong fire. He is later awarded the Medal of Honor."
-    },
-    {
-      "type": "Birth",
-      "year": "1959",
-      "text": "Jamie Rose, American actress, singer, and dancer"
-    },
-    {
-      "type": "Death",
-      "year": "1829",
-      "text": "Thomas Buck Reed, American lawyer and politician (born 1787)"
-    },
-    {
       "type": "Event",
       "year": "2004",
       "text": "The last Poʻouli (Black-faced honeycreeper) dies of avian malaria in the Maui Bird Conservation Center in Olinda, Hawaii, before it could breed, making the species in all probability extinct."
     },
     {
-      "type": "Event",
-      "year": "1917",
-      "text": "The National Hockey League is formed, with the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Quebec Bulldogs, and Toronto Arenas as its first teams."
-    },
-    {
       "type": "Birth",
-      "year": "1997",
-      "text": "Aubrey Joseph, American actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1953",
-      "text": "Jacki MacDonald, Australian television host and actress"
-    },
-    {
-      "type": "Event",
-      "year": "2000",
-      "text": "George W. Bush is certified the winner of Florida's electoral votes by Katherine Harris, going on to win the United States presidential election, despite losing in the national popular vote."
-    },
-    {
-      "type": "Birth",
-      "year": "1999",
-      "text": "Olivia O'Brien, American singer-songwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1986",
-      "text": "Iran–Contra affair: U.S. President Ronald Reagan announces the members of what will become known as the Tower Commission."
-    },
-    {
-      "type": "Birth",
-      "year": "1832",
-      "text": "Mary Edwards Walker, American surgeon and activist, Medal of Honor recipient (died 1919)"
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Peter Facinelli, American actor, director, and producer"
+      "year": "1888",
+      "text": "Ford Beebe, American director and screenwriter (died 1978)"
     },
     {
       "type": "Birth",
@@ -288,18 +128,178 @@
     },
     {
       "type": "Birth",
+      "year": "1925",
+      "text": "Eugene Istomin, American pianist (died 2003)"
+    },
+    {
+      "type": "Event",
+      "year": "1939",
+      "text": "Shelling of Mainila: The Soviet Army orchestrates an incident which is used to justify the start of the Winter War with Finland four days later."
+    },
+    {
+      "type": "Event",
+      "year": "2000",
+      "text": "George W. Bush is certified the winner of Florida's electoral votes by Katherine Harris, going on to win the United States presidential election, despite losing in the national popular vote."
+    },
+    {
+      "type": "Birth",
+      "year": "1972",
+      "text": "James Dashner, American author"
+    },
+    {
+      "type": "Event",
+      "year": "1924",
+      "text": "The Mongolian People's Republic is officially established after a new constitution, passed by the first State Great Khural, abolishes the monarchy."
+    },
+    {
+      "type": "Event",
+      "year": "1863",
+      "text": "United States President Abraham Lincoln proclaims November 26 as a national Thanksgiving Day, to be celebrated annually on the final Thursday of November.  Following the Franksgiving controversy from 1939 to 1941, it has been observed on the fourth Thursday in 1942 and subsequent years."
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "Iran–Contra affair: U.S. President Ronald Reagan announces the members of what will become known as the Tower Commission."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "Casablanca, the movie starring Humphrey Bogart and Ingrid Bergman, premieres in New York City."
+    },
+    {
+      "type": "Birth",
+      "year": "1980",
+      "text": "Jessica Bowman, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1965",
+      "text": "France launches Astérix, becoming the third nation to put an object in orbit using its own booster."
+    },
+    {
+      "type": "Birth",
+      "year": "1858",
+      "text": "Katharine Drexel, American nun and saint (died 1955)"
+    },
+    {
+      "type": "Birth",
+      "year": "1945",
+      "text": "Michael Omartian, American singer-songwriter, keyboard player, and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1938",
+      "text": "Elizabeth Bailey, American economist (died 2022)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Ivory, American wrestler and trainer"
+    },
+    {
+      "type": "Birth",
       "year": "1974",
       "text": "Tammy Lynn Michaels, American actress"
     },
     {
-      "type": "Event",
-      "year": "1805",
-      "text": "Official opening of Thomas Telford's Pontcysyllte Aqueduct."
+      "type": "Birth",
+      "year": "1946",
+      "text": "Raymond Louis Kennedy, American singer-songwriter, saxophonist, and producer (died 2014)"
+    },
+    {
+      "type": "Birth",
+      "year": "1857",
+      "text": "Ferdinand de Saussure, Swiss linguist and author (died 1913)"
     },
     {
       "type": "Event",
       "year": "783",
       "text": "The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus."
+    },
+    {
+      "type": "Event",
+      "year": "2004",
+      "text": "Ruzhou School massacre: A man stabs and kills eight people and seriously wounds another four in a school dormitory in Ruzhou, China."
+    },
+    {
+      "type": "Event",
+      "year": "1812",
+      "text": "The Battle of Berezina begins during Napoleon's retreat from Russia."
+    },
+    {
+      "type": "Event",
+      "year": "1942",
+      "text": "A riot involving infantrymen, military police, and local law enforcement officers occurs in Phoenix, Arizona, United States, leading to three deaths."
+    },
+    {
+      "type": "Birth",
+      "year": "1985",
+      "text": "Matt Carpenter, American baseball player"
+    },
+    {
+      "type": "Event",
+      "year": "1986",
+      "text": "The trial of John Demjanjuk, accused of committing war crimes as a guard at the Nazi Treblinka extermination camp, starts in Jerusalem."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The National Hockey League is formed, with the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Quebec Bulldogs, and Toronto Arenas as its first teams."
+    },
+    {
+      "type": "Birth",
+      "year": "1920",
+      "text": "Daniel Petrie, Canadian-American director and producer (died 2004)"
+    },
+    {
+      "type": "Birth",
+      "year": "1939",
+      "text": "Mark Margolis, American actor (died 2023)"
+    },
+    {
+      "type": "Event",
+      "year": "1968",
+      "text": "Vietnam War: United States Air Force helicopter pilot James P. Fleming rescues an Army Special Forces unit pinned down by Viet Cong fire. He is later awarded the Medal of Honor."
+    },
+    {
+      "type": "Birth",
+      "year": "1853",
+      "text": "Bat Masterson, American police officer and journalist (died 1921)"
+    },
+    {
+      "type": "Birth",
+      "year": "1910",
+      "text": "Cyril Cusack, South African-born Irish actor (died 1993)"
+    },
+    {
+      "type": "Birth",
+      "year": "1952",
+      "text": "Elsa Salazar Cade,  Mexican-American science teacher and entomologist"
+    },
+    {
+      "type": "Death",
+      "year": "1941",
+      "text": "Ernest Lapointe, Canadian lawyer and politician, 18th Canadian Minister of Justice (born 1876)"
+    },
+    {
+      "type": "Event",
+      "year": "1922",
+      "text": "The Toll of the Sea debuts as the first general release film to use two-tone Technicolor. (The Gulf Between was the first film to do so, but it was not widely distributed.)"
+    },
+    {
+      "type": "Birth",
+      "year": "1946",
+      "text": "Art Shell, American football player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1959",
+      "text": "Sergey Golovkin, Russian serial killer (died 1996)"
+    },
+    {
+      "type": "Event",
+      "year": "1805",
+      "text": "Official opening of Thomas Telford's Pontcysyllte Aqueduct."
     }
   ],
   "source": "Wikipedia"
