@@ -3,148 +3,13 @@
   "items": [
     {
       "type": "Event",
-      "year": "1942",
-      "text": "In Boston, Massachusetts, a fire in the Cocoanut Grove nightclub kills 492 people."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Jane Sibbett, American actress"
-    },
-    {
-      "type": "Event",
-      "year": "1925",
-      "text": "The Grand Ole Opry begins broadcasting in Nashville, Tennessee, as the WSM Barn Dance."
-    },
-    {
-      "type": "Birth",
-      "year": "1861",
-      "text": "Adina Emilia De Zavala, American teacher, historian and preservationist of Texas history (died 1955)"
-    },
-    {
-      "type": "Birth",
-      "year": "1866",
-      "text": "Henry Bacon, American architect, designed the Lincoln Memorial (died 1924)"
-    },
-    {
-      "type": "Event",
       "year": "1862",
       "text": "Notts County F.C. is founded in Nottingham, England, making it the oldest professional Association football club in the world."
     },
     {
       "type": "Birth",
-      "year": "1933",
-      "text": "Joe Knollenberg, American soldier and politician (died 2018)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Roy Tarpley, American basketball player (died 2015)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "John Burkett, American baseball player and bowler"
-    },
-    {
-      "type": "Birth",
-      "year": "1926",
-      "text": "Lawrence Turman, American film producer (died 2023)"
-    },
-    {
-      "type": "Event",
-      "year": "1798",
-      "text": "Trade between the United States and modern-day Uruguay begins when John Leamy's frigate John arrives in Montevideo."
-    },
-    {
-      "type": "Event",
-      "year": "1855",
-      "text": "Russian forces under general Nikolay Muravyov-Karsky capture the strategic fortress of Kars from the Ottoman Empire."
-    },
-    {
-      "type": "Birth",
-      "year": "1944",
-      "text": "Rita Mae Brown, American novelist, poet, and screenwriter"
-    },
-    {
-      "type": "Event",
-      "year": "1943",
-      "text": "World War II: Tehran Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill and Soviet Premier Joseph Stalin meet in Tehran, Iran, to discuss war strategy."
-    },
-    {
-      "type": "Birth",
-      "year": "1962",
-      "text": "Matt Cameron, American drummer and songwriter"
-    },
-    {
-      "type": "Death",
-      "year": "1953",
-      "text": "Frank Olson, American biologist and chemist (born 1910)"
-    },
-    {
-      "type": "Birth",
-      "year": "1925",
-      "text": "Gigi Gryce, American saxophonist and composer (died 1983)"
-    },
-    {
-      "type": "Death",
-      "year": "1954",
-      "text": "Enrico Fermi, Italian-American physicist and academic, Nobel Prize laureate (born 1901)"
-    },
-    {
-      "type": "Birth",
-      "year": "1906",
-      "text": "Henry Picard, American golfer (died 1997)"
-    },
-    {
-      "type": "Event",
-      "year": "1965",
-      "text": "Vietnam War: In response to U.S. President Lyndon B. Johnson's call for \"more flags\" in Vietnam, Philippine President-elect Ferdinand Marcos announces he will send troops to help fight in South Vietnam."
-    },
-    {
-      "type": "Birth",
-      "year": "1973",
-      "text": "Jade Puget, American guitarist and producer"
-    },
-    {
-      "type": "Death",
-      "year": "1960",
-      "text": "Richard Wright,  American novelist, short story writer, essayist, and poet (born 1908)"
-    },
-    {
-      "type": "Birth",
-      "year": "1907",
-      "text": "Rose Bampton, American soprano and educator (died 2007)"
-    },
-    {
-      "type": "Birth",
-      "year": "1896",
-      "text": "Lilia Skala, Austrian-American actress (died 1994)"
-    },
-    {
-      "type": "Birth",
-      "year": "1963",
-      "text": "Johnny Newman, American basketball player"
-    },
-    {
-      "type": "Birth",
-      "year": "1951",
-      "text": "Barbara Morgan, American educator and astronaut"
-    },
-    {
-      "type": "Event",
-      "year": "1919",
-      "text": "Lady Astor is elected as a Member of the Parliament of the United Kingdom. She is the first woman to sit in the House of Commons. (Countess Markievicz, the first to be elected, refused to sit.)"
-    },
-    {
-      "type": "Event",
-      "year": "1914",
-      "text": "World War I: Following a war-induced closure in July, the New York Stock Exchange re-opens for bond trading."
-    },
-    {
-      "type": "Birth",
-      "year": "1961",
-      "text": "Klaus Köchl, Austrian politician"
+      "year": "1952",
+      "text": "S. Epatha Merkerson, American actress"
     },
     {
       "type": "Birth",
@@ -153,18 +18,53 @@
     },
     {
       "type": "Event",
-      "year": "1811",
-      "text": "Beethoven's Piano Concerto No. 5 in E-flat major, Op. 73, premieres at the Gewandhaus in Leipzig."
+      "year": "1843",
+      "text": "Ka Lā Hui (Hawaiian Independence Day): The Kingdom of Hawaii is officially recognized by the United Kingdom and France as an independent nation."
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Tyler Glenn, American singer-songwriter and keyboard player"
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Sixto Lezcano, Puerto Rican-American baseball player and coach"
+    },
+    {
+      "type": "Birth",
+      "year": "1978",
+      "text": "Freddie Mitchell, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1929",
+      "text": "Berry Gordy, American songwriter and producer, founded Motown Records"
+    },
+    {
+      "type": "Death",
+      "year": "2012",
+      "text": "Spain Rodriguez, American illustrator (born 1940)"
+    },
+    {
+      "type": "Birth",
+      "year": "1964",
+      "text": "Roy Tarpley, American basketball player (died 2015)"
+    },
+    {
+      "type": "Birth",
+      "year": "1906",
+      "text": "Henry Picard, American golfer (died 1997)"
     },
     {
       "type": "Event",
-      "year": "1979",
-      "text": "Air New Zealand Flight 901, a DC-10 sightseeing flight over Antarctica, crashes into Mount Erebus, killing all 257 people on board."
+      "year": "1942",
+      "text": "In Boston, Massachusetts, a fire in the Cocoanut Grove nightclub kills 492 people."
     },
     {
       "type": "Event",
-      "year": "1971",
-      "text": "Fred Quilt, a leader of the Tsilhqot'in First Nation suffers severe abdominal injuries allegedly caused by Royal Canadian Mounted Police officers; he dies two days later."
+      "year": "1965",
+      "text": "Vietnam War: In response to U.S. President Lyndon B. Johnson's call for \"more flags\" in Vietnam, Philippine President-elect Ferdinand Marcos announces he will send troops to help fight in South Vietnam."
     },
     {
       "type": "Event",
@@ -172,69 +72,19 @@
       "text": "American Civil War: The Confederate States of America accept a rival state government's pronouncement that declares Missouri to be the 12th state of the Confederacy."
     },
     {
-      "type": "Birth",
-      "year": "1984",
-      "text": "Trey Songz, American R&B singer-songwriter and actor"
-    },
-    {
-      "type": "Birth",
-      "year": "1912",
-      "text": "Morris Louis, American painter (died 1962)"
-    },
-    {
-      "type": "Birth",
-      "year": "1964",
-      "text": "Michael Bennet, Indian-American lawyer and politician"
-    },
-    {
       "type": "Event",
-      "year": "1964",
-      "text": "Mariner program: NASA launches the Mariner 4 probe toward Mars."
-    },
-    {
-      "type": "Birth",
-      "year": "1898",
-      "text": "İhap Hulusi Görey, Turkish graphic artist (died 1986)"
+      "year": "1914",
+      "text": "World War I: Following a war-induced closure in July, the New York Stock Exchange re-opens for bond trading."
     },
     {
       "type": "Event",
       "year": "1958",
-      "text": "Chad, the Republic of the Congo, and Gabon become autonomous republics within the French Community."
-    },
-    {
-      "type": "Event",
-      "year": "1895",
-      "text": "The first American automobile race takes place over the 54 miles from Chicago's Jackson Park to Evanston, Illinois. Frank Duryea wins in approximately 10 hours."
+      "text": "First successful flight of SM-65 Atlas; the first operational intercontinental ballistic missile (ICBM), developed by the United States and the first member of the Atlas rocket family."
     },
     {
       "type": "Birth",
-      "year": "1958",
-      "text": "Kriss Akabusi, English sprinter and hurdler"
-    },
-    {
-      "type": "Birth",
-      "year": "1965",
-      "text": "Matt Williams, American baseball player and manager"
-    },
-    {
-      "type": "Event",
-      "year": "1908",
-      "text": "A mine explosion in Marianna, Pennsylvania, kills 154 men, leaving only one survivor."
-    },
-    {
-      "type": "Birth",
-      "year": "1992",
-      "text": "Jarvis Landry, American football player"
-    },
-    {
-      "type": "Event",
-      "year": "1964",
-      "text": "Vietnam War: National Security Council members agree to recommend that U.S. President Lyndon B. Johnson adopt a plan for a two-stage escalation of bombing in North Vietnam."
-    },
-    {
-      "type": "Birth",
-      "year": "1864",
-      "text": "Lindley Miller Garrison, American lawyer and politician, 46th United States Secretary of War (died 1932)"
+      "year": "1989",
+      "text": "Jamie Buhrer, Australian rugby league player"
     },
     {
       "type": "Birth",
@@ -243,28 +93,118 @@
     },
     {
       "type": "Event",
+      "year": "1785",
+      "text": "The first Treaty of Hopewell is signed, by which the United States acknowledges Cherokee lands in what is now East Tennessee."
+    },
+    {
+      "type": "Event",
+      "year": "1895",
+      "text": "The first American automobile race takes place over the 54 miles from Chicago's Jackson Park to Evanston, Illinois. Frank Duryea wins in approximately 10 hours."
+    },
+    {
+      "type": "Birth",
+      "year": "1949",
+      "text": "Alexander Godunov, Russian-American actor and dancer (died 1995)"
+    },
+    {
+      "type": "Event",
       "year": "1920",
       "text": "Irish War of Independence: Kilmichael Ambush: The Irish Republican Army ambush a convoy of British Auxiliaries and kill seventeen."
     },
     {
       "type": "Birth",
-      "year": "1935",
-      "text": "Randolph Stow, Australian-English author and poet (died 2010)"
+      "year": "1973",
+      "text": "Gina Tognoni, American actress"
     },
     {
       "type": "Birth",
-      "year": "1894",
-      "text": "Henry Hazlitt, American economist and philosopher (died 1993)"
+      "year": "1928",
+      "text": "Arthur Melvin Okun, American economist and academic (died 1980)"
     },
     {
       "type": "Birth",
-      "year": "1952",
-      "text": "S. Epatha Merkerson, American actress"
+      "year": "1978",
+      "text": "Brent Albright, American wrestler"
     },
     {
       "type": "Event",
-      "year": "1862",
-      "text": "American Civil War: In the Battle of Cane Hill, Union troops under General James G. Blunt defeat General John Marmaduke's Confederates."
+      "year": "1943",
+      "text": "World War II: Tehran Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill and Soviet Premier Joseph Stalin meet in Tehran, Iran, to discuss war strategy."
+    },
+    {
+      "type": "Event",
+      "year": "1925",
+      "text": "The Grand Ole Opry begins broadcasting in Nashville, Tennessee, as the WSM Barn Dance."
+    },
+    {
+      "type": "Event",
+      "year": "1958",
+      "text": "Chad, the Republic of the Congo, and Gabon become autonomous republics within the French Community."
+    },
+    {
+      "type": "Event",
+      "year": "1917",
+      "text": "The Estonian Provincial Assembly declares itself the sovereign power of Estonia."
+    },
+    {
+      "type": "Birth",
+      "year": "1995",
+      "text": "Chase Elliott, American race car driver"
+    },
+    {
+      "type": "Event",
+      "year": "1991",
+      "text": "South Ossetia declares independence from Georgia."
+    },
+    {
+      "type": "Death",
+      "year": "2015",
+      "text": "Olene Walker, American lawyer and politician, 15th Governor of Utah (born 1930)"
+    },
+    {
+      "type": "Event",
+      "year": "1908",
+      "text": "A mine explosion in Marianna, Pennsylvania, kills 154 men, leaving only one survivor."
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Jane Sibbett, American actress"
+    },
+    {
+      "type": "Event",
+      "year": "1919",
+      "text": "Lady Astor is elected as a Member of the Parliament of the United Kingdom. She is the first woman to sit in the House of Commons. (Countess Markievicz, the first to be elected, refused to sit.)"
+    },
+    {
+      "type": "Event",
+      "year": "1971",
+      "text": "Fred Quilt, a leader of the Tsilhqot'in First Nation suffers severe abdominal injuries allegedly caused by Royal Canadian Mounted Police officers; he dies two days later."
+    },
+    {
+      "type": "Birth",
+      "year": "1953",
+      "text": "Helen De Michiel, American director and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1993",
+      "text": "Bryshere Y. Gray, American actor and rapper"
+    },
+    {
+      "type": "Birth",
+      "year": "1950",
+      "text": "Russell Alan Hulse, American physicist and astronomer, Nobel Prize laureate"
+    },
+    {
+      "type": "Birth",
+      "year": "1962",
+      "text": "Jon Stewart, American comedian, actor, and television host"
+    },
+    {
+      "type": "Event",
+      "year": "1979",
+      "text": "Air New Zealand Flight 901, a DC-10 sightseeing flight over Antarctica, crashes into Mount Erebus, killing all 257 people on board."
     },
     {
       "type": "Birth",
@@ -273,33 +213,93 @@
     },
     {
       "type": "Event",
-      "year": "1917",
-      "text": "The Estonian Provincial Assembly declares itself the sovereign power of Estonia."
-    },
-    {
-      "type": "Event",
-      "year": "1843",
-      "text": "Ka Lā Hui (Hawaiian Independence Day): The Kingdom of Hawaii is officially recognized by the United Kingdom and France as an independent nation."
+      "year": "1964",
+      "text": "Vietnam War: National Security Council members agree to recommend that U.S. President Lyndon B. Johnson adopt a plan for a two-stage escalation of bombing in North Vietnam."
     },
     {
       "type": "Birth",
-      "year": "1978",
-      "text": "Aimee Garcia, American actress and writer"
+      "year": "1993",
+      "text": "David Nofoaluma, Australian-Samoan rugby league player"
     },
     {
       "type": "Event",
-      "year": "1958",
-      "text": "First successful flight of SM-65 Atlas; the first operational intercontinental ballistic missile (ICBM), developed by the United States and the first member of the Atlas rocket family."
+      "year": "1855",
+      "text": "Russian forces under general Nikolay Muravyov-Karsky capture the strategic fortress of Kars from the Ottoman Empire."
+    },
+    {
+      "type": "Birth",
+      "year": "1999",
+      "text": "Trey Jemison, American basketball player"
+    },
+    {
+      "type": "Death",
+      "year": "1994",
+      "text": "Jeffrey Dahmer, American serial killer (born 1960)"
+    },
+    {
+      "type": "Birth",
+      "year": "1961",
+      "text": "Klaus Köchl, Austrian politician"
+    },
+    {
+      "type": "Birth",
+      "year": "1983",
+      "text": "Rostam Batmanglij, American musician and songwriter"
     },
     {
       "type": "Event",
-      "year": "1991",
-      "text": "South Ossetia declares independence from Georgia."
+      "year": "1811",
+      "text": "Beethoven's Piano Concerto No. 5 in E-flat major, Op. 73, premieres at the Gewandhaus in Leipzig."
     },
     {
       "type": "Event",
-      "year": "1785",
-      "text": "The first Treaty of Hopewell is signed, by which the United States acknowledges Cherokee lands in what is now East Tennessee."
+      "year": "1862",
+      "text": "American Civil War: In the Battle of Cane Hill, Union troops under General James G. Blunt defeat General John Marmaduke's Confederates."
+    },
+    {
+      "type": "Event",
+      "year": "1964",
+      "text": "Mariner program: NASA launches the Mariner 4 probe toward Mars."
+    },
+    {
+      "type": "Birth",
+      "year": "1979",
+      "text": "Chamillionaire, American rapper, entrepreneur, and investor"
+    },
+    {
+      "type": "Birth",
+      "year": "1861",
+      "text": "Adina Emilia De Zavala, American teacher, historian and preservationist of Texas history (died 1955)"
+    },
+    {
+      "type": "Birth",
+      "year": "1989",
+      "text": "Laura Alleway, Australian footballer"
+    },
+    {
+      "type": "Birth",
+      "year": "1992",
+      "text": "Jarvis Landry, American football player"
+    },
+    {
+      "type": "Birth",
+      "year": "1973",
+      "text": "Jade Puget, American guitarist and producer"
+    },
+    {
+      "type": "Birth",
+      "year": "1984",
+      "text": "Andrew Bogut, Australian basketball player"
+    },
+    {
+      "type": "Event",
+      "year": "1798",
+      "text": "Trade between the United States and modern-day Uruguay begins when John Leamy's frigate John arrives in Montevideo."
+    },
+    {
+      "type": "Birth",
+      "year": "1948",
+      "text": "Alan Lightman, American physicist, novelist, and academician"
     }
   ],
   "source": "Wikipedia"
